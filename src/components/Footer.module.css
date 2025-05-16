@@ -1,0 +1,44 @@
+.footer {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: flex-start; /* Déplacer les éléments vers la gauche */
+  align-items: center;
+  /* padding: 2em 2em; */
+  background: linear-gradient(to right, #e3c1c0 0%, #c9c4ff 100%);
+}
+
+.Partners {
+  width: auto;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex; /* Utilise flexbox pour centrer l'image enfant */
+  align-items: center; /* Centre l'image verticalement */
+  justify-content: center; /* Centre l'image horizontalement */
+}
+
+.Partners img {
+  display: block; /* Évite les espaces superflus sous l'image */
+  max-width: 100%; /* S'assure que l'image ne dépasse pas la largeur de .Partners */
+  max-height: 100%; /* S'assure que l'image ne dépasse pas la hauteur de .Partners */
+  width: auto; /* Ajuste la largeur pour maintenir le ratio de l'image */
+  height: auto; /* Ajuste la hauteur pour maintenir le ratio de l'image */
+}
+
+@media (max-width: 1224px) {
+  .footer {
+    flex-direction: column;
+    align-items: flex-start; /* Correction de la syntaxe */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media (max-width: 509px) {
+  .footer {
+    padding: 0.5em 1em;
+  }
+}
