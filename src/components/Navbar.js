@@ -1,17 +1,52 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 import styles from "./Navbar.module.css";
 
 const Navbar = () => {
+  const [menuOpen, setMenuOpen] = useState(false);
+
+  const toggleMenu = () => {
+    setMenuOpen(!menuOpen);
+  };
+
+  // Optionnel : Ferme le menu lorsqu'un lien est cliqué en mode mobile
+  const handleLinkClick = () => {
+    // Le breakpoint 1224px correspond à votre media query CSS (à ajuster si besoin)
+    if (window.innerWidth <= 1224 && menuOpen) {
+      setMenuOpen(false);
+    }
+  };
   return (
     <nav className={styles.navbar}>
-      <ul className={styles.navbarLinks}>
+      {/* Bouton Hamburger pour les petits écrans */}
+      <button
+        className={styles.menuToggle} // Assurez-vous que .menuToggle est défini dans Navbar.module.css
+        onClick={toggleMenu}
+        aria-expanded={menuOpen}
+        aria-controls="navbar-links-list" // Doit correspondre à l'id de l'ul
+        aria-label={menuOpen ? "Fermer le menu" : "Ouvrir le menu"}
+      >
+        {menuOpen ? "✕" : "☰"} {/* Icônes pour ouvrir/fermer */}
+      </button>
+
+      <ul
+        id="navbar-links-list" // ID pour aria-controls
+        className={`${styles.navbarLinks} ${menuOpen ? styles.open : ""}`}
+      >
         <li>
-          <Link to="/"></Link>
+          <Link to="/" onClick={handleLinkClick}></Link>{" "}
+          {/* Ce lien est vide, peut-être pour un logo ? */}
         </li>
         <li>
-          <Link to="/HomePage">Home</Link>
+          <Link to="/HomePage" onClick={handleLinkClick}>
+            Home
+          </Link>
+        </li>
+        <li>
+          <Link to="/Programma" onClick={handleLinkClick}>
+            Programma
+          </Link>
         </li>
       </ul>
     </nav>

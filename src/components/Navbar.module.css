@@ -1,6 +1,6 @@
 .navbar {
   width: 100%;
-  height: 10px;
+  /* height: 10px; Supprimé car trop restrictif, la hauteur s'adaptera au contenu et au padding */
   display: flex;
   box-sizing: border-box;
   justify-content: flex-start; /* Déplacer les éléments vers la gauche */
@@ -40,24 +40,63 @@
   color: #1f1e04; /* Exemple de changement de couleur au survol */
 }
 
+.menuToggle {
+  display: none; /* Caché par défaut sur les grands écrans */
+  background: none;
+  border: none;
+  color: white; /* Assurez-vous que la couleur contraste bien */
+  font-size: 1.8rem; /* Taille de l'icône hamburger */
+  cursor: pointer;
+  padding: 0.25em 0.5em;
+  line-height: 1;
+  z-index: 1100; /* Pour s'assurer qu'il est au-dessus si d'autres éléments se superposent */
+  /* Positionnement si .navbar reste en flex-direction: row sur mobile */
+  /* margin-left: auto; */ /* Pousse le bouton à droite si les liens sont à gauche */
+}
+
 .navMenu li {
   margin: 0 1em; /* Espacement entre les éléments de la liste */
 }
+
 @media (max-width: 1224px) {
   .navbar {
     flex-direction: column;
-    align-items: flex-start; /* Correction de la syntaxe */
-    display: flex;
+    /* align-items: flex-start; /* L'align-items: center ci-dessous prendra le dessus */
     justify-content: center;
     align-items: center;
+    /* La hauteur sera déterminée par le contenu (bouton + liens ouverts) */
+    /* Si vous voulez que le bouton soit à droite et les liens en dessous,
+       vous pourriez garder flex-direction: row et faire en sorte que .navbarLinks
+       se positionne en dessous ou se superpose.
+       Pour l'instant, avec flex-direction: column, tout sera empilé et centré. */
   }
+
+  .menuToggle {
+    display: block; /* Afficher le bouton hamburger */
+    /* Si .navbar est en flex-direction: column et align-items: center,
+       le bouton sera centré. Si vous le voulez à un bord (ex: flex-start ou flex-end),
+       ajustez align-self sur le bouton ou align-items sur .navbar.
+       Exemple pour le mettre à droite dans une navbar en colonne :
+       align-self: flex-end;
+       margin-right: 1em; /* Pour ne pas coller au bord */
+  }
+
   .navbarLinks {
+    display: none; /* Caché par défaut sur mobile/tablette */
     flex-direction: column;
     gap: 10px;
+    width: 100%; /* Pour occuper toute la largeur disponible */
+    align-items: center; /* Centrer les liens textuels */
+    padding: 1em 0; /* Espacement vertical quand le menu est ouvert */
   }
+
+  .navbarLinks.open {
+    display: flex; /* Afficher les liens lorsque la classe .open est présente */
+  }
+
   @media (max-width: 509px) {
     .navbar {
-      padding: 0.5em 1em;
+      padding: 0.5em 1em; /* Réduire le padding sur les très petits écrans */
     }
 
     .navbarLinks a {
