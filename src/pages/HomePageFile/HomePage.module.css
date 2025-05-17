@@ -22,7 +22,8 @@
   font-size: 35px;
   color: whitesmoke;
   /* font-family: "source-sans-pro.regular", Arial, sans-serif; */
-  font-family: "JosefinSans-Thinitalic", Arial, sans-serif;
+  font-family: "JosefinSans-Thinitalic", Arial, Helvetica, sans-serif;
+  font-style: italic;
   margin-top: 30px;
 }
 .Logo img {
