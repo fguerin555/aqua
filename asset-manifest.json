@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.45a34312.css",
-    "main.js": "/aqua/static/js/main.14713931.js",
+    "main.css": "/aqua/static/css/main.54af42be.css",
+    "main.js": "/aqua/static/js/main.d0845314.js",
+    "static/media/AcquaBackground.mp4": "/aqua/static/media/AcquaBackground.17181e718dc620ee208b.mp4",
+    "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
+    "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
     "static/media/Partners.png": "/aqua/static/media/Partners.423038dd6b7471500d4d.png",
     "static/media/Logo.jpg": "/aqua/static/media/Logo.05d238ec895a77394238.jpg",
     "index.html": "/aqua/index.html",
-    "main.45a34312.css.map": "/aqua/static/css/main.45a34312.css.map",
-    "main.14713931.js.map": "/aqua/static/js/main.14713931.js.map"
+    "main.54af42be.css.map": "/aqua/static/css/main.54af42be.css.map",
+    "main.d0845314.js.map": "/aqua/static/js/main.d0845314.js.map"
   },
   "entrypoints": [
-    "static/css/main.45a34312.css",
-    "static/js/main.14713931.js"
+    "static/css/main.54af42be.css",
+    "static/js/main.d0845314.js"
   ]
 }
