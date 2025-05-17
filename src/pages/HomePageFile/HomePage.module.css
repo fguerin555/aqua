@@ -1,12 +1,41 @@
 /* /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.module.css */
 .HomePage {
-  background-color: rgb(32, 29, 3);
+  /* background-color: rgb(74, 56, 234); */ /* Couleur de fond retirée pour voir la vidéo */
+  position: relative; /* Nécessaire pour positionner la vidéo absolument à l'intérieur */
+  overflow: hidden; /* Cache les parties de la vidéo qui pourraient déborder */
   min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
   width: 100%; /* Prend toute la largeur disponible */
   display: flex;
   flex-direction: column;
   align-items: center; /* Centre les enfants horizontalement */
   justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+}
+
+.backgroundVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* S'assure que la vidéo couvre l'espace sans être déformée */
+  z-index: -1; /* Place la vidéo derrière tout autre contenu */
+  /* Optionnel: pour améliorer la lisibilité du texte par-dessus la vidéo */
+  /* filter: brightness(0.7); */
+}
+
+.videoOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.3
+  ); /* Filtre noir semi-transparent. Ajustez la couleur et l'opacité (0.3 ici) */
+  z-index: 0; /* Se place entre la vidéo (z-index: -1) et le contenu (z-index: 1) */
 }
 
 .HomePageContent {
@@ -16,6 +45,8 @@
   justify-content: center; /* Centre le <p> verticalement dans ce bloc. Si vous voulez que le <p> soit en haut de ce bloc, changez pour flex-start */
   margin-top: 20px; /* Crée un espace de 10px au-dessus de ce bloc */
   /* text-align: center; /* Décommentez si vous voulez que le texte du paragraphe soit centré */
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
 }
 
 .HomePageContentA p {
@@ -25,6 +56,12 @@
   font-family: "JosefinSans-Thinitalic", Arial, Helvetica, sans-serif;
   font-style: italic;
   margin-top: 30px;
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+}
+.Logo {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
 }
 .Logo img {
   display: block;
@@ -36,6 +73,11 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
+}
+
+.HomePageContentB {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
 }
 
 .HomePageContentB p {
@@ -51,6 +93,7 @@
   margin-top: 20px;
   margin-left: 10%;
   margin-right: 10%;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optionnel: pour améliorer la lisibilité */
 }
 
 @media (max-width: 1224px) {

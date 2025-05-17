@@ -1,13 +1,48 @@
-/* /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.module.css */
+/* /Users/fredericguerin/Desktop/aqua/src/pages/ProgrammaFile/Programma.module.css */
 .ProgrammaPage {
-  background-color: rgb(32, 29, 3);
+  /* background-color: rgb(74, 56, 234); */ /* Couleur de fond retirée pour voir la vidéo */
   min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
   width: 100%; /* Prend toute la largeur disponible */
   display: flex;
   flex-direction: column;
   align-items: center; /* Centre les enfants horizontalement */
-  justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+  justify-content: flex-start; /* Aligne les enfants en haut */
+  position: relative; /* Nécessaire pour positionner la vidéo absolument à l'intérieur */
+  overflow: hidden; /* Cache les parties de la vidéo qui pourraient déborder */
 }
+
+.backgroundVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* S'assure que la vidéo couvre l'espace sans être déformée */
+  z-index: -1; /* Place la vidéo derrière tout autre contenu */
+  /* Optionnel: pour améliorer la lisibilité du texte par-dessus la vidéo */
+  /* filter: brightness(0.7); */
+}
+
+.videoOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.3
+  ); /* Filtre noir semi-transparent. Ajustez la couleur et l'opacité (0.3 ici) */
+  z-index: 0; /* Se place entre la vidéo (z-index: -1) et le contenu (z-index: 1) */
+}
+
+.Logo {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+}
+
 .Logo img {
   display: block;
   width: 10%;
@@ -19,35 +54,121 @@
   margin-right: auto;
   margin-bottom: 10px;
 }
+
 .ProgrammaPageContent {
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centre le <p> (et autres futurs éléments) horizontalement dans ce bloc */
-  justify-content: center; /* Centre le <p> verticalement dans ce bloc. Si vous voulez que le <p> soit en haut de ce bloc, changez pour flex-start */
-  margin-top: 20px; /* Crée un espace de 10px au-dessus de ce bloc */
-  /* text-align: center; /* Décommentez si vous voulez que le texte du paragraphe soit centré */
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+}
+
+.Fontana {
+  /* Conteneur pour l'image Fontana, pour s'assurer qu'il est au-dessus */
+  position: relative;
+  z-index: 1;
+}
+
+.Fontana img {
+  display: block;
+  width: 100%;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  margin-top: 10px; /* Ajout d'un peu d'espace au-dessus de l'image */
+}
+
+.Parchetto {
+  /* Conteneur pour l'image Parchetto, pour s'assurer qu'il est au-dessus */
+  position: relative;
+  z-index: 1;
+}
+
+.Parchetto img {
+  display: block;
+  width: 100%;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 10px; /* Ajout d'un peu d'espace au-dessus de l'image */
+}
+
+.ProgrammaPageContentA {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
 }
 
 .ProgrammaPageContentA p {
-  font-size: 40px;
+  font-size: 45px;
   color: whitesmoke;
-  /* font-family: "source-sans-pro.regular", Arial, sans-serif; */
   font-family: "JosefinSans-Thinitalic", Arial, sans-serif;
   margin-bottom: 2px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optionnel: pour améliorer la lisibilité */
 }
+
+.Appuntamento {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+}
+
+.Appuntamento p {
+  font-size: 25px;
+  color: rgb(204, 196, 250);
+  font-family: "Poppins-LightItalic";
+  margin-bottom: 5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); /* Optionnel: pour améliorer la lisibilité */
+}
+.ProgrammaPageContentB {
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+  width: 80%; /* Pour correspondre aux margin-left/right: 10% sur les <p> enfants */
+}
+
 .ProgrammaPageContentB p {
   font-size: 20px;
   color: whitesmoke;
-  /* font-family: "source-sans-pro.regular", Arial, sans-serif; */
-  /* font-family: "JosefinSans-Thin", Arial, sans-serif; */
   font-family: "Poppins-Thin", Arial, sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  text-align: center; /* Pour centrer le texte à l'intérieur des paragraphes */
   margin-top: 6px;
-  margin-left: 10%;
-  margin-right: 10%;
+  /* margin-left: 10%; */ /* Retiré car .ProgrammaPageContentB gère la largeur */
+  /* margin-right: 10%; */ /* Retiré car .ProgrammaPageContentB gère la largeur */
+  margin-bottom: 15px; /* Ajout d'un peu d'espace entre les paragraphes */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optionnel: pour améliorer la lisibilité */
+}
+
+.mapButton {
+  background-color: rgb(204, 196, 250);
+  color: black;
+  border-radius: 5px;
+  border: 1px solid whitesmoke;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 6px 14px;
+  font-size: 12px;
+  font-family: "Arial";
+  margin-top: 8px; /* Ajout d'un peu d'espace au-dessus du bouton */
+  margin-bottom: 10px;
+  display: inline-block; /* Pour que margin-top fonctionne bien */
+  position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
+  z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
+}
+
+.mapButton:hover {
+  background-color: #e2c1c5;
+  color: black;
+  border: 1px solid rgb(204, 196, 250);
 }
 
 @media (max-width: 1224px) {
@@ -57,12 +178,44 @@
   .ProgrammaPageContentB p {
     font-size: 16px;
   }
+  .Logo img {
+    width: 15%;
+  }
 }
+
+@media (max-width: 768px) {
+  /* Ajout d'un point de rupture intermédiaire */
+  .ProgrammaPageContentB {
+    width: 90%;
+  }
+  .Logo img {
+    width: 20%;
+  }
+  .Fontana img,
+  .Parchetto img {
+    margin-bottom: 30px;
+  }
+}
+
 @media (max-width: 509px) {
   .ProgrammaPageContentA p {
     font-size: 25px;
   }
+  .Appuntamento p {
+    font-size: 20px;
+  }
   .ProgrammaPageContentB p {
     font-size: 12px;
+  }
+  .Logo img {
+    width: 25%;
+  }
+  .Fontana img,
+  .Parchetto img {
+    margin-bottom: 20px;
+  }
+  .mapButton {
+    padding: 5px 10px;
+    font-size: 11px;
   }
 }
