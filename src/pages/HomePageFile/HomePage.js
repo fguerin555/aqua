@@ -1,18 +1,34 @@
 // /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.js
-import React from "react";
+import React, { useRef, useEffect } from "react";
 import styles from "./HomePage.module.css";
-import Logo from "../../assets/images/Logo.jpg";
-import backgroundVideo from "../../assets/images/AcquaBackground.mp4"; // Importation de la vidéo
+import Logo from "../../assets/images/LogoEssai3.jpg";
+import BackgroundFoto from "../../assets/images/BackgroundFoto6.png";
 
 const Home = () => {
+  const videoRef = useRef(null);
+
+  useEffect(() => {
+    if (videoRef.current) {
+      videoRef.current.playbackRate = 1; // Ralentit la vidéo de 50%
+    }
+  }, []);
   return (
     <div>
       <div className={styles.HomePage}>
-        <video autoPlay muted loop className={styles.backgroundVideo}>
-          <source src={backgroundVideo} type="video/mp4" />
+        {/* <video
+          autoPlay
+          muted
+          loop
+          className={styles.backgroundVideo}
+          ref={videoRef}
+        > */}
+        {/* <source src={backgroundVideo} type="video/mp4" />
           Votre navigateur ne supporte pas la balise vidéo.
         </video>
-        <div className={styles.videoOverlay}></div>
+        <div className={styles.videoOverlay}></div> */}
+        <div className={styles.BackgroundFoto}>
+          <img src={BackgroundFoto} alt="Acqua di fiume con riflessi di luce" />
+        </div>
         <div className={styles.HomePageContentA}>
           <p>Il Racconto dell'Acqua</p>
         </div>

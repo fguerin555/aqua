@@ -1,6 +1,5 @@
 /* /Users/fredericguerin/Desktop/aqua/src/pages/ProgrammaFile/Programma.module.css */
 .ProgrammaPage {
-  /* background-color: rgb(74, 56, 234); */ /* Couleur de fond retirée pour voir la vidéo */
   min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
   width: 100%; /* Prend toute la largeur disponible */
   display: flex;
@@ -29,12 +28,13 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(
+  /* background-color: rgba(
     0,
     0,
     0,
-    0.3
-  ); /* Filtre noir semi-transparent. Ajustez la couleur et l'opacité (0.3 ici) */
+    0.4 ;*/
+  background-color: #19280199;
+
   z-index: 0; /* Se place entre la vidéo (z-index: -1) et le contenu (z-index: 1) */
 }
 
@@ -121,7 +121,7 @@
 
 .Appuntamento p {
   font-size: 25px;
-  color: rgb(204, 196, 250);
+  color: #d784a2;
   font-family: "Poppins-LightItalic";
   margin-bottom: 5px;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); /* Optionnel: pour améliorer la lisibilité */
@@ -149,7 +149,7 @@
 }
 
 .mapButton {
-  background-color: rgb(204, 196, 250);
+  background-color: #d784a2;
   color: black;
   border-radius: 5px;
   border: 1px solid whitesmoke;
@@ -166,9 +166,9 @@
 }
 
 .mapButton:hover {
-  background-color: #e2c1c5;
+  background-color: #fedf53;
   color: black;
-  border: 1px solid rgb(204, 196, 250);
+  border: 1px solid #d784a2;
 }
 
 @media (max-width: 1224px) {

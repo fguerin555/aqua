@@ -1,7 +1,7 @@
 // /Users/fredericguerin/Desktop/aqua/src/pages/ProgrammaFile/Programma.js
 import React from "react";
 import styles from "./Programma.module.css";
-import Logo from "../../assets/images/Logo.jpg";
+import Logo from "../../assets/images/LogoEssai3.jpg";
 import fontana from "../../assets/images/fontana.png";
 import parchetto from "../../assets/images/parchetto.png";
 import backgroundVideo from "../../assets/images/AcquaBackground.mp4"; // Importation de la vidéo

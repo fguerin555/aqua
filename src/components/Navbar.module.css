@@ -6,7 +6,9 @@
   justify-content: flex-start; /* Déplacer les éléments vers la gauche */
   align-items: center;
   padding: 1em 1em;
-  background: linear-gradient(to right, #e3c1c0 0%, #c9c4ff 100%);
+  /* background: linear-gradient(to right, #e3c1c0 0%, #c9c4ff 100%);*/
+  /* background: linear-gradient(to right, #fedf53 0%, #d784a2 100%); */
+  background: linear-gradient(to right, #d784a2 0%, #fedf53 100%);
 }
 
 .navbarLinks {

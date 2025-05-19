@@ -29,15 +29,20 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(
-    0,
-    0,
-    0,
-    0.3
-  ); /* Filtre noir semi-transparent. Ajustez la couleur et l'opacité (0.3 ici) */
+  background-color: #19280199; /* Filtre noir semi-transparent. Ajustez la couleur et l'opacité (0.3 ici) */
   z-index: 0; /* Se place entre la vidéo (z-index: -1) et le contenu (z-index: 1) */
 }
-
+.BackgroundFoto img {
+  /* object-fit: cover; */
+  position: absolute; /* Positionne l'image par rapport à .HomePage */
+  top: 0; /* Aligne en haut */
+  left: 0; /* Aligne à gauche */
+  z-index: -1;
+  display: block;
+  width: 100%;
+  height: 100%;
+  /* filter: brightness(0.9); */
+}
 .HomePageContent {
   display: flex;
   flex-direction: column;
@@ -51,10 +56,11 @@
 
 .HomePageContentA p {
   font-size: 35px;
+  /* color: rgb(121, 210, 240); */
   color: whitesmoke;
   /* font-family: "source-sans-pro.regular", Arial, sans-serif; */
-  font-family: "JosefinSans-Thinitalic", Arial, Helvetica, sans-serif;
-  font-style: italic;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+
   margin-top: 30px;
   position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
   z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
@@ -73,6 +79,8 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
+  border-radius: 2px;
+  box-shadow: 5px 5px 10px #19280199;
 }
 
 .HomePageContentB {
@@ -83,17 +91,27 @@
 .HomePageContentB p {
   font-size: 20px;
   color: whitesmoke;
+  /* color: rgb(121, 194, 218); */
   /* font-family: "source-sans-pro.regular", Arial, sans-serif; */
   /* font-family: "JosefinSans-Thin", Arial, sans-serif; */
-  font-family: "Poppins-Thin", Arial, sans-serif;
-  display: flex;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  /* text-align: center; Centre le texte */
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 20px;
   margin-left: 10%;
   margin-right: 10%;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5); /* Optionnel: pour améliorer la lisibilité */
+  padding: 1em 1.5em; /* Ajoute de l'espace autour du texte */
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.55
+  ); /* Fond noir semi-transparent, cohérent avec HomePageContentA p */
+  border-radius: 2px; /* Coins arrondis */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); /* Optionnel: pour améliorer la lisibilité */
 }
 
 @media (max-width: 1224px) {
