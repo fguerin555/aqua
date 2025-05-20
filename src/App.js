@@ -1,11 +1,10 @@
-//  src/components/Navbar.js
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePageFile/HomePage";
 import Programma from "./pages/ProgrammaFile/Programma";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-
+import "./index.css";
 const App = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>

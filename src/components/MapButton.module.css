@@ -1,0 +1,35 @@
+/*
+  MapButton.module.css
+  This file contains the CSS styles for the MapButton component.
+  It defines the appearance and layout of the button.
+*/
+
+.mapButton {
+  background-color: #040404;
+  color: whitesmoke;
+  border-radius: 5px;
+  border: 1px solid whitesmoke;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 6px 14px;
+  font-size: 12px;
+  font-family: "Poppins-Regular", Arial, Helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  align-self: center;
+
+  /* Vous pouvez ajouter d'autres styles ou ajuster ceux-ci au besoin */
+}
+
+.mapButton:hover {
+  background-color: whitesmoke;
+  color: black;
+  border: 1px solid black;
+}
