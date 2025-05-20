@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.3868a314.css",
-    "main.js": "/aqua/static/js/main.485860cd.js",
-    "static/media/AcquaBackground.mp4": "/aqua/static/media/AcquaBackground.17181e718dc620ee208b.mp4",
-    "static/media/BackgroundFoto6.png": "/aqua/static/media/BackgroundFoto6.45a82c85faa26e0e6fb5.png",
+    "main.css": "/aqua/static/css/main.53133336.css",
+    "main.js": "/aqua/static/js/main.ba4bd193.js",
+    "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
     "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
     "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
     "static/media/LogoEssai3.jpg": "/aqua/static/media/LogoEssai3.98c0eab863020fd19dcb.jpg",
     "index.html": "/aqua/index.html",
-    "main.3868a314.css.map": "/aqua/static/css/main.3868a314.css.map",
-    "main.485860cd.js.map": "/aqua/static/js/main.485860cd.js.map"
+    "main.53133336.css.map": "/aqua/static/css/main.53133336.css.map",
+    "main.ba4bd193.js.map": "/aqua/static/js/main.ba4bd193.js.map"
   },
   "entrypoints": [
-    "static/css/main.3868a314.css",
-    "static/js/main.485860cd.js"
+    "static/css/main.53133336.css",
+    "static/js/main.ba4bd193.js"
   ]
 }
