@@ -6,7 +6,10 @@
   justify-content: flex-start; /* Déplacer les éléments vers la gauche */
   align-items: center;
   padding: 1em 1em;
-  background: linear-gradient(to right, #d784a2 0%, #fedf53 100%);
+  /* background: linear-gradient(to right, #d784a2 0%, #fedf53 100%); */
+  /* background: #bcfee8; */
+  /* background: #167baa; */
+  background: #b5d3e1;
 }
 
 .navbarLinks {
@@ -31,13 +34,12 @@
 .navbarLinks a {
   text-decoration: none;
   color: white;
-
   font-size: 1.5rem;
   transition: color 0.3s ease;
 }
 
 .navbarLinks a:hover {
-  color: #1f1e04; /* Exemple de changement de couleur au survol */
+  color: #bcfee8; /* Exemple de changement de couleur au survol */
 }
 
 .menuToggle {
@@ -53,7 +55,9 @@
   /* Positionnement si .navbar reste en flex-direction: row sur mobile */
   /* margin-left: auto; */ /* Pousse le bouton à droite si les liens sont à gauche */
 }
-
+.menuToggle:hover {
+  color: #bcfee8;
+}
 .navMenu li {
   margin: 0 1em; /* Espacement entre les éléments de la liste */
 }

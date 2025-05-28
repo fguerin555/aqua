@@ -44,8 +44,23 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/Programma" onClick={handleLinkClick}>
+          <Link to="/NewProgramma" onClick={handleLinkClick}>
             Programma
+          </Link>
+        </li>
+        <li>
+          <Link to="/BlogPage" onClick={handleLinkClick}>
+            Blog
+          </Link>
+        </li>
+        <li>
+          <Link to="/LinksPage" onClick={handleLinkClick}>
+            Contacts
+          </Link>
+        </li>
+        <li>
+          <Link to="/Stampa" onClick={handleLinkClick}>
+            Rassegna Stampa
           </Link>
         </li>
       </ul>

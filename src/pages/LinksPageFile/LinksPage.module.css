@@ -1,0 +1,78 @@
+.LinksPage {
+  position: relative;
+  overflow: hidden; /* Cache les parties de la photo qui pourraient déborder */
+  min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
+  width: 100%; /* Prend toute la largeur disponible */
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centre les enfants horizontalement */
+  justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.BackgroundFoto img {
+  object-fit: cover;
+  position: fixed;
+  top: 0; /* Aligne en haut */
+  left: 0; /* Aligne à gauche */
+  z-index: -1;
+  width: 100vw;
+  height: 100vh; /* MODIFIÉ: Assure que l'image couvre toute la hauteur de la fenêtre */
+  /* filter: brightness(0.9); */
+}
+
+.LinksPageContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  position: relative;
+  z-index: 1;
+}
+
+.LinkPageTitle {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  box-sizing: border-box;
+  color: whitesmoke;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 35px;
+}
+
+.Logo {
+  position: relative;
+  z-index: 1;
+}
+
+.Logo img {
+  box-sizing: border-box;
+  display: block;
+  width: 20%;
+  height: auto;
+  visibility: visible;
+  opacity: 1;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 2px;
+  box-shadow: 5px 5px 10px #19280199;
+}
+
+@media (max-width: 1224px) {
+  .LinksPageContent p {
+    font-size: 30px;
+  }
+}
+@media (max-width: 509px) {
+  .LinksPageContent p {
+    font-size: 25px;
+  }
+}

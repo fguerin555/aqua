@@ -1,0 +1,19 @@
+/* Styles spécifiques au conteneur d'un événement */
+.eventContainer {
+  width: 100%; /* Ou une largeur spécifique si besoin */
+  margin-bottom: 40px; /* Espace entre les événements */
+}
+
+.eventMainInfo {
+  /* Les styles de ProgrammaPageContentA et ProgrammaPageContentB 
+     seront appliqués ici via Programma.module.css.
+     Vous pouvez ajouter des styles supplémentaires spécifiques à .eventMainInfo ici si besoin.
+  */
+  width: 100%; /* Assurez-vous qu'il prend la largeur */
+  box-sizing: border-box;
+}
+
+/* Si TextBlock a besoin de styles spécifiques dans ce contexte */
+.eventMainInfo p {
+  /* Héritera de ProgrammaPageContentA/B p, mais vous pouvez surcharger */
+}
