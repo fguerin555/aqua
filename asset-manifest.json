@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.53133336.css",
-    "main.js": "/aqua/static/js/main.ba4bd193.js",
+    "main.css": "/aqua/static/css/main.a49a33e7.css",
+    "main.js": "/aqua/static/js/main.251bc5d3.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
     "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
     "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
-    "static/media/LogoEssai3.jpg": "/aqua/static/media/LogoEssai3.98c0eab863020fd19dcb.jpg",
+    "static/media/LogoBlue.jpg": "/aqua/static/media/LogoBlue.758516d7d41f5fa28782.jpg",
     "index.html": "/aqua/index.html",
-    "main.53133336.css.map": "/aqua/static/css/main.53133336.css.map",
-    "main.ba4bd193.js.map": "/aqua/static/js/main.ba4bd193.js.map"
+    "main.a49a33e7.css.map": "/aqua/static/css/main.a49a33e7.css.map",
+    "main.251bc5d3.js.map": "/aqua/static/js/main.251bc5d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.53133336.css",
-    "static/js/main.ba4bd193.js"
+    "static/css/main.a49a33e7.css",
+    "static/js/main.251bc5d3.js"
   ]
 }
