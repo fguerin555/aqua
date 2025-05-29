@@ -63,25 +63,41 @@
   box-sizing: border-box;
 }
 
-.TitleAppuntamento {
+.TitleAppuntamento p {
+  text-align: center;
+  font-size: 28px;
+  color: whitesmoke;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-bottom: 0;
+}
+
+.NameAppuntamento p {
   text-align: center;
   font-size: 25px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-bottom: 0;
+  margin-top: 5px;
 }
-.NameAppuntamento {
-  text-align: center;
-  font-size: 25px;
-  color: whitesmoke;
-  font-family: "Poppins-Medium", Arial, sans-serif;
-}
+
 .Orari p {
   text-align: center;
   font-size: 20px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 2px;
+  margin-top: 1px;
 }
+
+.Luoghi p {
+  text-align: center;
+  font-size: 20px;
+  color: whitesmoke;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .Foto {
   position: relative;
   z-index: 1;
@@ -106,14 +122,6 @@
 .LegendaFoto p {
   text-align: center;
   font-size: 15px;
-  color: whitesmoke;
-  font-family: "Poppins-Medium", Arial, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-.Luoghi {
-  text-align: center;
-  font-size: 20px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 10px;
@@ -158,6 +166,10 @@
   .TitleAppuntamento,
   .NameAppuntamento,
   .Orari,
+  .Luoghi,
+  .Foto,
+  .LegendaFoto,
+  .foto img,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -176,12 +188,17 @@
   .Orari p {
     font-size: 18px;
   }
+
+  .Luoghi p {
+    font-size: 18px;
+  }
+
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
 
   .ArtistList {
-    font-size: 16px; /* Taille intermédiaire pour tablette */
+    font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 20%;
   }
 
@@ -204,30 +221,37 @@
   .TitleAppuntamento,
   .NameAppuntamento,
   .Orari,
+  .Luoghi,
+  .Foto,
+  .LegendaFoto,
+  .foto img,
   .EventDescription,
   .ArtistList {
     width: 90%;
   }
 
   .ProgrammaPageTitle p {
-    font-size: 26px;
-  }
-  .TitleAppuntamento p {
     font-size: 20px;
   }
+  .TitleAppuntamento p {
+    font-size: 18px;
+  }
   .NameAppuntamento p {
-    font-size: 28px; /* Taille intermédiaire pour tablette */
+    font-size: 24px; /* Taille intermédiaire pour tablette */
   }
 
   .Orari p {
-    font-size: 18px;
+    font-size: 16px;
+  }
+  .Luoghi p {
+    font-size: 16px;
   }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
 
   .ArtistList {
-    font-size: 16px; /* Taille intermédiaire pour tablette */
+    font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 15%;
   }
 
@@ -250,30 +274,37 @@
   .TitleAppuntamento,
   .NameAppuntamento,
   .Orari,
+  .Luoghi,
+  .Foto,
+  .LegendaFoto,
+  .foto img,
   .EventDescription,
   .ArtistList {
     width: 90%;
   }
 
   .ProgrammaPageTitle p {
-    font-size: 26px;
+    font-size: 18px;
   }
   .TitleAppuntamento p {
-    font-size: 20px;
+    font-size: 15px;
   }
   .NameAppuntamento p {
-    font-size: 28px; /* Taille intermédiaire pour tablette */
+    font-size: 20px; /* Taille intermédiaire pour tablette */
   }
 
   .Orari p {
-    font-size: 18px;
+    font-size: 14px;
+  }
+  .Luoghi p {
+    font-size: 14px;
   }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
 
   .ArtistList {
-    font-size: 16px; /* Taille intermédiaire pour tablette */
+    font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 10%;
   }
 

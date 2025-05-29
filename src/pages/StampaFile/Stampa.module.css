@@ -18,8 +18,8 @@
 .BackgroundFoto img {
   object-fit: cover;
   position: fixed;
-  top: 0; /* Aligne en haut */
-  left: 0; /* Aligne à gauche */
+  top: 0;
+  left: 0;
   z-index: -1;
   width: 100vw;
   height: 100vh; /* MODIFIÉ: Assure que l'image couvre toute la hauteur de la fenêtre */

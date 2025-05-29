@@ -29,14 +29,41 @@ const Programma = () => {
           <p>Appuntamento 1</p>
         </div>
         <div className={styles.NameAppuntamento}>
-          <p>Nome dell'appuntamento</p>
+          <p>Omaggio a Don Roberto Sardelli</p>
+        </div>
+
+        <div className={styles.Orari}>
+          <p> Il 12 Luglio 2025 dalle 11.00 alle 21.00</p>
+        </div>
+        <div className={styles.Luoghi}>
+          <p>Parchetto Condiviso, via Casilina Vecchia 124, Roma.</p>
+        </div>
+
+        <div className={styles.Foto}>
+          <img
+            src={parchetto}
+            alt="Parchetto Condiviso, via Casilina Vecchia 124, Roma"
+          />
+        </div>
+
+        <div className={styles.LegendaFoto}>
+          <p>Parchetto Condiviso, via Casilina Vecchia 124, Roma </p>
+        </div>
+
+        <div className={styles.buttonWrapper}>
+          <MapButton mapQuery="Parchetto Condiviso, via Casilina Vecchia 124, Roma" />
+        </div>
+
+        <div className={styles.NameAppuntamento}>
+          <p>Inaugurazione del monumento a Don Roberto Sardelli</p>
         </div>
         <div className={styles.Orari}>
-          <p> Il 25 mese orari 00. alle 00.00</p>
-          <p> Il 26 mese orari 00. alle 00.00</p>
-          <p> Il 27 mese orari 00. alle 00.00</p>
-          <p> sous titre si necessaire</p>
+          <p> Il 16 Settembre 2025 dalle 18.00 alle 21.00</p>
         </div>
+        <div className={styles.Luoghi}>
+          <p>Fontana di Clemente XII via del Mandrione 363, Roma</p>
+        </div>
+
         <div className={styles.Foto}>
           <img
             src={fontana}
@@ -51,24 +78,6 @@ const Programma = () => {
         </div>
         <div className={styles.buttonWrapper}>
           <MapButton mapQuery="Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma" />
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={parchetto}
-            alt="Parchetto Condiviso, via Casilina Vecchia 124, Roma"
-          />
-        </div>
-
-        <div className={styles.LegendaFoto}>
-          <p>Parchetto Condiviso, via Casilina Vecchia 124, Roma </p>
-        </div>
-        <div className={styles.buttonWrapper}>
-          <MapButton mapQuery="Parchetto Condiviso, via Casilina Vecchia 124, Roma" />
-        </div>
-        <div className={styles.Luoghi}>
-          <p>adresse 1, adresse 2</p>
-          <p>adresse 3, adresse 4</p>
-          <p>adresse 5, adresse6</p>
         </div>
         <div className={styles.EventDescription}>
           <p>
@@ -90,7 +99,7 @@ const Programma = () => {
             <br></br> MASSIMILIANO FIORUCCI, magnifico rettore dell’università
             Roma tre. <br></br>VANESSA ROGHI, storica della scuola e
             dell’educazione.<br></br>Pubblico di riferimento: bambini, adulti,
-            tutti.
+            tutti.<br></br> Accesso libero.
           </p>
         </div>
       </div>
