@@ -94,7 +94,7 @@
   font-size: 20px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 0;
 }
 .SimbolMapp {
@@ -142,15 +142,13 @@
 .Foto {
   position: relative;
   z-index: 1;
-  width: 500px; /* Exemple de largeur, ajustez selon vos besoins */
+  width: 800px; /* Exemple de largeur, ajustez selon vos besoins */
   height: 375px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 30px;
   opacity: 1;
-  border-radius: 2px;
-  box-shadow: 2px 2px 5px rgb(97, 94, 134); /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
 }
 
 .Foto img {
@@ -161,6 +159,8 @@
   opacity: 1;
   object-fit: cover;
   visibility: visible;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgb(174, 187, 224); /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
 }
 
 .LegendaFoto p {
@@ -200,13 +200,16 @@
   text-align: left;
   justify-content: left;
   width: 100%;
-  margin-left: 30%;
+  margin-left: 25%;
   margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.ArtistList p {
   font-size: 20px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 @media (max-width: 1224px) {
@@ -216,7 +219,7 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto img,
+  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -243,19 +246,26 @@
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
-
   .ArtistList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 3%;
+    margin-right: auto;
+  }
+
+  .ArtistList p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
-    margin-left: 20%;
   }
 
   .Logo img {
     width: 20%;
   }
+
   .Foto img {
     margin-bottom: 1px;
-    margin-right: auto !important;
-    margin-left: auto !important;
   }
   .LegendaFoto p {
     margin-top: 1px !important;
@@ -270,7 +280,7 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto img,
+  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -299,6 +309,12 @@
   .ArtistList {
     font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: left;
+    margin-right: auto;
   }
 
   .Logo img {
@@ -306,8 +322,6 @@
   }
   .Foto img {
     margin-bottom: 1px;
-    margin-right: auto !important;
-    margin-left: auto !important;
   }
   .LegendaFoto p {
     margin-top: 1px !important;
@@ -322,7 +336,7 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto img,
+  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -348,9 +362,9 @@
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
 
-  .ArtistList {
+  .ArtistList p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
-    margin-left: 10%;
+    margin-left: 5%;
   }
 
   .Logo img {
@@ -358,8 +372,6 @@
   }
   .Foto img {
     margin-bottom: 1px;
-    margin-right: auto !important;
-    margin-left: auto !important;
   }
   .LegendaFoto p {
     margin-top: 1px !important;

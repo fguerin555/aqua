@@ -8,6 +8,11 @@ import parcoTorredelFiscale from "../../assets/images/ParcodiTorredelFiscale.png
 import piazzadeiTribuni from "../../assets/images/PiazzadeiTribuni.png";
 import VilladeSanctis from "../../assets/images/VilladeSanctis.png";
 import GiardinodeiCiliegi from "../../assets/images/GiardinodeiCiliegi.png";
+import ParcoSangalli from "../../assets/images/ParcoSangalli.png";
+import SpazioY from "../../assets/images/SpazioY.png";
+import StudioGrecchi from "../../assets/images/StudioGrecchi.png";
+import ComitatoMunicipioVII from "../../assets/images/ComitatoMunicipioVII.png";
+import IstitutoAnnaFraentzel from "../../assets/images/IstitutoAnnaFraentzel.png";
 import Logo from "../../assets/images/LogoBlue.jpg";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -189,6 +194,54 @@ const Programma = () => {
           </div>
         </div>
 
+        <div className={styles.Luoghi}>
+          <p>
+            {" "}
+            Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma
+          </p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={ParcoSangalli}
+            alt="Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p> Spazio Y, via dei Juvenci 11, Roma</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={SpazioY} alt="Spazio Y, via dei Juvenci 11, Roma" />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Spazio Y, via dei Juvenci 11, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>
+            {" "}
+            Studio Grechi/Pacchiarotti Via dei Corneli 24, Municipio V, Roma
+          </p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={StudioGrecchi}
+            alt="Studio Grechi/Pacchiarotti Via dei Corneli 24, Municipio V, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via dei Corneli 24, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
         <div className={styles.EventDescription}>
           <p>
             Spettacolo, Incontro, Installazione, Video. Proiezioni di video di
@@ -202,6 +255,79 @@ const Programma = () => {
             AZZURO <br></br>
             Curatore: BRUNO DI MARINO.<br></br>Pubblico di riferimento: bambini,
             adulti, tutti.<br></br> Accesso libero.
+          </p>
+        </div>
+        <div className={styles.TitleAppuntamento}>
+          <p>Appuntamento 3</p>
+        </div>
+        <div className={styles.NameAppuntamento}>
+          <p>L'Arte in una Stanza</p>
+        </div>
+
+        <div className={styles.Orari}>
+          <p>
+            {" "}
+            Il 19/26 Settembre 2025 e 3/10 Ottobre 2025 dalle 14.30 alle 18.30
+          </p>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>
+            Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60,
+            Roma.
+          </p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={ComitatoMunicipioVII}
+            alt="Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma "
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via Angelica Balabanoff 60, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>
+            Istituto Compresivo "Anna Fraentzel Celli",Via dei Fiorentini 48,
+            Roma.
+          </p>
+        </div>
+
+        <div className={styles.Foto}>
+          <img
+            src={IstitutoAnnaFraentzel}
+            alt="Istituto Compresivo - Anna Fraentzel Celli - Via dei Fiorentini 48, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via dei Fiorentini 48, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.EventDescription}>
+          <p>
+            Laboratorio, Incontro, Arte, Incluzione Sociale. Laboratori d'Arte
+            per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e
+            VII ospiteranno dei laboratori di terracotta, video, fumetto e
+            fotografia condotti da artisti che hanno i propri studi tra il
+            municipio IV e VII. A conclusione dell’esperienza formativa si
+            prevede una o più giornate di visite presso i sudetti studi aperti
+            anche alla cittadinnanza.
+          </p>
+        </div>
+        <div className={styles.ArtistList}>
+          <p>
+            Artisti: IRMA ALONZO <br></br>GIULIA APICE <br></br> PAOLO ASSENZA{" "}
+            <br></br>
+            LUCA GRECCHI <br></br> CRISTIANA PACCHIAROTTI <br></br> MADDALENA
+            SCUDERONI
+            <br></br>GERMANO SERAFINI <br></br>Curatrici: IRMA ALONZO ed ADRIANA
+            POLVERONI.<br></br>Pubblico di riferimento: bambini, adulti, tutti.
+            <br></br> Accesso libero.
           </p>
         </div>
       </div>{" "}
