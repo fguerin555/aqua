@@ -1,17 +1,19 @@
 /* /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.module.css */
 .HomePage {
   position: relative;
-  overflow: hidden; /* Cache les parties de la vidéo qui pourraient déborder */
-  min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
-  width: 100%; /* Prend toute la largeur disponible */
+  overflow: hidden;
+  min-height: 100vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centre les enfants horizontalement */
-  justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+  align-items: center;
+  justify-content: flex-start;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.5);
-  box-sizing: border-box;
-  width: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em 1.5em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .BackgroundFoto img {

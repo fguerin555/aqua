@@ -16,7 +16,7 @@ const Programma = () => {
         </div>
 
         <div className={styles.ProgrammaPageTitle}>
-          <p>PROGRAMMA</p>
+          <p>Programma</p>
         </div>
 
         <div className={styles.Logo}>

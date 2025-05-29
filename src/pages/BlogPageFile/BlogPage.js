@@ -9,7 +9,7 @@ const BlogPage = () => {
         <img src={BackgroundFoto} alt="Acqua di fiume con riflessi di luce" />
       </div>
       <div className={styles.BlogPageTitle}>
-        <p>BLOG</p>
+        <p>Blog</p>
       </div>
 
       <div className={styles.Logo}>

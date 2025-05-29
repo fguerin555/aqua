@@ -1,16 +1,18 @@
 .StampaPage {
   position: relative;
-  overflow: hidden; /* Cache les parties de la photo qui pourraient déborder */
-  min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
-  width: 100%; /* Prend toute la largeur disponible */
+  overflow: hidden;
+  min-height: 100vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centre les enfants horizontalement */
-  justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+  align-items: center;
+  justify-content: flex-start;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.5);
-  box-sizing: border-box;
-  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em 1.5em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .BackgroundFoto img {
@@ -52,9 +54,8 @@
 }
 
 .Logo img {
-  box-sizing: border-box;
   display: block;
-  width: 30%;
+  width: 20%;
   height: auto;
   visibility: visible;
   opacity: 1;
@@ -67,12 +68,12 @@
 }
 
 @media (max-width: 1224px) {
-  .StampaPageContent p {
+  .StampaTitle p {
     font-size: 30px;
   }
 }
 @media (max-width: 509px) {
-  .StampaPageContent p {
+  .StampaTitle p {
     font-size: 25px;
   }
 }

@@ -1,16 +1,18 @@
 .LinksPage {
   position: relative;
-  overflow: hidden; /* Cache les parties de la photo qui pourraient déborder */
-  min-height: 100vh; /* Prend au moins toute la hauteur de la fenêtre */
-  width: 100%; /* Prend toute la largeur disponible */
+  overflow: hidden;
+  min-height: 100vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center; /* Centre les enfants horizontalement */
-  justify-content: flex-start; /* Aligne les enfants (HomePageContent) en haut */
+  align-items: center;
+  justify-content: flex-start;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0.5);
-  box-sizing: border-box;
-  width: 100%;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em 1.5em;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .BackgroundFoto img {
@@ -24,26 +26,22 @@
   /* filter: brightness(0.9); */
 }
 
-.LinksPageContent {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 20px;
+.LinksPageTitle {
   position: relative;
   z-index: 1;
+  width: 100%; /* Sera ajusté par les media queries */
+  box-sizing: border-box;
 }
 
-.LinkPageTitle {
+.LinksPageTitle p {
   text-align: center;
-  margin-top: 15px;
-  margin-bottom: 20px;
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  box-sizing: border-box;
+  font-size: 35px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  overflow-wrap: break-word;
+  box-sizing: border-box;
 }
 
 .Logo {
@@ -52,7 +50,6 @@
 }
 
 .Logo img {
-  box-sizing: border-box;
   display: block;
   width: 20%;
   height: auto;
@@ -67,12 +64,12 @@
 }
 
 @media (max-width: 1224px) {
-  .LinksPageContent p {
+  .LinksPageTitle p {
     font-size: 30px;
   }
 }
 @media (max-width: 509px) {
-  .LinksPageContent p {
+  .LinksPageTitle p {
     font-size: 25px;
   }
 }

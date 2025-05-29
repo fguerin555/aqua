@@ -8,8 +8,8 @@ const LinksPage = () => {
       <div className={styles.BackgroundFoto}>
         <img src={BackgroundFoto} alt="Acqua di fiume con riflessi di luce" />
       </div>
-      <div className={styles.LinkPageTitle}>
-        <p>CONTATTI</p>
+      <div className={styles.LinksPageTitle}>
+        <p>Contatti</p>
       </div>
 
       <div className={styles.Logo}>
