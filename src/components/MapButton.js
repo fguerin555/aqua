@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./MapButton.module.css"; // Importe les styles spécifiques au bouton
 
-const MapButton = ({ mapQuery, buttonText = "mappa" }) => {
+const MapButton = ({ mapQuery, buttonText = "mappa", children }) => {
   // Vérifiez que mapQuery est bien une chaîne avant d'encoder
   const query = typeof mapQuery === "string" ? mapQuery : "";
   const href = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
@@ -15,7 +15,7 @@ const MapButton = ({ mapQuery, buttonText = "mappa" }) => {
       rel="noopener noreferrer"
       className={styles.mapButton} // Utilise la classe du module CSS local
     >
-      {buttonText}
+      {children ? children : buttonText}
     </a>
   );
 };
