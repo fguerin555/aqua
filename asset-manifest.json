@@ -1,18 +1,23 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.ca2c883e.css",
-    "main.js": "/aqua/static/js/main.70fdeb6f.js",
+    "main.css": "/aqua/static/css/main.f899fa29.css",
+    "main.js": "/aqua/static/js/main.2b88f06c.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
+    "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
     "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
     "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
+    "static/media/PiazzadeiTribuni.png": "/aqua/static/media/PiazzadeiTribuni.25bf53fd2e55a929a871.png",
+    "static/media/VilladeSanctis.png": "/aqua/static/media/VilladeSanctis.8168728f99546b8998b8.png",
+    "static/media/ParcodiTorredelFiscale.png": "/aqua/static/media/ParcodiTorredelFiscale.0813cb8c0a72dc31c4ee.png",
     "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
     "static/media/LogoBlue.jpg": "/aqua/static/media/LogoBlue.758516d7d41f5fa28782.jpg",
+    "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.cc6aaf43d325ba9ebc04.png",
     "index.html": "/aqua/index.html",
-    "main.ca2c883e.css.map": "/aqua/static/css/main.ca2c883e.css.map",
-    "main.70fdeb6f.js.map": "/aqua/static/js/main.70fdeb6f.js.map"
+    "main.f899fa29.css.map": "/aqua/static/css/main.f899fa29.css.map",
+    "main.2b88f06c.js.map": "/aqua/static/js/main.2b88f06c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2c883e.css",
-    "static/js/main.70fdeb6f.js"
+    "static/css/main.f899fa29.css",
+    "static/js/main.2b88f06c.js"
   ]
 }
