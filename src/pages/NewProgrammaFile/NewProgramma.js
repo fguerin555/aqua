@@ -13,6 +13,15 @@ import SpazioY from "../../assets/images/SpazioY.png";
 import StudioGrecchi from "../../assets/images/StudioGrecchi.png";
 import ComitatoMunicipioVII from "../../assets/images/ComitatoMunicipioVII.png";
 import IstitutoAnnaFraentzel from "../../assets/images/IstitutoAnnaFraentzel.png";
+import ViaCasalinaVecchia19 from "../../assets/images/ViaCasalinaVecchia19.png";
+import ViaCasalinaVecchia115 from "../../assets/images/ViaCasalinaVecchia115.png";
+import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
+import ViadelAcquedottoFelice from "../../assets/images/ViadelAcquedottoFelice.png";
+import VicolodellAcquedottoFelice from "../../assets/images/ViadiTorreBranca.png";
+import ViadiTorreBranca from "../../assets/images/VicolodellAcquedottoFelice.png";
+import ViaFilippoRe from "../../assets/images/ViaFilippoRe.png";
+import PianoBi from "../../assets/images/PianoBi.png";
+import VialedellAcquedottoAlessandrino from "../../assets/images/VialedellAcquedottoAlessandrino.png";
 import Logo from "../../assets/images/LogoBlue.jpg";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -35,8 +44,9 @@ const Programma = () => {
             alt="Logo - Libro aperto, con onde sulle pagine e nel fondo un viadotto"
           />
         </div>
+
         <div className={styles.TitleAppuntamento}>
-          <p>Appuntamento 1</p>
+          <p>APPUNTAMENTO 1</p>
         </div>
         <div className={styles.NameAppuntamento}>
           <p>Omaggio a Don Roberto Sardelli</p>
@@ -107,13 +117,14 @@ const Programma = () => {
             tutti.<br></br> Accesso libero.
           </p>
         </div>
+
         <div className={styles.TitleAppuntamento}>
-          <p>Appuntamento 2</p>
+          <p>APPUNTAMENTO 2</p>
         </div>
+
         <div className={styles.NameAppuntamento}>
           <p>L'acqua in movimento</p>
         </div>
-
         <div className={styles.Orari}>
           <p> Il 9/10 Luglio 2025 e 18/19 Luglio 2025 dalle 21.00 in poi</p>
         </div>
@@ -127,23 +138,23 @@ const Programma = () => {
             alt="Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma "
           />
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery="Via dell' Acquedotto Felice, 120, 00174 Roma">
+            <MapButton mapQuery="Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma">
               <img src={simbolmapp} alt="Simbolo indicazione mappa" />
             </MapButton>
           </div>
         </div>
 
         <div className={styles.Luoghi}>
-          <p>Parchetto Condiviso, via Casilina Vecchia 124, Roma.</p>
+          <p>PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma.</p>
         </div>
 
         <div className={styles.Foto}>
           <img
             src={parchetto}
-            alt="Parchetto Condiviso, via Casilina Vecchia 124, Roma"
+            alt="PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma."
           />
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery="Parchetto Condiviso, via Casilina Vecchia 124, Roma">
+            <MapButton mapQuery="Via dei Ciceri, 97-99, Roma.">
               <img src={simbolmapp} alt="Simbolo indicazione mappa" />
             </MapButton>
           </div>
@@ -244,21 +255,279 @@ const Programma = () => {
 
         <div className={styles.EventDescription}>
           <p>
-            Spettacolo, Incontro, Installazione, Video. Proiezioni di video di
+            Spettacolo,Incontro,Installazione, Video. Proiezioni di video di
             artisti italiani e stranieri sull tema dell'acqua attraverso una
             lente estetica ed ambiantale .
           </p>
         </div>
         <div className={styles.ArtistList}>
           <p>
-            Artisti: FABRIZIO PLESSI <br></br>ROBER CAHEN <br></br> STUDIO
+            Artisti: FABRIZIO PLESSI <br></br>ROBERT CAHEN <br></br> STUDIO
             AZZURO <br></br>
             Curatore: BRUNO DI MARINO.<br></br>Pubblico di riferimento: bambini,
             adulti, tutti.<br></br> Accesso libero.
           </p>
         </div>
+
         <div className={styles.TitleAppuntamento}>
-          <p>Appuntamento 3</p>
+          <p>APPUNTAMENTO 3</p>
+        </div>
+        <div className={styles.NameAppuntamento}>
+          <p>I Portatori d'Acqua</p>
+        </div>
+
+        <div className={styles.Orari}>
+          <p> Il 17/09/2025 dalle 18 in poi e 25/09/2025 dalle 18 in poi</p>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>via Casilina Vecchia 19,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={ViaCasalinaVecchia19}
+            alt="via Casilina Vecchia 19, Roma "
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="via Casilina Vecchia 19, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Via Casalina Vecchia 115,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={ViaCasalinaVecchia115}
+            alt=" Via Casalina Vecchia 115,Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via Casalina Vecchia 115,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Villa de Sanctis, via dei Giordiani 5,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={VilladeSanctis}
+            alt="Villa de Sanctis, via dei Giordiani 5,Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="via dei Giordiani 5,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Via dell’Acqua Felice,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={ViadellAcquaFelice} alt="Via dell’Acqua Felice,Roma." />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via dell’Acqua Felice,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Via dell'Acquedotto Felice,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={ViadelAcquedottoFelice}
+            alt="Via dell'Acquedotto Felice,Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via dell'Acquedotto Felice,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Vicolo dell'Acquedotto Felice,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={VicolodellAcquedottoFelice}
+            alt="Vicolo dell'Acquedotto Felice,Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Vicolo dell'Acquedotto Felice,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Via di Torre Branca, Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={ViadiTorreBranca} alt="Via di Torre Branca, Roma.." />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via di Torre Branca, Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Parco di Torre del Fiscale, Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={parcoTorredelFiscale}
+            alt="Parco di Torre del Fiscale, Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Parco di Torre del Fiscale, Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.EventDescription}>
+          <p>
+            Performance, Mostra/Installazione. Circolazione per le vie indicate
+            del Municipio VII di un’autobotte che trasmette pensieri, desideri,
+            vissuti e altro raccolti dagli abitanti del quartiere dall’artista
+            Iginio De Luca. Mostra/restituzione di performance, di disegno
+            acquatico di Pamela Pintus
+          </p>
+        </div>
+        <div className={styles.ArtistList}>
+          <p>
+            Artisti: IGINIO DE LUCA <br></br>PAMELA PINTUS <br></br> <br></br>
+            Curatrice: ADRIANA POLVERONI.
+            <br></br>Pubblico di riferimento: bambini, adulti, tutti.
+            <br></br> Accesso libero.
+          </p>
+        </div>
+
+        <div className={styles.TitleAppuntamento}>
+          <p>APPUNTAMENTO 4</p>
+        </div>
+        <div className={styles.NameAppuntamento}>
+          <p>Dalla Pittura en Plein Air all' Arte Artificiale</p>
+        </div>
+
+        <div className={styles.Orari}>
+          <p>
+            {" "}
+            Il 08/07/2025,11/09/2025 dalle 15 in poi e 18/09/2025,25/09/2025
+            dalle 15 in poi
+          </p>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Piazza dei Tribuni, Municipio VII,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={piazzadeiTribuni}
+            alt="Piazza dei Tribuni, Municipio VII,Roma."
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Piazza dei Tribuni,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Parchetto condiviso del Mandrione ,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={parchetto} alt="archetto condiviso del Mandrione ,Roma." />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="archetto condiviso del Mandrione ,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Giardino dei Ciliegi ,Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={GiardinodeiCiliegi} alt="Giardino dei Ciliegi ,Roma." />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Giardino dei Ciliegi ,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Via Filippo Re, Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={ViaFilippoRe} alt="Via Filippo Re,Roma." />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via Filippo Re,Roma.">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Parco Sangalli, Roma.</p>
+        </div>
+        <div className={styles.Foto}>
+          <img src={ParcoSangalli} alt="Parco Sangalli, Roma" />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Parco Sangalli, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>Viale dell'Acquedotto Alessandrino, Roma</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={VialedellAcquedottoAlessandrino}
+            alt="Viale dell'Acquedotto Alessandrino, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Viale dell'Acquedotto Alessandrino, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.EventDescription}>
+          <p>
+            Artisti che hanno i loro studi nei municipi V e VII e che sono
+            riuniti in associazioni culturali danno vita ad atelier di pittura
+            en plein air aperti alla cittadinanza locale. Queste iniziative si
+            interfacceranno con sessioni di inteligenza artificiale creando
+            ambienti immersivi che consentono l’interazione del pubblico.
+          </p>
+        </div>
+        <div className={styles.ArtistList}>
+          <p>
+            Artisti: GIULIA APICE <br></br>PAOLO ASSENZA <br></br>MATTEO BASILÉ{" "}
+            <br></br>
+            MARTINA CIRESE <br></br> LUCA GRECHI <br></br> ALFREDO PIRRI
+            <br></br> MADDALENA SCUDERONI
+            <br></br> Curatrice: ADRIANA POLVERONI.
+            <br></br>Pubblico di riferimento: bambini, adulti, tutti.
+            <br></br> Accesso libero.
+          </p>
+        </div>
+
+        <div className={styles.TitleAppuntamento}>
+          <p>Appuntamento 5</p>
         </div>
         <div className={styles.NameAppuntamento}>
           <p>L'Arte in una Stanza</p>
@@ -316,7 +585,7 @@ const Programma = () => {
             fotografia condotti da artisti che hanno i propri studi tra il
             municipio IV e VII. A conclusione dell’esperienza formativa si
             prevede una o più giornate di visite presso i sudetti studi aperti
-            anche alla cittadinnanza.
+            anche alla cittadinanza.
           </p>
         </div>
         <div className={styles.ArtistList}>
@@ -327,6 +596,93 @@ const Programma = () => {
             SCUDERONI
             <br></br>GERMANO SERAFINI <br></br>Curatrici: IRMA ALONZO ed ADRIANA
             POLVERONI.<br></br>Pubblico di riferimento: bambini, adulti, tutti.
+            <br></br> Accesso libero.
+          </p>
+        </div>
+
+        <div className={styles.TitleAppuntamento}>
+          <p>Appuntamento 6</p>
+        </div>
+        <div className={styles.NameAppuntamento}>
+          <p>La Bellezza dell'Acqua</p>
+        </div>
+
+        <div className={styles.Orari}>
+          <p>
+            {" "}
+            Il 02/07/2025, 07/07/2025 e 31/07/2025, INAUGURAZIONE ore 19.00
+          </p>
+          <p>
+            {" "}
+            Il 03/10/2025, 30/10/2025 e 31/10/2025, INAUGURAZIONE ore 19.00
+          </p>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>
+            Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma.
+          </p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={parcoTorredelFiscale}
+            alt="Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma.</p>
+        </div>
+
+        <div className={styles.Foto}>
+          <img
+            src={PianoBi}
+            alt="PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma"
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery="Via dei Ciceri 97/99, Roma">
+              <img src={simbolmapp} alt="Simbolo indicazione mappa" />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.EventDescription}>
+          <p>
+            Realizzazione di opere che hanno per tema l’acqua e la sua
+            sostenibilità.
+            <br></br>L'opera di Paolo Assenza consiste una fontana che si attiva
+            durante le ore notturne attraverso la captazione delle particelle
+            d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il
+            foro sull’elemento in pietra posto alla sua base, cadendo
+            costantemente sul basamento ne modica nel tempo e l’aspetto della
+            superficie.
+            <br></br>
+            L’artista Mercedes Klausner, ospitata in residenza da progetto
+            Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai
+            detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi
+            dell’acquedotto felice. Tale intervento darà luogo a delle opere
+            capaci di produrre delle immagini che saranno proiettate sui muri di
+            progetto Pianobi in via dei ciceri 99.
+            <br></br>
+            Laurent le Deunff, durante la sua residenza presso la sede operativa
+            di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera
+            sarà fruibile ad un pubblico disparato di addetti ai lavori e non
+            solo, tra cui i pellegrini giunti a Roma in occasione del giubileo.
+            I visitatori saranno invitati ad esprimere un loro auguro personale
+            attraverso il rituale gesto di lancio nella fontana una delle monete
+            realizzate
+          </p>
+        </div>
+        <div className={styles.ArtistList}>
+          <p>
+            Artisti: PAOLO ASSENZA <br></br>MERCEDES KLAUSNER <br></br> LAURENT
+            LE DEUNFF <br></br>Curatrici: ADRIANA POLVERONI, ISABELLA VALENTE.
+            <br></br>Pubblico di riferimento: bambini, adulti, tutti.
             <br></br> Accesso libero.
           </p>
         </div>

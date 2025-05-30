@@ -66,7 +66,7 @@
 .TitleAppuntamento p {
   text-align: center;
   font-size: 28px;
-  color: whitesmoke;
+  color: #bcfee8;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 0;
 }
@@ -160,7 +160,7 @@
   object-fit: cover;
   visibility: visible;
   border-radius: 5px;
-  box-shadow: 2px 2px 5px rgb(174, 187, 224); /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
+  box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
 }
 
 .LegendaFoto p {
