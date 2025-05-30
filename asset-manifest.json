@@ -1,28 +1,37 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.7a1432b8.css",
-    "main.js": "/aqua/static/js/main.d7f5e1af.js",
+    "main.css": "/aqua/static/css/main.86b69411.css",
+    "main.js": "/aqua/static/js/main.e0cfc449.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
     "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
     "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
     "static/media/PiazzadeiTribuni.png": "/aqua/static/media/PiazzadeiTribuni.25bf53fd2e55a929a871.png",
+    "static/media/PianoBi.png": "/aqua/static/media/PianoBi.ecc0c74e03aa2c936174.png",
+    "static/media/VialedellAcquedottoAlessandrino.png": "/aqua/static/media/VialedellAcquedottoAlessandrino.021901160d3ff71de559.png",
     "static/media/ComitatoMunicipioVII.png": "/aqua/static/media/ComitatoMunicipioVII.1d30e46eddbadb4ba6d2.png",
+    "static/media/VicolodellAcquedottoFelice.png": "/aqua/static/media/VicolodellAcquedottoFelice.cb6e6788e7fd34eacc4d.png",
     "static/media/StudioGrecchi.png": "/aqua/static/media/StudioGrecchi.373e2f49a2424c340847.png",
+    "static/media/ViaCasalinaVecchia19.png": "/aqua/static/media/ViaCasalinaVecchia19.32c5ae5ac62d2c7290c0.png",
     "static/media/ParcoSangalli.png": "/aqua/static/media/ParcoSangalli.9c8b71097e96ff0cdb37.png",
+    "static/media/ViadelAcquedottoFelice.png": "/aqua/static/media/ViadelAcquedottoFelice.1b3e1c24cce36893ec70.png",
     "static/media/VilladeSanctis.png": "/aqua/static/media/VilladeSanctis.8168728f99546b8998b8.png",
+    "static/media/ViaCasalinaVecchia115.png": "/aqua/static/media/ViaCasalinaVecchia115.77c04cb8a5340e35dcc3.png",
+    "static/media/ViadellAcquaFelice.png": "/aqua/static/media/ViadellAcquaFelice.29514e4776c2f967af7f.png",
     "static/media/IstitutoAnnaFraentzel.png": "/aqua/static/media/IstitutoAnnaFraentzel.4de47a28aa18fba2d9bf.png",
     "static/media/ParcodiTorredelFiscale.png": "/aqua/static/media/ParcodiTorredelFiscale.0813cb8c0a72dc31c4ee.png",
+    "static/media/ViaFilippoRe.png": "/aqua/static/media/ViaFilippoRe.6386968cebf0f37660c4.png",
+    "static/media/ViadiTorreBranca.png": "/aqua/static/media/ViadiTorreBranca.de0ae6684a45759ec61f.png",
     "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
     "static/media/LogoBlue.jpg": "/aqua/static/media/LogoBlue.758516d7d41f5fa28782.jpg",
     "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.cc6aaf43d325ba9ebc04.png",
     "index.html": "/aqua/index.html",
-    "main.7a1432b8.css.map": "/aqua/static/css/main.7a1432b8.css.map",
-    "main.d7f5e1af.js.map": "/aqua/static/js/main.d7f5e1af.js.map"
+    "main.86b69411.css.map": "/aqua/static/css/main.86b69411.css.map",
+    "main.e0cfc449.js.map": "/aqua/static/js/main.e0cfc449.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a1432b8.css",
-    "static/js/main.d7f5e1af.js"
+    "static/css/main.86b69411.css",
+    "static/js/main.e0cfc449.js"
   ]
 }
