@@ -1,7 +1,7 @@
 // /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.js
 import React from "react";
 import styles from "./HomePage.module.css";
-import Logo from "../../assets/images/LogoBlue.jpg";
+import Logo from "../../assets/images/LogoOndaBlue1.jpg";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 
 const Home = () => {

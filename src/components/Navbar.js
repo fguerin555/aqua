@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-
+import LogoImg from "../assets/images/LogoOndaBlue1.jpg"; // Renommé pour éviter confusion potentielle
 import styles from "./Navbar.module.css";
 
 const Navbar = () => {
@@ -10,34 +10,45 @@ const Navbar = () => {
     setMenuOpen(!menuOpen);
   };
 
-  // Optionnel : Ferme le menu lorsqu'un lien est cliqué en mode mobile
+  // Ferme le menu lorsqu'un lien est cliqué, y compris le logo en mode mobile
   const handleLinkClick = () => {
-    // Le breakpoint 1224px correspond à votre media query CSS (à ajuster si besoin)
     if (window.innerWidth <= 1224 && menuOpen) {
       setMenuOpen(false);
     }
   };
+
   return (
     <nav className={styles.navbar}>
+      {/* Logo enveloppé dans un lien, cliquable pour fermer le menu mobile */}
+      <Link to="/" className={styles.logoLinkAnchor} onClick={handleLinkClick}>
+        <div className={styles.logoContainer}>
+          {" "}
+          {/* Classe renommée pour plus de clarté */}
+          <img
+            src={LogoImg}
+            alt="Logo - Libro aperto, con onde sulle pagine e nel fondo un viadotto"
+            className={styles.logoImage}
+          />
+        </div>
+      </Link>
+
       {/* Bouton Hamburger pour les petits écrans */}
       <button
-        className={styles.menuToggle} // Assurez-vous que .menuToggle est défini dans Navbar.module.css
+        className={styles.menuToggle}
         onClick={toggleMenu}
         aria-expanded={menuOpen}
-        aria-controls="navbar-links-list" // Doit correspondre à l'id de l'ul
+        aria-controls="navbar-links-list"
         aria-label={menuOpen ? "Fermer le menu" : "Ouvrir le menu"}
       >
         {menuOpen ? "✕" : "☰"} {/* Icônes pour ouvrir/fermer */}
       </button>
 
+      {/* Liste des liens de navigation */}
       <ul
-        id="navbar-links-list" // ID pour aria-controls
+        id="navbar-links-list"
         className={`${styles.navbarLinks} ${menuOpen ? styles.open : ""}`}
       >
-        <li>
-          <Link to="/" onClick={handleLinkClick}></Link>{" "}
-          {/* Ce lien est vide, peut-être pour un logo ? */}
-        </li>
+        {/* Le logo dupliqué a été retiré d'ici */}
         <li>
           <Link to="/HomePage" onClick={handleLinkClick}>
             Home
@@ -55,7 +66,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="/LinksPage" onClick={handleLinkClick}>
-            Contacts
+            Contatti
           </Link>
         </li>
         <li>

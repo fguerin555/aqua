@@ -40,8 +40,9 @@
 
 .HomePageContentA p {
   font-size: 35px;
-  color: whitesmoke;
+  color: #bcfee8;
   font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 1px 1px 1px #000;
   margin-top: 30px;
   position: relative;
   z-index: 1;
@@ -52,7 +53,7 @@
 }
 .Logo img {
   display: block;
-  width: 60%;
+  width: 25%;
   height: auto;
   visibility: visible;
   opacity: 1;
@@ -60,7 +61,7 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
-  border-radius: 2px;
+  border-radius: 4px;
   box-shadow: 5px 5px 10px #19280199;
 }
 
@@ -70,9 +71,10 @@
 }
 
 .HomePageContentB p {
-  font-size: 20px;
+  font-size: 28px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 1px 1px 2px #000;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -86,7 +88,15 @@
     font-size: 30px;
   }
   .HomePageContentB p {
-    font-size: 16px;
+    font-size: 22px;
+  }
+}
+@media (max-width: 768px) {
+  .HomePageContentA p {
+    font-size: 27px;
+  }
+  .HomePageContentB p {
+    font-size: 20px;
   }
 }
 @media (max-width: 509px) {
@@ -94,6 +104,6 @@
     font-size: 25px;
   }
   .HomePageContentB p {
-    font-size: 12px;
+    font-size: 18px;
   }
 }

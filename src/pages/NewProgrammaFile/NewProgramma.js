@@ -22,7 +22,7 @@ import ViadiTorreBranca from "../../assets/images/VicolodellAcquedottoFelice.png
 import ViaFilippoRe from "../../assets/images/ViaFilippoRe.png";
 import PianoBi from "../../assets/images/PianoBi.png";
 import VialedellAcquedottoAlessandrino from "../../assets/images/VialedellAcquedottoAlessandrino.png";
-import Logo from "../../assets/images/LogoBlue.jpg";
+import Logo from "../../assets/images/LogoOndaBlue1.jpg";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 

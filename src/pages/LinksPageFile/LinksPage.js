@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/images/LogoBlue.jpg";
+import Logo from "../../assets/images/LogoOndaBlue1.jpg";
 import styles from "./LinksPage.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 const LinksPage = () => {

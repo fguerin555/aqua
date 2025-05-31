@@ -2,110 +2,154 @@
   width: 100%;
   display: flex;
   box-sizing: border-box;
-  justify-content: flex-start; /* Déplacer les éléments vers la gauche */
+  justify-content: space-between; /* Logo à gauche, reste (liens/toggle) à droite */
   align-items: center;
   padding: 1em 1em;
   background: rgba(245, 245, 245, 0.443);
 }
 
+.logoLinkAnchor {
+  /* Style pour le <Link> qui entoure le logo */
+  display: inline-block; /* Pour que le lien prenne la taille de son contenu */
+  z-index: 10; /* Assure que le logo est au-dessus si nécessaire */
+  line-height: 0; /* Pour éviter un espace supplémentaire sous l'image si le lien est inline-block */
+}
+
+.logoContainer {
+  /* Conteneur pour l'image du logo */
+  display: flex;
+  align-items: center;
+}
+
+.logoImage {
+  /* Styles spécifiques pour l'image du logo */
+  height: 35px; /* Hauteur fixe pour le logo */
+  width: auto; /* Largeur automatique pour maintenir les proportions */
+  max-width: 100px;
+  border-radius: 4px; /* Limite pour ne pas qu'il soit trop grand */
+  margin-top: 5px;
+}
+
 .navbarLinks {
   font-family: "JosefinSans-Bold", Arial, sans-serif;
   list-style: none;
-  display: flex; /* Utilisation de flexbox pour l'alignement */
-  justify-content: center;
+  display: flex;
   align-items: center;
-  gap: 1em;
   margin: 0;
   padding: 0;
-  width: 100%;
-  max-width: 90%;
-  justify-content: space-around;
+  flex-grow: 1; /* Permet à la liste de liens de prendre l'espace disponible */
+  justify-content: space-evenly; /* Centre les liens dans l'espace disponible */
 }
 
 .navbarLinks li {
-  display: inline;
+  display: inline; /* Ou flex si vous gérez l'espacement différemment */
 }
 
 .navbarLinks a {
   text-decoration: none;
-  color: #bcfee8;
+  color: #bbf7fd; /* Couleur initiale des liens */
   text-shadow: 1px 1px 1px #000;
   font-size: 1.5rem;
   transition: color 0.3s ease;
+  padding: 0.5em; /* Ajoute un peu de zone cliquable */
 }
 
 .navbarLinks a:hover {
-  color: #252927;
+  color: #116aff; /* Couleur au survol */
 }
 
 .menuToggle {
-  display: none;
+  display: none; /* Caché par défaut sur les grands écrans */
   background: none;
+  color: #bbf7fd;
   border: none;
-  color: #bcfee8;
-  font-size: 1.9rem; /* Taille de l'icône hamburger */
+  font-size: 2.9rem; /* Taille de l'icône hamburger */
   cursor: pointer;
   padding: 0.25em 0.5em;
   line-height: 1;
-  z-index: 1100;
-}
-.menuToggle:hover {
-  color: #252927;
-}
-.navMenu li {
-  margin: 0 1em; /* Espacement entre les éléments de la liste */
+  z-index: 1100; /* S'assurer qu'il est au-dessus du menu déroulant */
+  order: 1; /* Pour s'assurer qu'il est après le logo si flexbox est utilisé sur .navbar */
 }
 
+.menuToggle:hover {
+  color: #bbf7fd;
+}
+
+/* Styles pour le menu mobile/tablette */
 @media (max-width: 1224px) {
   .navbar {
-    flex-direction: column;
-    justify-content: center;
+    /* flex-direction: column; Commenté pour garder logo et toggle sur la même ligne */
+    justify-content: space-between; /* Logo à gauche, toggle à droite */
     align-items: center;
+    position: relative; /* Nécessaire pour le positionnement absolu du menu déroulant */
   }
 
   .menuToggle {
-    display: block;
+    display: block; /* Afficher le bouton hamburger */
   }
-
+  .logoImage {
+    height: 40px; /* Logo légèrement plus petit */
+  }
   .navbarLinks {
-    display: none; /* Caché par défaut sur mobile/tablette */
-    flex-direction: column;
-    gap: 10px;
-    width: 100%; /* Pour occuper toute la largeur disponible */
-    align-items: center; /* Centrer les liens textuels */
-    padding: 1em 0; /* Espacement vertical quand le menu est ouvert */
+    display: none; /* Caché par défaut */
+    flex-direction: column; /* Liens en colonne */
+    position: absolute; /* Positionné par rapport à .navbar */
+    top: 100%; /* Juste en dessous de la navbar */
+    left: 0;
+    right: 0; /* Occupe toute la largeur */
+    background: rgba(
+      30,
+      30,
+      50,
+      0.95
+    ); /* Fond plus sombre pour le menu déroulant */
+    z-index: 1000; /* Au-dessus du contenu de la page, mais sous le toggle si besoin */
+    padding: 1em 0; /* Espacement vertical */
+    gap: 15px; /* Espacement entre les liens dans le menu déroulant */
+    border-top: 1px solid rgba(255, 255, 255, 0.1); /* Ligne de séparation optionnelle */
   }
-  .navbarLinks a {
-    font-size: 1.6rem;
-    color: #bcfee8;
-  }
-  .navbarLinks.open {
-    display: flex; /* Afficher les liens lorsque la classe .open est présente */
-  }
-  @media (max-width: 768px) {
-    .navbar {
-      padding: 0.5em 1em;
-    }
 
-    .navbarLinks a {
-      font-size: 1.6rem;
-      color: #bcfee8;
-    }
-    .navbarLinks a:hover {
-      color: #252927; /* Exemple de changement de couleur au survol */
-    }
+  .navbarLinks.open {
+    /* background: #236ffa; */
+    background: #111111;
+    display: flex;
+    height: 200px; /* Afficher les liens lorsque le menu est ouvert */
+  }
+
+  .navbarLinks a {
+    font-size: 1.6rem; /* Taille de police pour mobile */
+    color: #bbf7fd;
+    width: 100%; /* Pour que chaque lien prenne toute la largeur */
+    text-align: center; /* Centrer le texte des liens */
+    padding: 0.75em 0; /* Plus de padding vertical pour une meilleure cliquabilité */
+  }
+
+  .navbarLinks a:hover {
+    color: #236ffa;
+    background-color: rgba(255, 255, 255, 0.05); /* Léger fond au survol */
   }
 }
-@media (max-width: 509px) {
+
+/* Ajustements pour écrans encore plus petits si nécessaire */
+@media (max-width: 768px) {
   .navbar {
-    padding: 0.5em 1em; /* Réduire le padding sur les très petits écrans */
+    padding: 0.5em 1em; /* Padding réduit */
+  }
+  .logoImage {
+    height: 35px; /* Logo légèrement plus petit */
+  }
+  .navbarLinks a {
+    font-size: 1.5rem; /* Police légèrement plus petite */
+  }
+}
+
+@media (max-width: 509px) {
+  /* D'autres ajustements spécifiques pour très petits écrans si besoin */
+  .navbarLinks a {
+    font-size: 1.4rem;
   }
 
-  .navbarLinks a {
-    color: #bcfee8; /* Réduire le padding sur les petits écrans */
-    font-size: 1.6rem;
-  }
-  .navbarLinks a:hover {
-    color: #252927; /* Exemple de changement de couleur au survol */
+  .logoImage {
+    height: 30px; /* Logo légèrement plus petit */
   }
 }
