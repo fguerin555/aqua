@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.d922f470.css",
-    "main.js": "/aqua/static/js/main.170bc4ed.js",
+    "main.css": "/aqua/static/css/main.f3200778.css",
+    "main.js": "/aqua/static/js/main.cbae6ae0.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
-    "static/media/parchetto.png": "/aqua/static/media/parchetto.b3477c99212f06a11fd8.png",
+    "static/media/parchetto.png": "/aqua/static/media/parchetto.7f8dc0fb9354f2ed54c4.png",
     "static/media/fontana.png": "/aqua/static/media/fontana.2c70bfac1ec621132e88.png",
     "static/media/PiazzadeiTribuni.png": "/aqua/static/media/PiazzadeiTribuni.25bf53fd2e55a929a871.png",
     "static/media/PianoBi.png": "/aqua/static/media/PianoBi.ecc0c74e03aa2c936174.png",
@@ -24,14 +24,14 @@
     "static/media/ViaFilippoRe.png": "/aqua/static/media/ViaFilippoRe.6386968cebf0f37660c4.png",
     "static/media/ViadiTorreBranca.png": "/aqua/static/media/ViadiTorreBranca.de0ae6684a45759ec61f.png",
     "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
-    "static/media/LogoBlue.jpg": "/aqua/static/media/LogoBlue.758516d7d41f5fa28782.jpg",
+    "static/media/LogoOndaBlue1.jpg": "/aqua/static/media/LogoOndaBlue1.b7df58ee221a65c8bb59.jpg",
     "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.1562e23301a626c6e7be.png",
     "index.html": "/aqua/index.html",
-    "main.d922f470.css.map": "/aqua/static/css/main.d922f470.css.map",
-    "main.170bc4ed.js.map": "/aqua/static/js/main.170bc4ed.js.map"
+    "main.f3200778.css.map": "/aqua/static/css/main.f3200778.css.map",
+    "main.cbae6ae0.js.map": "/aqua/static/js/main.cbae6ae0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d922f470.css",
-    "static/js/main.170bc4ed.js"
+    "static/css/main.f3200778.css",
+    "static/js/main.cbae6ae0.js"
   ]
 }
