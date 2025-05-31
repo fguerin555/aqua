@@ -10,10 +10,6 @@
   justify-content: flex-start;
   box-sizing: border-box;
   background-color: rgba(0, 0, 0, 0.5);
-  border-radius: 2px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  padding: 1em 1.5em;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
 .Logo {
@@ -101,10 +97,10 @@
 .SimbolMapp {
   position: absolute;
   top: 10px; /* Ajustez la distance par rapport au haut */
-  right: 10px; /* Ajustez la distance par rapport à la droite */
-  z-index: 2; /* S'assure qu'il est au-dessus de l'image dans .Foto */
-  width: 32px; /* Taille désirée pour l'icône, ajustez si besoin */
-  height: 32px; /* Taille désirée pour l'icône, ajustez si besoin */
+  right: -2px; /* Ajustez la distance par rapport à la droite */
+  z-index: 10; /* S'assure qu'il est au-dessus de l'image dans .Foto */
+  width: 100px; /* Taille désirée pour l'icône, ajustez si besoin */
+  height: 100px; /* Taille désirée pour l'icône, ajustez si besoin */
 }
 
 /* Cible la balise 'a' rendue par MapButton à l'intérieur de SimbolMapp */
@@ -133,8 +129,8 @@
 /* Style pour l'image à l'intérieur du MapButton (qui est dans SimbolMapp) */
 .SimbolMapp > a > img {
   display: block; /* Assure un bon comportement de dimensionnement */
-  width: 100%; /* L'image remplit la largeur du bouton */
-  height: 100%; /* L'image remplit la hauteur du bouton */
+  width: 50%; /* L'image remplit la largeur du bouton */
+  height: 50%; /* L'image remplit la hauteur du bouton */
   object-fit: contain; /* S'assure que l'image entière est visible
                           et conserve ses proportions à l'intérieur du bouton.
                           Utilisez 'cover' si vous préférez remplir et potentiellement rogner. */
@@ -270,6 +266,12 @@
     margin-top: 1px !important;
     font-size: 11px;
   }
+  .SimbolMapp {
+    position: absolute;
+    top: 10px; /* Ajustez la distance par rapport au haut */
+    right: 0%;
+    z-index: 2;
+  }
 }
 
 @media (max-width: 768px) {
@@ -326,6 +328,12 @@
     margin-top: 1px !important;
     font-size: 11px;
   }
+  .SimbolMapp {
+    position: absolute;
+    top: 10px; /* Ajustez la distance par rapport au haut */
+    right: 0cm;
+    z-index: 5;
+  }
 }
 
 @media (max-width: 509px) {
@@ -375,5 +383,11 @@
   .LegendaFoto p {
     margin-top: 1px !important;
     font-size: 11px;
+  }
+  .SimbolMapp {
+    position: absolute;
+    top: 2px; /* Ajustez la distance par rapport au haut */
+    right: 0%;
+    z-index: 10;
   }
 }

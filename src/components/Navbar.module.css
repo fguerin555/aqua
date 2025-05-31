@@ -1,19 +1,15 @@
 .navbar {
   width: 100%;
-  /* height: 10px; Supprimé car trop restrictif, la hauteur s'adaptera au contenu et au padding */
   display: flex;
   box-sizing: border-box;
   justify-content: flex-start; /* Déplacer les éléments vers la gauche */
   align-items: center;
   padding: 1em 1em;
-  /* background: linear-gradient(to right, #d784a2 0%, #fedf53 100%); */
-  /* background: #bcfee8; */
-  /* background: #167baa; */
-  background: #b5d3e1;
+  background: rgba(245, 245, 245, 0.443);
 }
 
 .navbarLinks {
-  font-family: "source-sans-pro.regular", Arial, sans-serif;
+  font-family: "JosefinSans-Bold", Arial, sans-serif;
   list-style: none;
   display: flex; /* Utilisation de flexbox pour l'alignement */
   justify-content: center;
@@ -24,7 +20,6 @@
   width: 100%;
   max-width: 90%;
   justify-content: space-around;
-  /* Déplacer les liens de navigation vers la droite */
 }
 
 .navbarLinks li {
@@ -33,30 +28,29 @@
 
 .navbarLinks a {
   text-decoration: none;
-  color: white;
+  color: #bcfee8;
+  text-shadow: 1px 1px 1px #000;
   font-size: 1.5rem;
   transition: color 0.3s ease;
 }
 
 .navbarLinks a:hover {
-  color: #bcfee8; /* Exemple de changement de couleur au survol */
+  color: #252927;
 }
 
 .menuToggle {
-  display: none; /* Caché par défaut sur les grands écrans */
+  display: none;
   background: none;
   border: none;
-  color: white; /* Assurez-vous que la couleur contraste bien */
-  font-size: 1.8rem; /* Taille de l'icône hamburger */
+  color: #bcfee8;
+  font-size: 1.9rem; /* Taille de l'icône hamburger */
   cursor: pointer;
   padding: 0.25em 0.5em;
   line-height: 1;
-  z-index: 1100; /* Pour s'assurer qu'il est au-dessus si d'autres éléments se superposent */
-  /* Positionnement si .navbar reste en flex-direction: row sur mobile */
-  /* margin-left: auto; */ /* Pousse le bouton à droite si les liens sont à gauche */
+  z-index: 1100;
 }
 .menuToggle:hover {
-  color: #bcfee8;
+  color: #252927;
 }
 .navMenu li {
   margin: 0 1em; /* Espacement entre les éléments de la liste */
@@ -65,24 +59,12 @@
 @media (max-width: 1224px) {
   .navbar {
     flex-direction: column;
-    /* align-items: flex-start; /* L'align-items: center ci-dessous prendra le dessus */
     justify-content: center;
     align-items: center;
-    /* La hauteur sera déterminée par le contenu (bouton + liens ouverts) */
-    /* Si vous voulez que le bouton soit à droite et les liens en dessous,
-       vous pourriez garder flex-direction: row et faire en sorte que .navbarLinks
-       se positionne en dessous ou se superpose.
-       Pour l'instant, avec flex-direction: column, tout sera empilé et centré. */
   }
 
   .menuToggle {
-    display: block; /* Afficher le bouton hamburger */
-    /* Si .navbar est en flex-direction: column et align-items: center,
-       le bouton sera centré. Si vous le voulez à un bord (ex: flex-start ou flex-end),
-       ajustez align-self sur le bouton ou align-items sur .navbar.
-       Exemple pour le mettre à droite dans une navbar en colonne :
-       align-self: flex-end;
-       margin-right: 1em; /* Pour ne pas coller au bord */
+    display: block;
   }
 
   .navbarLinks {
@@ -93,18 +75,37 @@
     align-items: center; /* Centrer les liens textuels */
     padding: 1em 0; /* Espacement vertical quand le menu est ouvert */
   }
-
+  .navbarLinks a {
+    font-size: 1.6rem;
+    color: #bcfee8;
+  }
   .navbarLinks.open {
     display: flex; /* Afficher les liens lorsque la classe .open est présente */
   }
-
-  @media (max-width: 509px) {
+  @media (max-width: 768px) {
     .navbar {
-      padding: 0.5em 1em; /* Réduire le padding sur les très petits écrans */
+      padding: 0.5em 1em;
     }
 
     .navbarLinks a {
-      font-size: 1rem;
+      font-size: 1.6rem;
+      color: #bcfee8;
     }
+    .navbarLinks a:hover {
+      color: #252927; /* Exemple de changement de couleur au survol */
+    }
+  }
+}
+@media (max-width: 509px) {
+  .navbar {
+    padding: 0.5em 1em; /* Réduire le padding sur les très petits écrans */
+  }
+
+  .navbarLinks a {
+    color: #bcfee8; /* Réduire le padding sur les petits écrans */
+    font-size: 1.6rem;
+  }
+  .navbarLinks a:hover {
+    color: #252927; /* Exemple de changement de couleur au survol */
   }
 }

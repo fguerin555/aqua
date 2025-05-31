@@ -13,7 +13,7 @@ const MapButton = ({ mapQuery, buttonText = "mappa", children }) => {
       href={href}
       target="_blank"
       rel="noopener noreferrer"
-      className={styles.mapButton} // Utilise la classe du module CSS local
+      className={styles.MapButton} // Utilise la classe du module CSS local
     >
       {children ? children : buttonText}
     </a>
