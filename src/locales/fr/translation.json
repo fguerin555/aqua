@@ -1,0 +1,211 @@
+{
+  "navbar": {
+    "logoAlt": "Logo - Livre ouvert, avec des vagues sur les pages et un aqueduc en arrière-plan",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "home": "Accueil",
+    "program": "Programme",
+    "blog": "Blog",
+    "contacts": "Contacts",
+    "pressReview": "Revue de Presse"
+  },
+  "home": {
+    "backgroundAlt": "Eau de rivière avec reflets de lumière",
+    "title": "Le Récit de l'Eau",
+    "paragraph1": "Le concept se concentre sur une offre concrète pour les pèlerins, sur l'inclusion sociale, la valorisation du territoire et l'art contemporain pour activer la cohésion sociale. Objectifs principaux : Implication des pèlerins : à travers la célébration de Don Roberto Sardelli avec une œuvre en son hommage et un colloque qui approfondisse son engagement social, éducatif et artistique.",
+    "paragraph2": "Les initiatives sont ouvertes à la citoyenneté et surtout aux pèlerins à qui l'on offre un réel moment de réflexion et de participation au-delà des stéréotypes faciles. Promotion de la citoyenneté active et inclusion sociale : Le projet implique les communautés locales dans des activités culturelles, comme des ateliers artistiques dans les écoles, des vidéoprojections publiques près des aqueducs, des sessions de peinture et d'Intelligence Artificielle dans des lieux symboliques du territoire, la réalisation d'œuvres qui interprètent diversement le thème de l'eau. Valorisation du territoire : Les Municipalités VII et V, riches en associations culturelles et ateliers d’artistes, seront au centre d’un dialogue entre artistes, institutions et communautés, dans le but de renforcer l’identité culturelle du territoire et d’attirer résidents et pèlerins du Jubilé 2025.",
+    "paragraph3": "La collecte et la gestion des données du public se dérouleront avec des critères de transparence, fournissant des données vérifiables sur l’impact social, culturel et environnemental ; optimisation des ressources, en utilisant des outils technologiques et des méthodologies avancées pour maximiser l’efficacité du suivi ; redevabilité, en documentant les résultats atteints pour garantir une reddition de comptes claire et réplicable. L’objectif est de stimuler la participation collective, en valorisant le patrimoine culturel et en créant des opportunités d’échange entre différentes réalités sociales et culturelles."
+  },
+  "program": {
+    "pageTitle": "Programme",
+    "mapSymbolAlt": "Symbole de localisation sur carte",
+    "appointment1": {
+      "sectionTitle": "RENDEZ-VOUS 1",
+      "name1": "Hommage à Don Roberto Sardelli",
+      "time1": "Le 12 Juillet 2025 de 11h00 à 21h00",
+      "name2": "Inauguration du monument à Don Roberto Sardelli",
+      "time2": "Le 16 Septembre 2025 de 18h00 à 21h00",
+      "description": "Journée d'études sur la figure de DON ROBERTO SARDELLI avec l'inauguration d'un monument qui lui est dédié. DON ROBERTO SARDELLI a été un prêtre clé pour l'amélioration des conditions de vie des habitants du Mandrione et de l'aqueduc Felice. DON SARDELLI est arrivé à la fin des années soixante dans cette zone dégradée de Rome, s'occupant concrètement des difficultés des habitants des bidonvilles, donnant vie à une école profondément innovante et activant l'approvisionnement en eau.",
+      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI, enseignante à la NABA<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, magnifique recteur de l’université Roma Tre <br />VANESSA ROGHI, historienne de l’école et de l’éducation<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "location1": {
+        "name": "Parchetto Condiviso, via Casilina Vecchia 124, Rome.",
+        "imageAlt": "Parchetto Condiviso, via Casilina Vecchia 124, Rome",
+        "mapQuery": "Parchetto Condiviso, via Casilina Vecchia 124, Roma"
+      },
+      "location2": {
+        "name": "Fontaine de Clément XII, via del Mandrione 363, Rome",
+        "imageAlt": "Fontaine de Clément XII et murs adjacents, via del Mandrione 363, Rome",
+        "mapQuery": "Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma"
+      }
+    },
+    "appointment2": {
+      "sectionTitle": "RENDEZ-VOUS 2",
+      "name": "L'Eau en Mouvement",
+      "time": "Les 9/10 Juillet 2025 et 18/19 Juillet 2025 à partir de 21h00",
+      "description": "Spectacle, Rencontre, Installation, Vidéo. Projections de vidéos d'artistes italiens et étrangers sur le thème de l'eau à travers un prisme esthétique et environnemental.",
+      "artistList": "Artistes : FABRIZIO PLESSI <br /> ROBERT CAHEN <br /> STUDIO AZZURO <br /> Commissaire : BRUNO DI MARINO<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "location1": {
+        "name": "Parc de Torre del Fiscale, Rome.",
+        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+      },
+      "location2": {
+        "name": "Piazza dei Tribuni. Municipalité VII, Rome",
+        "imageAlt": "Piazza dei Tribuni, Municipalité VII, Rome",
+        "mapQuery": "Piazza dei Tribuni. Municipio VII, Roma"
+      },
+      "location3": {
+        "name": "Villa de Sanctis, via dei Gordiani 5, Rome",
+        "imageAlt": "Villa de Sanctis, via dei Gordiani 5, Rome",
+        "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
+      },
+      "location4": {
+        "name": "Jardin des Cerisiers, via Filippo Re, Rome",
+        "imageAlt": "Jardin des Cerisiers, via Filippo Re, Rome",
+        "mapQuery": "Giardino Dei Ciliegi, via Filippo Re, Roma"
+      },
+      "location5": {
+        "name": "Parc Sangalli, viale dell’Acquedotto Alessandrino Municipalité V, Rome",
+        "imageAlt": "Parc Sangalli, viale dell’Acquedotto Alessandrino Municipalité V, Rome",
+        "mapQuery": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma"
+      },
+      "location6": {
+        "name": "Spazio Y, via dei Juvenci 11, Rome",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome",
+        "mapQuery": "Spazio Y, via dei Juvenci 11, Roma"
+      },
+      "location7": {
+        "name": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipalité V, Rome",
+        "imageAlt": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipalité V, Rome",
+        "mapQuery": "Via dei Corneli 24, Roma"
+      }
+    },
+    "appointment3": {
+      "sectionTitle": "RENDEZ-VOUS 3",
+      "name": "Les Porteurs d'Eau",
+      "time": "Le 17/09/2025 à partir de 18h et le 25/09/2025 à partir de 18h",
+      "description": "Performance, Exposition/Installation. Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par l'artiste Iginio De Luca. Exposition/restitution de performance, de dessin aquatique par Pamela Pintus.",
+      "artistList": "Artistes : IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "location1": {
+        "name": "Via Casilina Vecchia 19, Rome.",
+        "imageAlt": "Via Casilina Vecchia 19, Rome",
+        "mapQuery": "via Casilina Vecchia 19, Roma"
+      },
+      "location2": {
+        "name": "Via Casalina Vecchia 115, Rome.",
+        "imageAlt": "Via Casalina Vecchia 115, Rome.",
+        "mapQuery": "Via Casalina Vecchia 115,Roma."
+      },
+      "location3": {
+        "name": "Villa de Sanctis, via dei Giordiani 5, Rome.",
+        "imageAlt": "Villa de Sanctis, via dei Giordiani 5, Rome.",
+        "mapQuery": "via dei Giordiani 5,Roma."
+      },
+      "location4": {
+        "name": "Via dell’Acqua Felice, Rome.",
+        "imageAlt": "Via dell’Acqua Felice, Rome.",
+        "mapQuery": "Via dell’Acqua Felice,Roma."
+      },
+      "location5": {
+        "name": "Via dell'Acquedotto Felice, Rome.",
+        "imageAlt": "Via dell'Acquedotto Felice, Rome.",
+        "mapQuery": "Via dell'Acquedotto Felice,Roma."
+      },
+      "location6": {
+        "name": "Vicolo dell'Acquedotto Felice, Rome.",
+        "imageAlt": "Vicolo dell'Acquedotto Felice, Rome.",
+        "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
+      },
+      "location7": {
+        "name": "Via di Torre Branca, Rome.",
+        "imageAlt": "Via di Torre Branca, Rome.",
+        "mapQuery": "Via di Torre Branca, Roma."
+      },
+      "location8": {
+        "name": "Parc de Torre del Fiscale, Rome.",
+        "imageAlt": "Parc de Torre del Fiscale, Rome.",
+        "mapQuery": "Parco di Torre del Fiscale, Roma."
+      }
+    },
+    "appointment4": {
+      "sectionTitle": "RENDEZ-VOUS 4",
+      "name": "De la Peinture en Plein Air à l'Art Artificiel",
+      "time": "Le 08/07/2025, 11/09/2025 à partir de 15h et le 18/09/2025, 25/09/2025 à partir de 15h",
+      "description": "Des artistes ayant leurs ateliers dans les municipalités V et VII et regroupés en associations culturelles animent des ateliers de peinture en plein air ouverts aux citoyens locaux. Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
+      "artistList": "Artistes : GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br /> LUCA GRECHI <br /> ALFREDO PIRRI <br />  MADDALENA SCUDERONI <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "location1": {
+        "name": "Piazza dei Tribuni, Municipalité VII, Rome.",
+        "imageAlt": "Piazza dei Tribuni, Municipalité VII, Rome.",
+        "mapQuery": "Piazza dei Tribuni,Roma."
+      },
+      "location2": {
+        "name": "Parc partagé du Mandrione, Rome.",
+        "imageAlt": "Parc partagé du Mandrione, Rome.",
+        "mapQuery": "Parchetto condiviso del Mandrione ,Roma."
+      },
+      "location3": {
+        "name": "Jardin des Cerisiers, Rome.",
+        "imageAlt": "Jardin des Cerisiers, Rome.",
+        "mapQuery": "Giardino dei Ciliegi ,Roma."
+      },
+      "location4": {
+        "name": "Via Filippo Re, Rome.",
+        "imageAlt": "Via Filippo Re, Rome.",
+        "mapQuery": "Via Filippo Re,Roma."
+      },
+      "location5": {
+        "name": "Parc Sangalli, Rome.",
+        "imageAlt": "Parc Sangalli, Rome",
+        "mapQuery": "Parco Sangalli, Roma"
+      },
+      "location6": {
+        "name": "Viale dell'Acquedotto Alessandrino, Rome",
+        "imageAlt": "Viale dell'Acquedotto Alessandrino, Rome",
+        "mapQuery": "Viale dell'Acquedotto Alessandrino, Roma"
+      }
+    },
+    "appointment5": {
+      "sectionTitle": "RENDEZ-VOUS 5",
+      "name": "L'Art dans une Pièce",
+      "time": "Les 19/26 Septembre 2025 et 3/10 Octobre 2025 de 14h30 à 18h30",
+      "description": "Atelier, Rencontre, Art, Inclusion Sociale. Ateliers d'art pour aveugles, malvoyants et voyants ; certaines écoles des municipalités IV et VII accueilleront des ateliers de terre cuite, vidéo, bande dessinée et photographie animés par des artistes ayant leurs ateliers entre la municipalité IV et VII. À l'issue de l'expérience formative, une ou plusieurs journées de visites desdits ateliers, également ouvertes au public, sont prévues.",
+      "artistList": "Artistes : IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br /> GERMANO SERAFINI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
+      "location1": {
+        "name": "Siège du Comité de Quartier Municipalité VII, Via Angelica Balabanoff 60, Rome.",
+        "imageAlt": "Siège du Comité de Quartier Municipalité VII, Via Angelica Balabanoff 60, Rome",
+        "mapQuery": "Via Angelica Balabanoff 60, Roma"
+      },
+      "location2": {
+        "name": "Institut Compréhensif \"Anna Fraentzel Celli\", Via dei Fiorentini 48, Rome.",
+        "imageAlt": "Institut Compréhensif - Anna Fraentzel Celli - Via dei Fiorentini 48, Rome",
+        "mapQuery": "Via dei Fiorentini 48, Roma"
+      }
+    },
+    "appointment6": {
+      "sectionTitle": "RENDEZ-VOUS 6",
+      "name": "La Beauté de l'Eau",
+      "time1": "Le 02/07/2025, 07/07/2025 et 31/07/2025, INAUGURATION à 19h00",
+      "time2": "Le 03/10/2025, 30/10/2025 et 31/10/2025, INAUGURATION à 19h00",
+      "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
+      "artistList": "Artistes : PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires : ADRIANA POLVERONI, ISABELLA VALENTE <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "location1": {
+        "name": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome.",
+        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+      },
+      "location2": {
+        "name": "PROJET PIANOBI, Via dei Ciceri, 97-99, Rome.",
+        "imageAlt": "PROJET PIANOBI, Via dei Ciceri, 97-99, Rome",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
+      }
+    },
+
+    "blog": {
+      "pageTitle": "Blog"
+    }
+  },
+
+  "links": {
+    "pageTitle": "Liens Utiles"
+  }
+}

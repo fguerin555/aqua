@@ -26,7 +26,8 @@
   height: 35px; /* Hauteur fixe pour le logo */
   width: auto; /* Largeur automatique pour maintenir les proportions */
   max-width: 100px;
-  border-radius: 4px; /* Limite pour ne pas qu'il soit trop grand */
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px #19280199;
   margin-top: 5px;
 }
 
@@ -73,6 +74,12 @@
 
 .menuToggle:hover {
   color: #bbf7fd;
+}
+
+.languageSwitcher .flagIcon {
+  width: 30%;
+  height: auto;
+  background-color: transparent;
 }
 
 /* Styles pour le menu mobile/tablette */

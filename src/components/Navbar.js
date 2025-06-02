@@ -1,78 +1,96 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import LogoImg from "../assets/images/LogoOndaBlue1.jpg"; // Renommé pour éviter confusion potentielle
+import { useTranslation } from "react-i18next";
+import LogoImg from "../assets/images/LogoOndaBlue1.jpg";
 import styles from "./Navbar.module.css";
+import LanguageSwitcher from "./LanguageSwitcher";
+
+// Importer les drapeaux
+import flagIT from "../assets/images/FlagItaly.png";
+import flagEN from "../assets/images/FlagEngland.png";
+import flagFR from "../assets/images/FlagFrance.png";
 
 const Navbar = () => {
+  const { t, i18n } = useTranslation();
   const [menuOpen, setMenuOpen] = useState(false);
 
   const toggleMenu = () => {
     setMenuOpen(!menuOpen);
   };
 
-  // Ferme le menu lorsqu'un lien est cliqué, y compris le logo en mode mobile
   const handleLinkClick = () => {
     if (window.innerWidth <= 1224 && menuOpen) {
       setMenuOpen(false);
     }
   };
 
+  const changeLanguage = (lang) => {
+    i18n.changeLanguage(lang);
+  };
+
   return (
     <nav className={styles.navbar}>
-      {/* Logo enveloppé dans un lien, cliquable pour fermer le menu mobile */}
       <Link to="/" className={styles.logoLinkAnchor} onClick={handleLinkClick}>
         <div className={styles.logoContainer}>
-          {" "}
-          {/* Classe renommée pour plus de clarté */}
           <img
             src={LogoImg}
-            alt="Logo - Libro aperto, con onde sulle pagine e nel fondo un viadotto"
+            alt={t("navbar.logoAlt")}
             className={styles.logoImage}
           />
         </div>
       </Link>
 
-      {/* Bouton Hamburger pour les petits écrans */}
       <button
         className={styles.menuToggle}
         onClick={toggleMenu}
         aria-expanded={menuOpen}
         aria-controls="navbar-links-list"
-        aria-label={menuOpen ? "Fermer le menu" : "Ouvrir le menu"}
+        aria-label={menuOpen ? t("navbar.closeMenu") : t("navbar.openMenu")}
       >
-        {menuOpen ? "✕" : "☰"} {/* Icônes pour ouvrir/fermer */}
+        {menuOpen ? "✕" : "☰"}
       </button>
 
-      {/* Liste des liens de navigation */}
       <ul
         id="navbar-links-list"
         className={`${styles.navbarLinks} ${menuOpen ? styles.open : ""}`}
       >
-        {/* Le logo dupliqué a été retiré d'ici */}
         <li>
           <Link to="/HomePage" onClick={handleLinkClick}>
-            Home
+            {t("navbar.home")}
           </Link>
         </li>
         <li>
           <Link to="/NewProgramma" onClick={handleLinkClick}>
-            Programma
+            {t("navbar.program")}
           </Link>
         </li>
         <li>
           <Link to="/BlogPage" onClick={handleLinkClick}>
-            Blog
+            {t("navbar.blog")}
           </Link>
         </li>
         <li>
           <Link to="/LinksPage" onClick={handleLinkClick}>
-            Contatti
+            {t("navbar.contacts")}
           </Link>
         </li>
         <li>
           <Link to="/Stampa" onClick={handleLinkClick}>
-            Rassegna Stampa
+            {t("navbar.pressReview")}
           </Link>
+        </li>
+
+        {/* Sélecteur de langue avec drapeaux */}
+        <li className={styles.languageSwitcher}>
+          <button onClick={() => changeLanguage("en")}>
+            <img src={flagEN} alt="English" className={styles.flagIcon} />
+          </button>
+          <button onClick={() => changeLanguage("it")}>
+            <img src={flagIT} alt="Italiano" className={styles.flagIcon} />
+          </button>
+          <button onClick={() => changeLanguage("fr")}>
+            <img src={flagFR} alt="Français" className={styles.flagIcon} />
+          </button>
         </li>
       </ul>
     </nav>

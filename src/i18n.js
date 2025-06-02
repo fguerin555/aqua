@@ -1,0 +1,68 @@
+import i18n from "i18next";
+import { initReactI18next } from "react-i18next";
+import LanguageDetector from "i18next-browser-languagedetector";
+
+// Importer les fichiers de traduction
+import translationEN from "./locales/en/translation.json";
+import translationIT from "./locales/it/translation.json";
+import translationFR from "./locales/fr/translation.json";
+
+const resources = {
+  en: {
+    translation: {
+      ...translationEN,
+      blog: { pageTitle: "Blog" },
+      links: { pageTitle: "Useful Links" },
+      stampa: { pageTitle: "Press Review" },
+    },
+  },
+  it: {
+    translation: {
+      ...translationIT,
+      blog: { pageTitle: "Blog" },
+      links: { pageTitle: "Collegamenti Utili" },
+      stampa: { pageTitle: "Rassegna Stampa" },
+    },
+  },
+  fr: {
+    translation: {
+      ...translationFR,
+      blog: { pageTitle: "Blog" },
+      links: { pageTitle: "Liens Utiles" },
+      stampa: { pageTitle: "Revue de Presse" },
+    },
+  },
+};
+
+i18n
+  .use(LanguageDetector) // Détection automatique de la langue
+  .use(initReactI18next) // Liaison avec React
+  .init({
+    resources,
+    fallbackLng: "fr", // Langue de secours mise sur FR pour test
+    supportedLngs: ["en", "it", "fr"], // Langues prises en charge
+    debug: process.env.NODE_ENV === "development",
+    interpolation: { escapeValue: false },
+    detection: {
+      order: [
+        "querystring",
+        "cookie",
+        "localStorage",
+        "sessionStorage",
+        "navigator",
+        "htmlTag",
+        "path",
+        "subdomain",
+      ],
+      caches: ["localStorage", "cookie"],
+    },
+  });
+
+// Vérification du chargement des ressources
+console.log("Langue détectée :", i18n.language);
+console.log(
+  "Ressources i18n chargées :",
+  i18n.getResourceBundle(i18n.language, "translation")
+);
+
+export default i18n;

@@ -1,21 +1,20 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue1.jpg";
 import styles from "./Stampa.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 const StampaPage = () => {
+  const { t } = useTranslation();
   return (
     <div className={styles.StampaPage}>
       <div className={styles.BackgroundFoto}>
-        <img src={BackgroundFoto} alt="Acqua di fiume con riflessi di luce" />
+        <img src={BackgroundFoto} alt={t("home.backgroundAlt")} />
       </div>
       <div className={styles.StampaTitle}>
-        <p>Rassegna Stampa </p>
+        <p>{t("stampa.pageTitle")}</p>
       </div>
       <div className={styles.Logo}>
-        <img
-          src={Logo}
-          alt="Logo - Libro aperto, con onde sulle pagine e nel fondo un viadotto"
-        />
+        <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
     </div>
   );
