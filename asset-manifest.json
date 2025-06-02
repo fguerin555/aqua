@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.f3200778.css",
-    "main.js": "/aqua/static/js/main.cbae6ae0.js",
+    "main.css": "/aqua/static/css/main.1878e767.css",
+    "main.js": "/aqua/static/js/main.5fe4c1c6.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
@@ -27,11 +27,11 @@
     "static/media/LogoOndaBlue1.jpg": "/aqua/static/media/LogoOndaBlue1.b7df58ee221a65c8bb59.jpg",
     "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.1562e23301a626c6e7be.png",
     "index.html": "/aqua/index.html",
-    "main.f3200778.css.map": "/aqua/static/css/main.f3200778.css.map",
-    "main.cbae6ae0.js.map": "/aqua/static/js/main.cbae6ae0.js.map"
+    "main.1878e767.css.map": "/aqua/static/css/main.1878e767.css.map",
+    "main.5fe4c1c6.js.map": "/aqua/static/js/main.5fe4c1c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3200778.css",
-    "static/js/main.cbae6ae0.js"
+    "static/css/main.1878e767.css",
+    "static/js/main.5fe4c1c6.js"
   ]
 }
