@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import Logo from "../../assets/images/LogoOndaBlue1.jpg";
+import Logo from "../../assets/images/LogoOndaBlue2.png";
 import styles from "./LinksPage.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 const LinksPage = () => {

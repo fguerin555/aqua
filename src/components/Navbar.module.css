@@ -73,7 +73,7 @@
 }
 
 .menuToggle:hover {
-  color: #bbf7fd;
+  color: #116aff;
 }
 
 .languageSwitcher {
@@ -90,7 +90,7 @@
   line-height: 0; /* Aide à ce que la hauteur du bouton s'adapte à l'image */
 }
 .languageSwitcher .flagIcon {
-  width: 30px;
+  width: 40px;
   height: auto;
   display: block;
 }

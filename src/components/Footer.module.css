@@ -24,7 +24,7 @@
   display: block; /* Évite les espaces superflus sous l'image */
   max-width: 100%; /* S'assure que l'image ne dépasse pas la largeur de .Partners */
   max-height: 100%; /* S'assure que l'image ne dépasse pas la hauteur de .Partners */
-  width: auto; /* Ajuste la largeur pour maintenir le ratio de l'image */
+  width: 100%; /* Ajuste la largeur pour maintenir le ratio de l'image */
   height: auto; /* Ajuste la hauteur pour maintenir le ratio de l'image */
 }
 

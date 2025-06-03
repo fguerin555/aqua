@@ -2,7 +2,7 @@
 import React from "react";
 import styles from "./HomePage.module.css";
 import { useTranslation } from "react-i18next";
-import Logo from "../../assets/images/LogoOndaBlue1.jpg";
+import Logo from "../../assets/images/LogoOndaBlue2.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 
 const Home = () => {

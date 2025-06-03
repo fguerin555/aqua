@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-import LogoImg from "../assets/images/LogoOndaBlue1.jpg";
+import LogoImg from "../assets/images/LogoOndaBlue2.png";
 import styles from "./Navbar.module.css";
 // import LanguageSwitcher from "./LanguageSwitcher";
 
