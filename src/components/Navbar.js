@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import LogoImg from "../assets/images/LogoOndaBlue1.jpg";
 import styles from "./Navbar.module.css";
-import LanguageSwitcher from "./LanguageSwitcher";
+// import LanguageSwitcher from "./LanguageSwitcher";
 
 // Importer les drapeaux
 import flagIT from "../assets/images/FlagItaly.png";
@@ -82,11 +82,11 @@ const Navbar = () => {
 
         {/* Sélecteur de langue avec drapeaux */}
         <li className={styles.languageSwitcher}>
-          <button onClick={() => changeLanguage("en")}>
-            <img src={flagEN} alt="English" className={styles.flagIcon} />
-          </button>
           <button onClick={() => changeLanguage("it")}>
             <img src={flagIT} alt="Italiano" className={styles.flagIcon} />
+          </button>
+          <button onClick={() => changeLanguage("en")}>
+            <img src={flagEN} alt="English" className={styles.flagIcon} />
           </button>
           <button onClick={() => changeLanguage("fr")}>
             <img src={flagFR} alt="Français" className={styles.flagIcon} />

@@ -76,10 +76,23 @@
   color: #bbf7fd;
 }
 
+.languageSwitcher {
+  display: flex; /* Aligne les boutons de langue horizontalement */
+  align-items: center; /* Centre les boutons verticalement */
+  gap: 5px; /* Espace entre les boutons de langue */
+}
+
+.languageSwitcher button {
+  background-color: transparent; /* Rend le fond du bouton transparent */
+  border: none; /* Supprime la bordure du bouton */
+  padding: 0; /* Supprime le rembourrage interne du bouton */
+  cursor: pointer; /* Garde le curseur pointeur pour indiquer que c'est cliquable */
+  line-height: 0; /* Aide à ce que la hauteur du bouton s'adapte à l'image */
+}
 .languageSwitcher .flagIcon {
-  width: 30%;
+  width: 30px;
   height: auto;
-  background-color: transparent;
+  display: block;
 }
 
 /* Styles pour le menu mobile/tablette */
@@ -116,11 +129,18 @@
     border-top: 1px solid rgba(255, 255, 255, 0.1); /* Ligne de séparation optionnelle */
   }
 
+  .languageSwitcher {
+    display: flex; /* Aligne les boutons de langue horizontalement */
+    align-items: center; /* Centre les boutons verticalement */
+    justify-content: center;
+    gap: 5px; /* Espace entre les boutons de langue */
+    flex-grow: 1;
+  }
   .navbarLinks.open {
     /* background: #236ffa; */
     background: #111111;
     display: flex;
-    height: 200px; /* Afficher les liens lorsque le menu est ouvert */
+    height: 230px; /* Afficher les liens lorsque le menu est ouvert */
   }
 
   .navbarLinks a {
@@ -148,6 +168,13 @@
   .navbarLinks a {
     font-size: 1.5rem; /* Police légèrement plus petite */
   }
+  .languageSwitcher {
+    display: flex; /* Aligne les boutons de langue horizontalement */
+    align-items: center; /* Centre les boutons verticalement */
+    justify-content: center;
+    gap: 3px; /* Espace entre les boutons de langue */
+    flex-grow: 1;
+  }
 }
 
 @media (max-width: 509px) {
@@ -158,5 +185,12 @@
 
   .logoImage {
     height: 30px; /* Logo légèrement plus petit */
+  }
+  .languageSwitcher {
+    display: flex; /* Aligne les boutons de langue horizontalement */
+    align-items: center; /* Centre les boutons verticalement */
+    justify-content: center;
+    gap: 2px; /* Espace entre les boutons de langue */
+    flex-grow: 1;
   }
 }
