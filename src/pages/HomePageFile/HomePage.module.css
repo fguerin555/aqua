@@ -42,7 +42,7 @@
   font-size: 35px;
   color: #bbf7fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 1px 1px 1px #000;
+  text-shadow: 2px 2px 2px #000;
   margin-top: 30px;
   position: relative;
   z-index: 1;
@@ -74,7 +74,7 @@
   font-size: 28px;
   color: whitesmoke;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 1px 1px 2px #000;
+  text-shadow: 2px 2px 2px #000;
   flex-direction: column;
   align-items: center;
   justify-content: center;
