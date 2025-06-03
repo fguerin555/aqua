@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.9dbe99d7.css",
-    "main.js": "/aqua/static/js/main.05414438.js",
+    "main.css": "/aqua/static/css/main.66daac58.css",
+    "main.js": "/aqua/static/js/main.e3c1307e.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
@@ -28,11 +28,11 @@
     "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.1562e23301a626c6e7be.png",
     "static/media/FlagEngland.png": "/aqua/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/aqua/index.html",
-    "main.9dbe99d7.css.map": "/aqua/static/css/main.9dbe99d7.css.map",
-    "main.05414438.js.map": "/aqua/static/js/main.05414438.js.map"
+    "main.66daac58.css.map": "/aqua/static/css/main.66daac58.css.map",
+    "main.e3c1307e.js.map": "/aqua/static/js/main.e3c1307e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dbe99d7.css",
-    "static/js/main.05414438.js"
+    "static/css/main.66daac58.css",
+    "static/js/main.e3c1307e.js"
   ]
 }
