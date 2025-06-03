@@ -64,11 +64,11 @@ const Navbar = () => {
             {t("navbar.program")}
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/BlogPage" onClick={handleLinkClick}>
             {t("navbar.blog")}
           </Link>
-        </li>
+        </li> */}
         <li>
           <Link to="/LinksPage" onClick={handleLinkClick}>
             {t("navbar.contacts")}
