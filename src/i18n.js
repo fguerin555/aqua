@@ -12,7 +12,7 @@ const resources = {
     translation: {
       ...translationEN,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Useful Links" },
+      links: { pageTitle: "Contacts" },
       stampa: { pageTitle: "Press Review" },
     },
   },
@@ -20,7 +20,7 @@ const resources = {
     translation: {
       ...translationIT,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Collegamenti Utili" },
+      links: { pageTitle: "Contatti" },
       stampa: { pageTitle: "Rassegna Stampa" },
     },
   },
@@ -28,7 +28,7 @@ const resources = {
     translation: {
       ...translationFR,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Liens Utiles" },
+      links: { pageTitle: "Contacts" },
       stampa: { pageTitle: "Revue de Presse" },
     },
   },
