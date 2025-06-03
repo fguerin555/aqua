@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aqua/static/css/main.48c8f680.css",
-    "main.js": "/aqua/static/js/main.6d6e1b22.js",
+    "main.js": "/aqua/static/js/main.05414438.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
@@ -29,10 +29,10 @@
     "static/media/FlagEngland.png": "/aqua/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/aqua/index.html",
     "main.48c8f680.css.map": "/aqua/static/css/main.48c8f680.css.map",
-    "main.6d6e1b22.js.map": "/aqua/static/js/main.6d6e1b22.js.map"
+    "main.05414438.js.map": "/aqua/static/js/main.05414438.js.map"
   },
   "entrypoints": [
     "static/css/main.48c8f680.css",
-    "static/js/main.6d6e1b22.js"
+    "static/js/main.05414438.js"
   ]
 }
