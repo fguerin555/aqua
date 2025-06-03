@@ -12,7 +12,10 @@ const resources = {
     translation: {
       ...translationEN,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Contacts" },
+      links: {
+        pageTitle: "Contacts",
+        cielincitta: "Association Ciel in Città",
+      },
       stampa: { pageTitle: "Press Review" },
     },
   },
@@ -20,7 +23,10 @@ const resources = {
     translation: {
       ...translationIT,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Contatti" },
+      links: {
+        pageTitle: "Contatti",
+        cielincitta: "Associazione Ciel in Città",
+      },
       stampa: { pageTitle: "Rassegna Stampa" },
     },
   },
@@ -28,7 +34,10 @@ const resources = {
     translation: {
       ...translationFR,
       blog: { pageTitle: "Blog" },
-      links: { pageTitle: "Contacts" },
+      links: {
+        pageTitle: "Contacts",
+        cielincitta: "Association Ciel in Città",
+      },
       stampa: { pageTitle: "Revue de Presse" },
     },
   },

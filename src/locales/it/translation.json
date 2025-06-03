@@ -200,13 +200,12 @@
       }
     },
     "blog": {
-      "blog": {
-        "pageTitle": "Blog"
-      }
+      "pageTitle": "Blog"
     }
   },
 
   "links": {
-    "pageTitle": "Links Utili"
+    "pageTitle": "Contatti",
+    "cielincitta": "Associazione Ciel'in Città"
   }
 }

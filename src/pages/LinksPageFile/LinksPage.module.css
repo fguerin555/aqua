@@ -60,6 +60,27 @@
   border-radius: 2px;
   box-shadow: 5px 5px 10px #19280199;
 }
+/* .liensite p {
+  font-size: 20px;
+  color: #bbf7fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
+.liensite a {
+  font-size: 20px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.liensite a:hover {
+  color: #bbf7fd;
+  cursor: pointer;
+}
 
 @media (max-width: 1224px) {
   .LinksPageTitle p {

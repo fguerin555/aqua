@@ -17,6 +17,15 @@ const LinksPage = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
+      <div className={styles.liensite}>
+        <a
+          href="https://cielincitta.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <p>{t("links.cielincitta")}</p>
+        </a>
+      </div>
     </div>
   );
 };
