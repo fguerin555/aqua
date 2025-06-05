@@ -60,21 +60,12 @@
   border-radius: 2px;
   box-shadow: 5px 5px 10px #19280199;
 }
-/* .liensite p {
-  font-size: 20px;
-  color: #bbf7fd;
-  font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
-  margin-top: 10px;
-  margin-bottom: 10px;
-} */
+
 .liensite a {
   font-size: 20px;
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 .liensite a:hover {
@@ -82,13 +73,47 @@
   cursor: pointer;
 }
 
+.liensite a p {
+  margin: 0; /* Réinitialise les marges par défaut du paragraphe pour un meilleur alignement vertical. */
+}
+.LogoCiC {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex; /* Active Flexbox */
+  align-items: center; /* Aligne verticalement l'image et le lien au centre */
+  justify-content: center;
+}
+
+.LogoCiC img {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+}
+
 @media (max-width: 1224px) {
   .LinksPageTitle p {
     font-size: 30px;
+  }
+  .LogoCiC img {
+    width: 45px;
+    height: 45px;
+  }
+
+  .liensite a {
+    font-size: 20px;
   }
 }
 @media (max-width: 509px) {
   .LinksPageTitle p {
     font-size: 25px;
+  }
+  .liensite a {
+    font-size: 12px;
+  }
+  .LogoCiC img {
+    width: 30px;
+    height: 30px;
   }
 }

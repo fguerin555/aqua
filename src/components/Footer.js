@@ -1,7 +1,7 @@
 import React from "react";
 
 import styles from "./Footer.module.css";
-import Partners from "../assets/LogosPartners/Partners+CiC.png";
+import Partners from "../assets/LogosPartners/SponsorsBandeauTransparent.png";
 
 const Footer = () => {
   return (
