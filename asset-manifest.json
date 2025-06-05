@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/aqua/static/css/main.66daac58.css",
-    "main.js": "/aqua/static/js/main.33b02286.js",
+    "main.css": "/aqua/static/css/main.3ae34593.css",
+    "main.js": "/aqua/static/js/main.6d791ed5.js",
     "static/media/BackgroundFoto5.png": "/aqua/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/aqua/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/aqua/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
@@ -23,16 +23,17 @@
     "static/media/ParcodiTorredelFiscale.png": "/aqua/static/media/ParcodiTorredelFiscale.0813cb8c0a72dc31c4ee.png",
     "static/media/ViaFilippoRe.png": "/aqua/static/media/ViaFilippoRe.6386968cebf0f37660c4.png",
     "static/media/LogoOndaBlue2.png": "/aqua/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
-    "static/media/Partners+CiC.png": "/aqua/static/media/Partners+CiC.3092dc5a35f68b0a0bcc.png",
     "static/media/ViadiTorreBranca.png": "/aqua/static/media/ViadiTorreBranca.de0ae6684a45759ec61f.png",
+    "static/media/SponsorsBandeauTransparent.png": "/aqua/static/media/SponsorsBandeauTransparent.80ec6e2f82f680b353f6.png",
     "static/media/simbolmapp.png": "/aqua/static/media/simbolmapp.1562e23301a626c6e7be.png",
+    "static/media/LogoCiC.png": "/aqua/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/aqua/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/aqua/index.html",
-    "main.66daac58.css.map": "/aqua/static/css/main.66daac58.css.map",
-    "main.33b02286.js.map": "/aqua/static/js/main.33b02286.js.map"
+    "main.3ae34593.css.map": "/aqua/static/css/main.3ae34593.css.map",
+    "main.6d791ed5.js.map": "/aqua/static/js/main.6d791ed5.js.map"
   },
   "entrypoints": [
-    "static/css/main.66daac58.css",
-    "static/js/main.33b02286.js"
+    "static/css/main.3ae34593.css",
+    "static/js/main.6d791ed5.js"
   ]
 }
