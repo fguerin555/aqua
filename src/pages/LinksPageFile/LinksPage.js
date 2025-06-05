@@ -21,11 +21,7 @@ const LinksPage = () => {
       <div className={styles.liensite}>
         <div className={styles.LogoCiC}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
-          <a
-            href="https://cielincitta.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href="https://cielincitta.org" rel="noopener noreferrer">
             <p>{t("links.cielincitta")}</p>
           </a>
         </div>
