@@ -11,6 +11,7 @@ const LinksPage = () => {
       <div className={styles.BackgroundFoto}>
         <img src={BackgroundFoto} alt={t("home.backgroundAlt")} />
       </div>
+
       <div className={styles.LinksPageTitle}>
         <p>{t("links.pageTitle")}</p>
       </div>
