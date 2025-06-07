@@ -24,33 +24,33 @@
     "mapSymbolAlt": "Simbolo indicazione mappa",
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
-      "name1": "Omaggio a Don Roberto Sardelli",
-      "time1": "Il 12 Luglio 2025 dalle 11.00 alle 21.00",
-      "name2": "Inaugurazione del monumento a Don Roberto Sardelli",
-      "time2": "Il 16 Settembre 2025 dalle 18.00 alle 21.00",
-      "description": "Giornata di studi sulla figura di DON ROBERTO SARDELLI con l’inaugurazione di un monumento a lui dedicato. DON ROBERTO SARDELLI è stato un sacerdote chiave per il riscatto delle condizioni di vita degli abitanti del mandrione e dell’acquedotto Felice. DON SARDELLI arrivò alla fine degli anni sessanta in questa area degradata di roma, occupandosi concretamente dei disagi dei baraccati, dando vita a una scuola profondamente innovativa e attivando l’approvvigionamento dell’acqua.",
-      "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br />VANESSA ROGHI, storica della scuola e dell’educazione<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
+      "name1": "Incontro/giornata di studi su Don Roberto Sardelli",
+      "time1": "il 5 luglio 2025 dalle 18:30 in poi",
+      "name2": "",
+      "time2": "",
+      "description": "Incontro/giornata di studi sulla figura di Don Roberto Sardelli nello studio dell'artista che realizza un'opera in sua memoria.Don Roberto Rardelli è stato un sacerdote chiave per il riscatto delle condizioni di vita degli abitanti del mandrione e dell’acquedotto felice. Don Sardelli arrivò alla fine degli anni sessanta in questa area degradata di roma, occupandosi concretamente dei disagi dei baraccati, dando vita a una scuola profondamente innovativa e attivando l’approvvigionamento dell’acqua.",
+      "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
       "location1": {
-        "name": "Parchetto Condiviso, via Casilina Vecchia 124, Roma.",
-        "imageAlt": "Parchetto Condiviso, via Casilina Vecchia 124, Roma",
-        "mapQuery": "Parchetto Condiviso, via Casilina Vecchia 124, Roma"
+        "name": "Via del Mandrione 455, Roma.",
+        "imageAlt": "Via del Mandrione 455, Roma",
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
-        "name": "Fontana di Clemente XII via del Mandrione 363, Roma",
-        "imageAlt": "Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma",
-        "mapQuery": "Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma"
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": ""
       }
     },
     "appointment2": {
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
-      "time": "Il 9/10 Luglio 2025 e 18/19 Luglio 2025 dalle 21.00 in poi",
-      "description": "Spettacolo,Incontro,Installazione, Video. Proiezioni di video di artisti italiani e stranieri sull tema dell'acqua attraverso una lente estetica ed ambiantale.",
-      "artistList": "Artisti: FABRIZIO PLESSI <br /> ROBERT CAHEN <br /> STUDIO AZZURO <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
+      "time": "Il 9,10,18 e 19 luglio 2025 dalle 21.00 in poi",
+      "description": "Spettacolo,Incontro,Installazione, Video. Proiezioni di video di artisti italiani e stranieri che hanno per tema l'acqua interpretata attraverso una lente estetica ed ambiantale.",
+      "artistList": "Artisti: STUDIO AZZURO <br /> FABRIZIO PLESSI <br /> FABRIZIO ROBERT CAHEN <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
       "location1": {
-        "name": "Parco di Torre del Fiscale, Roma.",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma ",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
       },
       "location2": {
         "name": "Piazza dei Tribuni. Municipio VII, Roma",
@@ -86,8 +86,8 @@
     "appointment3": {
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "I Portatori d'Acqua",
-      "time": "Il 17/09/2025 dalle 18 in poi e 25/09/2025 dalle 18 in poi",
-      "description": "Performance, Mostra/Installazione. Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere dall’artista Iginio De Luca. Mostra/restituzione di performance, di disegno acquatico di Pamela Pintus",
+      "time": "Il 17 e 25 settembre 2025 dalle 18 in poi",
+      "description": "Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere dall’artista Iginio De Luca. Mostra/restituzione di performance di disegno acquatico di Pamela Pintus",
       "artistList": "Artisti: IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "via Casilina Vecchia 19,Roma.",
@@ -133,8 +133,8 @@
     "appointment4": {
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
-      "time": "Il 08/07/2025,11/09/2025 dalle 15 in poi e 18/09/2025,25/09/2025 dalle 15 in poi",
-      "description": "Artisti che hanno i loro studi nei municipi V e VII e che sono riuniti in associazioni culturali danno vita ad atelier di pittura en plein air aperti alla cittadinanza locale. Queste iniziative si interfacceranno con sessioni di inteligenza artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
+      "time": "Il 08 luglio 2025 dalle 15 in poi e il 11,18 e 25 settembre 2025 dalle 15 in poi",
+      "description": "Artisti che hanno i loro studi nei municipi V e VII e che sono riuniti in associazioni culturali, danno vita ad atelier di pittura en plein air aperti alla cittadinanza locale. Queste iniziative si interfacceranno con sessioni di Inntelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
       "artistList": "Artisti: GIULIA APICE <br />PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br />  LUCA GRECHI <br />  ALFREDO PIRRI <br />  MADDALENA SCUDERONI <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "Piazza dei Tribuni, Municipio VII,Roma.",
@@ -171,7 +171,7 @@
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "L'Arte in una Stanza",
       "time": "Il 19/26 Settembre 2025 e 3/10 Ottobre 2025 dalle 14.30 alle 18.30",
-      "description": "Laboratorio, Incontro, Arte, Incluzione Sociale. Laboratori d'Arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di terracotta, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio IV e VII. A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i sudetti studi aperti anche alla cittadinanza.",
+      "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. a conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
       "artistList": "Artisti: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br /> MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma.",
@@ -182,6 +182,11 @@
         "name": "Istituto Compresivo \"Anna Fraentzel Celli\",Via dei Fiorentini 48, Roma.",
         "imageAlt": "Istituto Compresivo - Anna Fraentzel Celli - Via dei Fiorentini 48, Roma",
         "mapQuery": "Via dei Fiorentini 48, Roma"
+      },
+      "location3": {
+        "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
+        "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
+        "mapQuery": "Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {

@@ -24,33 +24,33 @@
     "mapSymbolAlt": "Symbole de localisation sur carte",
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
-      "name1": "Hommage à Don Roberto Sardelli",
-      "time1": "Le 12 Juillet 2025 de 11h00 à 21h00",
-      "name2": "Inauguration du monument à Don Roberto Sardelli",
-      "time2": "Le 16 Septembre 2025 de 18h00 à 21h00",
-      "description": "Journée d'études sur la figure de DON ROBERTO SARDELLI avec l'inauguration d'un monument qui lui est dédié. DON ROBERTO SARDELLI a été un prêtre clé pour l'amélioration des conditions de vie des habitants du Mandrione et de l'aqueduc Felice. DON SARDELLI est arrivé à la fin des années soixante dans cette zone dégradée de Rome, s'occupant concrètement des difficultés des habitants des bidonvilles, donnant vie à une école profondément innovante et activant l'approvisionnement en eau.",
-      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, magnifique recteur de l’université Roma Tre <br />VANESSA ROGHI, historienne de l’école et de l’éducation<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "name1": "Rencontre/journée d’études sur Don Roberto Sardelli",
+      "time1": "Le 05 juillet 2025 à partir de 18:30",
+      "name2": "",
+      "time2": "",
+      "description": "Rencontre/journée d’études sur la figure de Don Roberto Sardelli dans l’atelier de l’artiste qui réalise une œuvre en sa mémoire. Don Roberto Rardelli a été un prêtre clé pour le rachat des conditions de vie des habitants du troupeau et de l’aqueduc heureux. Don Sardelli est arrivé à la fin des années soixante dans cette zone délabrée de Rome, s’occupant concrètement des désagréments des baraccati, donnant vie à une école profondément innovante et activant l’approvisionnement en  eau.",
+      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, recteur de l’université Roma Tre <br /> ALFREDO PIRRI, artiste <br />ADRIANA POLVERONI, enseignante à NABA et commissaire <br /> VANESSA ROGHI, historienne de l’école et de l’éducation<br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
-        "name": "Parchetto Condiviso, via Casilina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto Condiviso, via Casilina Vecchia 124, Rome",
-        "mapQuery": "Parchetto Condiviso, via Casilina Vecchia 124, Roma"
+        "name": "Via del Mandrione 455, Rome.",
+        "imageAlt": "Via del Mandrione 455, Rome",
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
-        "name": "Fontaine de Clément XII, via del Mandrione 363, Rome",
-        "imageAlt": "Fontaine de Clément XII et murs adjacents, via del Mandrione 363, Rome",
-        "mapQuery": "Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma"
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": ""
       }
     },
     "appointment2": {
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
-      "time": "Les 9/10 Juillet 2025 et 18/19 Juillet 2025 à partir de 21h00",
-      "description": "Spectacle, Rencontre, Installation, Vidéo. Projections de vidéos d'artistes italiens et étrangers sur le thème de l'eau à travers un prisme esthétique et environnemental.",
-      "artistList": "Artistes : FABRIZIO PLESSI <br /> ROBERT CAHEN <br /> STUDIO AZZURO <br /> Commissaire : BRUNO DI MARINO<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "time": "Les 9,10,18 et 19 juillet 2025 à partir de 21h00",
+      "description": "Spectacle, Rencontre,Installation, Vidéo. Projections de vidéos d’artistes italiens et étrangers qui ont pour thème l’eau interprétée à travers une lentille esthétique et ambiante..",
+      "artistList": "Artistes : STUDIO AZZURO <br /> FABRIZIO PLESSI  <br /> ROBERT CAHEN <br /> Commissaire : BRUNO DI MARINO<br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
-        "name": "Parc de Torre del Fiscale, Rome.",
-        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
       },
       "location2": {
         "name": "Piazza dei Tribuni. Municipalité VII, Rome",
@@ -86,8 +86,8 @@
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "Les Porteurs d'Eau",
-      "time": "Le 17/09/2025 à partir de 18h et le 25/09/2025 à partir de 18h",
-      "description": "Performance, Exposition/Installation. Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par l'artiste Iginio De Luca. Exposition/restitution de performance, de dessin aquatique par Pamela Pintus.",
+      "time": "Les 17 et 25 septembre 2025 à partir de 18 heures",
+      "description": "Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par l'artiste Iginio De Luca. Exposition/restitution de performance, de dessin aquatique par Pamela Pintus.",
       "artistList": "Artistes : IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Via Casilina Vecchia 19, Rome.",
@@ -133,7 +133,7 @@
     "appointment4": {
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
-      "time": "Le 08/07/2025, 11/09/2025 à partir de 15h et le 18/09/2025, 25/09/2025 à partir de 15h",
+      "time": "Le 08 juillet 2025 à partir de 15h et les 11,18 et 25 septembre 2025 à partir de 15h",
       "description": "Des artistes ayant leurs ateliers dans les municipalités V et VII et regroupés en associations culturelles animent des ateliers de peinture en plein air ouverts aux citoyens locaux. Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
       "artistList": "Artistes : GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br /> LUCA GRECHI <br /> ALFREDO PIRRI <br />  MADDALENA SCUDERONI <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
@@ -171,7 +171,7 @@
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "L'Art dans une Pièce",
       "time": "Les 19/26 Septembre 2025 et 3/10 Octobre 2025 de 14h30 à 18h30",
-      "description": "Atelier, Rencontre, Art, Inclusion Sociale. Ateliers d'art pour aveugles, malvoyants et voyants ; certaines écoles des municipalités IV et VII accueilleront des ateliers de terre cuite, vidéo, bande dessinée et photographie animés par des artistes ayant leurs ateliers entre la municipalité IV et VII. À l'issue de l'expérience formative, une ou plusieurs journées de visites desdits ateliers, également ouvertes au public, sont prévues.",
+      "description": "Ateliers d’art pour les aveugles, les malvoyants et les malvoyants; certaines écoles des municipalités IV et VII accueilleront des ateliers de céramique, vidéo, bande dessinée et photographie dirigés par des artistes qui ont leurs propres studios entre les municipalités V et VII. à la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les studios mentionnés ci-dessus ouverts également à la citoyenneté.",
       "artistList": "Artistes : IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br /> GERMANO SERAFINI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Siège du Comité de Quartier Municipalité VII, Via Angelica Balabanoff 60, Rome.",
@@ -182,6 +182,11 @@
         "name": "Institut Compréhensif \"Anna Fraentzel Celli\", Via dei Fiorentini 48, Rome.",
         "imageAlt": "Institut Compréhensif - Anna Fraentzel Celli - Via dei Fiorentini 48, Rome",
         "mapQuery": "Via dei Fiorentini 48, Roma"
+      },
+      "location3": {
+        "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
+        "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
+        "mapQuery": "Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {

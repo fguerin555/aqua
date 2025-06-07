@@ -23,33 +23,33 @@
     "mapSymbolAlt": "Map pin symbol",
     "appointment1": {
       "sectionTitle": "APPOINTMENT 1",
-      "name1": "Tribute to Don Roberto Sardelli",
-      "time1": "July 12, 2025 from 11.00 AM to 9.00 PM",
-      "name2": "Inauguration of the monument to Don Roberto Sardelli",
-      "time2": "September 16, 2025 from 6.00 PM to 9.00 PM",
-      "description": "Study day on the figure of DON ROBERTO SARDELLI with the inauguration of a monument dedicated to him. DON ROBERTO SARDELLI was a key priest for the redemption of the living conditions of the inhabitants of the Mandrione and the Felice aqueduct. DON SARDELLI arrived at the end of the sixties in this degraded area of Rome, concretely dealing with the hardships of the shack dwellers, giving life to a profoundly innovative school and activating the water supply.",
-      "artistList": "Artist: ALFREDO PIRRI, author of the work <br /> Curator: ADRIANA POLVERONI<br /> Study day speakers: ASCANIO CELESTINI, author and actor <br /> MASSIMILIANO FIORUCCI, magnificent rector of Roma Tre University <br />VANESSA ROGHI, historian of school and education<br />Target audience: children, adults, everyone<br /> Free access",
+      "name1": "Meeting/study day on Don Roberto Sardelli",
+      "time1": "On 5 July 2025 from 6.30 PM onwards",
+      "name2": "",
+      "time2": "",
+      "description": "Meeting/ day of studies on the figure of Don Roberto Sardelli in the studio of the artist who creates a work in his memory. Don Roberto Rardelli was a key priest for the rescue of the living conditions of the inhabitants of the happy herd and aqueduct. Don Sardelli arrived at the end of the sixties in this degraded area of rome, dealing concretely with the inconveniences of the baraccati, giving life to a deeply innovative school and activating the water supply.",
+      "artistList": "Artist: ALFREDO PIRRI, author of the work <br /> Curator: ADRIANA POLVERONI<br /> Study day speakers: ASCANIO CELESTINI, author and actor <br /> MASSIMILIANO FIORUCCI, rector of Roma Tre University <br /> ALFREDO PIRRI, artist <br /> ADRIANA POLVERONI, professor at NABA and curator <br />VANESSA ROGHI, historian of school and education<br />Target audience: children, adults, everyone<br /> Free access",
       "location1": {
-        "name": "Parchetto Condiviso, via Casilina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto Condiviso, via Casilina Vecchia 124, Rome",
-        "mapQuery": "Parchetto Condiviso, via Casilina Vecchia 124, Rome"
+        "name": "Via del Mandrione 455, Rome.",
+        "imageAlt": "Via del Mandrione 455, Rome",
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
-        "name": "Fountain of Clement XII, via del Mandrione 363, Rome",
-        "imageAlt": "Fountain of Clement XII and surrounding walls, via del Mandrione 363, Rome",
-        "mapQuery": "Fontana di Clemente XII e mura limitrofe via del Mandrione 363, Roma"
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": ""
       }
     },
     "appointment2": {
       "sectionTitle": "APPOINTMENT 2",
       "name": "Water in Motion",
-      "time": "July 9/10, 2025 and July 18/19, 2025 from 9.00 PM onwards",
-      "description": "Show, Meeting, Installation, Video. Projections of videos by Italian and foreign artists on the theme of water through an aesthetic and environmental lens.",
-      "artistList": "Artists: FABRIZIO PLESSI <br /> ROBERT CAHEN <br /> STUDIO AZZURO <br /> Curator: BRUNO DI MARINO.<br />Target audience: children, adults, everyone.<br /> Free access.",
+      "time": "On 9,10,18 and 19 July 2025 from 9 PM onwards",
+      "description": "Performance, Meeting, Installation, Video. Projections of videos by Italian and foreign artists whose theme is water interpreted through an aesthetic and ambient lens.",
+      "artistList": "Artists: STUDIO AZZURO <br />FABRIZIO PLESSI  <br /> ROBERT CAHEN <br /> Curator: BRUNO DI MARINO.<br />Target audience: children, adults, everyone.<br /> Free access.",
       "location1": {
-        "name": "Parco di Torre del Fiscale, Rome.",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
       },
       "location2": {
         "name": "Piazza dei Tribuni. Municipality VII, Rome",
@@ -85,8 +85,8 @@
     "appointment3": {
       "sectionTitle": "APPOINTMENT 3",
       "name": "The Water Bearers",
-      "time": "September 17, 2025 from 6 PM onwards and September 25, 2025 from 6 PM onwards",
-      "description": "Performance, Exhibition/Installation. Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by the artist Iginio De Luca. Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus.",
+      "time": "On 17 and 25 September 2025 from 6 PM onwards",
+      "description": "Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by the artist Iginio De Luca. Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus.",
       "artistList": "Artists: IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br />Target audience: children, adults, everyone <br /> Free acces.",
       "location1": {
         "name": "Via Casilina Vecchia 19, Rome.",
@@ -132,7 +132,7 @@
     "appointment4": {
       "sectionTitle": "APPOINTMENT 4",
       "name": "From Plein Air Painting to Artificial Art",
-      "time": "July 08, 2025, September 11, 2025 from 3 PM onwards and September 18, 2025, September 25, 2025 from 3 PM onwards",
+      "time": "On 08 July 2025 from 3 PM onwards and 11,18 and 25 September 2025 from 3 PM onwards",
       "description": "Artists who have their studios in municipalities V and VII and who are part of cultural associations create plein air painting workshops open to the local community. These initiatives will interface with artificial intelligence sessions, creating immersive environments that allow public interaction.",
       "artistList": "Artists: GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br />LUCA GRECHI <br /> ALFREDO PIRRI <br />MADDALENA SCUDERONI <br /> Curator: ADRIANA POLVERONI <br />Target audience: children, adults, everyone <br /> Free access",
       "location1": {
@@ -170,7 +170,7 @@
       "sectionTitle": "APPOINTMENT 5",
       "name": "Art in a Room",
       "time": "September 19/26, 2025 and October 3/10, 2025 from 2.30 PM to 6.30 PM",
-      "description": "Workshop, Meeting, Art, Social Inclusion. Art workshops for blind, visually impaired, and sighted people; some schools in municipalities IV and VII will host terracotta, video, comics, and photography workshops led by artists who have their studios between municipality IV and VII. At the end of the training experience, one or more days of visits to the aforementioned studios, also open to the public, are planned.",
+      "description": "Art workshops for the blind, partially sighted and visually impaired; some schools of municipalities IV and VII will host workshops on ceramics, video, comics and photography conducted by artists who have their own studios between municipalities V and VII. At the end of the training experience, one or more days of visits to the above-mentioned studios are also open to citizens.",
       "artistList": "Artists: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /> Target audience: children, adults, everyone <br /> Free access",
       "location1": {
         "name": "Headquarters of Neighborhood Committee Municipality VII, Via Angelica Balabanoff 60, Rome.",
@@ -181,6 +181,11 @@
         "name": "Comprehensive Institute \"Anna Fraentzel Celli\", Via dei Fiorentini 48, Rome.",
         "imageAlt": "Comprehensive Institute - Anna Fraentzel Celli - Via dei Fiorentini 48, Rome",
         "mapQuery": "Via dei Fiorentini 48, Roma"
+      },
+      "location3": {
+        "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
+        "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
+        "mapQuery": "Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {

@@ -90,7 +90,7 @@
 
 .CiCpresenta p {
   font-size: 20px;
-  color: #bbf7fd;
+  color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   position: relative;
@@ -113,7 +113,7 @@
 }
 .Credits p {
   font-size: 20px;
-  color: #bbf7fd;
+  color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   position: relative;
@@ -126,7 +126,7 @@
 
 .HomePageContentB p {
   font-size: 28px;
-  color: whitesmoke;
+  color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   flex-direction: column;
