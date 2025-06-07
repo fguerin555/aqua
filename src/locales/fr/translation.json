@@ -44,7 +44,7 @@
     "appointment2": {
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
-      "time": "Les 9,10,18 et 19 juillet 2025 à partir de 21h00",
+      "time": "Les 9, 10, 18 et 19 juillet 2025 à partir de 21h00",
       "description": "Spectacle, Rencontre,Installation, Vidéo. Projections de vidéos d’artistes italiens et étrangers qui ont pour thème l’eau interprétée à travers une lentille esthétique et ambiante..",
       "artistList": "Artistes : STUDIO AZZURO <br /> FABRIZIO PLESSI  <br /> ROBERT CAHEN <br /> Commissaire : BRUNO DI MARINO<br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
@@ -133,7 +133,7 @@
     "appointment4": {
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
-      "time": "Le 08 juillet 2025 à partir de 15h et les 11,18 et 25 septembre 2025 à partir de 15h",
+      "time": "Le 08 juillet 2025 à partir de 15h et les 11, 18 et 25 septembre 2025 à partir de 15h",
       "description": "Des artistes ayant leurs ateliers dans les municipalités V et VII et regroupés en associations culturelles animent des ateliers de peinture en plein air ouverts aux citoyens locaux. Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
       "artistList": "Artistes : GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br /> LUCA GRECHI <br /> ALFREDO PIRRI <br />  MADDALENA SCUDERONI <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
@@ -170,7 +170,8 @@
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "L'Art dans une Pièce",
-      "time": "Les 19/26 Septembre 2025 et 3/10 Octobre 2025 de 14h30 à 18h30",
+      "time1": "Lieu : Comité de quartier <br /> Les 19 et 26 septembre et les 03 et 10 octobre 2025 de 14h30 à 18h30.",
+      "time2": "Lieu : Établissements Scolaires <br /> Le 01, 02, 03, 22, 23, 24 octobre 2025 de 9h à 13h. <br /> Le 05, 06, 07, 26, 27, 28 Novembre 2025 dalle 9 alle 13.",
       "description": "Ateliers d’art pour les aveugles, les malvoyants et les malvoyants; certaines écoles des municipalités IV et VII accueilleront des ateliers de céramique, vidéo, bande dessinée et photographie dirigés par des artistes qui ont leurs propres studios entre les municipalités V et VII. à la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les studios mentionnés ci-dessus ouverts également à la citoyenneté.",
       "artistList": "Artistes : IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br /> GERMANO SERAFINI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
@@ -186,14 +187,15 @@
       "location3": {
         "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
         "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
-        "mapQuery": "Via Beata Maria de Mattias,5 Roma."
+        "mapQuery": "IIS Confalonieri De Chirico - sede IPSC Teresa Confalonieri, Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {
       "sectionTitle": "RENDEZ-VOUS 6",
       "name": "La Beauté de l'Eau",
-      "time1": "Le 02/07/2025, 07/07/2025 et 31/07/2025, INAUGURATION à 19h00",
-      "time2": "Le 03/10/2025, 30/10/2025 et 31/10/2025, INAUGURATION à 19h00",
+      "time1": "Oeuvre: La Fontaine des Brumes de Paolo Assenza <br/> Inauguration le 07 Juillet et 31 Octobre 2025 à 19 heures.",
+      "time2": "Oeuvre: Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration le 02 Juillet et 31 Juillet 2025 à 19 heures",
+      "time3": "Oeuvre: Ri-Sorgente de Laurent le Deunff <br/> Inauguration le 03 Octobre et 31 Octobre 2025 à 19 heures",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
       "artistList": "Artistes : PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires : ADRIANA POLVERONI, ISABELLA VALENTE <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {

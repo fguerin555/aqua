@@ -501,7 +501,21 @@ const Programma = () => {
           <p>{t("program.appointment5.name")}</p>
         </div>
         <div className={styles.Orari}>
-          <p>{t("program.appointment5.time")}</p>
+          <p>
+            <Trans i18nKey="program.appointment5.time1">
+              Sede: Comitato di Quartiere <br /> le 19, 26 Settembre e 05, 26
+              Ottobre 2025 dalle 14.30 alle 18.30
+            </Trans>
+          </p>
+        </div>
+        <div className={styles.Orari}>
+          <p>
+            <Trans i18nKey="program.appointment5.time2">
+              Sede: Istituti Scolastici <br /> Le 01, 02, 03, 22, 23, 24 Ottobre
+              2025 dalle 9 alle 13. <br /> Le 05, 06, 07, 26, 27, 28 Novembre
+              2025 dalle 9 alle 13.
+            </Trans>
+          </p>
         </div>
         <div className={styles.EventDescription}>
           <p>{t("program.appointment5.description")}</p>
@@ -587,9 +601,24 @@ const Programma = () => {
         </div>
 
         <div className={styles.Orari}>
-          <p>{t("program.appointment6.time1")}</p>
-          <p>{t("program.appointment6.time2")}</p>
+          <p>
+            <Trans i18nKey="program.appointment6.time1">
+              <p>{t("program.appointment6.time1")}</p>
+            </Trans>
+          </p>
+          <p>
+            {" "}
+            <Trans i18nKey="program.appointment6.time2">
+              <p>{t("program.appointment6.time2")}</p>
+            </Trans>
+          </p>
+          <p>
+            <Trans i18nKey="program.appointment6.time3">
+              <p>{t("program.appointment6.time3")}</p>
+            </Trans>
+          </p>
         </div>
+
         <div className={styles.EventDescription}>
           <p>
             <Trans i18nKey="program.appointment6.description">
@@ -606,9 +635,9 @@ const Programma = () => {
               L’artista Mercedes Klausner, ospitata in residenza da progetto
               Pianobi, realizzerà un’opera utilizzando della polvere ricavata
               dai detriti dei vecchi mattoni delle case distrutte, recuperati ai
-              piedi dell’acquedotto felice. Tale intervento darà luogo a delle
+              piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle
               opere capaci di produrre delle immagini che saranno proiettate sui
-              muri di progetto Pianobi in via dei ciceri 99.
+              muri di progetto Pianobi in via dei Ciceri 99.
               <br />
               Laurent le Deunff, durante la sua residenza presso la sede
               operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa.
