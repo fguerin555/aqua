@@ -98,17 +98,7 @@ const Programma = () => {
         <div className={styles.Luoghi}>
           <p>{t("program.appointment1.location2.name")}</p>
         </div>
-        {/* <div className={styles.Foto}>
-          <img
-            src={fontana}
-            alt={t("program.appointment1.location2.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment1.location2.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div> */}
+
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment2.sectionTitle")}</p>
         </div>
@@ -602,20 +592,22 @@ const Programma = () => {
 
         <div className={styles.Orari}>
           <p>
-            <Trans i18nKey="program.appointment6.time1">
-              <p>{t("program.appointment6.time1")}</p>
-            </Trans>
+            <Trans
+              i18nKey="program.appointment6.time1"
+              components={{ br: <br /> }}
+            />
           </p>
           <p>
-            {" "}
-            <Trans i18nKey="program.appointment6.time2">
-              <p>{t("program.appointment6.time2")}</p>
-            </Trans>
+            <Trans
+              i18nKey="program.appointment6.time2"
+              components={{ br: <br /> }}
+            />
           </p>
           <p>
-            <Trans i18nKey="program.appointment6.time3">
-              <p>{t("program.appointment6.time3")}</p>
-            </Trans>
+            <Trans
+              i18nKey="program.appointment6.time3"
+              components={{ br: <br /> }}
+            />
           </p>
         </div>
 
@@ -687,21 +679,79 @@ const Programma = () => {
         <div className={styles.Luoghi}>
           <p>{t("program.appointment6.location2.name")}</p>
         </div>
-
         <div className={styles.Foto}>
           <img
             src={PianoBi}
             alt={t("program.appointment6.location2.imageAlt")}
           />
-
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment6.location2.mapQuery")}>
+            <MapButton mapQuery={t("program.appointment6.location1.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
         </div>
-      </div>{" "}
-      {/* Fin de styles.ProgrammaPage */}
+
+        <div className={styles.TitleAppuntamento}>
+          <p>{t("program.appointment7.sectionTitle")}</p>
+        </div>
+        <div className={styles.NameAppuntamento}>
+          <p>
+            <Trans> {t("program.appointment7.name")}</Trans>
+          </p>
+        </div>
+        <div className={styles.Orari}>
+          <p>{t("program.appointment7.time1")}</p>
+        </div>
+        <div className={styles.EventDescriptionShort}>
+          <p>{t("program.appointment7.description")}</p>
+        </div>
+        <div className={styles.ArtistList}>
+          <p>
+            <Trans i18nKey="program.appointment7.artistList">
+              Artista: ALFREDO PIRRI, autore dell’opera <br />
+              Curatrice: ADRIANA POLVERONI
+              <br />
+              Pubblico di riferimento: bambini, adulti, tutti.
+              <br /> Accesso libero.
+            </Trans>
+          </p>
+        </div>
+        <div className={styles.Luoghi}>
+          <p>
+            <Trans> {t("program.appointment7.location1.name")}</Trans>
+          </p>
+        </div>
+
+        <div className={styles.Foto}>
+          <img
+            src={fontana}
+            alt={t("program.appointment7.location1.imageAlt")}
+          />
+
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery={t("program.appointment7.location1.mapQuery")}>
+              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+            </MapButton>
+          </div>
+        </div>
+
+        <div className={styles.Luoghi}>
+          <p>
+            <Trans> {t("program.appointment7.location2.name")}</Trans>
+          </p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={parchetto}
+            alt={t("program.appointment7.location2.imageAlt")}
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery={t("program.appointment7.location2.mapQuery")}>
+              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+            </MapButton>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

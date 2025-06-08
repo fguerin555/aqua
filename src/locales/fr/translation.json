@@ -53,19 +53,19 @@
         "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
       },
       "location2": {
-        "name": "Piazza dei Tribuni. Municipalité VII, Rome",
+        "name": "Piazza dei Tribuni, Municipalité VII, Rome",
         "imageAlt": "Piazza dei Tribuni, Municipalité VII, Rome",
-        "mapQuery": "Piazza dei Tribuni. Municipio VII, Roma"
+        "mapQuery": "Piazza dei Tribuni, Roma"
       },
       "location3": {
         "name": "Villa de Sanctis, via dei Gordiani 5, Rome",
         "imageAlt": "Villa de Sanctis, via dei Gordiani 5, Rome",
-        "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
+        "mapQuery": "Villa de Sanctis, via dei Gordiani 5, Roma"
       },
       "location4": {
-        "name": "Jardin des Cerisiers, via Filippo Re, Rome",
-        "imageAlt": "Jardin des Cerisiers, via Filippo Re, Rome",
-        "mapQuery": "Giardino Dei Ciliegi, via Filippo Re, Roma"
+        "name": "Giardino dei Ciliegi, via Filippo Re, Rome",
+        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Rome",
+        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
       },
       "location5": {
         "name": "Parc Sangalli, viale dell’Acquedotto Alessandrino Municipalité V, Rome",
@@ -142,19 +142,19 @@
         "mapQuery": "Piazza dei Tribuni,Roma."
       },
       "location2": {
-        "name": "Parc partagé du Mandrione, Rome.",
-        "imageAlt": "Parc partagé du Mandrione, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione ,Roma."
+        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma"
       },
       "location3": {
-        "name": "Jardin des Cerisiers, Rome.",
-        "imageAlt": "Jardin des Cerisiers, Rome.",
+        "name": "Giardino dei Ciliegi, Rome.",
+        "imageAlt": "Giardino dei Ciliegi, Rome.",
         "mapQuery": "Giardino dei Ciliegi ,Roma."
       },
       "location4": {
         "name": "Via Filippo Re, Rome.",
         "imageAlt": "Via Filippo Re, Rome.",
-        "mapQuery": "Via Filippo Re,Roma."
+        "mapQuery": "Via Filippo Re, Roma."
       },
       "location5": {
         "name": "Parc Sangalli, Rome.",
@@ -180,14 +180,14 @@
         "mapQuery": "Via Angelica Balabanoff 60, Roma"
       },
       "location2": {
-        "name": "Institut Compréhensif \"Anna Fraentzel Celli\", Via dei Fiorentini 48, Rome.",
-        "imageAlt": "Institut Compréhensif - Anna Fraentzel Celli - Via dei Fiorentini 48, Rome",
+        "name": "Institut Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome.",
+        "imageAlt": "Institut Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome",
         "mapQuery": "Via dei Fiorentini 48, Roma"
       },
       "location3": {
         "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
-        "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
-        "mapQuery": "IIS Confalonieri De Chirico - sede IPSC Teresa Confalonieri, Via Beata Maria de Mattias,5 Roma."
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma"
       }
     },
     "appointment6": {
@@ -204,12 +204,29 @@
         "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       },
       "location2": {
-        "name": "PROJET PIANOBI, Via dei Ciceri, 97-99, Rome.",
-        "imageAlt": "PROJET PIANOBI, Via dei Ciceri, 97-99, Rome",
+        "name": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome.",
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
       }
     },
+    "appointment7": {
+      "sectionTitle": "RENDEZ-VOUS 7",
+      "name": "Une oeuvre pour Don Sardelli",
+      "time1": "Le 29 Novembre 2025 à partir de 18.30 ",
+      "description": "Inauguration du monument pour Don Sardelli",
+      "artistList": "Artiste: ALFREDO PIRRI, auteur de l'oeuvre <br />Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
 
+      "location1": {
+        "name": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma.",
+        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
+        "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
+      },
+      "location2": {
+        "name": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma."
+      }
+    },
     "blog": {
       "pageTitle": "Blog"
     }
@@ -217,7 +234,7 @@
 
   "links": {
     "pageTitle": "Contacts",
-    "LogoCiC": "Logo Association Ciel in Città",
+    "LogoCiC": "Logo Association Ciel'in Città",
     "cielincitta": "Association Ciel'in Città"
   }
 }

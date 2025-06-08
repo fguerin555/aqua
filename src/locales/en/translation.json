@@ -62,9 +62,9 @@
         "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
       },
       "location4": {
-        "name": "Giardino Dei Ciliegi, via Filippo Re, Rome",
-        "imageAlt": "Giardino Dei Ciliegi, via Filippo Re, Rome",
-        "mapQuery": "Giardino Dei Ciliegi, via Filippo Re, Roma"
+        "name": "Giardino dei Ciliegi, via Filippo Re, Rome",
+        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Rome",
+        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
       },
       "location5": {
         "name": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipality V, Rome",
@@ -141,13 +141,13 @@
         "mapQuery": "Piazza dei Tribuni,Roma."
       },
       "location2": {
-        "name": "Shared Park of Mandrione, Rome.",
-        "imageAlt": "Shared Park of Mandrione, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione ,Roma."
+        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma"
       },
       "location3": {
-        "name": "Cherry Tree Garden, Rome.",
-        "imageAlt": "Cherry Tree Garden, Rome.",
+        "name": "Giardino dei Ciliegi, Rome.",
+        "imageAlt": "Giardino dei Ciliegi, Rome.",
         "mapQuery": "Giardino dei Ciliegi ,Roma."
       },
       "location4": {
@@ -174,19 +174,19 @@
       "description": "Art workshops for the blind, partially sighted and visually impaired; some schools of municipalities IV and VII will host workshops on ceramics, video, comics and photography conducted by artists who have their own studios between municipalities V and VII. At the end of the training experience, one or more days of visits to the above-mentioned studios are also open to citizens.",
       "artistList": "Artists: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /> Target audience: children, adults, everyone <br /> Free access",
       "location1": {
-        "name": "Headquarters of Neighborhood Committee Municipality VII, Via Angelica Balabanoff 60, Rome.",
+        "name": "Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma.",
         "imageAlt": "Headquarters of Neighborhood Committee Municipality VII, Via Angelica Balabanoff 60, Rome",
         "mapQuery": "Via Angelica Balabanoff 60, Roma"
       },
       "location2": {
-        "name": "Comprehensive Institute \"Anna Fraentzel Celli\", Via dei Fiorentini 48, Rome.",
-        "imageAlt": "Comprehensive Institute - Anna Fraentzel Celli - Via dei Fiorentini 48, Rome",
+        "name": "Instituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome.",
+        "imageAlt": "Instituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome",
         "mapQuery": "Via dei Fiorentini 48, Roma"
       },
       "location3": {
         "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
         "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
-        "mapQuery": "IIS Confalonieri De Chirico - sede IPSC Teresa Confalonieri, Via Beata Maria de Mattias,5 Roma."
+        "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {
@@ -198,9 +198,9 @@
       "description": "Creation of works themed on water and its sustainability. <br />Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /> Artist Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /> Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.",
       "artistList": "Artists: PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curators: ADRIANA POLVERONI, ISABELLA VALENTE <br />Target audience: children, adults, everyone <br /> Free access",
       "location1": {
-        "name": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome.",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "name": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome.",
+        "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Roma"
       },
       "location2": {
         "name": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome.",
@@ -208,7 +208,24 @@
         "mapQuery": "Via dei Ciceri 97/99, Roma"
       }
     },
+    "appointment7": {
+      "sectionTitle": "APPOINTMENT 7",
+      "name": "An Art Work for Don Sardelli",
+      "time1": "On 29 Novembre 2025 from 6.303 PM onwards ",
+      "description": "Inauguration of the monument for Don Sardelli",
+      "artistList": "Artist: ALFREDO PIRRI, author of the work <br />Curator : ADRIANA POLVERONI <br />Target Audience : children, adults, everyone <br />Free access",
 
+      "location1": {
+        "name": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Rome.",
+        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Rome",
+        "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
+      },
+      "location2": {
+        "name": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma."
+      }
+    },
     "blog": {
       "pageTitle": "Blog"
     }
@@ -216,7 +233,7 @@
 
   "links": {
     "pageTitle": "Contacts",
-    "LogoCiC": "Logo Association Ciel in Città",
+    "LogoCiC": "Logo Association Ciel'in Città",
     "cielincitta": "Association Ciel'in Città"
   }
 }

@@ -179,6 +179,19 @@
 .buttonWrapper img {
   display: none;
 }
+.EventDescriptionShort p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px #000;
+  color: #e9f2fd;
+  text-justify: left;
+}
 
 .EventDescription p {
   /* display: flex;
@@ -192,8 +205,8 @@
   width: 90%;
   font-size: 20px;
   color: #e9f2fd;
-  text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -251,6 +264,9 @@
   }
 
   .EventDescription p {
+    font-size: 14px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescriptionShort p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
   .ArtistList {
@@ -316,7 +332,9 @@
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
-
+  .EventDescriptionShort p {
+    font-size: 14px; /* Taille intermédiaire pour tablette */
+  }
   .ArtistList {
     font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 8%;
@@ -378,7 +396,9 @@
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
-
+  .EventDescriptionShort p {
+    font-size: 14px; /* Taille intermédiaire pour tablette */
+  }
   .ArtistList p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
     margin-left: 0;

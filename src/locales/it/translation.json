@@ -63,9 +63,9 @@
         "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
       },
       "location4": {
-        "name": "Giardino Dei Ciliegi, via Filippo Re, Roma",
-        "imageAlt": "Giardino Dei Ciliegi, via Filippo Re, Roma",
-        "mapQuery": "Giardino Dei Ciliegi, via Filippo Re, Roma"
+        "name": "Giardino dei Ciliegi, via Filippo Re, Roma",
+        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Roma",
+        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
       },
       "location5": {
         "name": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma",
@@ -180,8 +180,8 @@
         "mapQuery": "Via Angelica Balabanoff 60, Roma"
       },
       "location2": {
-        "name": "Istituto Compresivo \"Anna Fraentzel Celli\",Via dei Fiorentini 48, Roma.",
-        "imageAlt": "Istituto Compresivo - Anna Fraentzel Celli - Via dei Fiorentini 48, Roma",
+        "name": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Roma.",
+        "imageAlt": "Istituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Roma",
         "mapQuery": "Via dei Fiorentini 48, Roma"
       },
       "location3": {
@@ -207,6 +207,24 @@
         "name": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma.",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
+      }
+    },
+    "appointment7": {
+      "sectionTitle": "APPUNTAMENTO 7",
+      "name": "Un opera per Don Sardelli",
+      "time1": "Il 29 Novembre 2025 dalle 18.30 in poi",
+      "description": "Inaugurazione del monumento a Don Sardelli",
+      "artistList": "Artista: ALFREDO PIRRI, autore dell'opera <br />Curatrice: ADRIANA POLVERONI  <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+
+      "location1": {
+        "name": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma.",
+        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
+        "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
+      },
+      "location2": {
+        "name": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma.",
+        "imageAlt": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma.",
+        "mapQuery": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma."
       }
     },
     "blog": {
