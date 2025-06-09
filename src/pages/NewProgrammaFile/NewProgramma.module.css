@@ -145,7 +145,7 @@
 .Foto {
   position: relative;
   z-index: 1;
-  width: 800px; /* Exemple de largeur, ajustez selon vos besoins */
+  width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
   height: 375px;
   margin-left: auto;
   margin-right: auto;
@@ -194,14 +194,9 @@
 }
 
 .EventDescription p {
-  /* display: flex;
-  justify-content: center;
-  align-items: center; */
   text-align: justify;
   box-sizing: border-box;
-  /* overflow-wrap: break-word; */
   hyphens: auto;
-  /* text-justify: left; */
   width: 90%;
   font-size: 20px;
   color: #e9f2fd;
@@ -239,10 +234,14 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
+  }
+
+  .Foto {
+    width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 275px;
   }
 
   .ProgrammaPageTitle p {
@@ -307,7 +306,6 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -328,6 +326,11 @@
   }
   .Luoghi p {
     font-size: 16px;
+  }
+
+  .Foto {
+    width: 400px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 250px;
   }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
@@ -371,7 +374,6 @@
   .Orari,
   .Luoghi,
   .LegendaFoto,
-  .Foto,
   .EventDescription,
   .ArtistList {
     width: 90%;
@@ -392,6 +394,10 @@
   }
   .Luoghi p {
     font-size: 14px;
+  }
+  .Foto {
+    width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 180px;
   }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
