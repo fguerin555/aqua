@@ -1,22 +1,27 @@
 {
-  "name": "Il Racconto dell’Acqua",
-  "short_name": "Acqua",
+  "name": "Il Racconto dell'Acqua",
+  "short_name": "Racconto",
+  "description": "Progetto culturale Il Racconto dell’Acqua – Arte, Cultura, Giubileo",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#e3f3ff",
-  "theme_color": "#3ca8c2",
+  "background_color": "#ecf1ef",
+  "theme_color": "#009f9d",
   "icons": [
     {
-      "src": "/favicon-192x192.png",
+      "src": "icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
+      "type": "image/png"
     },
     {
-      "src": "/favicon-512x512.png",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
   ]
 }
