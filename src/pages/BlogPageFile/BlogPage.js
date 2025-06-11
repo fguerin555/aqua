@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import i18n from "../../i18n";
-import Logo from "../../assets/images/LogoOndaBlue2.png";
+import Logo from "../../assets/images/LogoAcqua2.png";
 import styles from "./BlogPage.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 

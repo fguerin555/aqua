@@ -36,7 +36,7 @@
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 20px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   overflow-wrap: break-word;
   box-sizing: border-box;
 }
@@ -48,7 +48,7 @@
 
 .Logo img {
   display: block;
-  width: 13%;
+  width: 35%;
   border-radius: 4px;
   height: auto;
   visibility: visible;
@@ -96,18 +96,39 @@
   .LinksPageTitle p {
     font-size: 30px;
   }
+  .Logo img {
+    width: 30%;
+  }
   .LogoCiC img {
     width: 45px;
     height: 45px;
   }
-
   .liensite a {
     font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .LinksPageTitle p {
+    font-size: 25px;
+  }
+  .Logo img {
+    width: 30%;
+  }
+  .liensite a {
+    font-size: 12px;
+  }
+  .LogoCiC img {
+    width: 30px;
+    height: 30px;
   }
 }
 @media (max-width: 509px) {
   .LinksPageTitle p {
     font-size: 25px;
+  }
+  .Logo img {
+    width: 30%;
   }
   .liensite a {
     font-size: 12px;

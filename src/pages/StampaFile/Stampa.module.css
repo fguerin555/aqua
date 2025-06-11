@@ -52,7 +52,7 @@
 
 .Logo img {
   display: block;
-  width: 13%;
+  width: 35%;
   border-radius: 4px;
   height: auto;
   visibility: visible;
@@ -69,9 +69,25 @@
   .StampaTitle p {
     font-size: 30px;
   }
+  .Logo img {
+    width: 30% !important;
+  }
 }
+@media (max-width: 768px) {
+  .StampaTitle p {
+    font-size: 25px;
+  }
+
+  .Logo img {
+    width: 30% !important;
+  }
+}
+
 @media (max-width: 509px) {
   .StampaTitle p {
     font-size: 25px;
+  }
+  .Logo img {
+    width: 30% !important;
   }
 }

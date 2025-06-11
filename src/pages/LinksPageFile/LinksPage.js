@@ -1,6 +1,6 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
-import Logo from "../../assets/images/LogoOndaBlue2.png";
+import Logo from "../../assets/images/LogoAcqua2.png";
 import LogoCiC from "../../assets/images/LogoCiC.png";
 import styles from "./LinksPage.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";

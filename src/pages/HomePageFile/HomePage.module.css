@@ -32,7 +32,7 @@
   flex-direction: column;
   align-items: center; /* Centre le <p> (et autres futurs éléments) horizontalement dans ce bloc */
   justify-content: center; /* Centre le <p> verticalement dans ce bloc. Si vous voulez que le <p> soit en haut de ce bloc, changez pour flex-start */
-  margin-top: 20px; /* Crée un espace de 10px au-dessus de ce bloc */
+  margin-top: 5px; /* Crée un espace de 10px au-dessus de ce bloc */
   /* text-align: center; /* Décommentez si vous voulez que le texte du paragraphe soit centré */
   position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
   z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
@@ -43,7 +43,7 @@
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
-  margin-top: 30px;
+  margin-top: 1px;
   position: relative;
   z-index: 1;
 }
@@ -53,7 +53,7 @@
 }
 .Logo img {
   display: block;
-  width: 25%;
+  width: 45%;
   height: auto;
   visibility: visible;
   opacity: 1;
@@ -89,10 +89,11 @@
 }
 
 .CiCpresenta p {
-  font-size: 20px;
+  font-size: 22px;
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
+  margin-bottom: 0;
   position: relative;
   z-index: 1;
 }
