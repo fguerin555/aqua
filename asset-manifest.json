@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1740f7c4.css",
-    "main.js": "/static/js/main.ab5feca7.js",
+    "main.css": "/static/css/main.82a178f2.css",
+    "main.js": "/static/js/main.cbed24fe.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/SpazioY.png": "/static/media/SpazioY.0571a98d1be14056c2c3.png",
     "static/media/GiardinodeiCiliegi.png": "/static/media/GiardinodeiCiliegi.f57fbe3c2e0083a3b3b0.png",
@@ -31,11 +31,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.1740f7c4.css.map": "/static/css/main.1740f7c4.css.map",
-    "main.ab5feca7.js.map": "/static/js/main.ab5feca7.js.map"
+    "main.82a178f2.css.map": "/static/css/main.82a178f2.css.map",
+    "main.cbed24fe.js.map": "/static/js/main.cbed24fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.1740f7c4.css",
-    "static/js/main.ab5feca7.js"
+    "static/css/main.82a178f2.css",
+    "static/js/main.cbed24fe.js"
   ]
 }
