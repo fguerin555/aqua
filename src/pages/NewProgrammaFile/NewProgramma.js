@@ -24,7 +24,7 @@ import ViaFilippoRe from "../../assets/images/ViaFilippoRe.png";
 import PianoBi from "../../assets/images/PianoBi.png";
 import VialedellAcquedottoAlessandrino from "../../assets/images/VialedellAcquedottoAlessandrino.png";
 import IstitutoConfalonieri from "../../assets/images/IstitutoConfalonieri.png";
-import Logo from "../../assets/images/LogoAcqua2.png";
+import Logo from "../../assets/images/LogoOndaBlue2.png";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 

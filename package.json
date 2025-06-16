@@ -46,10 +46,9 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
+       "Chrome 114",
+      "Firefox 115",
+      "Safari 13.1"    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
