@@ -86,7 +86,7 @@
     "appointment3": {
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "I Portatori d'Acqua",
-      "time": "Il 17 e 25 settembre 2025 dalle 18 in poi",
+      "time": "Il 24 e 25 settembre 2025 dalle 18 in poi",
       "description": "Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere dall’artista Iginio De Luca. Mostra/restituzione di performance di disegno acquatico di Pamela Pintus",
       "artistList": "Artisti: IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
@@ -133,7 +133,7 @@
     "appointment4": {
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
-      "time": "Il 08 luglio 2025 dalle 15 in poi e il 11, 18 e 25 settembre 2025 dalle 15 in poi",
+      "time": "Il 15/16 settembre 2025 alle ore 16 e il 23/24 settembre 2025 alle ore 16",
       "description": "Artisti che hanno i loro studi nei municipi V e VII e che sono riuniti in associazioni culturali, danno vita ad atelier di pittura en plein air aperti alla cittadinanza locale. Queste iniziative si interfacceranno con sessioni di Inntelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
       "artistList": "Artisti: GIULIA APICE <br />PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br />  LUCA GRECHI <br />  ALFREDO PIRRI <br />  MADDALENA SCUDERONI <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
@@ -170,32 +170,39 @@
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "L'Arte in una Stanza",
-      "time1": "Sede: Comitato di Quartiere <br /> Le 19, 26 Settembre e 05, 26 Ottobre 2025 dalle 14.30 alle 18.30",
-      "time2": "Sede: Istituti Scolastici  <br /> Le 01, 02, 03, 22, 23, 24 Ottobre 2025 dalle 9 alle 13. <br /> Le 05, 06, 07, 26, 27, 28 Novembre 2025 dalle 9 alle 13.",
-      "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. a conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
+      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> Centro Anziani, Via dei Volsci, 82c, Roma <br/> 19, 26 Settembre, 01, 08, 15 Ottobre e 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
+      "time2": "Laboratori di fumetto <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma <br /> 07, 22 Ottobre, 05, 16 Novembre 2025 <br />  dalle ore 9 alle 13.",
+      "time3": "Laboratori di fumetto  <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <br />09, 23 Ottobre , 06,27 Novembre 2025 <br/> dalle 9 alle 13.",
+      "time4": "Laboratori di Ceramica <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <br />  10, 24 Ottobre e 07, 28 Novembre 2025 <br /> dalle 9 alle 13.",
+      "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
       "artistList": "Artisti: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br /> MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
-        "name": "Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma.",
-        "imageAlt": "Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma",
-        "mapQuery": "Via Angelica Balabanoff 60, Roma"
+        "name": "Centro Anziani, Via dei Volsci, 82c, Roma",
+        "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Roma",
+        "mapQuery": "Centro Anziani, Via dei Volsci, 82c, Roma"
       },
       "location2": {
         "name": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Roma.",
         "imageAlt": "Istituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Roma",
-        "mapQuery": "Via dei Fiorentini 48, Roma"
+        "mapQuery": "Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma"
       },
       "location3": {
+        "name": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma",
+        "imageAlt": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma",
+        "mapQuery": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma"
+      },
+      "location4": {
         "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
         "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
-        "mapQuery": "IIIS Confalonieri De Chirico - sede IPSC Teresa Confalonieri, Via Beata Maria de Mattias,5 Roma."
+        "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
       }
     },
     "appointment6": {
       "sectionTitle": "APPUNTAMENTO 6",
       "name": "La Bellezza dell'Acqua",
-      "time1": "Opera : La Fontana delle Brume di Paolo Assenza<br /> Inaugurazione Il 02 Luglio e 31 Ottobre 2025 ore 19.00",
-      "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br /> Inaugurazione Il 02 Luglio e 31 Luglio 2025 ore 19.00",
-      "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br /> Inaugurazione Il 03 Ottobre e 30 Ottobre 2025 ore 19.00",
+      "time1": "Opera : La Fontana delle Brume di Paolo Assenza<br /> Inaugurazione Il 10 Ottobre alle ore 18.00",
+      "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br /> Inaugurazione Il 28 e 29 Novembre 2025 alle ore 18.00",
+      "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br /> Inaugurazione Il 28 e 29 Novembre 2025 alle ore 18.00",
       "description": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità. <br />L'opera di Paolo Assenza consiste una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br /> L’artista Mercedes Klausner, ospitata in residenza da progetto Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate sui muri di progetto Pianobi in via dei ciceri 99. <br /> Laurent le Deunff, durante la sua residenza presso la sede operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del giubileo. I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate",
       "artistList": "Artisti: PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici: ADRIANA POLVERONI, ISABELLA VALENTE <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {

@@ -85,7 +85,7 @@
     "appointment3": {
       "sectionTitle": "APPOINTMENT 3",
       "name": "The Water Bearers",
-      "time": "On 17 and 25 September 2025 from 6 PM onwards",
+      "time": "On 24 and 25 September 2025 from 6 PM onwards",
       "description": "Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by the artist Iginio De Luca. Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus.",
       "artistList": "Artists: IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br />Target audience: children, adults, everyone <br /> Free acces.",
       "location1": {
@@ -132,7 +132,7 @@
     "appointment4": {
       "sectionTitle": "APPOINTMENT 4",
       "name": "From Plein Air Painting to Artificial Art",
-      "time": "On 08 July 2025 from 3 PM onwards and 11, 18 and 25 September 2025 from 3 PM onwards",
+      "time": "On 15/16 September 2025 at 4 pm and on 23/24 September 2025 at 4 pm",
       "description": "Artists who have their studios in municipalities V and VII and who are part of cultural associations create plein air painting workshops open to the local community. These initiatives will interface with artificial intelligence sessions, creating immersive environments that allow public interaction.",
       "artistList": "Artists: GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />  MARTINA CIRESE <br />LUCA GRECHI <br /> ALFREDO PIRRI <br />MADDALENA SCUDERONI <br /> Curator: ADRIANA POLVERONI <br />Target audience: children, adults, everyone <br /> Free access",
       "location1": {
@@ -169,21 +169,28 @@
     "appointment5": {
       "sectionTitle": "APPOINTMENT 5",
       "name": "Art in a Room",
-      "time1": "Location: Neighbourhood Committee <br /> On 19, 26 September and 05, 26 October 2025 from 2.30 PM to 6.30 PM.",
-      "time2": "Location: Educational Establishments <br /> On 01, 02, 03, 22, 23, 24 October 2025 from 9 AM to 1 PM. <br /> On 05, 06, 07, 26, 27, 28 November 2025 from 9 AM to 1 PM.",
+      "time1": " <br /> Centro Anziani, Via dei Volsci, 82c, Rome. <br /> Sculpture workshops for blind and partially sighted people<br/> 19, 26 September, 01, 08, 15 October and 05 November 2025<br/>from 3 PM to 5 PM.",
+      "time2": "Cartoon workshops  <br />  Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome  <br /> 07, 22 October, 05, 16 November 2025 <br/>from 9 AM to 1 PM.",
+      "time3": "Cartoon workshops <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome<br /> 09, 23 October , 06,27 November 2025  <br/> from 9 AM to 1 PM.",
+      "time4": "Ceramic Workshops <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Rome <br /> 10, 24 October and 07, 28 November 2025  <br/>from 9 AM to 1 PM.",
       "description": "Art workshops for the blind, partially sighted and visually impaired; some schools of municipalities IV and VII will host workshops on ceramics, video, comics and photography conducted by artists who have their own studios between municipalities V and VII. At the end of the training experience, one or more days of visits to the above-mentioned studios are also open to citizens.",
       "artistList": "Artists: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /> Target audience: children, adults, everyone <br /> Free access",
       "location1": {
-        "name": "Sede Comitato di Quartiere Municipio VII,Via Angelica Balabanoff 60, Roma.",
-        "imageAlt": "Headquarters of Neighborhood Committee Municipality VII, Via Angelica Balabanoff 60, Rome",
-        "mapQuery": "Via Angelica Balabanoff 60, Roma"
+        "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
+        "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
+        "mapQuery": "Centro Anziani, Via dei Volsci, 82c, Roma"
       },
       "location2": {
-        "name": "Instituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome.",
-        "imageAlt": "Instituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Rome",
-        "mapQuery": "Via dei Fiorentini 48, Roma"
+        "name": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Rome.",
+        "imageAlt": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Rome.",
+        "mapQuery": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Roma."
       },
       "location3": {
+        "name": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome",
+        "imageAlt": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome",
+        "mapQuery": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma"
+      },
+      "location4": {
         "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
         "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome.",
         "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
@@ -192,9 +199,9 @@
     "appointment6": {
       "sectionTitle": "APPOINTMENT 6",
       "name": "The Beauty of Water",
-      "time1": "Art Work: The Mist Fountain by Paolo Assenza <br />Opening on 02 July and 31 October 2025 at 7.00 PM",
-      "time2": "Art Work: Imago Acquae-Urbis by Mercedes Klausner <br />Opening on 02 July and 31 July 2025 at 7.00 PM",
-      "time3": "Art Work: Ri-Sorgente by Laurent le Deunff <br />Opening on 03 Ottobre e 30 Ottobre 2025 at 7.00 PM",
+      "time1": "Art Work: The Mist Fountain by Paolo Assenza <br />Opening on 10 October 2025 at 6.00 PM",
+      "time2": "Art Work: Imago Acquae-Urbis by Mercedes Klausner <br />Opening on 28 and 29 November 2025 at 6.00 PM",
+      "time3": "Art Work: Ri-Sorgente by Laurent le Deunff <br />Opening Opening on 28 and 29 November 2025 at 6.00 PM",
       "description": "Creation of works themed on water and its sustainability. <br />Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /> Artist Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /> Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.",
       "artistList": "Artists: PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curators: ADRIANA POLVERONI, ISABELLA VALENTE <br />Target audience: children, adults, everyone <br /> Free access",
       "location1": {

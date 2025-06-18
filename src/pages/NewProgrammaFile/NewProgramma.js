@@ -12,7 +12,8 @@ import GiardinodeiCiliegi from "../../assets/images/GiardinodeiCiliegi.png";
 import ParcoSangalli from "../../assets/images/ParcoSangalli.png";
 import SpazioY from "../../assets/images/SpazioY.png";
 import StudioGrecchi from "../../assets/images/StudioGrecchi.png";
-import ComitatoMunicipioVII from "../../assets/images/ComitatoMunicipioVII.png";
+import IstitutoBalabanoff from "../../assets/images/IstitutoBalabanoff.png";
+import centroAnziani from "../../assets/images/centroAnziani.png";
 import IstitutoAnnaFraentzel from "../../assets/images/IstitutoAnnaFraentzel.png";
 import ViaCasalinaVecchia19 from "../../assets/images/ViaCasalinaVecchia19.png";
 import ViaCasalinaVecchia115 from "../../assets/images/ViaCasalinaVecchia115.png";
@@ -83,7 +84,8 @@ const Programma = () => {
         </div>
         <div className={styles.Luoghi}>
           <p>{t("program.appointment1.location1.name")}</p>
-        </div>
+        </div>{" "}
+        */ /*{" "}
         <div className={styles.Foto}>
           <img
             src={fontana}
@@ -95,10 +97,10 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+        {/* ------------------------------------------------------------------ */}
         <div className={styles.Luoghi}>
           <p>{t("program.appointment1.location2.name")}</p>
         </div>
-
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment2.sectionTitle")}</p>
         </div>
@@ -139,7 +141,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-
         <div className={styles.Luoghi}>
           <p>{t("program.appointment2.location2.name")}</p>
         </div>
@@ -224,6 +225,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+        {/* ------------------------------------------------------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment3.sectionTitle")}</p>
         </div>
@@ -361,6 +363,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+        {/* ------------------------------------------------------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment4.sectionTitle")}</p>
         </div>
@@ -484,6 +487,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+        {/* ------------------------------------------------------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment5.sectionTitle")}</p>
         </div>
@@ -493,17 +497,38 @@ const Programma = () => {
         <div className={styles.Orari}>
           <p>
             <Trans i18nKey="program.appointment5.time1">
-              Sede: Comitato di Quartiere <br /> le 19, 26 Settembre e 05, 26
-              Ottobre 2025 dalle 14.30 alle 18.30
+              Laboratori di scultura per ciechi ipovedenti e vedenti <br />
+              Centro Anziani Via dei Volsci, 82c, Roma <br /> 19/26 Settembre,
+              01/08/15 Ottobre, 05 Novembre 2025 <br /> dalle ore 15 alle 17.30.
             </Trans>
           </p>
         </div>
         <div className={styles.Orari}>
           <p>
             <Trans i18nKey="program.appointment5.time2">
-              Sede: Istituti Scolastici <br /> Le 01, 02, 03, 22, 23, 24 Ottobre
-              2025 dalle 9 alle 13. <br /> Le 05, 06, 07, 26, 27, 28 Novembre
-              2025 dalle 9 alle 13.
+              Laboratori di fumetto <br />
+              Istituto Anna Fraentzel Celli <br />
+              07, 22 Ottobre, 05/16 Novembre 2025
+              <br /> dalle ore 9 alle 13
+            </Trans>
+          </p>
+        </div>
+        <div className={styles.Orari}>
+          <p>
+            <Trans i18nKey="program.appointment5.time3">
+              Laboratori di fumetto <br />
+              Istituto Angelica Balabanoff <br /> 09, 23 Ottobre , 06,27
+              Novembre 2025 <br />
+              dalle ore 9 alle 13.
+            </Trans>
+          </p>
+        </div>
+        <div className={styles.Orari}>
+          <p>
+            <Trans i18nKey="program.appointment5.time4">
+              Laboratori di ceramica <br />
+              Istituto Confalonieri De Chirico <br /> 10, 24 Ottobre e 07, 28
+              Novembre 2025 <br /> dalle 9 alle 13.
             </Trans>
           </p>
         </div>
@@ -544,7 +569,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={ComitatoMunicipioVII}
+            src={centroAnziani}
             alt={t("program.appointment5.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -553,7 +578,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-
         <div className={styles.Luoghi}>
           <p>{t("program.appointment5.location2.name")}</p>
         </div>
@@ -577,19 +601,32 @@ const Programma = () => {
             alt={t("program.appointment5.location3.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment5.location2.mapQuery")}>
+            <MapButton mapQuery={t("program.appointment5.location3.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
         </div>
-
+        <div className={styles.Luoghi}>
+          <p>{t("program.appointment5.location4.name")}</p>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={IstitutoBalabanoff}
+            alt={t("program.appointment5.location4.imageAlt")}
+          />
+          <div className={styles.SimbolMapp}>
+            <MapButton mapQuery={t("program.appointment5.location4.mapQuery")}>
+              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+            </MapButton>
+          </div>
+        </div>
+        {/* ------------------------------------------------------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment6.sectionTitle")}</p>
         </div>
         <div className={styles.NameAppuntamento}>
           <p>{t("program.appointment6.name")}</p>
         </div>
-
         <div className={styles.Orari}>
           <p>
             <Trans
@@ -610,7 +647,6 @@ const Programma = () => {
             />
           </p>
         </div>
-
         <div className={styles.EventDescription}>
           <p>
             <Trans i18nKey="program.appointment6.description">
@@ -658,11 +694,9 @@ const Programma = () => {
             </Trans>
           </p>
         </div>
-
         <div className={styles.Luoghi}>
           <p>{t("program.appointment6.location1.name")}</p>
         </div>
-
         <div className={styles.Foto}>
           <img
             src={parcoTorredelFiscale}
@@ -675,7 +709,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-
         <div className={styles.Luoghi}>
           <p>{t("program.appointment6.location2.name")}</p>
         </div>
@@ -690,7 +723,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment7.sectionTitle")}</p>
         </div>
@@ -721,7 +753,6 @@ const Programma = () => {
             <Trans> {t("program.appointment7.location1.name")}</Trans>
           </p>
         </div>
-
         <div className={styles.Foto}>
           <img
             src={fontana}
@@ -734,7 +765,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-
         <div className={styles.Luoghi}>
           <p>
             <Trans> {t("program.appointment7.location2.name")}</Trans>
