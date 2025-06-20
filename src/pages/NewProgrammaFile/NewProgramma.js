@@ -4,14 +4,14 @@ import { useTranslation, Trans } from "react-i18next";
 import styles from "./NewProgramma.module.css";
 import MapButton from "../../components/MapButton";
 import fontana from "../../assets/images/fontana.png";
+import fotoVide from "../../assets/images/fotoVide.png";
 import parchetto from "../../assets/images/parchetto.png";
 import parcoTorredelFiscale from "../../assets/images/ParcodiTorredelFiscale.png";
 import piazzadeiTribuni from "../../assets/images/PiazzadeiTribuni.png";
 import VilladeSanctis from "../../assets/images/VilladeSanctis.png";
 import GiardinodeiCiliegi from "../../assets/images/GiardinodeiCiliegi.png";
 import ParcoSangalli from "../../assets/images/ParcoSangalli.png";
-import SpazioY from "../../assets/images/SpazioY.png";
-import StudioGrecchi from "../../assets/images/StudioGrecchi.png";
+// import SpazioY from "../../assets/images/SpazioY.png";
 import IstitutoBalabanoff from "../../assets/images/IstitutoBalabanoff.png";
 import centroAnziani from "../../assets/images/centroAnziani.png";
 import IstitutoAnnaFraentzel from "../../assets/images/IstitutoAnnaFraentzel.png";
@@ -85,10 +85,9 @@ const Programma = () => {
         <div className={styles.Luoghi}>
           <p>{t("program.appointment1.location1.name")}</p>
         </div>{" "}
-        */ /*{" "}
         <div className={styles.Foto}>
           <img
-            src={fontana}
+            src={fotoVide}
             alt={t("program.appointment1.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -97,7 +96,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        {/* ------------------------------------------------------------------ */}
+        {/* ----------------------------------------------------2-------------- */}
         <div className={styles.Luoghi}>
           <p>{t("program.appointment1.location2.name")}</p>
         </div>
@@ -111,7 +110,11 @@ const Programma = () => {
           <p>{t("program.appointment2.time")}</p>
         </div>
         <div className={styles.EventDescription}>
-          <p>{t("program.appointment2.description")}</p>
+          <p>
+            <Trans i18nKey="program.appointment2.description">
+              {t("program.appointment2.description")}
+            </Trans>
+          </p>
         </div>
         <div className={styles.ArtistList}>
           <p>
@@ -132,7 +135,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={parchetto}
+            src={fotoVide}
             alt={t("program.appointment2.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -146,7 +149,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={piazzadeiTribuni}
+            src={fotoVide}
             alt={t("program.appointment2.location2.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -160,7 +163,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={VilladeSanctis}
+            src={fotoVide}
             alt={t("program.appointment2.location3.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -169,63 +172,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment2.location4.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={GiardinodeiCiliegi}
-            alt={t("program.appointment2.location4.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location4.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment2.location5.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={ParcoSangalli}
-            alt={t("program.appointment2.location5.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location5.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment2.location6.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={SpazioY}
-            alt={t("program.appointment2.location6.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location6.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment2.location7.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={StudioGrecchi}
-            alt={t("program.appointment2.location7.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location7.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        {/* ------------------------------------------------------------------ */}
+        {/* ------------------------------------------------3------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment3.sectionTitle")}</p>
         </div>
@@ -363,7 +310,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        {/* ------------------------------------------------------------------ */}
+        {/* -----------------------------------------------4------------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment4.sectionTitle")}</p>
         </div>
@@ -487,7 +434,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        {/* ------------------------------------------------------------------ */}
+        {/* ------------------------------------------------5------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment5.sectionTitle")}</p>
         </div>
@@ -620,7 +567,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        {/* ------------------------------------------------------------------ */}
+        {/* ---------------------------------------------------6--------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment6.sectionTitle")}</p>
         </div>
@@ -723,6 +670,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+        {/* ---------------------------------------------------7--------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment7.sectionTitle")}</p>
         </div>

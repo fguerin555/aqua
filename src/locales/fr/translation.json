@@ -24,63 +24,48 @@
     "mapSymbolAlt": "Symbole de localisation sur carte",
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
-      "name1": "Rencontre/journée d’études sur Don Roberto Sardelli",
-      "time1": "Le 05 juillet 2025 à partir de 18:30",
+      "name1": "Table ronde sur Don Roberto Sardelli",
+      "time1": "Le 05 juillet 2025 à 18 heures",
       "name2": "",
       "time2": "",
-      "description": "Rencontre/journée d’études sur la figure de Don Roberto Sardelli dans l’atelier de l’artiste qui réalise une œuvre en sa mémoire. Don Roberto Rardelli a été un prêtre clé pour le rachat des conditions de vie des habitants du troupeau et de l’aqueduc heureux. Don Sardelli est arrivé à la fin des années soixante dans cette zone délabrée de Rome, s’occupant concrètement des désagréments des baraccati, donnant vie à une école profondément innovante et activant l’approvisionnement en  eau.",
-      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, recteur de l’université Roma Tre <br /> ALFREDO PIRRI, artiste <br />ADRIANA POLVERONI, enseignante à NABA et commissaire <br /> VANESSA ROGHI, historienne de l’école et de l’éducation<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.",
+      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, recteur de l’université Roma Tre <br /> ALFREDO PIRRI, artiste <br />ADRIANA POLVERONI, enseignante à NABA et commissaire <br /> VANESSA ROGHI, historienne de l’école et de l’éducation<br />Sur invitation.",
       "location1": {
-        "name": "Via del Mandrione 455, Rome.",
-        "imageAlt": "Via del Mandrione 455, Rome",
-        "mapQuery": "Via del Mandrione 455, Roma"
+        "name": "Studio Pirri / Valentini, Via del Mandrione 451",
+        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451",
+        "mapQuery": "Via del Mandrione 451, Roma"
       },
       "location2": {
         "name": "",
         "imageAlt": "",
         "mapQuery": ""
+      },
+      "location3": {
+        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment2": {
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
-      "time": "Les 9, 10, 18 et 19 juillet 2025 à partir de 21h00",
-      "description": "Spectacle, Rencontre,Installation, Vidéo. Projections de vidéos d’artistes italiens et étrangers qui ont pour thème l’eau interprétée à travers une lentille esthétique et ambiante..",
-      "artistList": "Artistes : STUDIO AZZURO <br /> FABRIZIO PLESSI  <br /> ROBERT CAHEN <br /> Commissaire : BRUNO DI MARINO<br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "time": "Les 16, 17 Juillet et 8, 9, 10 Septembre 2025 à 21 heures.",
+      "description": "16 Juillet - Projections vidéo, studio Pirri Valentini, via del Mandrione 451, Roma. <br /> 17 Juillet -  Projections vidéo, Spazio Y, via dei Juvenci 11, Roma. <br />8, 9, 10 Septembre -  Projections vidéo, Parc de Tor Fiscale, Aqueduc Marcio Felice.",
+      "artistList": "Artistes: STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
-        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
+        "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
+        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
+        "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "name": "Piazza dei Tribuni, Municipalité VII, Rome",
-        "imageAlt": "Piazza dei Tribuni, Municipalité VII, Rome",
-        "mapQuery": "Piazza dei Tribuni, Roma"
+        "name": "Spazio Y, via dei Juvenci 11, Rome.",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
+        "mapQuery": "Via dei Juvenci 11, Roma"
       },
       "location3": {
-        "name": "Villa de Sanctis, via dei Gordiani 5, Rome",
-        "imageAlt": "Villa de Sanctis, via dei Gordiani 5, Rome",
-        "mapQuery": "Villa de Sanctis, via dei Gordiani 5, Roma"
-      },
-      "location4": {
-        "name": "Giardino dei Ciliegi, via Filippo Re, Rome",
-        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Rome",
-        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
-      },
-      "location5": {
-        "name": "Parc Sangalli, viale dell’Acquedotto Alessandrino Municipalité V, Rome",
-        "imageAlt": "Parc Sangalli, viale dell’Acquedotto Alessandrino Municipalité V, Rome",
-        "mapQuery": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma"
-      },
-      "location6": {
-        "name": "Spazio Y, via dei Juvenci 11, Rome",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome",
-        "mapQuery": "Spazio Y, via dei Juvenci 11, Roma"
-      },
-      "location7": {
-        "name": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipalité V, Rome",
-        "imageAlt": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipalité V, Rome",
-        "mapQuery": "Via dei Corneli 24, Roma"
+        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment3": {

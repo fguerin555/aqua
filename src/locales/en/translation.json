@@ -23,16 +23,16 @@
     "mapSymbolAlt": "Map pin symbol",
     "appointment1": {
       "sectionTitle": "APPOINTMENT 1",
-      "name1": "Meeting/study day on Don Roberto Sardelli",
-      "time1": "On 5 July 2025 from 6.30 PM onwards",
+      "name1": "Round table on Don Roberto Sardelli",
+      "time1": "On 5 July 2025 at 6 PM",
       "name2": "",
       "time2": "",
-      "description": "Meeting/ day of studies on the figure of Don Roberto Sardelli in the studio of the artist who creates a work in his memory. Don Roberto Rardelli was a key priest for the rescue of the living conditions of the inhabitants of the happy herd and aqueduct. Don Sardelli arrived at the end of the sixties in this degraded area of rome, dealing concretely with the inconveniences of the baraccati, giving life to a deeply innovative school and activating the water supply.",
-      "artistList": "Artist: ALFREDO PIRRI, author of the work <br /> Curator: ADRIANA POLVERONI<br /> Study day speakers: ASCANIO CELESTINI, author and actor <br /> MASSIMILIANO FIORUCCI, rector of Roma Tre University <br /> ALFREDO PIRRI, artist <br /> ADRIANA POLVERONI, professor at NABA and curator <br />VANESSA ROGHI, historian of school and education<br />Target audience: children, adults, everyone<br /> Free access",
+      "description": "Presentation of the preparatory sketches for the monument created by Alfredo Pirri in honor of the priest",
+      "artistList": "Artist: ALFREDO PIRRI, author of the work <br /> Curator: ADRIANA POLVERONI<br /> Study day speakers: ASCANIO CELESTINI, author and actor <br /> MASSIMILIANO FIORUCCI, rector of Roma Tre University <br /> ALFREDO PIRRI, artist <br /> ADRIANA POLVERONI, professor at NABA and curator <br />VANESSA ROGHI, historian of school and education<br />By invitation.",
       "location1": {
-        "name": "Via del Mandrione 455, Rome.",
-        "imageAlt": "Via del Mandrione 455, Rome",
-        "mapQuery": "Via del Mandrione 455, Roma"
+        "name": "Home Pirri/Valentini Via del Mandrione 451, Rome.",
+        "imageAlt": "Home Pirri/Valentini Via del Mandrione 451, Rome",
+        "mapQuery": "Via del Mandrione 451, Roma"
       },
       "location2": {
         "name": "",
@@ -43,43 +43,24 @@
     "appointment2": {
       "sectionTitle": "APPOINTMENT 2",
       "name": "Water in Motion",
-      "time": "On 9, 10, 18 and 19 July 2025 from 9 PM onwards",
-      "description": "Performance, Meeting, Installation, Video. Projections of videos by Italian and foreign artists whose theme is water interpreted through an aesthetic and ambient lens.",
-      "artistList": "Artists: STUDIO AZZURO <br />FABRIZIO PLESSI  <br /> ROBERT CAHEN <br /> Curator: BRUNO DI MARINO.<br />Target audience: children, adults, everyone.<br /> Free access.",
+      "time": "On 16, 17 July and 8, 9, 10 September 2025 at 9 PM.",
+      "description": "16 July - Video projection, studio Pirri Valentini, via del Mandrione 451, Rome.<br /> 17 July - Video projection, Spazio Y, via dei Juvenci 11, Rome.<br /> 8, 9, 10 September - Video projection, Parco di Tor Fiscale, Aqueduc Marcio Felice, Rome",
+      "artistList": "Artists: STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br />Target audience: children, adults, everyone.<br /> Free access.",
       "location1": {
-        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
+        "name": "Home Pirri Valentini, Via del Mandrione 451, Roma.",
+        "imageAlt": "Home Pirri Valentini, Via del Mandrione 451, Roma.",
+        "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "name": "Piazza dei Tribuni. Municipality VII, Rome",
-        "imageAlt": "Piazza dei Tribuni, Municipality VII, Rome",
-        "mapQuery": "Piazza dei Tribuni. Municipio VII, Roma"
+        "name": "Spazio Y, via dei Juvenci 11, Rome.",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
+        "mapQuery": "Via dei Juvenci 11, Roma"
       },
+
       "location3": {
-        "name": "Villa de Sanctis, via dei Gordiani 5, Rome",
-        "imageAlt": "Villa de Sanctis, via dei Gordiani 5, Rome",
-        "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
-      },
-      "location4": {
-        "name": "Giardino dei Ciliegi, via Filippo Re, Rome",
-        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Rome",
-        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
-      },
-      "location5": {
-        "name": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipality V, Rome",
-        "imageAlt": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipality V, Rome",
-        "mapQuery": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma"
-      },
-      "location6": {
-        "name": "Spazio Y, via dei Juvenci 11, Rome",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome",
-        "mapQuery": "Spazio Y, via dei Juvenci 11, Roma"
-      },
-      "location7": {
-        "name": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipality V, Rome",
-        "imageAlt": "Studio Grechi/Pacchiarotti, Via dei Corneli 24, Municipality V, Rome",
-        "mapQuery": "Via dei Corneli 24, Roma"
+        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment3": {

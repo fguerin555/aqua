@@ -24,16 +24,16 @@
     "mapSymbolAlt": "Simbolo indicazione mappa",
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
-      "name1": "Incontro/giornata di studi su Don Roberto Sardelli",
-      "time1": "il 5 luglio 2025 dalle 18:30 in poi",
+      "name1": "Tavola rotonda su Don Roberto Sardelli",
+      "time1": "il 5 luglio 2025 ore 18.00",
       "name2": "",
       "time2": "",
-      "description": "Incontro/giornata di studi sulla figura di Don Roberto Sardelli nello studio dell'artista che realizza un'opera in sua memoria.Don Roberto Rardelli è stato un sacerdote chiave per il riscatto delle condizioni di vita degli abitanti del mandrione e dell’acquedotto felice. Don Sardelli arrivò alla fine degli anni sessanta in questa area degradata di roma, occupandosi concretamente dei disagi dei baraccati, dando vita a una scuola profondamente innovativa e attivando l’approvvigionamento dell’acqua.",
-      "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
+      "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote",
+      "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Su invito",
       "location1": {
-        "name": "Via del Mandrione 455, Roma.",
-        "imageAlt": "Via del Mandrione 455, Roma",
-        "mapQuery": "Via del Mandrione 455, Roma"
+        "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
+        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
+        "mapQuery": "Via del Mandrione 451, Roma"
       },
       "location2": {
         "name": "",
@@ -44,43 +44,26 @@
     "appointment2": {
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
-      "time": "Il 9, 10, 18 e 19 luglio 2025 dalle 21.00 in poi",
-      "description": "Spettacolo,Incontro,Installazione, Video. Proiezioni di video di artisti italiani e stranieri che hanno per tema l'acqua interpretata attraverso una lente estetica ed ambiantale.",
+      "time": "Il 16, 17 luglio e 8, 9, 10 Settembre 2025 ore 21.00",
+      "description": "16 Luglio - Videoproiezioni, studio Pirri Valentini, via del Mandrione 451, Roma<br />  17 Luglio -  Videoproiezioni Spazio Y, via dei Juvenci 11, Roma.<br/ > 8, 9, 10 Settembre -  Videoproiezioni, Parco di Tor Fiscale, Acquedotto Marcio Felice. ",
+
       "artistList": "Artisti: STUDIO AZZURO <br /> FABRIZIO PLESSI <br /> FABRIZIO ROBERT CAHEN <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
       "location1": {
-        "name": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma.",
-        "imageAlt": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma.",
-        "mapQuery": "Parchetto condiviso del Mandrione, via Casalina Vecchia 124, Roma."
+        "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
+        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
+        "mapQuery": "Via del Mandrione 451, Roma"
       },
+
       "location2": {
-        "name": "Piazza dei Tribuni. Municipio VII, Roma",
-        "imageAlt": "Piazza dei Tribuni, Municipio VII, Roma",
-        "mapQuery": "Piazza dei Tribuni. Municipio VII, Roma"
-      },
-      "location3": {
-        "name": "Villa de Sanctis via dei Gordiani 5, Roma",
-        "imageAlt": "Villa de Sanctis via dei Gordiani 5, Roma",
-        "mapQuery": "Villa de Sanctis via dei Gordiani 5, Roma"
-      },
-      "location4": {
-        "name": "Giardino dei Ciliegi, via Filippo Re, Roma",
-        "imageAlt": "Giardino dei Ciliegi, via Filippo Re, Roma",
-        "mapQuery": "Giardino dei Ciliegi, via Filippo Re, Roma"
-      },
-      "location5": {
-        "name": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma",
-        "imageAlt": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma",
-        "mapQuery": "Parco Sangalli, viale dell’Acquedotto Alessandrino Municipio V, Roma"
-      },
-      "location6": {
         "name": "Spazio Y, via dei Juvenci 11, Roma",
         "imageAlt": "Spazio Y, via dei Juvenci 11, Roma",
         "mapQuery": "Spazio Y, via dei Juvenci 11, Roma"
       },
-      "location7": {
-        "name": "Studio Grechi/Pacchiarotti Via dei Corneli 24, Municipio V, Roma",
-        "imageAlt": "Studio Grechi/Pacchiarotti Via dei Corneli 24, Municipio V, Roma",
-        "mapQuery": "Via dei Corneli 24, Roma"
+
+      "location3": {
+        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment3": {
