@@ -14,18 +14,17 @@
 .BackgroundFoto img {
   object-fit: cover;
   position: fixed;
-  top: 0; /* Aligne en haut */
-  left: 0; /* Aligne à gauche */
+  top: 0;
+  left: 0;
   z-index: -1;
   width: 100vw;
-  height: 100vh; /* MODIFIÉ: Assure que l'image couvre toute la hauteur de la fenêtre */
-  /* filter: brightness(0.9); */
+  height: 100vh;
 }
 
 .LinksPageTitle {
   position: relative;
   z-index: 1;
-  width: 100%; /* Sera ajusté par les media queries */
+  width: 100%;
   box-sizing: border-box;
 }
 
@@ -49,15 +48,11 @@
 .Logo img {
   display: block;
   width: 23%;
-  border-radius: 4px;
   height: auto;
   visibility: visible;
   opacity: 1;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 20px;
-  border-radius: 2px;
+  margin: 10px auto 20px; /* Marge simplifiée pour le centrage */
+  border-radius: 2px; /* Déclaration de bordure unique */
   box-shadow: 5px 5px 10px #19280199;
 }
 
@@ -74,13 +69,12 @@
 }
 
 .liensite a p {
-  margin: 0; /* Réinitialise les marges par défaut du paragraphe pour un meilleur alignement vertical. */
+  margin: 0;
 }
 .LogoCiC {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  display: flex; /* Active Flexbox */
-  align-items: center; /* Aligne verticalement l'image et le lien au centre */
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
   justify-content: center;
 }
 
@@ -88,6 +82,22 @@
   width: 50px;
   height: 50px;
   margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+}
+
+.Contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%; /* Assure que le conteneur prend toute la largeur pour permettre le centrage */
+}
+
+.Contact img {
+  object-fit: contain;
+  height: 200px;
+  width: auto;
+  margin-top: 80px;
   box-shadow: 5px 5px 10px #19280199;
   border-radius: 4px;
 }
@@ -107,6 +117,8 @@
   border-radius: 4px;
 }
 
+/* --- Media Queries --- */
+
 @media (max-width: 1224px) {
   .LinksPageTitle p {
     font-size: 30px;
@@ -121,6 +133,10 @@
   .liensite a {
     font-size: 20px;
   }
+  .Contact img {
+    height: 180px;
+    margin-top: 80px !important;
+  }
 }
 
 @media (max-width: 768px) {
@@ -133,11 +149,16 @@
   .liensite a {
     font-size: 12px;
   }
+  .Contact img {
+    height: 150px;
+    margin-top: 60px !important;
+  }
   .LogoCiC img {
     width: 30px;
     height: 30px;
   }
 }
+
 @media (max-width: 509px) {
   .LinksPageTitle p {
     font-size: 25px;
@@ -151,5 +172,12 @@
   .LogoCiC img {
     width: 30px;
     height: 30px;
+  }
+  .Contact img {
+    height: 120px;
+    max-width: 96%;
+    margin-top: 40px !important;
+    /* Le parent .Contact avec "justify-content: center" gère le centrage. */
+    /* Pas besoin de marges horizontales ici. */
   }
 }

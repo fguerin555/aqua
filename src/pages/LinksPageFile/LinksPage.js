@@ -3,6 +3,7 @@ import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 import LogoCiC from "../../assets/images/LogoCiC.png";
 import LavoriInCorso from "../../assets/images/LavoriInCorso.png";
+import contact from "../../assets/images/contact.png";
 import styles from "./LinksPage.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 const LinksPage = () => {
@@ -28,6 +29,12 @@ const LinksPage = () => {
             <p>{t("links.cielincitta")}</p>
           </a>
         </div>
+      </div>
+
+      <div className={styles.Contact}>
+        {/* <div className={styles.Foto}> */}
+        <img src={contact} alt={t("contact Ciel in città.imageAlt")} />
+        {/* </div> */}
       </div>
 
       <div className={styles.LavoriInCorso}>
