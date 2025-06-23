@@ -24,16 +24,16 @@
     "mapSymbolAlt": "Simbolo indicazione mappa",
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
-      "name1": "Tavola rotonda su Don Roberto Sardelli",
-      "time1": "il 5 luglio 2025 ore 18.00",
-      "name2": "",
+      "name1": "Per un “monumento pubblico” dedicato a Don Roberto Sardelli",
+      "name2": "Della Notte, del Pianto, dell'Aurora",
+      "time1": "Il 5 Luglio 2025 ore 18.00",
       "time2": "",
       "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote",
       "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Su invito",
       "location1": {
-        "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
-        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
-        "mapQuery": "Via del Mandrione 451, Roma"
+        "name": "Casa Pirri / Valentini, Via del Mandrione 455, Roma.",
+        "imageAlt": "Casa Pirri / Valentini, Via del Mandrione 455, Roma",
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
         "name": "",
