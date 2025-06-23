@@ -4,14 +4,14 @@ import { useTranslation, Trans } from "react-i18next";
 import styles from "./NewProgramma.module.css";
 import MapButton from "../../components/MapButton";
 import fontana from "../../assets/images/fontana.png";
-import fotoVide from "../../assets/images/fotoVide.png";
-import parchetto from "../../assets/images/parchetto.png";
-import parcoTorredelFiscale from "../../assets/images/ParcodiTorredelFiscale.png";
-import piazzadeiTribuni from "../../assets/images/PiazzadeiTribuni.png";
+// import fotoVide from "../../assets/images/fotoVide.png";
+// import parchetto from "../../assets/images/parchetto.png";
+import ParcodiTorredelFiscale from "../../assets/images/ParcodiTorredelFiscale.png";
+// import piazzadeiTribuni from "../../assets/images/PiazzadeiTribuni.png";
 import VilladeSanctis from "../../assets/images/VilladeSanctis.png";
-import GiardinodeiCiliegi from "../../assets/images/GiardinodeiCiliegi.png";
-import ParcoSangalli from "../../assets/images/ParcoSangalli.png";
-// import SpazioY from "../../assets/images/SpazioY.png";
+// import GiardinodeiCiliegi from "../../assets/images/GiardinodeiCiliegi.png";
+// import ParcoSangalli from "../../assets/images/ParcoSangalli.png";
+import SpazioY from "../../assets/images/SpazioY.png";
 import IstitutoBalabanoff from "../../assets/images/IstitutoBalabanoff.png";
 import centroAnziani from "../../assets/images/centroAnziani.png";
 import IstitutoAnnaFraentzel from "../../assets/images/IstitutoAnnaFraentzel.png";
@@ -21,10 +21,12 @@ import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
 import ViadelAcquedottoFelice from "../../assets/images/ViadelAcquedottoFelice.png";
 import ViadiTorreBranca from "../../assets/images/ViadiTorreBranca.png";
 import VicolodellAcquedottoFelice from "../../assets/images/VicolodellAcquedottoFelice.png";
-import ViaFilippoRe from "../../assets/images/ViaFilippoRe.png";
+// import ViaFilippoRe from "../../assets/images/ViaFilippoRe.png";
 import PianoBi from "../../assets/images/PianoBi.png";
-import VialedellAcquedottoAlessandrino from "../../assets/images/VialedellAcquedottoAlessandrino.png";
+// import VialedellAcquedottoAlessandrino from "../../assets/images/VialedellAcquedottoAlessandrino.png";
 import IstitutoConfalonieri from "../../assets/images/IstitutoConfalonieri.png";
+import LagoBullicante from "../../assets/images/LagoBullicante.png";
+import StudioPirri from "../../assets/images/StudioPirri.png";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -78,7 +80,7 @@ const Programma = () => {
               VANESSA ROGHI, storica della scuola e dell’educazione.
               <br />
               Pubblico di riferimento: bambini, adulti, tutti.
-              <br /> Accesso libero.
+              <br /> Su invito.
             </Trans>
           </p>
         </div>
@@ -87,7 +89,7 @@ const Programma = () => {
         </div>{" "}
         <div className={styles.Foto}>
           <img
-            src={fotoVide}
+            src={StudioPirri}
             alt={t("program.appointment1.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -135,7 +137,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={fotoVide}
+            src={StudioPirri}
             alt={t("program.appointment2.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -149,7 +151,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={fotoVide}
+            src={SpazioY}
             alt={t("program.appointment2.location2.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -163,7 +165,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={fotoVide}
+            src={ParcodiTorredelFiscale}
             alt={t("program.appointment2.location3.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -301,7 +303,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={parcoTorredelFiscale}
+            src={ParcodiTorredelFiscale}
             alt={t("program.appointment3.location8.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -354,7 +356,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={piazzadeiTribuni}
+            src={LagoBullicante}
             alt={t("program.appointment4.location1.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
@@ -368,68 +370,11 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={parchetto}
+            src={ParcodiTorredelFiscale}
             alt={t("program.appointment4.location2.imageAlt")}
           />
           <div className={styles.SimbolMapp}>
             <MapButton mapQuery={t("program.appointment4.location2.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location3.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={GiardinodeiCiliegi}
-            alt={t("program.appointment4.location3.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location3.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location4.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={ViaFilippoRe}
-            alt={t("program.appointment4.location4.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location4.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location5.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={ParcoSangalli}
-            alt={t("program.appointment4.location5.imageAlt")}
-          />
-
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location5.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location6.name")}</p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={VialedellAcquedottoAlessandrino}
-            alt={t("program.appointment4.location6.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location6.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
@@ -646,7 +591,7 @@ const Programma = () => {
         </div>
         <div className={styles.Foto}>
           <img
-            src={parcoTorredelFiscale}
+            src={ParcodiTorredelFiscale}
             alt={t("program.appointment6.location1.imageAlt")}
           />
 
@@ -709,22 +654,6 @@ const Programma = () => {
 
           <div className={styles.SimbolMapp}>
             <MapButton mapQuery={t("program.appointment7.location1.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>
-            <Trans> {t("program.appointment7.location2.name")}</Trans>
-          </p>
-        </div>
-        <div className={styles.Foto}>
-          <img
-            src={parchetto}
-            alt={t("program.appointment7.location2.imageAlt")}
-          />
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment7.location2.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>

@@ -64,7 +64,20 @@
   border-radius: 2px;
   box-shadow: 5px 5px 10px #19280199;
 }
-
+.LavoriInCorso {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.LavoriInCorso img {
+  margin-top: 50px;
+  object-fit: contain;
+  height: 300px;
+  width: auto;
+  margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+}
 @media (max-width: 1224px) {
   .StampaTitle p {
     font-size: 30px;
