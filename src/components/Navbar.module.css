@@ -32,7 +32,7 @@
   margin-top: 5px;
 }
 
-.Costruzione img {
+.Costruzione {
   margin-left: 15px;
 }
 
@@ -115,9 +115,12 @@
   .logoImage {
     height: 40px; /* Logo légèrement plus petit */
   }
-  .Costruzione img {
+  .Costruzione {
     margin-left: 2px;
+    width: 150px;
+    height: auto;
   }
+
   .navbarLinks {
     display: none; /* Caché par défaut */
     flex-direction: column; /* Liens en colonne */
@@ -173,9 +176,12 @@
   .logoImage {
     height: 35px; /* Logo légèrement plus petit */
   }
-  .Costruzione img {
+  .Costruzione {
     margin-left: 2px;
+    width: 100px;
+    height: auto;
   }
+
   .navbarLinks a {
     font-size: 1.5rem; /* Police légèrement plus petite */
   }
@@ -197,9 +203,12 @@
   .logoImage {
     height: 30px; /* Logo légèrement plus petit */
   }
-  .Costruzione img {
+  .Costruzione {
     margin-left: 2px;
+    width: 80px;
+    height: auto;
   }
+
   .languageSwitcher {
     display: flex; /* Aligne les boutons de langue horizontalement */
     align-items: center; /* Centre les boutons verticalement */
