@@ -43,8 +43,8 @@
     "appointment2": {
       "sectionTitle": "APPOINTMENT 2",
       "name": "Water in Motion",
-      "time": "On 16, 17 July and 8, 9, 10 September 2025 at 9 PM.",
-      "descriptionPirri": "16 July - Video projection , studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 JuLy - Video projection Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 September - Video projection, Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
+      "time": "Video projections on 16, 17 July and 8, 9, 10 September 2025 at 9 PM.",
+      "description": "16 July -Studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 JuLy - Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 September <br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
       "artistList": "Artists: STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br />Target audience: children, adults, everyone.<br /> Free access.",
       "location1": {
         "name": "Home Pirri Valentini, Via del Mandrione 451, Roma.",
@@ -150,10 +150,10 @@
     "appointment5": {
       "sectionTitle": "APPOINTMENT 5",
       "name": "Art in a Room",
-      "time1": " <br /> Centro Anziani, Via dei Volsci, 82c, Rome. <br /> Sculpture workshops for blind and partially sighted people<br/> 19, 26 September, 01, 08, 15 October and 05 November 2025<br/>from 3 PM to 5 PM.",
-      "time2": "Cartoon workshops  <br />  Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome  <br /> 07, 22 October, 05, 16 November 2025 <br/>from 9 AM to 1 PM.",
-      "time3": "Cartoon workshops <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome<br /> 09, 23 October , 06,27 November 2025  <br/> from 9 AM to 1 PM.",
-      "time4": "Ceramic Workshops <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Rome <br /> 10, 24 October and 07, 28 November 2025  <br/>from 9 AM to 1 PM.",
+      "time1": "Sculpture workshops for blind and partially sighted people <br /> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/> 19, 26 September, 01, 08, 15 October and 05 November 2025<br/>from 3 PM to 5:30 PM.",
+      "time2": "Cartoon workshops <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <map2/> <br /> 07, 22 October, 05, 16 November 2025 <br/>from 9 AM to 1 PM.",
+      "time3": "Cartoon workshops <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br /> 09, 23 October, 06, 27 November 2025 <br/> from 9 AM to 1 PM.",
+      "time4": "Ceramic Workshops <br /> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br /> 10, 24 October and 07, 28 November 2025 <br/>from 9 AM to 1 PM.",
       "description": "Art workshops for the blind, partially sighted and visually impaired; some schools of municipalities IV and VII will host workshops on ceramics, video, comics and photography conducted by artists who have their own studios between municipalities V and VII. At the end of the training experience, one or more days of visits to the above-mentioned studios are also open to citizens.",
       "artistList": "Artists: IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /> Target audience: children, adults, everyone <br /> Free access",
       "location1": {

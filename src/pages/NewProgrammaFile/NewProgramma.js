@@ -130,10 +130,10 @@ const Programma = () => {
         <div className={styles.Orari}>
           <p>{t("program.appointment2.time")}</p>
         </div>
-        <div className={styles.EventDescriptionPirri}>
+        <div className={styles.EventDescription}>
           <p>
             <Trans
-              i18nKey="program.appointment2.descriptionPirri"
+              i18nKey="program.appointment2.description"
               components={{
                 map1: (
                   <span className={styles.SimbolMapp}>
@@ -414,40 +414,78 @@ const Programma = () => {
         </div>
         <div className={styles.Orari}>
           <p>
-            <Trans i18nKey="program.appointment5.time1">
-              Laboratori di scultura per ciechi ipovedenti e vedenti <br />
-              Centro Anziani Via dei Volsci, 82c, Roma <br /> 19/26 Settembre,
-              01/08/15 Ottobre, 05 Novembre 2025 <br /> dalle ore 15 alle 17.30.
-            </Trans>
+            <Trans
+              i18nKey="program.appointment5.time1"
+              components={{
+                br: <br />,
+                map1: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment5.location1.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
           </p>
         </div>
         <div className={styles.Orari}>
           <p>
-            <Trans i18nKey="program.appointment5.time2">
-              Laboratori di fumetto <br />
-              Istituto Anna Fraentzel Celli <br />
-              07, 22 Ottobre, 05/16 Novembre 2025
-              <br /> dalle ore 9 alle 13
-            </Trans>
+            <Trans
+              i18nKey="program.appointment5.time2"
+              components={{
+                br: <br />,
+                map2: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment5.location2.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
           </p>
         </div>
         <div className={styles.Orari}>
           <p>
-            <Trans i18nKey="program.appointment5.time3">
-              Laboratori di fumetto <br />
-              Istituto Angelica Balabanoff <br /> 09, 23 Ottobre , 06,27
-              Novembre 2025 <br />
-              dalle ore 9 alle 13.
-            </Trans>
+            <Trans
+              i18nKey="program.appointment5.time3"
+              components={{
+                br: <br />,
+                map3: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment5.location3.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
           </p>
         </div>
         <div className={styles.Orari}>
           <p>
-            <Trans i18nKey="program.appointment5.time4">
-              Laboratori di ceramica <br />
-              Istituto Confalonieri De Chirico <br /> 10, 24 Ottobre e 07, 28
-              Novembre 2025 <br /> dalle 9 alle 13.
-            </Trans>
+            <Trans
+              i18nKey="program.appointment5.time4"
+              components={{
+                br: <br />,
+                map4: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment5.location4.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
           </p>
         </div>
         <div className={styles.EventDescription}>

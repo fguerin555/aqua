@@ -49,8 +49,8 @@
     "appointment2": {
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
-      "time": "Les 16, 17 Juillet et 8, 9, 10 Septembre 2025 à 21 heures.",
-      "descriptionPirri": "16 Juillet - Projection Video, studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 Juillet - Projection video Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Septembre - Projection video, Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
+      "time": "Projection video 16, 17 Juillet et 8, 9, 10 Septembre 2025 à 21 heures",
+      "description": "16 Juillet - Studio Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Juillet - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Septembre <br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
       "artistList": "Artistes: STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
         "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
@@ -155,10 +155,10 @@
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "L'Art dans une Pièce",
-      "time1": "Ateliers de sculpture pour les aveugles et les malvoyants  <br /> Centro Anziani, Via dei Volsci, 82c, Roma <br/>19, 26 Septembre, 01, 08,  15 Octobre et 05 Novembre 2025<br/> dalle ore 15 alle 17.30.",
-      "time2": "Ateliers de bande dessinée <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <br />07, 22 Octobre, 05, 16 Novembre 2025 <br/> de 9h à 13h",
-      "time3": "Ateliers de bande dessinée <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <br />07, 22 Octobre, 05, 16 Novembre 2025 <br/> de 9h à 13h",
-      "time4": "Ateliers de céramique<br /> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome <br />10, 24 Octobre, 07, 28 Novembre 2025 <br/> de 9h à 13h",
+      "time1": "Ateliers de sculpture pour les aveugles et les malvoyants <br /> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/>19, 26 Septembre, 01, 08, 15 Octobre et 05 Novembre 2025<br/> de 15h à 17h30.",
+      "time2": "Ateliers de bande dessinée <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <map2/> <br />07, 22 Octobre, 05, 16 Novembre 2025 <br/> de 9h à 13h",
+      "time3": "Ateliers de bande dessinée <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br />09, 23 Octobre, 06, 27 Novembre 2025 <br/> de 9h à 13h",
+      "time4": "Ateliers de céramique<br /> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br />10, 24 Octobre, 07, 28 Novembre 2025 <br/> de 9h à 13h",
       "description": "Ateliers d’art pour les aveugles, les malvoyants et les malvoyants; certaines écoles des municipalités IV et VII accueilleront des ateliers de céramique, vidéo, bande dessinée et photographie dirigés par des artistes qui ont leurs propres studios entre les municipalités V et VII. à la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les studios mentionnés ci-dessus ouverts également à la citoyenneté.",
       "artistList": "Artistes : IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {

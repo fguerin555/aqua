@@ -45,8 +45,8 @@
     "appointment2": {
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
-      "time": "Il 16, 17 luglio e 8, 9, 10 Settembre 2025 ore 21.00",
-      "descriptionPirri": "16 Luglio - Videoproiezioni, studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 Luglio - Videoproiezioni Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Settembre - Videoproiezioni, Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
+      "time": "Videoproiezioni 16, 17 luglio e 8, 9, 10 Settembre 2025 ore 21.00",
+      "description": "16 Luglio - Studio Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Luglio - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Settembre <br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
 
       "artistList": "Artisti: STUDIO AZZURO <br /> FABRIZIO PLESSI <br /> FABRIZIO ROBERT CAHEN <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
       "location1": {
@@ -154,10 +154,10 @@
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "L'Arte in una Stanza",
-      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> Centro Anziani, Via dei Volsci, 82c, Roma <br/> 19, 26 Settembre, 01, 08, 15 Ottobre e 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
-      "time2": "Laboratori di fumetto <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma <br /> 07, 22 Ottobre, 05, 16 Novembre 2025 <br />  dalle ore 9 alle 13.",
-      "time3": "Laboratori di fumetto  <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <br />09, 23 Ottobre , 06,27 Novembre 2025 <br/> dalle 9 alle 13.",
-      "time4": "Laboratori di Ceramica <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <br />  10, 24 Ottobre e 07, 28 Novembre 2025 <br /> dalle 9 alle 13.",
+      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> Centro Anziani, Via dei Volsci, 82c, Roma <map1/> <br/> 19, 26 Settembre, 01, 08, 15 Ottobre e 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
+      "time2": "Laboratori di fumetto <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma <map2/> <br /> 07, 22 Ottobre, 05, 16 Novembre 2025 <br />  dalle ore 9 alle 13.",
+      "time3": "Laboratori di fumetto  <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <map3/> <br />09, 23 Ottobre , 06,27 Novembre 2025 <br/> dalle 9 alle 13.",
+      "time4": "Laboratori di Ceramica <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <map4/> <br />  10, 24 Ottobre e 07, 28 Novembre 2025 <br /> dalle 9 alle 13.",
       "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
       "artistList": "Artisti: IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {

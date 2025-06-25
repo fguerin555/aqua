@@ -19,6 +19,7 @@
   /* Conteneur pour l'image du logo */
   display: flex;
   align-items: center;
+  gap: 15px;
 }
 
 .logoImage {
@@ -29,6 +30,10 @@
   border-radius: 4px;
   box-shadow: 5px 5px 10px #19280199;
   margin-top: 5px;
+}
+
+.Costruzione img {
+  margin-left: 15px;
 }
 
 .navbarLinks {

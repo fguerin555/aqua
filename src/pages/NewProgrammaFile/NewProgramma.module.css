@@ -115,7 +115,7 @@
   vertical-align: middle; /* Alignement vertical avec le texte */
   width: 40px; /* Taille de l'icône */
   height: 40px; /* Taille de l'icône */
-  margin-left: 5px; /* Petit espace après le texte */
+  margin-left: 0 !important; /* Petit espace après le texte */
 }
 
 /* Cible la balise 'a' rendue par MapButton à l'intérieur de SimbolMapp */
@@ -241,20 +241,7 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-.EventDescriptionPirri p {
-  text-align: justify;
-  box-sizing: border-box;
-  hyphens: auto;
-  width: 100%;
-  font-size: 20px;
-  color: #e9f2fd;
-  font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
+
 .ArtistList {
   display: flex;
   justify-content: center;
@@ -309,7 +296,13 @@
   .Luoghi p {
     font-size: 18px;
   }
-
+  .SimbolMapp {
+    display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
+    vertical-align: middle; /* Alignement vertical avec le texte */
+    width: 35px; /* Taille de l'icône */
+    height: 35px; /* Taille de l'icône */
+    margin-left: 5px; /* Petit espace après le texte */
+  }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
   }
@@ -334,6 +327,10 @@
 
   .Foto img {
     margin-bottom: 1px;
+  }
+  .FotoV {
+    width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 420px;
   }
   .LegendaFoto p {
     margin-top: 1px !important;
@@ -369,7 +366,13 @@
   .Luoghi p {
     font-size: 16px;
   }
-
+  .SimbolMapp {
+    display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
+    vertical-align: middle; /* Alignement vertical avec le texte */
+    width: 25px; /* Taille de l'icône */
+    height: 25px; /* Taille de l'icône */
+    margin-left: 5px; /* Petit espace après le texte */
+  }
   .Foto {
     width: 400px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 250px;
@@ -396,6 +399,10 @@
   }
   .Foto img {
     margin-bottom: 1px;
+  }
+  .FotoV {
+    width: 280px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 400px;
   }
   .LegendaFoto p {
     margin-top: 1px !important;
@@ -431,9 +438,20 @@
   .Luoghi p {
     font-size: 14px;
   }
+  .SimbolMapp {
+    display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
+    vertical-align: middle; /* Alignement vertical avec le texte */
+    width: 25px; /* Taille de l'icône */
+    height: 25px; /* Taille de l'icône */
+    margin-left: 5px; /* Petit espace après le texte */
+  }
   .Foto {
     width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 180px;
+  }
+  .FotoV {
+    width: 280px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 400px;
   }
   .EventDescription p {
     font-size: 14px; /* Taille intermédiaire pour tablette */
