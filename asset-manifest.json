@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.12190e55.css",
+    "main.css": "/static/css/main.993d3b2b.css",
     "main.js": "/static/js/main.e55168ff.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
@@ -14,11 +14,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.12190e55.css.map": "/static/css/main.12190e55.css.map",
+    "main.993d3b2b.css.map": "/static/css/main.993d3b2b.css.map",
     "main.e55168ff.js.map": "/static/js/main.e55168ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.12190e55.css",
+    "static/css/main.993d3b2b.css",
     "static/js/main.e55168ff.js"
   ]
 }
