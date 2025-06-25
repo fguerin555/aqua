@@ -1,39 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.2017ca68.css",
-    "main.js": "/static/js/main.98303919.js",
+    "main.css": "/static/css/main.12190e55.css",
+    "main.js": "/static/js/main.e55168ff.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
-    "static/media/LagoBullicante.png": "/static/media/LagoBullicante.c66c12ee875e25eb99e4.png",
-    "static/media/SpazioY.png": "/static/media/SpazioY.b0711935a5e68e0d0435.png",
-    "static/media/fontana.png": "/static/media/fontana.b4542a0d7bfeec16bcb9.png",
-    "static/media/PianoBi.png": "/static/media/PianoBi.f4fe253b1e477c03e0a8.png",
-    "static/media/IstitutoConfalonieri.png": "/static/media/IstitutoConfalonieri.705b9bd54015a92bd2d0.png",
-    "static/media/VicolodellAcquedottoFelice.png": "/static/media/VicolodellAcquedottoFelice.c29bdf68946fa0a34af5.png",
-    "static/media/ViaCasalinaVecchia19.png": "/static/media/ViaCasalinaVecchia19.48631516dad02d61bc0c.png",
-    "static/media/IstitutoBalabanoff.png": "/static/media/IstitutoBalabanoff.91f5ca901f95da07e6a5.png",
-    "static/media/ViadelAcquedottoFelice.png": "/static/media/ViadelAcquedottoFelice.3e0dde758dc57d589117.png",
-    "static/media/VilladeSanctis.png": "/static/media/VilladeSanctis.fcbf177461aea9116b30.png",
-    "static/media/ViaCasalinaVecchia115.png": "/static/media/ViaCasalinaVecchia115.d245e7ea454166a2b09b.png",
-    "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.a130667c8eb7672502d8.png",
-    "static/media/IstitutoAnnaFraentzel.png": "/static/media/IstitutoAnnaFraentzel.667103ebc22756b20654.png",
-    "static/media/ParcodiTorredelFiscale.png": "/static/media/ParcodiTorredelFiscale.73b7ef79b1ed760603a2.png",
-    "static/media/StudioPirri.png": "/static/media/StudioPirri.c4fa2f5b6425eadd7b9e.png",
-    "static/media/centroAnziani.png": "/static/media/centroAnziani.d857c22bee3bce99c1e8.png",
+    "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
+    "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
+    "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
-    "static/media/ViadiTorreBranca.png": "/static/media/ViadiTorreBranca.40c3fecb761517699b0d.png",
-    "static/media/LavoriInCorso.png": "/static/media/LavoriInCorso.2d3b562e0f29f0fc8dba.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
-    "static/media/simbolmapp.png": "/static/media/simbolmapp.1562e23301a626c6e7be.png",
     "static/media/contact.png": "/static/media/contact.507d63900495478b238c.png",
+    "static/media/simbolmapp.png": "/static/media/simbolmapp.d87ff1ec985ec4658b55.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.2017ca68.css.map": "/static/css/main.2017ca68.css.map",
-    "main.98303919.js.map": "/static/js/main.98303919.js.map"
+    "main.12190e55.css.map": "/static/css/main.12190e55.css.map",
+    "main.e55168ff.js.map": "/static/js/main.e55168ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.2017ca68.css",
-    "static/js/main.98303919.js"
+    "static/css/main.12190e55.css",
+    "static/js/main.e55168ff.js"
   ]
 }
