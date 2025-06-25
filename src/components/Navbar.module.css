@@ -115,6 +115,9 @@
   .logoImage {
     height: 40px; /* Logo légèrement plus petit */
   }
+  .Costruzione img {
+    margin-left: 2px;
+  }
   .navbarLinks {
     display: none; /* Caché par défaut */
     flex-direction: column; /* Liens en colonne */
@@ -170,6 +173,9 @@
   .logoImage {
     height: 35px; /* Logo légèrement plus petit */
   }
+  .Costruzione img {
+    margin-left: 2px;
+  }
   .navbarLinks a {
     font-size: 1.5rem; /* Police légèrement plus petite */
   }
@@ -190,6 +196,9 @@
 
   .logoImage {
     height: 30px; /* Logo légèrement plus petit */
+  }
+  .Costruzione img {
+    margin-left: 2px;
   }
   .languageSwitcher {
     display: flex; /* Aligne les boutons de langue horizontalement */
