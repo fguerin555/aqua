@@ -28,11 +28,12 @@
       "name2": "Della Notte, del Pianto, dell'Aurora",
       "time1": "Il 5 Luglio 2025 ore 18.00",
       "time2": "",
-      "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote",
+      "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote <br/>Tratto dal nome della scuola di flamenco fondata da Don Sardelli nel1982, il monumento pubblico, che propongo di realizzare, esiste già nella sua struttura materiale. <br/>Si tratta di un traliccio elettrico impiantato sull’arco dell’acquedotto di fianco alla fontana di Clemente XII che caratterizza l’ingresso di via del Mandrione. <br/>Questo elemento è stato lasciato lì dalla Soprintendenza, durante gli ultimi lavori di restauro degli acquedotti, a testimonianza di un passato caratterizzato dall’arrivo di supporti vitali (elettricità, acqua…) per i cittadini del tempo che abitavano le baracche frequentate da Don Sardelli che ne ha animato le lotte per ottenere questi benefici essenziali.<br/>Il mio intervento si limiterebbe a esaltare la forma di croce di questo traliccio tramite doratura in foglia oro o vernice dorata e posizionamento di una luce che ne rende possibile la vista durante la notte.<br/>Il progetto<br/> Di seguito le foto del sito d’intervento e i bozzetti dell’opera. Il traliccio in questione è visibile da via Tuscolana e per un buon tratto di via del Mandrione.<br/>La luce, suggerita nei bozzetti da linee bianche, sarà proiettata da un faro posto sul palo della luce (ACEA) già presente sulla strada (via del Mandrione).<br/>Alfredo Pirri",
+
       "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Su invito",
       "location1": {
-        "name": "Casa Pirri / Valentini, Via del Mandrione 455, Roma.",
-        "imageAlt": "Casa Pirri / Valentini, Via del Mandrione 455, Roma",
+        "name": "Via del Mandrione 455, Roma",
+        "imageAlt": "Via del Mandrione 455, Roma",
         "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
@@ -45,24 +46,24 @@
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
       "time": "Il 16, 17 luglio e 8, 9, 10 Settembre 2025 ore 21.00",
-      "description": "16 Luglio - Videoproiezioni, studio Pirri Valentini, via del Mandrione 451, Roma<br />  17 Luglio -  Videoproiezioni Spazio Y, via dei Juvenci 11, Roma.<br/ > 8, 9, 10 Settembre -  Videoproiezioni, Parco di Tor Fiscale, Acquedotto Marcio Felice. ",
+      "descriptionPirri": "16 Luglio - Videoproiezioni, studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 Luglio - Videoproiezioni Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Settembre - Videoproiezioni, Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
 
       "artistList": "Artisti: STUDIO AZZURO <br /> FABRIZIO PLESSI <br /> FABRIZIO ROBERT CAHEN <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
       "location1": {
-        "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
-        "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Via del Mandrione 451, Roma"
       },
 
       "location2": {
-        "name": "Spazio Y, via dei Juvenci 11, Roma",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Spazio Y, via dei Juvenci 11, Roma"
       },
 
       "location3": {
-        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma",
-        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
@@ -158,7 +159,7 @@
       "time3": "Laboratori di fumetto  <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <br />09, 23 Ottobre , 06,27 Novembre 2025 <br/> dalle 9 alle 13.",
       "time4": "Laboratori di Ceramica <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <br />  10, 24 Ottobre e 07, 28 Novembre 2025 <br /> dalle 9 alle 13.",
       "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
-      "artistList": "Artisti: IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br /> MADDALENA SCUDERONI <br />GERMANO SERAFINI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "artistList": "Artisti: IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Roma",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Roma",

@@ -28,7 +28,7 @@
       "name2": "De la nuit, des Pleurs, de l'Aurore",
       "time1": "Le 5 Juillet 2025 à 18 heures",
       "time2": "",
-      "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.",
+      "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.<br/> Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Le projet<br/>Voici les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
       "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, recteur de l’université Roma Tre <br /> ALFREDO PIRRI, artiste <br />ADRIANA POLVERONI, enseignante à NABA et commissaire <br /> VANESSA ROGHI, historienne de l’école et de l’éducation<br />Sur invitation.",
       "location1": {
         "name": "Studio Pirri / Valentini, Via del Mandrione 451",
@@ -50,7 +50,7 @@
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
       "time": "Les 16, 17 Juillet et 8, 9, 10 Septembre 2025 à 21 heures.",
-      "description": "16 Juillet - Projections vidéo, studio Pirri Valentini, via del Mandrione 451, Roma. <br /> 17 Juillet -  Projections vidéo, Spazio Y, via dei Juvenci 11, Roma. <br />8, 9, 10 Septembre -  Projections vidéo, Parc de Tor Fiscale, Aqueduc Marcio Felice.",
+      "descriptionPirri": "16 Juillet - Projection Video, studio Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/> 17 Juillet - Projection video Spazio Y, via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Septembre - Projection video, Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
       "artistList": "Artistes: STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
         "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
@@ -160,7 +160,7 @@
       "time3": "Ateliers de bande dessinée <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <br />07, 22 Octobre, 05, 16 Novembre 2025 <br/> de 9h à 13h",
       "time4": "Ateliers de céramique<br /> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Rome <br />10, 24 Octobre, 07, 28 Novembre 2025 <br/> de 9h à 13h",
       "description": "Ateliers d’art pour les aveugles, les malvoyants et les malvoyants; certaines écoles des municipalités IV et VII accueilleront des ateliers de céramique, vidéo, bande dessinée et photographie dirigés par des artistes qui ont leurs propres studios entre les municipalités V et VII. à la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les studios mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : IRMA ALONZO <br /> GIULIA APICE <br /> PAOLO ASSENZA <br /> LUCA GRECCHI <br /> CRISTIANA PACCHIAROTTI <br />MADDALENA SCUDERONI <br /> GERMANO SERAFINI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
+      "artistList": "Artistes : IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
