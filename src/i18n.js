@@ -14,6 +14,7 @@ const resources = {
       blog: { pageTitle: "Blog" },
       links: {
         pageTitle: "Contacts",
+        logoCiC: "Logo Ciel'in Città Association",
         cielincitta: "Association Ciel in Città",
       },
       stampa: { pageTitle: "Press Review" },
@@ -25,6 +26,7 @@ const resources = {
       blog: { pageTitle: "Blog" },
       links: {
         pageTitle: "Contatti",
+        logoCiC: "Logo Associazione Ciel'in Città",
         cielincitta: "Associazione Ciel in Città",
       },
       stampa: { pageTitle: "Rassegna Stampa" },
@@ -36,6 +38,7 @@ const resources = {
       blog: { pageTitle: "Blog" },
       links: {
         pageTitle: "Contacts",
+        logoCiC: "Logo Association Ciel'in Città",
         cielincitta: "Association Ciel in Città",
       },
       stampa: { pageTitle: "Revue de Presse" },
