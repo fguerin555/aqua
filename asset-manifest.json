@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f124783e.css",
-    "main.js": "/static/js/main.e55168ff.js",
+    "main.css": "/static/css/main.8e459ec6.css",
+    "main.js": "/static/js/main.748a7b2e.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
@@ -9,16 +9,15 @@
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
-    "static/media/contact.png": "/static/media/contact.507d63900495478b238c.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.d87ff1ec985ec4658b55.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.f124783e.css.map": "/static/css/main.f124783e.css.map",
-    "main.e55168ff.js.map": "/static/js/main.e55168ff.js.map"
+    "main.8e459ec6.css.map": "/static/css/main.8e459ec6.css.map",
+    "main.748a7b2e.js.map": "/static/js/main.748a7b2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f124783e.css",
-    "static/js/main.e55168ff.js"
+    "static/css/main.8e459ec6.css",
+    "static/js/main.748a7b2e.js"
   ]
 }
