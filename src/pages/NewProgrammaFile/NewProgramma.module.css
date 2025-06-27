@@ -225,13 +225,17 @@
   text-shadow: 2px 2px 2px #000;
   color: #e9f2fd;
   text-justify: left;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .EventDescription p {
   text-align: justify;
   box-sizing: border-box;
   hyphens: auto;
-  width: 70%;
+  width: 80%;
   font-size: 20px;
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -280,13 +284,13 @@
   }
 
   .ProgrammaPageTitle p {
-    font-size: 26px;
+    font-size: 28px;
   }
   .TitleAppuntamento p {
-    font-size: 20px;
+    font-size: 25px;
   }
   .NameAppuntamento p {
-    font-size: 28px; /* Taille intermédiaire pour tablette */
+    font-size: 23px; /* Taille intermédiaire pour tablette */
   }
 
   .Orari p {
@@ -304,10 +308,10 @@
     margin-left: 5px; /* Petit espace après le texte */
   }
   .EventDescription p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .ArtistList {
     display: flex;
@@ -319,7 +323,7 @@
     margin-right: auto;
   }
   .ArtistList p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .Logo img {
     width: 30%;
@@ -351,13 +355,13 @@
   }
 
   .ProgrammaPageTitle p {
-    font-size: 20px;
+    font-size: 23px;
   }
   .TitleAppuntamento p {
-    font-size: 18px;
+    font-size: 21px;
   }
   .NameAppuntamento p {
-    font-size: 24px; /* Taille intermédiaire pour tablette */
+    font-size: 19px; /* Taille intermédiaire pour tablette */
   }
 
   .Orari p {
@@ -378,13 +382,15 @@
     height: 250px;
   }
   .EventDescription p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 16px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 16px; /* Taille intermédiaire pour tablette */
+    margin-left: 2% !important;
+    margin-right: 2% !important;
   }
   .ArtistList {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 16px; /* Taille intermédiaire pour tablette */
     margin-left: 8%;
     display: flex;
     justify-content: center;
@@ -426,17 +432,17 @@
     font-size: 18px;
   }
   .TitleAppuntamento p {
-    font-size: 15px;
+    font-size: 16px;
   }
   .NameAppuntamento p {
-    font-size: 20px; /* Taille intermédiaire pour tablette */
+    font-size: 15px; /* Taille intermédiaire pour tablette */
   }
 
   .Orari p {
-    font-size: 14px;
+    font-size: 15px;
   }
   .Luoghi p {
-    font-size: 14px;
+    font-size: 15px;
   }
   .SimbolMapp {
     display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
@@ -454,13 +460,15 @@
     height: 400px;
   }
   .EventDescription p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 15px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 15px; /* Taille intermédiaire pour tablette */
+    margin-left: 2% !important;
+    margin-right: 2% !important;
   }
   .ArtistList p {
-    font-size: 14px; /* Taille intermédiaire pour tablette */
+    font-size: 15px; /* Taille intermédiaire pour tablette */
     margin-left: 0;
   }
 

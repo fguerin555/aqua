@@ -29,7 +29,7 @@
       "time1": "Le 5 Juillet 2025 à 18 heures",
       "time2": "",
       "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.<br/> Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Le projet<br/>Voici les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
-      "artistList": "Artiste : ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants journée d'études : ASCANIO CELESTINI, auteur et acteur <br /> MASSIMILIANO FIORUCCI, recteur de l’université Roma Tre <br /> ALFREDO PIRRI, artiste <br />ADRIANA POLVERONI, enseignante à NABA et commissaire <br /> VANESSA ROGHI, historienne de l’école et de l’éducation<br />Sur invitation.",
+      "artistList": "ALFREDO PIRRI, auteur de l’œuvre <br /> Commissaire : ADRIANA POLVERONI<br /> Intervenants : <br/>MASSIMILIANO FIORUCCI<br />PASQUALE GRELA <br/> ANTONIO INSALACO <br/>MARIA VITTORIA MARINI CLARELLI<br />SIMONE QUILICI <br />JUAN REGO <br />VANESSA ROGHI<br /> RICCARDO SBORDONI<br />Sur invitation.",
       "location1": {
         "name": "Studio Pirri / Valentini, Via del Mandrione 451",
         "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451",
@@ -49,9 +49,9 @@
     "appointment2": {
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
-      "time": "Projection video 16, 17 Juillet et 8, 9, 10 Septembre 2025 à 21 heures",
-      "description": "16 Juillet - Studio Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Juillet - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Septembre <br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
-      "artistList": "Artistes: STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Public cible : enfants, adultes, tous<br /> Accès libre",
+      "description": "Projections vidéo supervisées par Bruno di Marino",
+      "time": "16 Juillet 21 heures - Studio Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Juillet 21 heures - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice <map3/>",
+      "artistList": "Artistes: <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Public cible : enfants, adultes, tous<br /> Accès libre",
       "location1": {
         "name": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
         "imageAlt": "Studio Pirri / Valentini, Via del Mandrione 451, Roma.",
@@ -71,9 +71,9 @@
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "Les Porteurs d'Eau",
-      "time": "Les 24 et 25 septembre 2025 à partir de 18 heures",
-      "description": "Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par l'artiste Iginio De Luca. Exposition/restitution de performance, de dessin aquatique par Pamela Pintus.",
-      "artistList": "Artistes : IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "time": "",
+      "description": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par l'artiste Iginio De Luca. <br /> 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus.",
+      "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Via Casilina Vecchia 19, Rome.",
         "imageAlt": "Via Casilina Vecchia 19, Rome",
@@ -120,7 +120,7 @@
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
       "time": "Les 15/16 septembre 2025 à 16h et le 23/24 septembre 2025 à 16h",
       "description": "Des artistes ayant leurs ateliers dans les municipalités V et VII et regroupés en associations culturelles animent des ateliers de peinture en plein air ouverts aux citoyens locaux. Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
-      "artistList": "Artistes : GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI <br />MADDALENA SCUDERONI <br /> Curator: ADRIANA POLVERONI <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI <br />MADDALENA SCUDERONI <carousel_maddalena/><br /> Curator: ADRIANA POLVERONI <br /> Commissaire : ADRIANA POLVERONI <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Piazza dei Tribuni, Municipalité VII, Rome.",
         "imageAlt": "Piazza dei Tribuni, Municipalité VII, Rome.",
@@ -160,7 +160,7 @@
       "time3": "Ateliers de bande dessinée <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br />09, 23 Octobre, 06, 27 Novembre 2025 <br/> de 9h à 13h",
       "time4": "Ateliers de céramique<br /> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br />10, 24 Octobre, 07, 28 Novembre 2025 <br/> de 9h à 13h",
       "description": "Ateliers d’art pour les aveugles, les malvoyants et les malvoyants; certaines écoles des municipalités IV et VII accueilleront des ateliers de céramique, vidéo, bande dessinée et photographie dirigés par des artistes qui ont leurs propres studios entre les municipalités V et VII. à la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les studios mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
+      "artistList": "Artistes : <br />IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /> Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -189,7 +189,7 @@
       "time2": "Oeuvre: Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration le 28 et 29 Novembre à 16 heures",
       "time3": "Oeuvre: Ri-Sorgente de Laurent le Deunff <br/> Inauguration le 28 et 29 Novembre à 16 heures",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
-      "artistList": "Artistes : PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires : ADRIANA POLVERONI, ISABELLA VITALE <br />Public cible : enfants, adultes, tous <br /> Accès libre",
+      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires : ADRIANA POLVERONI, ISABELLA VITALE <br />Public cible : enfants, adultes, tous <br /> Accès libre",
       "location1": {
         "name": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome.",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",

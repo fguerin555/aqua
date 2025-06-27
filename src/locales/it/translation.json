@@ -30,7 +30,7 @@
       "time2": "",
       "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote <br/>Tratto dal nome della scuola di flamenco fondata da Don Sardelli nel1982, il monumento pubblico, che propongo di realizzare, esiste già nella sua struttura materiale. <br/>Si tratta di un traliccio elettrico impiantato sull’arco dell’acquedotto di fianco alla fontana di Clemente XII che caratterizza l’ingresso di via del Mandrione. <br/>Questo elemento è stato lasciato lì dalla Soprintendenza, durante gli ultimi lavori di restauro degli acquedotti, a testimonianza di un passato caratterizzato dall’arrivo di supporti vitali (elettricità, acqua…) per i cittadini del tempo che abitavano le baracche frequentate da Don Sardelli che ne ha animato le lotte per ottenere questi benefici essenziali.<br/>Il mio intervento si limiterebbe a esaltare la forma di croce di questo traliccio tramite doratura in foglia oro o vernice dorata e posizionamento di una luce che ne rende possibile la vista durante la notte.<br/>Il progetto<br/> Di seguito le foto del sito d’intervento e i bozzetti dell’opera. Il traliccio in questione è visibile da via Tuscolana e per un buon tratto di via del Mandrione.<br/>La luce, suggerita nei bozzetti da linee bianche, sarà proiettata da un faro posto sul palo della luce (ACEA) già presente sulla strada (via del Mandrione).<br/>Alfredo Pirri",
 
-      "artistList": "Artista: ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br /> Relatori giornata di studi: ASCANIO CELESTINI, autore e attore <br /> MASSIMILIANO FIORUCCI, magnifico rettore dell’università Roma tre <br /> ALFREDO PIRRI, artista <br />ADRIANA POLVERONI, docente presso NABA e curatrice <br /> VANESSA ROGHI, storica della scuola e dell’educazione<br />Su invito",
+      "artistList": "ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br />Oratori : <br />MASSIMILIANO FIORUCCI<br />PASQUALE GRELA <br/> ANTONIO INSALACO <br/>MARIA VITTORIA MARINI CLARELLI<br />SIMONE QUILICI <br />JUAN REGO <br />VANESSA ROGHI<br /> RICCARDO SBORDONI<br /> Su invito",
       "location1": {
         "name": "Via del Mandrione 455, Roma",
         "imageAlt": "Via del Mandrione 455, Roma",
@@ -45,10 +45,10 @@
     "appointment2": {
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
-      "time": "Videoproiezioni 16, 17 luglio e 8, 9, 10 Settembre 2025 ore 21.00",
-      "description": "16 Luglio - Studio Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Luglio - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Settembre <br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <map3/>",
+      "description": "Videoproiezioni sul tema dell'acqua a cura di Bruno di Marino",
+      "time": "16 Luglio ore 21.00 <br/> Casa Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/> 17 Luglio ore 21.00 <br/>Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/>8, 9, 10 Settembre ore 21.00 <br/> Parco di Tor Fiscale <br/> Acquedotto Marcio Felice <map3/>",
 
-      "artistList": "Artisti: STUDIO AZZURO <br /> FABRIZIO PLESSI <br /> FABRIZIO ROBERT CAHEN <br /> Curatore: BRUNO DI MARINO<br />Pubblico di riferimento: bambini, adulti, tutti<br /> Accesso libero",
+      "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/>Pubblico di riferimento: bambini, adulti, tutti.<br/>Accesso libero.",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -70,9 +70,9 @@
     "appointment3": {
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "I Portatori d'Acqua",
-      "time": "Il 24 e 25 settembre 2025 dalle 18 in poi",
-      "description": "Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere dall’artista Iginio De Luca. Mostra/restituzione di performance di disegno acquatico di Pamela Pintus",
-      "artistList": "Artisti: IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "time": "",
+      "description": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere dall’artista Iginio De Luca.<br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus",
+      "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "via Casilina Vecchia 19,Roma.",
         "imageAlt": "via Casilina Vecchia 19, Roma",
@@ -119,7 +119,7 @@
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
       "time": "Il 15/16 settembre 2025 alle ore 16 e il 23/24 settembre 2025 alle ore 16",
       "description": "Artisti che hanno i loro studi nei municipi V e VII e che sono riuniti in associazioni culturali, danno vita ad atelier di pittura en plein air aperti alla cittadinanza locale. Queste iniziative si interfacceranno con sessioni di Inntelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
-      "artistList": "Artisti: GIULIA APICE <br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI <br />MADDALENA SCUDERONI <br /> Curator: ADRIANA POLVERONI <br />Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI <br />MADDALENA SCUDERONI <carousel_maddalena/><br /> Curator: ADRIANA POLVERONI <br />Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "Piazza dei Tribuni, Municipio VII,Roma.",
         "imageAlt": "Piazza dei Tribuni, Municipio VII,Roma.",
@@ -154,31 +154,31 @@
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "L'Arte in una Stanza",
-      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> Centro Anziani, Via dei Volsci, 82c, Roma <map1/> <br/> 19, 26 Settembre, 01, 08, 15 Ottobre e 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
+      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> A cura di Irma Alonzo <br /> Centro Anziani, Via dei Volsci, 82c, Roma <map1/> <br/> 19, 26 Settembre, 01, 08, 15 Ottobre e 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
       "time2": "Laboratori di fumetto <br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma <map2/> <br /> 07, 22 Ottobre, 05, 16 Novembre 2025 <br />  dalle ore 9 alle 13.",
       "time3": "Laboratori di fumetto  <br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <map3/> <br />09, 23 Ottobre , 06,27 Novembre 2025 <br/> dalle 9 alle 13.",
       "time4": "Laboratori di Ceramica <br /> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <map4/> <br />  10, 24 Ottobre e 07, 28 Novembre 2025 <br /> dalle 9 alle 13.",
       "description": "Laboratori arte per ciechi, ipovedenti e vedenti; alcune scuole dei municipi IV e VII ospiteranno dei laboratori di ceramica, video, fumetto e fotografia condotti da artisti che hanno i propri studi tra il municipio V e VII. A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti studi aperti anche alla cittadinanza.",
-      "artistList": "Artisti: IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "artistList": "Artisti: <br />IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI <br />Curatrici: IRMA ALONZO ed ADRIANA POLVERONI<br /> Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
-        "name": "Centro Anziani, Via dei Volsci, 82c, Roma",
-        "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Centro Anziani, Via dei Volsci, 82c, Roma"
       },
       "location2": {
-        "name": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Roma.",
-        "imageAlt": "Istituto Compresivo Anna Fraentzel Celli, Via dei Fiorentini 48, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma"
       },
       "location3": {
-        "name": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma",
-        "imageAlt": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma",
+        "name": "",
+        "imageAlt": "",
         "mapQuery": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma"
       },
       "location4": {
-        "name": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
-        "imageAlt": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma.",
-        "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma "
       }
     },
     "appointment6": {
@@ -188,7 +188,7 @@
       "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br /> Inaugurazione Il 28 e 29 Novembre 2025 alle ore 18.00",
       "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br /> Inaugurazione Il 28 e 29 Novembre 2025 alle ore 18.00",
       "description": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità. <br />L'opera di Paolo Assenza consiste una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br /> L’artista Mercedes Klausner, ospitata in residenza da progetto Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate sui muri di progetto Pianobi in via dei ciceri 99. <br /> Laurent le Deunff, durante la sua residenza presso la sede operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del giubileo. I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate",
-      "artistList": "Artisti: PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici: ADRIANA POLVERONI, ISABELLA VITALE <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "artistList": "Artisti: <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici: ADRIANA POLVERONI, ISABELLA VITALE <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma.",
         "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma",
