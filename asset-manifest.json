@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ae9b76b.css",
-    "main.js": "/static/js/main.54cc7d2d.js",
+    "main.css": "/static/css/main.1e32f28d.css",
+    "main.js": "/static/js/main.40dee45b.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
+    "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
     "static/media/Lorenza1.png": "/static/media/Lorenza1.4c115b45df16f5e13161.png",
+    "static/media/Giancarlo4.png": "/static/media/Giancarlo4.d786cfc7df4a88aca225.png",
+    "static/media/Giancarlo1.png": "/static/media/Giancarlo1.0dbe1eb50472d3b96dbd.png",
     "static/media/Apice1.png": "/static/media/Apice1.ffd1a74169165c4756fc.png",
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
+    "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
     "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
     "static/media/CristianaP1.png": "/static/media/CristianaP1.dd04fac45491b7f17b2d.png",
@@ -25,17 +29,20 @@
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
     "static/media/CristianaP6.png": "/static/media/CristianaP6.975002d063db6aaebf65.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
+    "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.aa531196fcf9f632e79e.png",
+    "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.56ce42cc3c309ff2db4f.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
+    "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.064ed424b0091d89b80b.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.d87ff1ec985ec4658b55.png",
     "static/media/oeil.png": "/static/media/oeil.f1e984715fcc96cea986.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.7ae9b76b.css.map": "/static/css/main.7ae9b76b.css.map",
-    "main.54cc7d2d.js.map": "/static/js/main.54cc7d2d.js.map"
+    "main.1e32f28d.css.map": "/static/css/main.1e32f28d.css.map",
+    "main.40dee45b.js.map": "/static/js/main.40dee45b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae9b76b.css",
-    "static/js/main.54cc7d2d.js"
+    "static/css/main.1e32f28d.css",
+    "static/js/main.40dee45b.js"
   ]
 }
