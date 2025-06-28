@@ -8,6 +8,19 @@ import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
 import Apice3 from "../../assets/images/Apice3.png";
 
+import Lorenza1 from "../../assets/images/Lorenza1.png";
+import Lorenza2 from "../../assets/images/Lorenza2.png";
+import LorenzaCVI from "../../assets/images/LorenzaCVI.png";
+import LorenzaCVE from "../../assets/images/LorenzaCVE.png";
+import LorenzaCVF from "../../assets/images/LorenzaCVF.png";
+
+import CristianaP1 from "../../assets/images/CristianaP1.png";
+import CristianaP2 from "../../assets/images/CristianaP2.png";
+import CristianaP3 from "../../assets/images/CristianaP3.png";
+import CristianaP4 from "../../assets/images/CristianaP4.png";
+import CristianaP5 from "../../assets/images/CristianaP5.png";
+import CristianaP6 from "../../assets/images/CristianaP6.png";
+
 import Madscud1 from "../../assets/images/Madscud1.png";
 import Madscud2 from "../../assets/images/Madscud2.png";
 import Madscud3 from "../../assets/images/Madscud3.png";
@@ -31,6 +44,21 @@ const Programma = () => {
     { src: Madscud1, alt: "" },
     { src: Madscud2, alt: "" },
     { src: Madscud3, alt: "" },
+  ];
+  const lorenzaRicciImages = [
+    { src: Lorenza1, alt: "" },
+    { src: Lorenza2, alt: "" },
+    { src: LorenzaCVI, alt: "" },
+    { src: LorenzaCVE, alt: "" },
+    { src: LorenzaCVF, alt: "" },
+  ];
+  const cristianaPacchiarottiImages = [
+    { src: CristianaP1, alt: "" },
+    { src: CristianaP2, alt: "" },
+    { src: CristianaP3, alt: "" },
+    { src: CristianaP4, alt: "" },
+    { src: CristianaP5, alt: "" },
+    { src: CristianaP6, alt: "" },
   ];
   return (
     <div>
@@ -262,7 +290,33 @@ const Programma = () => {
           <p>{t("program.appointment4.name")}</p>
         </div>
         <div className={styles.Orari}>
-          <p>{t("program.appointment4.time")}</p>
+          <p>
+            {" "}
+            <Trans
+              i18nKey="program.appointment4.time"
+              components={{
+                br: <br />,
+                map1: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment4.location1.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+                map2: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment4.location2.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
+          </p>
         </div>
         <div className={styles.EventDescription}>
           <p>{t("program.appointment4.description")}</p>
@@ -281,22 +335,7 @@ const Programma = () => {
             />
           </p>
         </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location1.name")}</p>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location1.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <p>{t("program.appointment4.location2.name")}</p>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment4.location2.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
+
         {/* ------------------------------------------------5------------------ */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment5.sectionTitle")}</p>
@@ -387,7 +426,15 @@ const Programma = () => {
           <p>
             <Trans
               i18nKey="program.appointment5.artistList"
-              components={{ br: <br /> }}
+              components={{
+                br: <br />,
+                carousel_lorenza: (
+                  <ButtonCarousel images={lorenzaRicciImages} />
+                ),
+                carousel_cristiana: (
+                  <ButtonCarousel images={cristianaPacchiarottiImages} />
+                ),
+              }}
             />
           </p>
         </div>
