@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e32f28d.css",
-    "main.js": "/static/js/main.40dee45b.js",
+    "main.css": "/static/css/main.5bcee976.css",
+    "main.js": "/static/js/main.054f3f4e.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
+    "static/media/Davide1.png": "/static/media/Davide1.f685a2a5a20907de5f6d.png",
+    "static/media/Davide4.png": "/static/media/Davide4.5ac04be670d5dd9817b1.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
+    "static/media/AlbertoB1.png": "/static/media/AlbertoB1.d366daa2a49d42fd4d5c.png",
     "static/media/Lorenza1.png": "/static/media/Lorenza1.4c115b45df16f5e13161.png",
     "static/media/Giancarlo4.png": "/static/media/Giancarlo4.d786cfc7df4a88aca225.png",
     "static/media/Giancarlo1.png": "/static/media/Giancarlo1.0dbe1eb50472d3b96dbd.png",
+    "static/media/Davide2.png": "/static/media/Davide2.394af198679d4c398f0f.png",
     "static/media/Apice1.png": "/static/media/Apice1.ffd1a74169165c4756fc.png",
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
+    "static/media/AlbertoB2.png": "/static/media/AlbertoB2.7aaea182cc53860bf3a5.png",
     "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
     "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
+    "static/media/Davide3.png": "/static/media/Davide3.862b934045f2a60d232a.png",
     "static/media/CristianaP1.png": "/static/media/CristianaP1.dd04fac45491b7f17b2d.png",
     "static/media/CristianaP3.png": "/static/media/CristianaP3.5b723ebb33b89cb6a0d5.png",
     "static/media/Madscud2.png": "/static/media/Madscud2.ea4689374dfcb735e984.png",
@@ -28,7 +34,13 @@
     "static/media/LorenzaCVF.png": "/static/media/LorenzaCVF.5b1971ce8159ddf58867.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
     "static/media/CristianaP6.png": "/static/media/CristianaP6.975002d063db6aaebf65.png",
+    "static/media/AlbertoBCVF.png": "/static/media/AlbertoBCVF.401d5e24f1e8dfcc1c1e.png",
+    "static/media/AlbertoBCVE.png": "/static/media/AlbertoBCVE.0866e6f53591b33667ee.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
+    "static/media/AlbertoBCVI.png": "/static/media/AlbertoBCVI.3d6f70d26b552f52c118.png",
+    "static/media/DavideCVF.png": "/static/media/DavideCVF.b269ec81fcfa0d1019a2.png",
+    "static/media/DavideCVE.png": "/static/media/DavideCVE.972edd0ae3d612e88a8d.png",
+    "static/media/DavideCVI.png": "/static/media/DavideCVI.602749d51da0063204b2.png",
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.aa531196fcf9f632e79e.png",
     "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.56ce42cc3c309ff2db4f.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
@@ -38,11 +50,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.1e32f28d.css.map": "/static/css/main.1e32f28d.css.map",
-    "main.40dee45b.js.map": "/static/js/main.40dee45b.js.map"
+    "main.5bcee976.css.map": "/static/css/main.5bcee976.css.map",
+    "main.054f3f4e.js.map": "/static/js/main.054f3f4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e32f28d.css",
-    "static/js/main.40dee45b.js"
+    "static/css/main.5bcee976.css",
+    "static/js/main.054f3f4e.js"
   ]
 }
