@@ -29,6 +29,20 @@ import GiancarloCVI from "../../assets/images/GiancarloCVI.png";
 import GiancarloCVE from "../../assets/images/GiancarloCVE.png";
 import GiancarloCVF from "../../assets/images/GiancarloCVF.png";
 
+import AlbertoB1 from "../../assets/images/AlbertoB1.png";
+import AlbertoB2 from "../../assets/images/AlbertoB2.png";
+import AlbertoBCVI from "../../assets/images/AlbertoBCVI.png";
+import AlbertoBCVE from "../../assets/images/AlbertoBCVE.png";
+import AlbertoBCVF from "../../assets/images/AlbertoBCVF.png";
+
+import Davide1 from "../../assets/images/Davide1.png";
+import Davide2 from "../../assets/images/Davide2.png";
+import Davide3 from "../../assets/images/Davide3.png";
+import Davide4 from "../../assets/images/Davide4.png";
+import DavideCVI from "../../assets/images/DavideCVI.png";
+import DavideCVE from "../../assets/images/DavideCVE.png";
+import DavideCVF from "../../assets/images/DavideCVF.png";
+
 import Madscud1 from "../../assets/images/Madscud1.png";
 import Madscud2 from "../../assets/images/Madscud2.png";
 import Madscud3 from "../../assets/images/Madscud3.png";
@@ -76,6 +90,22 @@ const Programma = () => {
     { src: GiancarloCVI, alt: "" },
     { src: GiancarloCVE, alt: "" },
     { src: GiancarloCVF, alt: "" },
+  ];
+  const albertoBesiImages = [
+    { src: AlbertoB1, alt: "" },
+    { src: AlbertoB2, alt: "" },
+    { src: AlbertoBCVI, alt: "" },
+    { src: AlbertoBCVE, alt: "" },
+    { src: AlbertoBCVF, alt: "" },
+  ];
+  const davideDiTollaImages = [
+    { src: Davide1, alt: "" },
+    { src: Davide2, alt: "" },
+    { src: Davide3, alt: "" },
+    { src: Davide4, alt: "" },
+    { src: DavideCVI, alt: "" },
+    { src: DavideCVE, alt: "" },
+    { src: DavideCVF, alt: "" },
   ];
   return (
     <div>
@@ -446,6 +476,10 @@ const Programma = () => {
                 ),
                 carousel_giancarlo: (
                   <ButtonCarousel images={giancarloCaracuzzoImages} />
+                ),
+                carousel_alberto: <ButtonCarousel images={albertoBesiImages} />,
+                carousel_davide: (
+                  <ButtonCarousel images={davideDiTollaImages} />
                 ),
               }}
             />
