@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5bcee976.css",
-    "main.js": "/static/js/main.967b70b4.js",
+    "main.css": "/static/css/main.c4c17db7.css",
+    "main.js": "/static/js/main.52e4eb14.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
@@ -32,7 +32,7 @@
     "static/media/IrmaAlonzo2.png": "/static/media/IrmaAlonzo2.32156ac5ad1315304795.png",
     "static/media/LucaG1.png": "/static/media/LucaG1.379d055660de12b381a8.png",
     "static/media/CristianaP4.png": "/static/media/CristianaP4.a11400ade6e1d1ac4371.png",
-    "static/media/Madscud1.png": "/static/media/Madscud1.06667aab20d010492b1e.png",
+    "static/media/Madscud1.png": "/static/media/Madscud1.df87671769e6b8b9a917.png",
     "static/media/CristianaP5.png": "/static/media/CristianaP5.137434e6306308ae4c3e.png",
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.9f9bc01aa2ffd0e82a4f.png",
     "static/media/LorenzaCVI.png": "/static/media/LorenzaCVI.e83baf6892b68ecbe841.png",
@@ -58,11 +58,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.5bcee976.css.map": "/static/css/main.5bcee976.css.map",
-    "main.967b70b4.js.map": "/static/js/main.967b70b4.js.map"
+    "main.c4c17db7.css.map": "/static/css/main.c4c17db7.css.map",
+    "main.52e4eb14.js.map": "/static/js/main.52e4eb14.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bcee976.css",
-    "static/js/main.967b70b4.js"
+    "static/css/main.c4c17db7.css",
+    "static/js/main.52e4eb14.js"
   ]
 }
