@@ -47,6 +47,16 @@ import Madscud1 from "../../assets/images/Madscud1.png";
 import Madscud2 from "../../assets/images/Madscud2.png";
 import Madscud3 from "../../assets/images/Madscud3.png";
 
+import LucaG1 from "../../assets/images/LucaG1.png";
+import LucaGCVI from "../../assets/images/LucaGCVI.png";
+import LucaGCVE from "../../assets/images/LucaGCVE.png";
+import LucaGCVF from "../../assets/images/LucaGCVF.png";
+
+import IrmaAlonzo1 from "../../assets/images/IrmaAlonzo1.png";
+import IrmaAlonzo2 from "../../assets/images/IrmaAlonzo2.png";
+import IrmaAlonzo3 from "../../assets/images/IrmaAlonzo3.png";
+import IrmaAlonzo4 from "../../assets/images/IrmaAlonzo4.png";
+
 import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
 import Pirri0 from "../../assets/images/Pirri0.png";
@@ -107,6 +117,19 @@ const Programma = () => {
     { src: DavideCVE, alt: "" },
     { src: DavideCVF, alt: "" },
   ];
+  const lucaGrechiImages = [
+    { src: LucaG1, alt: "" },
+    { src: LucaGCVI, alt: "" },
+    { src: LucaGCVE, alt: "" },
+    { src: LucaGCVF, alt: "" },
+  ];
+  const irmaAlonzoImages = [
+    { src: IrmaAlonzo1, alt: "" },
+    { src: IrmaAlonzo2, alt: "" },
+    { src: IrmaAlonzo3, alt: "" },
+    { src: IrmaAlonzo4, alt: "" },
+  ];
+
   return (
     <div>
       <div className={styles.ProgrammaPage}>
@@ -371,6 +394,7 @@ const Programma = () => {
                 carousel_maddalena: (
                   <ButtonCarousel images={maddalenaScuderoniImages} />
                 ),
+                carousel_luca: <ButtonCarousel images={lucaGrechiImages} />,
               }}
             />
           </div>
@@ -481,6 +505,7 @@ const Programma = () => {
                 carousel_davide: (
                   <ButtonCarousel images={davideDiTollaImages} />
                 ),
+                carousel_irma: <ButtonCarousel images={irmaAlonzoImages} />,
               }}
             />
           </div>

@@ -119,7 +119,7 @@
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
       "time": "15 e 16 Settembre 2025 dalle ore 16 - Lago Ex.Snia <map1/><br/> A cura di Adriana Polveroni<br />Artisti Pittura: Paolo Assenza e Luca Grechi <br /> Artista IA: Matteo Basilè <br /><br /> 23 e 24 Settembre 2025 dalle ore 16 - Parco di Tor Fiscale, Acquedotto Marcio Felice<map2/><br /> A cura di Adriana Polveroni<br />Artisti Pittura: Giulia Apice e Maddalena Scuderoni <br /> Artista IA: Matteo Basilè",
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
-      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Curatrice: ADRIANA POLVERONI <br />Accesso libero",
+      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Curatrice: ADRIANA POLVERONI <br />Accesso libero",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -139,7 +139,7 @@
       "time3": "Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <map3/> <br />09, 23 Ottobre - 06, 27 Novembre 2025 <br/> dalle 9 alle 13.",
       "time4": "Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <map4/> <br />  10, 24 Ottobre - 07 e 28 Novembre 2025 <br /> dalle 9 alle 13.",
       "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti luoghi aperti anche alla cittadinanza.",
-      "artistList": "Artisti: <br />IRMA ALONZO <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI <carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curatrici: IRMA ALONZO e ADRIANA POLVERONI<br />Accesso libero",
+      "artistList": "Artisti: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI <carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curatrici: IRMA ALONZO e ADRIANA POLVERONI<br />Accesso libero",
       "location1": {
         "name": "",
         "imageAlt": "",
