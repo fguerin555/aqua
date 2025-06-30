@@ -26,13 +26,13 @@
       "name1": "For a public monument dedicated to Don Roberto Sardelli",
       "name2": "Of the night, of the Tears, of the Dawn",
       "time1": "July 5, 2025 at 6 PM",
-      "time2": "",
+      "time2": "Home Pirri - Valentini, via del Mandrione 455. Municipio VII <map1/>",
       "description": "Presentation of the preparatory sketches for the monument created by Alfredo Pirri in honor of the priest. <br/>Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione. <br/>This element was left there by the Superintendence, during the last restoration works of the aqueducts, a testimony of a past characterized by the arrival of vital supports (electricity, water...) for the citizens of the time who lived in the huts frequented by Don Sardelli who animated their struggles to obtain these essential benefits.<br/>My intervention would be limited to exalt the cross shape of this lattice by gilding in gold leaf or golden paint and positioning a light that makes it possible to see at night. <br/>Will be presented the photos of the intervention site and sketches of the work. The lattice in question is visible from via Tuscolana and for a good stretch of via del Mandrione.<br/>The light, suggested in the sketches by white lines, will be projected by a lighthouse placed on the pole of light (ACEA) already present on the road (via del Mandrione). <br/>Alfredo Pirri",
       "artistList": "Artist: ALFREDO PIRRI, author of the work <br /> Curator: ADRIANA POLVERONI<br />Speakers: <br />MASSIMILIANO FIORUCCI<br />PASQUALE GRELA <br/> ANTONIO INSALACO <br/>MARIA VITTORIA MARINI CLARELLI<br />SIMONE QUILICI <br />JUAN REGO <br />VANESSA ROGHI<br /> RICCARDO SBORDONI<br />By invitation.",
       "location1": {
         "name": "Home Pirri/Valentini Via del Mandrione 451, Rome.",
         "imageAlt": "Home Pirri/Valentini Via del Mandrione 451, Rome",
-        "mapQuery": "Via del Mandrione 451, Roma"
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
         "name": "",
@@ -44,12 +44,12 @@
       "sectionTitle": "APPOINTMENT 2",
       "name": "Water in Motion",
       "description": "Video projections on the theme of water Curated by Bruno di Marino.",
-      "time": "16 July at 9 PM - Casa Pirri Valentini, via del Mandrione 451, Roma <map1/> <br/><br/> 17 JuLy at 9 PM - Spazio Y, via dei Juvenci 11, Roma <map2/> <br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice <map3/>",
+      "time": "16 July at 9 PM - Casa Pirri Valentini, via del Mandrione 455, municipio VII <map1/> <br/><br/> 17 JuLy at 9 PM - Spazio Y, via dei Juvenci 11, municipio XI <map2/> <br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
       "artistList": "Artists: < br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br />Free access.",
       "location1": {
-        "name": "Home Pirri Valentini, Via del Mandrione 451, Roma.",
-        "imageAlt": "Home Pirri Valentini, Via del Mandrione 451, Roma.",
-        "mapQuery": "Via del Mandrione 451, Roma."
+        "name": "Home Pirri Valentini, Via del Mandrione 455, Roma.",
+        "imageAlt": "Home Pirri Valentini, Via del Mandrione 455, Roma.",
+        "mapQuery": "Via del Mandrione 455, Roma."
       },
       "location2": {
         "name": "Spazio Y, via dei Juvenci 11, Rome.",
@@ -67,7 +67,7 @@
       "sectionTitle": "APPOINTMENT 3",
       "name": "The Water Bearers",
       "time": "",
-      "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus.",
+      "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
       "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br />Free acces.",
       "location1": {
         "name": "Via Casilina Vecchia 19, Rome.",
@@ -108,6 +108,11 @@
         "name": "Parco di Torre del Fiscale, Rome.",
         "imageAlt": "Parco di Torre del Fiscale, Rome.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
+      },
+      "location9": {
+        "name": "Spazio Y, via dei Juvenci 11, Rome.",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
+        "mapQuery": "Spazio Y, via dei Juvenci 11, Rome."
       }
     },
     "appointment4": {
@@ -130,7 +135,7 @@
     "appointment5": {
       "sectionTitle": "APPOINTMENT 5",
       "name": "Art in a Room",
-      "time1": "Sculpture workshops for blind and partially sighted people <br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/> 19, 26 September - 01, 08, 15 October - 05 November 2025<br/>from 3 PM to 5:30 PM.",
+      "time1": "Sculpture workshops for blind and partially sighted people <br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/> 19, 26 September - 01, 08, 15, 22, 29 October - 05 November 2025<br/>from 3.30 PM to 5:30 PM.",
       "time2": "Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <map2/> <br /> 07, 22 October - 05, 26 November 2025 <br/>from 9 AM to 1 PM.",
       "time3": "Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br /> 09, 23 October - 06, 27 November 2025 <br/> from 9 AM to 1 PM.",
       "time4": "Ceramic Workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br /> 10, 24 October - 07, 28 November 2025 <br/>from 9 AM to 1 PM.",

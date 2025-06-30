@@ -27,7 +27,7 @@
       "name1": "Per un “monumento pubblico” dedicato a Don Roberto Sardelli",
       "name2": "Della Notte, del Pianto, dell'Aurora",
       "time1": "Il 5 Luglio 2025 ore 18.00",
-      "time2": "",
+      "time2": "Casa Pirri - Valentini, via del Mandrione 455. Municipio VII <map1/>",
       "description": "Presentazione dei bozzetti preparatori per il monumento realizzato da Alfredo Pirri in onore del sacerdote <br/>Tratto dal nome della scuola di flamenco fondata da Don Sardelli nel 1982, il monumento pubblico, che propongo di realizzare, esiste già nella sua struttura materiale. <br/>Si tratta di un traliccio elettrico impiantato sull’arco dell’acquedotto di fianco alla fontana di Clemente XII che caratterizza l’ingresso di via del Mandrione. <br/>Questo elemento è stato lasciato lì dalla Soprintendenza, durante gli ultimi lavori di restauro degli acquedotti, a testimonianza di un passato caratterizzato dall’arrivo di supporti vitali (elettricità, acqua…) per i cittadini del tempo che abitavano le baracche frequentate da Don Sardelli che ne ha animato le lotte per ottenere questi benefici essenziali.<br/>Il mio intervento si limiterebbe a esaltare la forma di croce di questo traliccio tramite doratura in foglia oro o vernice dorata e posizionamento di una luce che ne rende possibile la vista durante la notte.<br/> Saranno presentate le foto del sito d’intervento e i bozzetti dell’opera. Il traliccio in questione è visibile da via Tuscolana e per un buon tratto di via del Mandrione.<br/>La luce, suggerita nei bozzetti da linee bianche, sarà proiettata da un faro posto sul palo della luce (ACEA) già presente sulla strada (via del Mandrione).<br/>Alfredo Pirri",
 
       "artistList": "ALFREDO PIRRI, autore dell’opera <br /> Curatrice: ADRIANA POLVERONI<br />Oratori : <br />MASSIMILIANO FIORUCCI<br />PASQUALE GRELA <br/> ANTONIO INSALACO <br/>MARIA VITTORIA MARINI CLARELLI<br />SIMONE QUILICI <br />JUAN REGO <br />VANESSA ROGHI<br /> RICCARDO SBORDONI<br /> Su invito",
@@ -46,13 +46,13 @@
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "L'acqua in movimento",
       "description": "Videoproiezioni sul tema dell'acqua a cura di Bruno di Marino",
-      "time": "16 Luglio ore 21.00 - Casa Pirri Valentini <br/> via del Mandrione 451, Roma <map1/> <br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> via dei Juvenci 11, Roma <map2/> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> Acquedotto Marcio Felice <map3/>",
+      "time": "16 Luglio ore 21.00 - Casa Pirri Valentini <br/> via del Mandrione 455, municipio VII <map1/> <br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> via dei Juvenci 11, municipio XI <map2/> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> Acquedotto Marcio Felice, municipio VII <map3/>",
 
       "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/>Accesso libero.",
       "location1": {
         "name": "",
         "imageAlt": "",
-        "mapQuery": "Via del Mandrione 451, Roma"
+        "mapQuery": "Via del Mandrione 455, Roma"
       },
 
       "location2": {
@@ -71,7 +71,7 @@
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "I Portatori d'Acqua",
       "time": "",
-      "description": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.<br /><br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus",
+      "description": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.<br /><br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
       "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
       "location1": {
         "name": "via Casilina Vecchia 19,Roma.",
@@ -112,6 +112,11 @@
         "name": "Parco di Torre del Fiscale, Roma.",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
+      },
+      "location9": {
+        "name": "Spazio Y, via dei Juvenci 11, Roma.",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, Roma.",
+        "mapQuery": "Spazio Y, via dei Juvenci 11, Roma."
       }
     },
     "appointment4": {
@@ -134,7 +139,7 @@
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "L'Arte in una Stanza",
-      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Roma <map1/> <br/> 19, 26 Settembre - 01, 08, 15 Ottobre - 05 Novembre 2025<br /> dalle ore 15 alle  17.30.",
+      "time1": "Laboratori di scultura per ciechi ipovedenti e vedenti <br /> A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Roma <map1/> <br/> 19, 26 Settembre - 01, 08, 15, 22, 29 Ottobre - 05 Novembre 2025<br /> dalle ore 15.30 alle  17.30.",
       "time2": "Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma <map2/> <br /> 07, 22 Ottobre - 05, 26 Novembre 2025 <br />  dalle ore 9 alle 13.",
       "time3": "Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <map3/> <br />09, 23 Ottobre - 06, 27 Novembre 2025 <br/> dalle 9 alle 13.",
       "time4": "Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <map4/> <br />  10, 24 Ottobre - 07 e 28 Novembre 2025 <br /> dalle 9 alle 13.",

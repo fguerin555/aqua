@@ -155,7 +155,23 @@ const Programma = () => {
           <p>{t("program.appointment1.name2")}</p>
         </div>
         <div className={styles.Orari}>
-          <div>{t("program.appointment1.time2")}</div>
+          <div>
+            <Trans
+              i18nKey="program.appointment1.time2"
+              components={{
+                br: <br />,
+                map1: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment1.location1.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
+            />
+          </div>
         </div>
         <div className={styles.EventDescription}>
           <div>
@@ -270,7 +286,18 @@ const Programma = () => {
           <div>
             <Trans
               i18nKey="program.appointment3.description"
-              components={{ br: <br /> }}
+              components={{
+                br: <br />,
+                map9: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t("program.appointment3.location9.mapQuery")}
+                    >
+                      <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    </MapButton>
+                  </span>
+                ),
+              }}
             />
           </div>
         </div>
@@ -346,6 +373,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+
         {/* -----------------------------------------------4------------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment4.sectionTitle")}</p>
