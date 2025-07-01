@@ -46,6 +46,9 @@ import DavideCVF from "../../assets/images/DavideCVF.png";
 import Madscud1 from "../../assets/images/Madscud1.png";
 import Madscud2 from "../../assets/images/Madscud2.png";
 import Madscud3 from "../../assets/images/Madscud3.png";
+import MaddalenaCVI from "../../assets/images/MaddalenaCVI.png";
+import MaddalenaCVE from "../../assets/images/MaddalenaCVE.png";
+import MaddalenaCVF from "../../assets/images/MaddalenaCVF.png";
 
 import LucaG1 from "../../assets/images/LucaG1.png";
 import LucaGCVI from "../../assets/images/LucaGCVI.png";
@@ -76,6 +79,9 @@ const Programma = () => {
     { src: Madscud1, alt: "" },
     { src: Madscud2, alt: "" },
     { src: Madscud3, alt: "" },
+    { src: MaddalenaCVI, alt: "" },
+    { src: MaddalenaCVE, alt: "" },
+    { src: MaddalenaCVF, alt: "" },
   ];
   const lorenzaRicciImages = [
     { src: Lorenza1, alt: "" },
