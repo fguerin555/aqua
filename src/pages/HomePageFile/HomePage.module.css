@@ -1,4 +1,4 @@
-/* /Users/fredericguerin/Desktop/aqua/src/pages/HomePageFile/HomePage.module.css */
+/* HomePage.module.css */
 .HomePage {
   position: relative;
   overflow: hidden;
@@ -24,7 +24,6 @@
   z-index: -1;
   width: 100vw;
   height: 100vh; /* MODIFIÉ: Assure que l'image couvre toute la hauteur de la fenêtre */
-  /* filter: brightness(0.9); */
 }
 
 .HomePageContent {
@@ -33,7 +32,6 @@
   align-items: center; /* Centre le <p> (et autres futurs éléments) horizontalement dans ce bloc */
   justify-content: center; /* Centre le <p> verticalement dans ce bloc. Si vous voulez que le <p> soit en haut de ce bloc, changez pour flex-start */
   margin-top: 5px; /* Crée un espace de 10px au-dessus de ce bloc */
-  /* text-align: center; /* Décommentez si vous voulez que le texte du paragraphe soit centré */
   position: relative; /* S'assurer que le contenu est au-dessus de la vidéo */
   z-index: 1; /* S'assurer que le contenu est au-dessus de la vidéo */
 }
@@ -128,8 +126,9 @@
 .FotoGenerale {
   position: relative;
   z-index: 1;
-  width: 1200px; /* Exemple de largeur, ajustez selon vos besoins */
-  height: 627px;
+  width: 90%;
+  max-width: 1200px; /* Garder une largeur maximale pour les grands écrans */
+  height: auto; /* Laisser la hauteur s'ajuster pour garder le ratio de l'image */
   margin-left: auto;
   margin-right: auto;
   margin-top: 5px;
@@ -140,13 +139,12 @@
 .FotoGenerale img {
   display: block;
   width: 100%;
-  height: 100%;
+  height: auto;
   visibility: visible;
   opacity: 1;
   object-fit: cover;
-  visibility: visible;
   border-radius: 5px;
-  box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
+  box-shadow: 3px 3px 5px #272727;
 }
 
 .HomePageContentB p {
@@ -164,6 +162,8 @@
   margin-bottom: 5px;
 }
 
+/* --- Media Queries --- */
+
 @media (max-width: 1224px) {
   .HomePageContentA p {
     font-size: 30px;
@@ -176,30 +176,15 @@
     width: 24%;
     height: auto;
   }
-}
-.Credits p {
-  font-size: 18px;
-}
-
-.CiCpresenta p {
-  font-size: 18px;
-}
-.HomePageContentB p {
-  font-size: 18px;
-}
-.FotoGenerale {
-  position: relative;
-  z-index: 1;
-  width: 90%; /* Utiliser une largeur relative pour la responsivité */
-  max-width: 1200px; /* Garder une largeur maximale */
-  height: auto; /* Laisser la hauteur s'ajuster pour garder le ratio de l'image */
-  margin-left: auto !important;
-  margin-right: auto !important;
-  margin-top: 5px;
-  margin-bottom: 30px;
-}
-.FotoGenerale img {
-  max-width: 1000px; /* On ajuste juste la largeur maximale */
+  .Credits p {
+    font-size: 18px;
+  }
+  .CiCpresenta p {
+    font-size: 18px;
+  }
+  .HomePageContentB p {
+    font-size: 18px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -220,15 +205,11 @@
   .CiCpresenta p {
     font-size: 16px;
   }
-
   .HomePageContentB p {
     font-size: 16px;
   }
-
-  .FotoGenerale img {
-    max-width: 800px; /* On ajuste juste la largeur maximale */
-  }
 }
+
 @media (max-width: 509px) {
   .HomePageContentA p {
     font-size: 25px;
@@ -249,9 +230,5 @@
   }
   .HomePageContentB p {
     font-size: 14px;
-  }
-
-  .FotoGenerale img {
-    max-width: 600px; /* On ajuste juste la largeur maximale */
   }
 }
