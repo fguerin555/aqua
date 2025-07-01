@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6378613f.css",
+    "main.css": "/static/css/main.5548e6ca.css",
     "main.js": "/static/js/main.be9a1e09.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -59,11 +59,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.6378613f.css.map": "/static/css/main.6378613f.css.map",
+    "main.5548e6ca.css.map": "/static/css/main.5548e6ca.css.map",
     "main.be9a1e09.js.map": "/static/js/main.be9a1e09.js.map"
   },
   "entrypoints": [
-    "static/css/main.6378613f.css",
+    "static/css/main.5548e6ca.css",
     "static/js/main.be9a1e09.js"
   ]
 }
