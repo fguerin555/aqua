@@ -12,11 +12,7 @@ const resources = {
     translation: {
       ...translationEN,
       blog: { pageTitle: "Blog" },
-      links: {
-        pageTitle: "Contacts",
-        logoCiC: "Logo Ciel'in Città Association",
-        cielincitta: "Association Ciel in Città",
-      },
+
       stampa: { pageTitle: "Press Review" },
     },
   },
@@ -24,11 +20,7 @@ const resources = {
     translation: {
       ...translationIT,
       blog: { pageTitle: "Blog" },
-      links: {
-        pageTitle: "Contatti",
-        logoCiC: "Logo Associazione Ciel'in Città",
-        cielincitta: "Associazione Ciel in Città",
-      },
+
       stampa: { pageTitle: "Rassegna Stampa" },
     },
   },
@@ -36,11 +28,7 @@ const resources = {
     translation: {
       ...translationFR,
       blog: { pageTitle: "Blog" },
-      links: {
-        pageTitle: "Contacts",
-        logoCiC: "Logo Association Ciel'in Città",
-        cielincitta: "Association Ciel in Città",
-      },
+
       stampa: { pageTitle: "Revue de Presse" },
     },
   },

@@ -211,6 +211,15 @@
   "links": {
     "pageTitle": "Contatti",
     "LogoCiC": "Logo Associazione Ciel in Città",
-    "cielincitta": "Associazione Ciel'in Città"
+    "cielincitta": "Associazione Ciel'in Città",
+    "TitleListArtists": "Artisti",
+    "NameArtists": {
+      "alfredo": "Alfredo Pirri",
+      "paolo": "Paolo Assenza",
+      "luca": "Luca Grechi"
+    },
+    "Link": "Link",
+    "Facebook": "Facebook",
+    "Instagram": "Instagram"
   }
 }

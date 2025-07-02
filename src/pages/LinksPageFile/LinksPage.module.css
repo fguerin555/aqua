@@ -122,6 +122,55 @@
   border-radius: 4px;
 }
 
+.TitleListArtists p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+}
+.NameArtists p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+}
+
+.ArtistNameAndIcons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  justify-content: left;
+  width: 100%;
+  font-size: 25px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+}
+
+.ArtistNameAndIcons p {
+  margin-left: 15px; /* Adjust as needed */
+}
+
+.iconsContainer {
+  display: flex;
+  margin-right: 10px; /* Adjust spacing as needed */
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+}
+
 /* --- Media Queries --- */
 
 @media (max-width: 1224px) {
