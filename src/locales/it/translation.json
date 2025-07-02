@@ -37,9 +37,9 @@
         "mapQuery": "Via del Mandrione, 451 Roma "
       },
       "location2": {
-        "name": "",
-        "imageAlt": "",
-        "mapQuery": ""
+        "name": "Via del Mandrione, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione 443, Roma "
       }
     },
     "appointment2": {

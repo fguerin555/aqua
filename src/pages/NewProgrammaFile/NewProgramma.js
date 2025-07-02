@@ -201,10 +201,11 @@ const Programma = () => {
             />
           </div>
         </div>
+
         <div className={styles.Luoghi}>
-          <div>{t("program.appointment1.location1.name")}</div>
+          <div>{t("program.appointment1.location2.name")}</div>
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment1.location1.mapQuery")}>
+            <MapButton mapQuery={t("program.appointment1.location2.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
@@ -212,13 +213,13 @@ const Programma = () => {
         <div className={styles.Foto}>
           <img
             src={Pirri1}
-            alt={t("program.appointment1.location1.imageAlt")}
+            alt={t("program.appointment1.location2.imageAlt")}
           />
         </div>
         <div className={styles.Luoghi}>
-          <div>{t("program.appointment1.location1.name")}</div>
+          <div>{t("program.appointment1.location2.name")}</div>
           <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment1.location1.mapQuery")}>
+            <MapButton mapQuery={t("program.appointment1.location2.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
@@ -226,7 +227,7 @@ const Programma = () => {
         <div className={styles.FotoV}>
           <img
             src={Pirri0}
-            alt={t("program.appointment1.location1.imageAlt")}
+            alt={t("program.appointment1.location2.imageAlt")}
           />
         </div>
         {/* ----------------------------------------------------2-------------- */}
