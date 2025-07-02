@@ -7,6 +7,9 @@ import ButtonCarousel from "../../components/ButtonCarrousel";
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
 import Apice3 from "../../assets/images/Apice3.png";
+import GiuliaACVI from "../../assets/images/GiuliaACVI.png";
+import GiuliaACVE from "../../assets/images/GiuliaACVE.png";
+import GiuliaACVF from "../../assets/images/GiuliaACVF.png";
 
 import Lorenza1 from "../../assets/images/Lorenza1.png";
 import Lorenza2 from "../../assets/images/Lorenza2.png";
@@ -74,6 +77,9 @@ const Programma = () => {
     { src: Apice1, alt: "" },
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
+    { src: GiuliaACVI, alt: "" },
+    { src: GiuliaACVE, alt: "" },
+    { src: GiuliaACVF, alt: "" },
   ];
   const maddalenaScuderoniImages = [
     { src: Madscud1, alt: "" },

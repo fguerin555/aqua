@@ -26,13 +26,13 @@
       "name1": "For a public monument dedicated to Don Roberto Sardelli",
       "name2": "Of the night, of the Tears, of the Dawn",
       "time1": "July 5, 2025 at 6 PM",
-      "time2": "Home Pirri - Valentini, via del Mandrione 455. Municipio VII <map1/>",
+      "time2": "Home Pirri - Valentini, via del Mandrione 451/455. Municipio VII <map1/>",
       "description": "Presentation of the preparatory sketches for the monument created by Alfredo Pirri in honor of the priest. <br/>Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione. <br/>This element was left there by the Superintendence, during the last restoration works of the aqueducts, a testimony of a past characterized by the arrival of vital supports (electricity, water...) for the citizens of the time who lived in the huts frequented by Don Sardelli who animated their struggles to obtain these essential benefits.<br/>My intervention would be limited to exalt the cross shape of this lattice by gilding in gold leaf or golden paint and positioning a light that makes it possible to see at night. <br/>Will be presented the photos of the intervention site and sketches of the work. The lattice in question is visible from via Tuscolana and for a good stretch of via del Mandrione.<br/>The light, suggested in the sketches by white lines, will be projected by a lighthouse placed on the pole of light (ACEA) already present on the road (via del Mandrione). <br/>Alfredo Pirri",
       "artistList": "ALDO CORRICIATI, neighborhood committee Casilina Vecchia Mandrione<br />MASSIMLIANO FIORUCCI, rector of the Universita Roma Tre<br/>PASQUALE GRELA, writer<br />ANTONIO INSALACO, official of the Capital Superintendence<br />MARIA VITTORIA MARINI CLARELLI, history of art<br/>ALFREDO PIRRI, artist<br /> ADRIANA POLVERONI, press, art critic and curator<br />SIMONE QUILICI, director of the Archaeological Park of Appia Antica<br />JUAN REGO, extraordinary professor and director of the Institute of Liturgy of the University of the Holy Cross<br />VANESSA ROGHI, history and expert in education<br/>RICCARDO SBORDONI, assessor at the municipality of culture VII<br /><br nvitation",
 
       "location1": {
-        "name": "Home Pirri/Valentini Via del Mandrione 451, Rome.",
-        "imageAlt": "Home Pirri/Valentini Via del Mandrione 451, Rome",
+        "name": "Via del Mandrione, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
         "mapQuery": "Via del Mandrione 455, Roma"
       },
       "location2": {
@@ -45,12 +45,12 @@
       "sectionTitle": "APPOINTMENT 2",
       "name": "Water in Motion",
       "description": "Video projections on the theme of water Curated by Bruno di Marino.",
-      "time": "16 July at 9 PM - Casa Pirri Valentini, via del Mandrione 455, municipio VII <map1/> <br/><br/> 17 JuLy at 9 PM - Spazio Y, via dei Juvenci 11, municipio XI <map2/> <br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
+      "time": "16 July at 9 PM - Home Pirri - Valentini, via del Mandrione 451/455, municipio VII <map1/> <br/><br/> 17 JuLy at 9 PM - Spazio Y, via dei Juvenci 11, municipio XI <map2/> <br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
       "artistList": "Artists: < br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br />Free access.",
       "location1": {
-        "name": "Home Pirri Valentini, Via del Mandrione 455, Roma.",
-        "imageAlt": "Home Pirri Valentini, Via del Mandrione 455, Roma.",
-        "mapQuery": "Via del Mandrione 455, Roma."
+        "name": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
+        "imageAlt": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
+        "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
         "name": "Spazio Y, via dei Juvenci 11, Rome.",
