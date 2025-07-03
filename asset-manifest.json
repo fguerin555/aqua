@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6dca7c0d.css",
-    "main.js": "/static/js/main.ffeff513.js",
+    "main.js": "/static/js/main.762cf902.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
@@ -22,6 +22,7 @@
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
     "static/media/AlbertoB2.png": "/static/media/AlbertoB2.7aaea182cc53860bf3a5.png",
     "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
+    "static/media/CasaPirri.png": "/static/media/CasaPirri.11c953b4e25c75a5c08f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
     "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
     "static/media/Davide3.png": "/static/media/Davide3.862b934045f2a60d232a.png",
@@ -43,11 +44,14 @@
     "static/media/MaddalenaCVF.png": "/static/media/MaddalenaCVF.c2db122da805e72be5de.png",
     "static/media/MaddalenaCVE.png": "/static/media/MaddalenaCVE.6c022984e156ff2d30a5.png",
     "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.e0619d6051fe5001eaa9.png",
+    "static/media/CasaPirriTE.png": "/static/media/CasaPirriTE.77387ebbe8798202a17a.png",
     "static/media/CristianaP6.png": "/static/media/CristianaP6.975002d063db6aaebf65.png",
+    "static/media/CasaPirriTF.png": "/static/media/CasaPirriTF.a1cdb9dc4e675c3a878f.png",
     "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.38f767fa1b4ca12aeef4.png",
     "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.21b764e45e29a079f859.png",
     "static/media/AlbertoBCVF.png": "/static/media/AlbertoBCVF.401d5e24f1e8dfcc1c1e.png",
     "static/media/AlbertoBCVE.png": "/static/media/AlbertoBCVE.0866e6f53591b33667ee.png",
+    "static/media/CasaPirriTI.png": "/static/media/CasaPirriTI.9adf1a16f9521c2a463a.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
     "static/media/AlbertoBCVI.png": "/static/media/AlbertoBCVI.3d6f70d26b552f52c118.png",
     "static/media/DavideCVF.png": "/static/media/DavideCVF.b269ec81fcfa0d1019a2.png",
@@ -69,10 +73,10 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.6dca7c0d.css.map": "/static/css/main.6dca7c0d.css.map",
-    "main.ffeff513.js.map": "/static/js/main.ffeff513.js.map"
+    "main.762cf902.js.map": "/static/js/main.762cf902.js.map"
   },
   "entrypoints": [
     "static/css/main.6dca7c0d.css",
-    "static/js/main.ffeff513.js"
+    "static/js/main.762cf902.js"
   ]
 }
