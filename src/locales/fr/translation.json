@@ -211,12 +211,31 @@
     "cielincitta": "Association Ciel'in Città",
     "TitleListArtists": "Artistes",
     "NameArtists": {
-      "alfredo": "Alfredo Pirri",
-      "paolo": "Paolo Assenza",
-      "luca": "Luca Grechi"
+      "irmaA": "Irma Alonzo",
+      "giuliaA": "Giulia Apice",
+      "paoloA": "Paolo Assenza",
+      "matteoB": "Matteo Basilé",
+      "albertoB": "Alberto Besi",
+      "robertC": "Robert Cahen",
+      "giancarloC": "Giancarlo Caracuzzo",
+      "iginioD": "Iginio De Luca",
+      "davideT": "Davide Di Tolla",
+      "lucaG": "Luca Grechi",
+      "mercedesK": "Mercedes Klausner",
+      "laurentL": "Laurent le Deunff",
+      "maddalenaS": "Maddalena Scuderoni",
+      "cristianaP": "Cristiana Pacchariotti",
+      "pamelaP": "Pamela Pintus",
+      "alfredoP": "Alfredo Pirri",
+      "fabrizioP": "Fabrizio Plessi",
+      "lorenzaR": "Lorenza Ricci",
+      "studioA": "Studio Azzuro",
+      "pianoB": "Pianobi",
+      "spazioY": "Spazio Y"
     },
     "Link": "Link",
     "Facebook": "Facebook",
-    "Instagram": "Instagram"
+    "Instagram": "Instagram",
+    "LinkVide": "LinkVide"
   }
 }

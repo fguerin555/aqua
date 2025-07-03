@@ -8,6 +8,7 @@ import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 import Link from "../../assets/images/Link.png";
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
+import LinkVide from "../../assets/images/LinkVide.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
@@ -45,17 +46,26 @@ const LinksPage = () => {
         </p>
       </div>
       <div className={styles.NameArtists}>
-        {/* --- Alfredo Pirri --- */}
+        {/* --- Irma Alonzo --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
             <a
-              href="https://www.alfredopirri.com"
+              href="https://irmaalonzo53.wixsite.com/irmaalonzo"
               target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
-            <a
+
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+
+            {/* <a
               href="https://www.instagram.com/alfredo_pirri/"
               target="_blank"
               rel="noopener noreferrer"
@@ -65,9 +75,9 @@ const LinksPage = () => {
                 alt={t("links.Instagram")}
                 className={styles.icon}
               />
-            </a>
+            </a> */}
             <a
-              href="https://www.facebook.com/studioalfredopirri/?locale=it_IT"
+              href="https://www.facebook.com/irma.alonzo.54"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -78,7 +88,50 @@ const LinksPage = () => {
               />
             </a>
           </div>
-          <Trans i18nKey="links.NameArtists.alfredo" />
+          <Trans i18nKey="links.NameArtists.irmaA" />
+        </div>
+
+        {/* --- Giulia Apice--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            {/* <a
+              href="https://paoloassenza.it/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a> */}
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            <a
+              href="https://www.instagram.com/giuliaapice_/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/giulia.apice?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.giuliaA" />
         </div>
 
         {/* --- Paolo Assenza --- */}
@@ -114,10 +167,229 @@ const LinksPage = () => {
               />
             </a>
           </div>
-          <Trans i18nKey="links.NameArtists.paolo" />
+          <Trans i18nKey="links.NameArtists.paoloA" />
         </div>
+        {/* --- Matteo Basilé --- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.matteobasile.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/matteobasil3/?hl=it"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/matteo.basil/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.matteoB" />
+        </div>
+        {/* --- Alberto Besi--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://albertobesi.artstation.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/alberto_besi/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/Besi.Alberto/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.albertoB" />
+        </div>
+        {/* --- Rober Cahen--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://robertcahen.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/robertcahen/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/robert.cahen.29/?locale=pt_BR"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.robertC" />
+        </div>
+        {/* --- Giancarlo Caracuzzo--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.scuolaromanadeifumetti.it/docenti/giancarlo-caracuzzo/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/giancarlocaracuzzo/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/giancarlo.caracuzzo/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.giancarloC" />
+        </div>
+        {/* --- Iginio de Luca--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.iginiodeluca.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/iginiodeluca/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/iginio.deluca/
+"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.iginioD" />
+        </div>
+        {/* --- Davide diTolla--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://davidemariaditolla.myportfolio.com/work"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.artstation.com/dmdt"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/davidem.ditolla/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
 
-        {/* --- Luca Grechi --- */}
+            {/* <a
+              href="https://www.facebook.com/iginio.deluca/
+"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a> */}
+          </div>
+          <Trans i18nKey="links.NameArtists.davideT" />
+        </div>
+        {/* --- Luca Grechi--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
             <a
@@ -150,7 +422,386 @@ const LinksPage = () => {
               />
             </a>
           </div>
-          <Trans i18nKey="links.NameArtists.luca" />
+          <Trans i18nKey="links.NameArtists.lucaG" />
+        </div>
+        {/* --- Mercedes Klausner--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href=" http://mercedesklausner.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/mercedesklausner/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/mercedes.klausner/?locale=fr_FR"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.mercedesK" />
+        </div>
+        {/* --- Laurent le Deunff--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            <a
+              href="https://www.instagram.com/laurentledeunff_/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            {/* <a
+              href="https://www.facebook.com/mercedes.klausner/?locale=fr_FR"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a> */}
+          </div>
+          <Trans i18nKey="links.NameArtists.laurentL" />
+        </div>
+        {/* --- Cristiana Pacchiarotti--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            {/* <a
+              href="https://www.instagram.com/cristiana.pacchiarotti/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a> */}
+            <a
+              href="https://www.instagram.com/cristiana.pacchiarotti/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/cristiana.pacchiarotti.9/
+"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.cristianaP" />
+        </div>
+        {/* --- Pamela Pintus--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.pamelapintus.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/pamela.pintus/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/pamela.pintus.7/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.pamelaP" />
+        </div>
+        {/* --- Alfredo Pirri--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.alfredopirri.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/alfredo_pirri/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/studioalfredopirri/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.alfredoP" />
+        </div>
+        {/* --- Fabrizio Plessi--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.fabrizioplessi.it/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/fabrizio.plessi/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/FabrizioPlessiOfficial/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.fabrizioP" />
+        </div>
+        {/* --- Lorenza Ricci--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.scuolaromanadeifumetti.it/docenti/lorenza-ricci/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            {/* <a
+              href="https://www.instagram.com/fabrizio.plessi/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/FabrizioPlessiOfficial/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a> */}
+          </div>
+          <Trans i18nKey="links.NameArtists.lorenzaR" />
+        </div>
+        {/* --- Studio Azzuro--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.studioazzurro.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/studioazzurro/?hl=it"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/StudioAzzurro/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.studioA" />
+        </div>
+        {/* --- Pianobi--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.pianobi.info"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/pianobi.info/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.pianoB" />
+        </div>
+        {/* --- Spazio Y--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://spazioy.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+            <a
+              href="https://www.instagram.com/spazio.y/?hl=it"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/SpazioY/?locale=it_IT"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameArtists.spazioY" />
         </div>
       </div>
     </div>
