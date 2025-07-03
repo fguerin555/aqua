@@ -66,6 +66,10 @@ import IrmaAlonzo4 from "../../assets/images/IrmaAlonzo4.png";
 import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
 import Pirri0 from "../../assets/images/Pirri0.png";
+import CasaPirri from "../../assets/images/CasaPirri.png";
+import CasaPirriTI from "../../assets/images/CasaPirriTI.png";
+import CasaPirriTE from "../../assets/images/CasaPirriTE.png";
+import CasaPirriTF from "../../assets/images/CasaPirriTF.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 import simbolmapp from "../../assets/images/simbolmapp.png";
@@ -141,6 +145,12 @@ const Programma = () => {
     { src: IrmaAlonzo3, alt: "" },
     { src: IrmaAlonzo4, alt: "" },
   ];
+  const CasaPirriImages = [
+    { src: CasaPirriTI, alt: "" },
+    { src: CasaPirriTE, alt: "" },
+    { src: CasaPirriTF, alt: "" },
+    { src: CasaPirri, alt: "" },
+  ];
 
   return (
     <div>
@@ -171,6 +181,7 @@ const Programma = () => {
               i18nKey="program.appointment1.time"
               components={{
                 br: <br />,
+                carousel_casaPirri: <ButtonCarousel images={CasaPirriImages} />,
                 map1: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -180,6 +191,15 @@ const Programma = () => {
                     </MapButton>
                   </span>
                 ),
+                foto: (
+                  <div className={styles.Foto}>
+                    <img
+                      src={CasaPirri}
+                      alt={t("program.appointment1.location1.imageAlt")}
+                    />
+                  </div>
+                ),
+
                 map2: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -554,6 +574,7 @@ const Programma = () => {
               i18nKey="program.appointment6.time2"
               components={{
                 br: <br />,
+                carousel_casaPirri: <ButtonCarousel images={CasaPirriImages} />,
                 map1: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -567,6 +588,7 @@ const Programma = () => {
             />
           </div>
         </div>
+
         <div className={styles.EventDescription}>
           <div>
             <Trans
@@ -591,6 +613,7 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
+
         <div className={styles.Foto}>
           <img
             src={Pirri1}
