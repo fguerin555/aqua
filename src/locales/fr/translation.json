@@ -22,28 +22,9 @@
   "program": {
     "pageTitle": "Programme",
     "mapSymbolAlt": "Symbole de localisation sur carte",
+
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
-      "name1": "Pour un monument publique dédié à Don Roberto Sardelli",
-      "name2": "De la nuit, des Pleurs, de l'Aurore",
-      "time1": "Le 5 Juillet 2025 à 18 heures",
-      "time2": "Maison Pirri - Valentini, via del Mandrione 451/455. Municipio VII <map1/>",
-      "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.<br/> Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
-      "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation",
-
-      "location1": {
-        "name": "Via del Mandrione 451, municipio VII",
-        "imageAlt": "Via del Mandrione 451, municipio VII",
-        "mapQuery": "Via del Mandrione 451, Roma"
-      },
-      "location2": {
-        "name": "Via del Mandrione, municipio VII",
-        "imageAlt": "Via del Mandrione, municipio VII",
-        "mapQuery": "Via del Mandrione 443, Roma"
-      }
-    },
-    "appointment2": {
-      "sectionTitle": "RENDEZ-VOUS 2",
       "name": "L'Eau en Mouvement",
       "description": "Projections vidéo supervisées par Bruno di Marino",
       "time": "16 Juillet 21 heures - Maison Pirri - Valentini <br/> via del Mandrione 451/455, municipio VII <map1/> <br/><br/> 17 Juillet 21 heures - Spazio Y<br/> via dei Juvenci 11, municipio XI  <map2/> <br/><br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
@@ -64,8 +45,8 @@
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
-    "appointment3": {
-      "sectionTitle": "RENDEZ-VOUS 3",
+    "appointment2": {
+      "sectionTitle": "RENDEZ-VOUS 2",
       "name": "Les Porteurs d'Eau",
       "time": "",
       "description": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br /> 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus. Spazio Y, via dei Juvenci 11, Rome <map9 />",
@@ -116,8 +97,8 @@
         "mapQuery": "Spazio Y, via dei Juvenci 11, Rome."
       }
     },
-    "appointment4": {
-      "sectionTitle": "RENDEZ-VOUS 4",
+    "appointment3": {
+      "sectionTitle": "RENDEZ-VOUS 3",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
       "time": "15 et 16 Septembre 2025 à partir de 16 heures - Lago Ex.Snia <map1/><br/> Supervision: Adriana Polveroni<br />Artistes Peinture: Paolo Assenza et Luca Grechi <br /> Artiste IA: Matteo Basilè <br /><br /> 23 et 24 Settembre 2025 à partir de 16 heures - Parco di Tor Fiscale, Acquedotto Marcio Felice<map2/> <br />Supervision: Adriana Polveroni<br />Artistes Peinture: Giulia Apice et Maddalena Scuderoni <br /> Artiste IA: Matteo Basilè",
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
@@ -133,8 +114,8 @@
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
-    "appointment5": {
-      "sectionTitle": "RENDEZ-VOUS 5",
+    "appointment4": {
+      "sectionTitle": "RENDEZ-VOUS 4",
       "name": "L'Art dans une Pièce",
       "time1": "Ateliers de sculpture pour les aveugles et les malvoyants <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artiste: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/>19, 26 Septembre - 01, 08, 15, 22, 29 Octobre - 05 Novembre 2025<br/> de 15h.30 à 17h.30",
       "time2": "Ateliers de bande dessinée <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <map2/> <br />07, 22 Octobre - 05, 26 Novembre 2025 <br/> de 9h à 13h",
@@ -163,8 +144,8 @@
         "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
       }
     },
-    "appointment6": {
-      "sectionTitle": "RENDEZ-VOUS 6",
+    "appointment5": {
+      "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
       "time1": "Oeuvre: La Fontaine des Brumes de Paolo Assenza <br/> Inauguration le 10 Octobre à 19 heures.",
       "time2": "Oeuvre: Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration le 4 Octobre à 19 heures",
@@ -180,6 +161,27 @@
         "name": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome.",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
+      }
+    },
+
+    "appointment6": {
+      "sectionTitle": "RENDEZ-VOUS 6",
+      "name1": "Pour un monument publique dédié à Don Roberto Sardelli",
+      "name2": "De la nuit, des Pleurs, de l'Aurore",
+      "time1": "Le 29 Novembre 2025 à 18 heures",
+      "time2": "Maison Pirri - Valentini, via del Mandrione 451/455. Municipio VII <map1/>",
+      "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.<br/> Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
+      "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation",
+
+      "location1": {
+        "name": "Via del Mandrione 451, municipio VII",
+        "imageAlt": "Via del Mandrione 451, municipio VII",
+        "mapQuery": "Via del Mandrione 451, Roma"
+      },
+      "location2": {
+        "name": "Via del Mandrione, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione 443, Roma"
       }
     },
     "appointment7": {
