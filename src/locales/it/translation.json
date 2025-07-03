@@ -212,6 +212,12 @@
     "pageTitle": "Contatti",
     "LogoCiC": "Logo Associazione Ciel in Città",
     "cielincitta": "Associazione Ciel'in Città",
+    "TitleListCurators": "Curatrici/curatore",
+    "NameCurators": {
+      "adrianaP": "Adriana Polveroni",
+      "isabellaV": "Isabella Vitale",
+      "brunoD": "Bruno di Marino"
+    },
     "TitleListArtists": "Artisti",
     "NameArtists": {
       "irmaA": "Irma Alonzo",

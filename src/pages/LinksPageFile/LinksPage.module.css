@@ -123,6 +123,29 @@
 }
 
 /* --- Styles pour la liste des artistes (Mise à jour et responsive) --- */
+.TitleListCurators {
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.TitleListCurators p {
+  font-size: 30px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin: 0;
+}
+.NameCurators {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
 
 .TitleListArtists {
   width: 100%;
@@ -159,6 +182,7 @@
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   font-size: 22px;
+  margin-bottom: 20px !important;
 }
 
 .iconsContainer {
@@ -215,9 +239,13 @@
   .TitleListArtists p {
     font-size: 28px;
   }
+  .TitleListCurators p {
+    font-size: 26px;
+  }
   .ArtistNameAndIcons {
     font-size: 20px;
     max-width: 450px;
+    margin-bottom: 18px !important;
   }
   .icon {
     width: 22px;
@@ -252,12 +280,20 @@
   .TitleListArtists p {
     font-size: 24px;
   }
+  .TitleListCurators p {
+    font-size: 22px;
+  }
   .NameArtists {
+    width: 95%;
+    gap: 10px;
+  }
+  .NameCurators {
     width: 95%;
     gap: 10px;
   }
   .ArtistNameAndIcons {
     font-size: 18px;
+    margin-bottom: 17px !important;
   }
   .icon {
     width: 20px;
@@ -293,12 +329,13 @@
   .TitleListArtists p {
     font-size: 22px;
   }
+  .TitleListCuratorsts p {
+    font-size: 22px;
+  }
   .ArtistNameAndIcons {
-    /* flex-direction: column;
-    align-items: center;
-    gap: 10px; */
     font-size: 18px;
     margin-bottom: 15px;
+    margin-bottom: 15px !important;
   }
   .iconsContainer {
     margin-right: 0;

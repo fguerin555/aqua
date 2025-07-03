@@ -209,6 +209,12 @@
     "pageTitle": "Contacts",
     "LogoCiC": "Logo Association Ciel'in Città",
     "cielincitta": "Association Ciel'in Città",
+    "TitleListCurators": "Curators",
+    "NameCurators": {
+      "adrianaP": "Adrina Polveroni",
+      "isabellaV": "Isabella Vitale",
+      "brunoD": "Bruno di Marino"
+    },
     "TitleListArtists": "Artists",
     "NameArtists": {
       "irmaA": "Irma Alonzo",
