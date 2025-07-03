@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5548e6ca.css",
-    "main.js": "/static/js/main.35bc50b6.js",
+    "main.css": "/static/css/main.e0a176e5.css",
+    "main.js": "/static/js/main.858c8396.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
@@ -60,16 +60,19 @@
     "static/media/LucaGCVF.png": "/static/media/LucaGCVF.36fae7c0f2e594d1b28f.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.064ed424b0091d89b80b.png",
     "static/media/LucaGCVI.png": "/static/media/LucaGCVI.82a09099cc4f758a88df.png",
+    "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
+    "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.d87ff1ec985ec4658b55.png",
     "static/media/oeil.png": "/static/media/oeil.f1e984715fcc96cea986.png",
+    "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.5548e6ca.css.map": "/static/css/main.5548e6ca.css.map",
-    "main.35bc50b6.js.map": "/static/js/main.35bc50b6.js.map"
+    "main.e0a176e5.css.map": "/static/css/main.e0a176e5.css.map",
+    "main.858c8396.js.map": "/static/js/main.858c8396.js.map"
   },
   "entrypoints": [
-    "static/css/main.5548e6ca.css",
-    "static/js/main.35bc50b6.js"
+    "static/css/main.e0a176e5.css",
+    "static/js/main.858c8396.js"
   ]
 }
