@@ -83,11 +83,7 @@ const LinksPage = () => {
         {/* --- Isabella Vitale --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.pianobi.info"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.pianobi.info" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -119,7 +115,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://www.artribune.com/author/brunodimarino/"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -161,7 +156,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://irmaalonzo53.wixsite.com/irmaalonzo"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -245,11 +239,7 @@ const LinksPage = () => {
         {/* --- Paolo Assenza --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://paoloassenza.it/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://paoloassenza.it/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -279,11 +269,7 @@ const LinksPage = () => {
         {/* --- Matteo Basilé --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.matteobasile.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.matteobasile.com/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -315,7 +301,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://albertobesi.artstation.com"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -347,11 +332,7 @@ const LinksPage = () => {
         {/* --- Rober Cahen--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://robertcahen.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://robertcahen.com/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -383,7 +364,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://www.scuolaromanadeifumetti.it/docenti/giancarlo-caracuzzo/"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -415,11 +395,7 @@ const LinksPage = () => {
         {/* --- Iginio de Luca--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.iginiodeluca.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.iginiodeluca.com" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -453,16 +429,11 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://davidemariaditolla.myportfolio.com/work"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
-            <a
-              href="https://www.artstation.com/dmdt"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.artstation.com/dmdt" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -497,7 +468,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://lucagrechi85.wixsite.com/lucagrechi"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -529,11 +499,7 @@ const LinksPage = () => {
         {/* --- Mercedes Klausner--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href=" http://mercedesklausner.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href=" http://mercedesklausner.com" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -648,11 +614,7 @@ const LinksPage = () => {
         {/* --- Pamela Pintus--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.pamelapintus.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.pamelapintus.com" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -682,11 +644,7 @@ const LinksPage = () => {
         {/* --- Alfredo Pirri--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.alfredopirri.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.alfredopirri.com/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -716,11 +674,7 @@ const LinksPage = () => {
         {/* --- Fabrizio Plessi--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.fabrizioplessi.it/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.fabrizioplessi.it/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -752,7 +706,6 @@ const LinksPage = () => {
           <div className={styles.iconsContainer}>
             <a
               href="https://www.scuolaromanadeifumetti.it/docenti/lorenza-ricci/"
-              target="_blank"
               rel="noopener noreferrer"
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
@@ -799,11 +752,7 @@ const LinksPage = () => {
         {/* --- Studio Azzuro--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.studioazzurro.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.studioazzurro.com" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -833,11 +782,7 @@ const LinksPage = () => {
         {/* --- Pianobi--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://www.pianobi.info"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.pianobi.info" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
@@ -867,11 +812,7 @@ const LinksPage = () => {
         {/* --- Spazio Y--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            <a
-              href="https://spazioy.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://spazioy.com/" rel="noopener noreferrer">
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
