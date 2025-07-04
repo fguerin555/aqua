@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dca7c0d.css",
-    "main.js": "/static/js/main.762cf902.js",
+    "main.css": "/static/css/main.7b4fbaa9.css",
+    "main.js": "/static/js/main.9469e928.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
@@ -22,6 +22,7 @@
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
     "static/media/AlbertoB2.png": "/static/media/AlbertoB2.7aaea182cc53860bf3a5.png",
     "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
+    "static/media/SpazioY.png": "/static/media/SpazioY.7af1d01627ecf518cc77.png",
     "static/media/CasaPirri.png": "/static/media/CasaPirri.11c953b4e25c75a5c08f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
     "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
@@ -38,9 +39,12 @@
     "static/media/CristianaP5.png": "/static/media/CristianaP5.137434e6306308ae4c3e.png",
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.9f9bc01aa2ffd0e82a4f.png",
     "static/media/LorenzaCVI.png": "/static/media/LorenzaCVI.e83baf6892b68ecbe841.png",
+    "static/media/SpazioYTF.png": "/static/media/SpazioYTF.0c6ffadd915d58109ebf.png",
+    "static/media/SpazioYTE.png": "/static/media/SpazioYTE.7080f6172134a7cafb1c.png",
     "static/media/LorenzaCVF.png": "/static/media/LorenzaCVF.5b1971ce8159ddf58867.png",
     "static/media/MaddalenaCVI.png": "/static/media/MaddalenaCVI.91b67530b11039436c9a.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
+    "static/media/SpazioYTI.png": "/static/media/SpazioYTI.5b7da0a451b6273630ad.png",
     "static/media/MaddalenaCVF.png": "/static/media/MaddalenaCVF.c2db122da805e72be5de.png",
     "static/media/MaddalenaCVE.png": "/static/media/MaddalenaCVE.6c022984e156ff2d30a5.png",
     "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.e0619d6051fe5001eaa9.png",
@@ -72,11 +76,11 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.6dca7c0d.css.map": "/static/css/main.6dca7c0d.css.map",
-    "main.762cf902.js.map": "/static/js/main.762cf902.js.map"
+    "main.7b4fbaa9.css.map": "/static/css/main.7b4fbaa9.css.map",
+    "main.9469e928.js.map": "/static/js/main.9469e928.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dca7c0d.css",
-    "static/js/main.762cf902.js"
+    "static/css/main.7b4fbaa9.css",
+    "static/js/main.9469e928.js"
   ]
 }
