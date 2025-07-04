@@ -52,8 +52,8 @@
 
 .Logo img {
   display: block;
-  width: 23%;
-  border-radius: 4px;
+  /* width: 15%; */
+  width: 100px;
   height: auto;
   visibility: visible;
   opacity: 1;
@@ -61,9 +61,11 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
-  border-radius: 2px;
+  /* border-radius: 5px; */
+  border-radius: 50%;
   box-shadow: 5px 5px 10px #19280199;
 }
+
 .LavoriInCorso {
   display: flex;
   align-items: center;

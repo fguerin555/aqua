@@ -3,7 +3,9 @@ import React from "react";
 import styles from "./HomePage.module.css";
 import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
+// import Logo from "../../assets/images/LogoCercléGood.png";
 import LogoCiC from "../../assets/images/LogoCiC.png";
+
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 import fotoRepresentative from "../../assets/images/fotoRepresentative.png";
 
