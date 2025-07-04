@@ -71,6 +71,11 @@ import CasaPirriTI from "../../assets/images/CasaPirriTI.png";
 import CasaPirriTE from "../../assets/images/CasaPirriTE.png";
 import CasaPirriTF from "../../assets/images/CasaPirriTF.png";
 
+import SpazioY from "../../assets/images/SpazioY.png";
+import SpazioYTI from "../../assets/images/SpazioYTI.png";
+import SpazioYTE from "../../assets/images/SpazioYTE.png";
+import SpazioYTF from "../../assets/images/SpazioYTF.png";
+
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -151,6 +156,12 @@ const Programma = () => {
     { src: CasaPirriTF, alt: "" },
     { src: CasaPirri, alt: "" },
   ];
+  const SpazioYImages = [
+    { src: SpazioYTI, alt: "" },
+    { src: SpazioYTE, alt: "" },
+    { src: SpazioYTF, alt: "" },
+    { src: SpazioY, alt: "" },
+  ];
 
   return (
     <div>
@@ -199,7 +210,7 @@ const Programma = () => {
                     />
                   </div>
                 ),
-
+                carousel_spazioY: <ButtonCarousel images={SpazioYImages} />,
                 map2: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -208,6 +219,14 @@ const Programma = () => {
                       <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                     </MapButton>
                   </span>
+                ),
+                foto2: (
+                  <div className={styles.Foto}>
+                    <img
+                      src={SpazioY}
+                      alt={t("program.appointment1.location1.imageAlt")}
+                    />
+                  </div>
                 ),
                 map3: (
                   <span className={styles.SimbolMapp}>

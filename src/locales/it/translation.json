@@ -12,7 +12,6 @@
   "home": {
     "backgroundAlt": "Acqua di fiume con riflessi di luce",
     "CiCpresenta": "A cura dell'associazione Ciel'in Città",
-    "credits": "Il progetto, promosso da Roma Capitale - Assessorato alla Cultura, è vincitore dell'Avviso Pubblico Artes et Iubilaeum - 2025, finanziato dall'Unione Europea Next Generation EU per grandi eventi turistici nell’ambito del PNRR sulla misura M1C3 - Investimento 4.3 - Caput Mundi",
 
     "title": "Il Racconto dell'Acqua",
     "paragraph1": "La proposta ideata dall'Associazione Ciel'in Città si concentra sul tema dell'acqua,fonte d’ispirazione culturale, spirituale e sociale della città di Roma. Avvalendosi della collaborazione di numerosi professionisti qualificati, gli interventi previsti interesseranno prevalentemente i Municipi VII e V, territori ricchi di testimonianze culturali e di significato sociale, e comprendono: una giornata di studi ed un’opera/omaggio a Don Roberto Sardelli, videoproiezioni, laboratori artistici, laboratorio di scultura per ciechi, ipovedenti e vedenti, sessioni di pittura en plein air, sessioni di Intelligenza Artificiale, performances,realizzazione di tre opere d'arte.",
@@ -27,7 +26,7 @@
       "sectionTitle": "APPUNTAMENTO 1",
       "name": "L'acqua in movimento",
       "description": "Videoproiezioni sul tema dell'acqua a cura di Bruno di Marino",
-      "time": "16 Luglio ore 21.00 - Casa Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/> <carousel_casaPirri /><br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> via dei Juvenci 11, municipio XI <map2/> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> Acquedotto Marcio Felice, municipio VII <map3/>",
+      "time": "16 Luglio ore 21.00 - Casa Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/> <carousel_casaPirri /><br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> <foto2 />via dei Juvenci 11, municipio XI <map2/><carousel_spazioY /> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> Acquedotto Marcio Felice, municipio VII <map3/>",
 
       "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/>Accesso libero.",
       "location1": {

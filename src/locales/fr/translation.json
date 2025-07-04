@@ -12,7 +12,7 @@
   "home": {
     "backgroundAlt": "Eau de rivière avec reflets de lumière",
     "CiCpresenta": "Par l'association Ciel'in Città",
-    "credits": "Le projet, promu par Roma Capitale - Assessorato alla Cultura, est lauréat de l’Avis Public Artes et Iubilaeum - 2025, financé par l’Union Européenne Next Generation EU pour les grands événements touristiques dans le cadre du PNRR sur la mesure M1C3 - Investissement 4.3 - Caput Mundi",
+
     "pageTitle": " in Città",
     "title": "Le Récit de l'Eau",
     "paragraph1": "La proposition conçue par l’Association Cie’in Città se concentre sur le thème de l’eau, source d’inspiration culturelle, spirituelle et sociale de la ville de Rome. Grâce à la collaboration de nombreux professionnels qualifiés, les interventions prévues concerneront principalement les municipalités VII et V, des territoires riches en témoignages culturels et d’importance sociale, et comprennent : une journée d’études et un opéra / hommage à Don Roberto Sardelli, des projections vidéo, des ateliers artistiques, atelier de sculpture pour les aveugles, les malvoyants et les malvoyants, des séances de peinture en plein air, des sessions d’intelligence artificielle, performances, réalisation de trois œuvres d’art.",
@@ -27,7 +27,7 @@
       "sectionTitle": "RENDEZ-VOUS 1",
       "name": "L'Eau en Mouvement",
       "description": "Projections vidéo supervisées par Bruno di Marino",
-      "time": "16 Juillet 21 heures - Maison Pirri - Valentini <br/> via del Mandrione 451/455, municipio VII <map1/> <br/><br/> 17 Juillet 21 heures - Spazio Y<br/> via dei Juvenci 11, municipio XI  <map2/> <br/><br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
+      "time": "16 Juillet 21 heures - Maison Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/> <carousel_casaPirri /><br/><br/> 17 Juillet 21 heures - Spazio Y<foto2 /> via dei Juvenci 11, municipio XI  <map2/><carousel_spazioY/> <br/><br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
       "artistList": "Artistes: <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Accès libre",
       "location1": {
         "name": "Maison Pirri - Valentini, Via del Mandrione 451/455, Roma.",
