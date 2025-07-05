@@ -21,13 +21,14 @@
   "program": {
     "pageTitle": "Program",
     "mapSymbolAlt": "Map pin symbol",
+    "bookAlt": "Informations on the place",
 
     "appointment1": {
       "sectionTitle": "APPOINTMENT 1",
       "name": "Water in Motion",
       "description": "Video projections on the theme of water Curated by Bruno di Marino.",
-      "time": "16 July at 9 PM - Home Pirri - Valentini  <foto/>via del Mandrione 451/455, municipio VII <map1/><carousel_casaPirri /> <br/><br/> 17 JuLy at 9 PM - Spazio Y<foto2/> via dei Juvenci 11, municipio XI <map2/><carousel_spazioY/> <br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
-      "artistList": "Artists: < br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br />Free access.",
+      "time": "16 July at 9 PM - Home Pirri - Valentini  <foto/>via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/><book_casaPirri /> <br/><br/> 17 JuLy at 9 PM - Spazio Y<foto2/> via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><book_spazioY/><br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/><foto3/> Acquedotto Marcio Felice, municipio VII <map3/>",
+      "artistList": "Artists: < br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br /><br/>Free access.",
       "location1": {
         "name": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
         "imageAlt": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
@@ -50,51 +51,42 @@
       "name": "The Water Bearers",
       "time": "",
       "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
-      "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br />Free acces.",
+      "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br /><br />Free acces.",
       "location1": {
-        "name": "Via Casilina Vecchia 19, Rome.",
-        "imageAlt": "Via Casilina Vecchia 19, Rome",
+        "name": "via Casilina Vecchia 19,Roma.",
+        "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "name": "Via Casalina Vecchia 115, Rome.",
-        "imageAlt": "Via Casalina Vecchia 115, Rome.",
+        "name": "Via Casalina Vecchia 115,Roma.",
+        "imageAlt": "Via Casalina Vecchia 115,Roma.",
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "name": "Villa de Sanctis, via dei Giordiani 5, Rome.",
-        "imageAlt": "Villa de Sanctis, via dei Giordiani 5, Rome.",
+        "name": "Villa de Sanctis, via dei Giordiani 5,Roma.",
+        "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
       },
       "location4": {
-        "name": "Via dell’Acqua Felice, Rome.",
-        "imageAlt": "Via dell’Acqua Felice, Rome.",
+        "name": "Via dell’Acqua Felice,Roma.",
+        "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
+
       "location5": {
-        "name": "Via dell'Acquedotto Felice, Rome.",
-        "imageAlt": "Via dell'Acquedotto Felice, Rome.",
-        "mapQuery": "Via dell'Acquedotto Felice,Roma."
-      },
-      "location6": {
-        "name": "Vicolo dell'Acquedotto Felice, Rome.",
-        "imageAlt": "Vicolo dell'Acquedotto Felice, Rome.",
+        "name": "Vicolo dell'Acquedotto Felice,Roma.",
+        "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
-      "location7": {
-        "name": "Via di Torre Branca, Rome.",
-        "imageAlt": "Via di Torre Branca, Rome.",
+      "location6": {
+        "name": "Via di Torre Branca, Roma.",
+        "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
-      "location8": {
-        "name": "Parco di Torre del Fiscale, Rome.",
-        "imageAlt": "Parco di Torre del Fiscale, Rome.",
+      "location7": {
+        "name": "Parco di Torre del Fiscale, Roma.",
+        "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
-      },
-      "location9": {
-        "name": "Spazio Y, via dei Juvenci 11, Rome.",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
-        "mapQuery": "Spazio Y, via dei Juvenci 11, Rome."
       }
     },
     "appointment3": {
@@ -102,7 +94,7 @@
       "name": "From Plein Air Painting to Artificial Art",
       "time": "15 and 16 September 2025 from 4 PM - Lago Ex.Snia <map1/><br/> Curated by Adriana Polveroni<br />Artists Painting: Paolo Assenza and Luca Grechi <br /> Artist IA: Matteo Basilè<br /><br /><br /> 23 e 24 Settembre 2025 from 4 PM - Parco di Tor Fiscale, Acquedotto Marcio Felice<map2/><br/>Curated by Adriana Polveroni<br />Artists Painting: Giulia Apice and Maddalena Scuderoni <br /> Artist IA: Matteo Basilè",
       "description": "These initiatives will interface with artificial intelligence sessions, creating immersive environments that allow public interaction.",
-      "artistList": "Artists: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /> Curator: ADRIANA POLVERONI <br />Free access",
+      "artistList": "Artists: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /> Curator: ADRIANA POLVERONI <br /><br/>Free access",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -122,7 +114,7 @@
       "time3": "Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br /> 09, 23 October - 06, 27 November 2025 <br/> from 9 AM to 1 PM.",
       "time4": "Ceramic Workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br /> 10, 24 October - 07, 28 November 2025 <br/>from 9 AM to 1 PM.",
       "description": "At the end of the training experience, one or more days of visits to the above-mentioned locations are also open to citizens.",
-      "artistList": "Artists: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO<carousel_giancarlo/> <br />ALBERTO BESI<carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br />Free access",
+      "artistList": "Artists: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO<carousel_giancarlo/> <br />ALBERTO BESI<carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /><br/>Free access",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -151,7 +143,7 @@
       "time2": "Art Work: Imago Acquae-Urbis by Mercedes Klausner <br />Opening on 4 October 2025 at 7.00 PM",
       "time3": "Art Work: Ri-Sorgente by Laurent le Deunff <br />Opening Opening on 29 November 2025 at 7.00 PM",
       "description": "Creation of works themed on water and its sustainability. <br />Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /> Artist Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /> Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.",
-      "artistList": "Artists: <br /> PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br />Free access",
+      "artistList": "Artists: <br /> PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
       "location1": {
         "name": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome.",
         "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
@@ -171,7 +163,7 @@
       "time1": "29 November 2025 at 6 PM",
       "time2": "Home Pirri - Valentini, via del Mandrione 451/455. Municipio VII <map1/><carousel_casaPirri/>",
       "description": "Presentation of the preparatory sketches for the monument created by Alfredo Pirri in honor of the priest. <br/>Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione. <br/>This element was left there by the Superintendence, during the last restoration works of the aqueducts, a testimony of a past characterized by the arrival of vital supports (electricity, water...) for the citizens of the time who lived in the huts frequented by Don Sardelli who animated their struggles to obtain these essential benefits.<br/>My intervention would be limited to exalt the cross shape of this lattice by gilding in gold leaf or golden paint and positioning a light that makes it possible to see at night. <br/>Will be presented the photos of the intervention site and sketches of the work. The lattice in question is visible from via Tuscolana and for a good stretch of via del Mandrione.<br/>The light, suggested in the sketches by white lines, will be projected by a lighthouse placed on the pole of light (ACEA) already present on the road (via del Mandrione). <br/>Alfredo Pirri",
-      "artistList": "ALDO CORRICIATI, neighborhood committee Casilina Vecchia Mandrione<br />MASSIMLIANO FIORUCCI, rector of the Universita Roma Tre<br/>PASQUALE GRELA, writer<br />ANTONIO INSALACO, official of the Capital Superintendence<br />MARIA VITTORIA MARINI CLARELLI, history of art<br/>ALFREDO PIRRI, artist<br /> ADRIANA POLVERONI, press, art critic and curator<br />SIMONE QUILICI, director of the Archaeological Park of Appia Antica<br />JUAN REGO, extraordinary professor and director of the Institute of Liturgy of the University of the Holy Cross<br />VANESSA ROGHI, history and expert in education<br/>RICCARDO SBORDONI, assessor at the municipality of culture VII<br /><br nvitation",
+      "artistList": "ALDO CORRICIATI, neighborhood committee Casilina Vecchia Mandrione<br />MASSIMLIANO FIORUCCI, rector of the Universita Roma Tre<br/>PASQUALE GRELA, writer<br />ANTONIO INSALACO, official of the Capital Superintendence<br />MARIA VITTORIA MARINI CLARELLI, history of art<br/>ALFREDO PIRRI, artist<br /> ADRIANA POLVERONI, press, art critic and curator<br />SIMONE QUILICI, director of the Archaeological Park of Appia Antica<br />JUAN REGO, extraordinary professor and director of the Institute of Liturgy of the University of the Holy Cross<br />VANESSA ROGHI, history and expert in education<br/>RICCARDO SBORDONI, assessor at the municipality of culture VII<br /><br /> By invitation",
 
       "location1": {
         "name": "Via del Mandrione 451, municipio VII",
@@ -213,7 +205,7 @@
     "cielincitta": "Association Ciel'in Città",
     "TitleListCurators": "Curators",
     "NameCurators": {
-      "adrianaP": "Adrina Polveroni",
+      "adrianaP": "Adriana Polveroni",
       "isabellaV": "Isabella Vitale",
       "brunoD": "Bruno di Marino"
     },

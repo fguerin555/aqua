@@ -22,13 +22,14 @@
   "program": {
     "pageTitle": "Programme",
     "mapSymbolAlt": "Symbole de localisation sur carte",
+    "bookAlt": "Informations sur le lieu",
 
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
       "name": "L'Eau en Mouvement",
       "description": "Projections vidéo supervisées par Bruno di Marino",
-      "time": "16 Juillet 21 heures - Maison Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/> <carousel_casaPirri /><br/><br/> 17 Juillet 21 heures - Spazio Y<foto2 /> via dei Juvenci 11, municipio XI  <map2/><carousel_spazioY/> <br/><br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/> Acquedotto Marcio Felice, municipio VII <map3/>",
-      "artistList": "Artistes: <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br />Accès libre",
+      "time": "16 Juillet 21 heures - Maison Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/> <book_casaPirri /><br/><br/> 17 Juillet 21 heures - Spazio Y<foto2 /> via dei Juvenci 11, municipio XI  <map2/><toSpazioY_1/><book_spazioY/> <br/><br/>8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale<br/><foto3/>Acquedotto Marcio Felice, municipio VII <map3/>",
+      "artistList": "Artistes: <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br /><br/>Accès libre",
       "location1": {
         "name": "Maison Pirri - Valentini, Via del Mandrione 451/455, Roma.",
         "imageAlt": "Maison Pirri - Valentini, Via del Mandrione 451/455, Roma.",
@@ -50,51 +51,41 @@
       "name": "Les Porteurs d'Eau",
       "time": "",
       "description": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br /> 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus. Spazio Y, via dei Juvenci 11, Rome <map9 />",
-      "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br /> Accès libre",
+      "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br /><br />  Accès libre",
       "location1": {
-        "name": "Via Casilina Vecchia 19, Rome.",
-        "imageAlt": "Via Casilina Vecchia 19, Rome",
+        "name": "via Casilina Vecchia 19,Roma.",
+        "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "name": "Via Casalina Vecchia 115, Rome.",
-        "imageAlt": "Via Casalina Vecchia 115, Rome.",
+        "name": "Via Casalina Vecchia 115,Roma.",
+        "imageAlt": "Via Casalina Vecchia 115,Roma.",
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "name": "Villa de Sanctis, via dei Giordiani 5, Rome.",
-        "imageAlt": "Villa de Sanctis, via dei Giordiani 5, Rome.",
+        "name": "Villa de Sanctis, via dei Giordiani 5,Roma.",
+        "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
       },
       "location4": {
-        "name": "Via dell’Acqua Felice, Rome.",
-        "imageAlt": "Via dell’Acqua Felice, Rome.",
+        "name": "Via dell’Acqua Felice,Roma.",
+        "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
       "location5": {
-        "name": "Via dell'Acquedotto Felice, Rome.",
-        "imageAlt": "Via dell'Acquedotto Felice, Rome.",
-        "mapQuery": "Via dell'Acquedotto Felice,Roma."
-      },
-      "location6": {
-        "name": "Vicolo dell'Acquedotto Felice, Rome.",
-        "imageAlt": "Vicolo dell'Acquedotto Felice, Rome.",
+        "name": "Vicolo dell'Acquedotto Felice,Roma.",
+        "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
-      "location7": {
-        "name": "Via di Torre Branca, Rome.",
-        "imageAlt": "Via di Torre Branca, Rome.",
+      "location6": {
+        "name": "Via di Torre Branca, Roma.",
+        "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
-      "location8": {
-        "name": "Parc de Torre del Fiscale, Rome.",
-        "imageAlt": "Parc de Torre del Fiscale, Rome.",
+      "location7": {
+        "name": "Parco di Torre del Fiscale, Roma.",
+        "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
-      },
-      "location9": {
-        "name": "Spazio Y, via dei Juvenci 11, Rome.",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
-        "mapQuery": "Spazio Y, via dei Juvenci 11, Rome."
       }
     },
     "appointment3": {
@@ -102,7 +93,7 @@
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
       "time": "15 et 16 Septembre 2025 à partir de 16 heures - Lago Ex.Snia <map1/><br/> Supervision: Adriana Polveroni<br />Artistes Peinture: Paolo Assenza et Luca Grechi <br /> Artiste IA: Matteo Basilè <br /><br /> 23 et 24 Settembre 2025 à partir de 16 heures - Parco di Tor Fiscale, Acquedotto Marcio Felice<map2/> <br />Supervision: Adriana Polveroni<br />Artistes Peinture: Giulia Apice et Maddalena Scuderoni <br /> Artiste IA: Matteo Basilè",
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
-      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Commissaire : ADRIANA POLVERONI <br />Accès libre",
+      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -122,7 +113,7 @@
       "time3": "Ateliers de bande dessinée <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />rtistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br />09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9h à 13h",
       "time4": "Ateliers de céramique<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artiste: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br />10, 24 Octobre - 07, 28 Novembre 2025 <br/> de 9h à 13h",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br />Accès libre",
+      "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -151,7 +142,7 @@
       "time2": "Oeuvre: Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration le 4 Octobre à 19 heures",
       "time3": "Oeuvre: Ri-Sorgente de Laurent le Deunff <br/> Inauguration le 29 Novembre à 19 heures",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
-      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br />Accès libre",
+      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome.",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
@@ -213,7 +204,7 @@
     "cielincitta": "Association Ciel'in Città",
     "TitleListCurators": "Curatrices/curateur",
     "NameCurators": {
-      "adrianaP": "Adrina Polveroni",
+      "adrianaP": "Adriana Polveroni",
       "isabellaV": "Isabella Vitale",
       "brunoD": "Bruno di Marino"
     },

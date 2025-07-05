@@ -3,6 +3,8 @@ import { useTranslation, Trans } from "react-i18next";
 import styles from "./NewProgramma.module.css";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
+import FromStation from "../../components/FromStation";
+import Book from "../../components/Book";
 
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
@@ -66,17 +68,31 @@ import IrmaAlonzo4 from "../../assets/images/IrmaAlonzo4.png";
 import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
 import Pirri0 from "../../assets/images/Pirri0.png";
+
 import CasaPirri from "../../assets/images/CasaPirri.png";
-import CasaPirriTI from "../../assets/images/CasaPirriTI.png";
-import CasaPirriTE from "../../assets/images/CasaPirriTE.png";
-import CasaPirriTF from "../../assets/images/CasaPirriTF.png";
 
 import SpazioY from "../../assets/images/SpazioY.png";
-import SpazioYTI from "../../assets/images/SpazioYTI.png";
-import SpazioYTE from "../../assets/images/SpazioYTE.png";
-import SpazioYTF from "../../assets/images/SpazioYTF.png";
+
+import Acquedotto from "../../assets/images/Acquedotto.png";
+
+import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";
+import ToCasaPirriEN from "../../assets/images/ToCasaPirriEN.png";
+import ToCasaPirriFR from "../../assets/images/ToCasaPirriFR.png";
+
+import ToSpazioYIT from "../../assets/images/ToSpazioYIT.png";
+import ToSpazioYEN from "../../assets/images/ToSpazioYEN.png";
+import ToSpazioYFR from "../../assets/images/ToSpazioYFR.png";
+
+import CasaPirriIT from "../../assets/images/CasaPirriIT.png";
+import CasaPirriEN from "../../assets/images/CasaPirriEN.png";
+import CasaPirriFR from "../../assets/images/CasaPirriFR.png";
+
+import SpazioYIT from "../../assets/images/SpazioYIT.png";
+import SpazioYEN from "../../assets/images/SpazioYEN.png";
+import SpazioYFR from "../../assets/images/SpazioYFR.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
+
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 
@@ -150,18 +166,32 @@ const Programma = () => {
     { src: IrmaAlonzo3, alt: "" },
     { src: IrmaAlonzo4, alt: "" },
   ];
-  const CasaPirriImages = [
-    { src: CasaPirriTI, alt: "" },
-    { src: CasaPirriTE, alt: "" },
-    { src: CasaPirriTF, alt: "" },
-    { src: CasaPirri, alt: "" },
-  ];
-  const SpazioYImages = [
-    { src: SpazioYTI, alt: "" },
-    { src: SpazioYTE, alt: "" },
-    { src: SpazioYTF, alt: "" },
-    { src: SpazioY, alt: "" },
-  ];
+  const CasaPirriImages = [{ src: CasaPirri, alt: "" }];
+  // const SpazioYImages = [{ src: SpazioY, alt: "" }];
+
+  const ToCasaPirriImageMap = {
+    it: ToCasaPirriIT,
+    en: ToCasaPirriEN,
+    fr: ToCasaPirriFR,
+  };
+
+  const ToSpazioYImageMap = {
+    it: ToSpazioYIT,
+    en: ToSpazioYEN,
+    fr: ToSpazioYFR,
+  };
+
+  const CasaPirriBookImageMap = {
+    it: CasaPirriIT,
+    en: CasaPirriEN,
+    fr: CasaPirriFR,
+  };
+
+  const SpazioYBookImageMap = {
+    it: SpazioYIT,
+    en: SpazioYEN,
+    fr: SpazioYFR,
+  };
 
   return (
     <div>
@@ -192,7 +222,12 @@ const Programma = () => {
               i18nKey="program.appointment1.time"
               components={{
                 br: <br />,
-                carousel_casaPirri: <ButtonCarousel images={CasaPirriImages} />,
+                book_casaPirri: (
+                  <Book
+                    imageMap={CasaPirriBookImageMap}
+                    altKey="program.bookAlt"
+                  />
+                ),
                 map1: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -202,6 +237,12 @@ const Programma = () => {
                     </MapButton>
                   </span>
                 ),
+                toCasaPirri_1: (
+                  <FromStation
+                    imageMap={ToCasaPirriImageMap}
+                    altKey="program.fromStationAlt"
+                  />
+                ),
                 foto: (
                   <div className={styles.Foto}>
                     <img
@@ -210,7 +251,12 @@ const Programma = () => {
                     />
                   </div>
                 ),
-                carousel_spazioY: <ButtonCarousel images={SpazioYImages} />,
+                book_spazioY: (
+                  <Book
+                    imageMap={SpazioYBookImageMap}
+                    altKey="program.bookAlt"
+                  />
+                ),
                 map2: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -220,6 +266,13 @@ const Programma = () => {
                     </MapButton>
                   </span>
                 ),
+                toSpazioY_1: (
+                  <FromStation
+                    imageMap={ToSpazioYImageMap}
+                    altKey="program.fromStationAlt"
+                  />
+                ),
+
                 foto2: (
                   <div className={styles.Foto}>
                     <img
@@ -236,6 +289,14 @@ const Programma = () => {
                       <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                     </MapButton>
                   </span>
+                ),
+                foto3: (
+                  <div className={styles.Foto}>
+                    <img
+                      src={Acquedotto}
+                      alt={t("program.appointment1.location1.imageAlt")}
+                    />
+                  </div>
                 ),
               }}
             />
@@ -327,7 +388,7 @@ const Programma = () => {
           </div>
         </div>
         <div className={styles.Luoghi}>
-          <div>{t("program.appointment3.location2.name")}</div>
+          <div>{t("program.appointment2.location6.name")}</div>
           <div className={styles.SimbolMapp}>
             <MapButton mapQuery={t("program.appointment2.location6.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
@@ -342,14 +403,14 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        <div className={styles.Luoghi}>
+        {/* <div className={styles.Luoghi}>
           <div>{t("program.appointment2.location8.name")}</div>
           <div className={styles.SimbolMapp}>
             <MapButton mapQuery={t("program.appointment2.location8.mapQuery")}>
               <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
             </MapButton>
           </div>
-        </div>
+        </div> */}
 
         {/* -----------------------------------------------2------------------- */}
         <div className={styles.TitleAppuntamento}>

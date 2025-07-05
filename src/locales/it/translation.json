@@ -21,14 +21,15 @@
   "program": {
     "pageTitle": "Programma",
     "mapSymbolAlt": "Simbolo indicazione mappa",
+    "bookAlt": "Informations sul luogo",
 
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
       "name": "L'acqua in movimento",
       "description": "Videoproiezioni sul tema dell'acqua a cura di Bruno di Marino",
-      "time": "16 Luglio ore 21.00 - Casa Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/> <carousel_casaPirri /><br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> <foto2 />via dei Juvenci 11, municipio XI <map2/><carousel_spazioY /> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> Acquedotto Marcio Felice, municipio VII <map3/>",
+      "time": "16 Luglio ore 21.00 - Casa Pirri - Valentini <br/> <foto/>via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/> <book_casaPirri /><br/><br/> 17 Luglio ore 21.00 - Spazio Y <br/> <foto2 />via dei Juvenci 11, municipio XI <map2/>< <toSpazioY_1 /><book_spazioY/> <br/><br/>8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale <br/> <foto3/>Acquedotto Marcio Felice, municipio VII <map3/>",
 
-      "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/>Accesso libero.",
+      "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/><br/>Accesso libero.",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -52,7 +53,7 @@
       "name": "I Portatori d'Acqua",
       "time": "",
       "description": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.<br /><br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
-      "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br />Pubblico di riferimento: bambini, adulti, tutti <br /> Accesso libero",
+      "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br /> <br /> Accesso libero",
       "location1": {
         "name": "via Casilina Vecchia 19,Roma.",
         "imageAlt": "via Casilina Vecchia 19, Roma",
@@ -73,30 +74,21 @@
         "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
+
       "location5": {
-        "name": "Via dell'Acquedotto Felice,Roma.",
-        "imageAlt": "Via dell'Acquedotto Felice,Roma.",
-        "mapQuery": "Via dell'Acquedotto Felice,Roma."
-      },
-      "location6": {
         "name": "Vicolo dell'Acquedotto Felice,Roma.",
         "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
-      "location7": {
+      "location6": {
         "name": "Via di Torre Branca, Roma.",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
-      "location8": {
+      "location7": {
         "name": "Parco di Torre del Fiscale, Roma.",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
-      },
-      "location9": {
-        "name": "Spazio Y, via dei Juvenci 11, Roma.",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, Roma.",
-        "mapQuery": "Spazio Y, via dei Juvenci 11, Roma."
       }
     },
     "appointment3": {
@@ -104,7 +96,7 @@
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
       "time": "15 e 16 Settembre 2025 dalle ore 16 - Lago Ex.Snia <map1/><br/> A cura di Adriana Polveroni<br />Artisti Pittura: Paolo Assenza e Luca Grechi <br /> Artista IA: Matteo Basilè <br /><br /> 23 e 24 Settembre 2025 dalle ore 16 - Parco di Tor Fiscale, Acquedotto Marcio Felice<map2/><br /> A cura di Adriana Polveroni<br />Artisti Pittura: Giulia Apice e Maddalena Scuderoni <br /> Artista IA: Matteo Basilè",
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
-      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Curatrice: ADRIANA POLVERONI <br />Accesso libero",
+      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Curatrice: ADRIANA POLVERONI <br /><br/>Accesso libero",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -124,7 +116,7 @@
       "time3": "Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma <map3/> <br />09, 23 Ottobre - 06, 27 Novembre 2025 <br/> dalle 9 alle 13.",
       "time4": "Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma <map4/> <br />  10, 24 Ottobre - 07 e 28 Novembre 2025 <br /> dalle 9 alle 13.",
       "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti luoghi aperti anche alla cittadinanza.",
-      "artistList": "Artisti: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI <carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curatrici: IRMA ALONZO e ADRIANA POLVERONI<br />Accesso libero",
+      "artistList": "Artisti: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI <carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curatrici: IRMA ALONZO e ADRIANA POLVERONI<br /><br/>Accesso libero",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -153,7 +145,7 @@
       "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br /> Inaugurazione 4 Ottobre 2025 alle ore 19.00",
       "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br /> Inaugurazione 29 Novembre 2025 alle ore 19.00",
       "description": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità. <br />L'opera di Paolo Assenza consiste una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br /> L’artista Mercedes Klausner, ospitata in residenza da progetto Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate sui muri di progetto Pianobi in via dei ciceri 99. <br /> Laurent le Deunff, durante la sua residenza presso la sede operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del giubileo. I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate",
-      "artistList": "Artisti: <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici:<br/ >ADRIANA POLVERONI <br /> ISABELLA VITALE <br />Accesso libero",
+      "artistList": "Artisti: <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici:<br/ >ADRIANA POLVERONI <br /> ISABELLA VITALE <br /><br/>Accesso libero",
       "location1": {
         "name": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma.",
         "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma",

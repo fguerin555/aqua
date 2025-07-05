@@ -12,7 +12,7 @@
 }
 
 .triggerIcon {
-  height: 1.2em; /* La hauteur s'adapte à la taille de la police du texte parent */
+  height: 1.7em; /* La hauteur s'adapte à la taille de la police du texte parent */
   width: auto;
   display: block; /* Assure que l'image se comporte bien dans le bouton */
 }
