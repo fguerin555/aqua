@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.77976a35.css",
-    "main.js": "/static/js/main.9469e928.js",
+    "main.css": "/static/css/main.a77f50f6.css",
+    "main.js": "/static/js/main.ca2884f5.js",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
@@ -13,6 +13,7 @@
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
     "static/media/AlbertoB1.png": "/static/media/AlbertoB1.d366daa2a49d42fd4d5c.png",
+    "static/media/Acquedotto.png": "/static/media/Acquedotto.e65b2d44aae144f41baf.png",
     "static/media/IrmaAlonzo1.png": "/static/media/IrmaAlonzo1.9a55d15d4c2a05d23696.png",
     "static/media/Lorenza1.png": "/static/media/Lorenza1.4c115b45df16f5e13161.png",
     "static/media/Giancarlo4.png": "/static/media/Giancarlo4.d786cfc7df4a88aca225.png",
@@ -62,6 +63,7 @@
     "static/media/DavideCVE.png": "/static/media/DavideCVE.972edd0ae3d612e88a8d.png",
     "static/media/DavideCVI.png": "/static/media/DavideCVI.602749d51da0063204b2.png",
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.aa531196fcf9f632e79e.png",
+    "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.56ce42cc3c309ff2db4f.png",
     "static/media/LucaGCVE.png": "/static/media/LucaGCVE.fa46cba0ed9bd174ccb7.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
@@ -70,17 +72,17 @@
     "static/media/LucaGCVI.png": "/static/media/LucaGCVI.82a09099cc4f758a88df.png",
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
     "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
-    "static/media/simbolmapp.png": "/static/media/simbolmapp.d87ff1ec985ec4658b55.png",
+    "static/media/simbolmapp.png": "/static/media/simbolmapp.565894e9072113410030.png",
     "static/media/oeil.png": "/static/media/oeil.f1e984715fcc96cea986.png",
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.ca75fd060d73498c83d4.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.77976a35.css.map": "/static/css/main.77976a35.css.map",
-    "main.9469e928.js.map": "/static/js/main.9469e928.js.map"
+    "main.a77f50f6.css.map": "/static/css/main.a77f50f6.css.map",
+    "main.ca2884f5.js.map": "/static/js/main.ca2884f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.77976a35.css",
-    "static/js/main.9469e928.js"
+    "static/css/main.a77f50f6.css",
+    "static/js/main.ca2884f5.js"
   ]
 }
