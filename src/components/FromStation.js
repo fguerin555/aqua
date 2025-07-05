@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import Modal from "./Modal";
-import modalStyles from "./FromStation.module.css";
+import modalStyles from "./Modal.module.css";
 import stationIcon from "../assets/images/Parcours.png";
 
 /**
@@ -36,7 +36,7 @@ const FromStation = ({ imageMap, altKey }) => {
       <img
         src={imageSrc}
         alt={t(altKey)}
-        style={{ width: "100%", height: "auto" }}
+        className={modalStyles.carouselImage}
       />
     </Modal>
   );

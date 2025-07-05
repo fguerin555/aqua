@@ -403,14 +403,6 @@ const Programma = () => {
             </MapButton>
           </div>
         </div>
-        {/* <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location8.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location8.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div> */}
 
         {/* -----------------------------------------------2------------------- */}
         <div className={styles.TitleAppuntamento}>

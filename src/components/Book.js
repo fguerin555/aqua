@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import Modal from "./Modal";
-import modalStyles from "./FromStation.module.css";
+import modalStyles from "./Modal.module.css";
 import stationIcon from "../assets/images/Book.png";
 
 /**
@@ -32,11 +32,10 @@ const Book = ({ imageMap, altKey }) => {
         </button>
       }
     >
-      {/* Affiche directement l'image dans la modale */}
       <img
         src={imageSrc}
         alt={t(altKey)}
-        style={{ width: "100%", height: "auto" }}
+        className={modalStyles.carouselImage}
       />
     </Modal>
   );
