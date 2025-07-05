@@ -46,11 +46,13 @@
 }
 
 .carouselImage {
-  aspect-ratio: 1 / 1;
-  max-width: 100%;
+  width: auto;
+  height: auto;
+  max-width: 90vw;
   max-height: 75vh;
-  object-fit: contain;
-  border-radius: 4px;
+  aspect-ratio: 1 / 1; /* force un carré */
+  object-fit: cover; /* ou contain selon ton besoin */
+  border-radius: 50%; /* si tu veux garder le rond */
 }
 
 .closeButton {
