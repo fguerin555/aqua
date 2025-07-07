@@ -27,7 +27,7 @@
   height: 35px; /* Hauteur fixe pour le logo */
   width: auto; /* Largeur automatique pour maintenir les proportions */
   max-width: 100px;
-  border-radius: 50%;
+  border-radius: 4px;
   box-shadow: 5px 5px 10px #19280199;
   margin-top: 5px;
 }
