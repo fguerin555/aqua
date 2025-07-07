@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.77a269e4.css",
-    "main.js": "/static/js/main.a666a8a5.js",
+    "main.js": "/static/js/main.33451f17.js",
+    "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.4c7db1f82e9e254bb9b9.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
+    "static/media/ParcoTorFiscale.png": "/static/media/ParcoTorFiscale.0b0ac0f17739ca6039b4.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
     "static/media/Davide1.png": "/static/media/Davide1.f685a2a5a20907de5f6d.png",
@@ -35,6 +37,9 @@
     "static/media/IrmaAlonzo3.png": "/static/media/IrmaAlonzo3.367036898b8ea0389160.png",
     "static/media/IrmaAlonzo2.png": "/static/media/IrmaAlonzo2.32156ac5ad1315304795.png",
     "static/media/LucaG1.png": "/static/media/LucaG1.5320e757ca3d919e9b58.png",
+    "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.9744ed0d6b63e10b014c.png",
+    "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.6855837878aa521e703d.png",
+    "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.b4113783f0354e470d9f.png",
     "static/media/SpazioYFR.png": "/static/media/SpazioYFR.767b50eab4c680c66f33.png",
     "static/media/SpazioYEN.png": "/static/media/SpazioYEN.e61cfc6c3d834250fc10.png",
     "static/media/CristianaP4.png": "/static/media/CristianaP4.a11400ade6e1d1ac4371.png",
@@ -45,10 +50,7 @@
     "static/media/MaddalenaCVE.png": "/static/media/MaddalenaCVE.f0651e8515e6b96d0e14.png",
     "static/media/MaddalenaCVF.png": "/static/media/MaddalenaCVF.3425568b75d58b61406a.png",
     "static/media/ToSpazioYEN.png": "/static/media/ToSpazioYEN.07c2126d62f857dc005f.png",
-    "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.441f8f39bc5dfad04280.png",
-    "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.df0083f4da478b2cb519.png",
     "static/media/MaddalenaCVI.png": "/static/media/MaddalenaCVI.04b1aac17f0ea61d777f.png",
-    "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.88209a3724614749d88d.png",
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.9f9bc01aa2ffd0e82a4f.png",
     "static/media/CasaPirriFR.png": "/static/media/CasaPirriFR.4b7577d372591217e20b.png",
     "static/media/LucaGCVE.png": "/static/media/LucaGCVE.1b493e9f993222c81bf7.png",
@@ -74,6 +76,7 @@
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.aa531196fcf9f632e79e.png",
     "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.56ce42cc3c309ff2db4f.png",
+    "static/media/AppareilFoto.png": "/static/media/AppareilFoto.7df6d9c660e45a3f8ddd.png",
     "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.064ed424b0091d89b80b.png",
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
@@ -86,10 +89,10 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.77a269e4.css.map": "/static/css/main.77a269e4.css.map",
-    "main.a666a8a5.js.map": "/static/js/main.a666a8a5.js.map"
+    "main.33451f17.js.map": "/static/js/main.33451f17.js.map"
   },
   "entrypoints": [
     "static/css/main.77a269e4.css",
-    "static/js/main.a666a8a5.js"
+    "static/js/main.33451f17.js"
   ]
 }
