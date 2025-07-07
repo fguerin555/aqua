@@ -27,21 +27,23 @@
       "sectionTitle": "APPOINTMENT 1",
       "name": "Water in Motion",
       "description": "Video projections on the theme of water Curated by Bruno di Marino.",
-      "time": "16 July at 9 PM - Home Pirri - Valentini  <foto/>via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/><book_casaPirri /> <br/><br/> 17 JuLy at 9 PM - Spazio Y<foto2/> via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><book_spazioY/><br/><br/>8, 9, 10 September at 9 PM - Parco di Tor Fiscale<br/><foto3/> Acquedotto Marcio Felice, municipio VII <map3/>",
-      "artistList": "Artists: < br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br /><br/>Free access.",
+      "artistList": "Artists: <br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br /><br/>Free access.",
       "location1": {
-        "name": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
+        "time_and_name": "16 July at 9 PM - Home Pirri - Valentini",
+        "address": "via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/><book_casaPirri /><br/><br/>",
         "imageAlt": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
         "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "name": "Spazio Y, via dei Juvenci 11, Rome.",
+        "time_and_name": "17 JuLy at 9 PM - Spazio Y",
+        "address": "via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><book_spazioY/><br/><br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
 
       "location3": {
-        "name": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "time_and_name": "8, 9, 10 September at 9 PM - Parco di Tor Fiscale",
+        "address": "Acquedotto Marcio Felice, municipio VII <map3/><br/><br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }

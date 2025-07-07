@@ -5,6 +5,7 @@ import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
+import Foto from "../../components/Foto";
 
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
@@ -92,6 +93,11 @@ import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
+
+import AppareilFoto from "../../assets/images/AppareilFoto.png";
+
+import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
+import ParcoTorFiscale from "../../assets/images/ParcoTorFiscale.png";
 
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -193,6 +199,11 @@ const Programma = () => {
     fr: SpazioYFR,
   };
 
+  const AppFotoImageMap = {
+    src: LagoExSNIAE,
+    src: ParcoTorFiscale,
+  };
+
   return (
     <div>
       <div className={styles.ProgrammaPage}>
@@ -218,10 +229,20 @@ const Programma = () => {
         </div>
         <div className={styles.Orari}>
           <div>
+            <Trans i18nKey="program.appointment1.location1.time_and_name" />
+          </div>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={CasaPirri}
+            alt={t("program.appointment1.location1.imageAlt")}
+          />
+        </div>
+        <div className={styles.Luoghi}>
+          <div>
             <Trans
-              i18nKey="program.appointment1.time"
+              i18nKey="program.appointment1.location1.address"
               components={{
-                br: <br />,
                 book_casaPirri: (
                   <Book
                     imageMap={CasaPirriBookImageMap}
@@ -243,14 +264,27 @@ const Programma = () => {
                     altKey="program.fromStationAlt"
                   />
                 ),
-                foto: (
-                  <div className={styles.Foto}>
-                    <img
-                      src={CasaPirri}
-                      alt={t("program.appointment1.location1.imageAlt")}
-                    />
-                  </div>
-                ),
+              }}
+            />
+          </div>
+        </div>
+
+        <div className={styles.Orari}>
+          <div>
+            <Trans i18nKey="program.appointment1.location2.time_and_name" />
+          </div>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={SpazioY}
+            alt={t("program.appointment1.location2.imageAlt")}
+          />
+        </div>
+        <div className={styles.Luoghi}>
+          <div>
+            <Trans
+              i18nKey="program.appointment1.location2.address"
+              components={{
                 book_spazioY: (
                   <Book
                     imageMap={SpazioYBookImageMap}
@@ -272,15 +306,26 @@ const Programma = () => {
                     altKey="program.fromStationAlt"
                   />
                 ),
-
-                foto2: (
-                  <div className={styles.Foto}>
-                    <img
-                      src={SpazioY}
-                      alt={t("program.appointment1.location1.imageAlt")}
-                    />
-                  </div>
-                ),
+              }}
+            />
+          </div>
+        </div>
+        <div className={styles.Orari}>
+          <div>
+            <Trans i18nKey="program.appointment1.location3.time_and_name" />
+          </div>
+        </div>
+        <div className={styles.Foto}>
+          <img
+            src={Acquedotto}
+            alt={t("program.appointment1.location3.imageAlt")}
+          />
+        </div>
+        <div className={styles.Luoghi}>
+          <div>
+            <Trans
+              i18nKey="program.appointment1.location3.address"
+              components={{
                 map3: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -290,18 +335,11 @@ const Programma = () => {
                     </MapButton>
                   </span>
                 ),
-                foto3: (
-                  <div className={styles.Foto}>
-                    <img
-                      src={Acquedotto}
-                      alt={t("program.appointment1.location1.imageAlt")}
-                    />
-                  </div>
-                ),
               }}
             />
           </div>
         </div>
+
         <div className={styles.ArtistList}>
           <div>
             <Trans
