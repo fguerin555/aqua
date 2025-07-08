@@ -92,6 +92,13 @@ import SpazioYIT from "../../assets/images/SpazioYIT.png";
 import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
 
+import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
+import AcquedottoIT from "../../assets/images/AcquedottoIT.png";
+import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
+import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
+import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
+import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
+
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
 import AppareilFoto from "../../assets/images/AppareilFoto.png";
@@ -187,6 +194,12 @@ const Programma = () => {
     fr: ToSpazioYFR,
   };
 
+  const ToAcquedottoImageMap = {
+    it: ToAcquedottoIT,
+    en: ToAcquedottoEN,
+    fr: ToAcquedottoFR,
+  };
+
   const CasaPirriBookImageMap = {
     it: CasaPirriIT,
     en: CasaPirriEN,
@@ -197,6 +210,12 @@ const Programma = () => {
     it: SpazioYIT,
     en: SpazioYEN,
     fr: SpazioYFR,
+  };
+
+  const AcquedottoBookImageMap = {
+    it: AcquedottoIT,
+    en: AcquedottoEN,
+    fr: AcquedottoFR,
   };
 
   const AppFotoImageMap = {
@@ -310,6 +329,7 @@ const Programma = () => {
             />
           </div>
         </div>
+
         <div className={styles.Orari}>
           <div>
             <Trans i18nKey="program.appointment1.location3.time_and_name" />
@@ -326,6 +346,12 @@ const Programma = () => {
             <Trans
               i18nKey="program.appointment1.location3.address"
               components={{
+                book_Acquedotto: (
+                  <Book
+                    imageMap={AcquedottoBookImageMap}
+                    altKey="program.bookAlt"
+                  />
+                ),
                 map3: (
                   <span className={styles.SimbolMapp}>
                     <MapButton
@@ -334,6 +360,12 @@ const Programma = () => {
                       <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                     </MapButton>
                   </span>
+                ),
+                toAcquedotto_1: (
+                  <FromStation
+                    imageMap={ToAcquedottoImageMap}
+                    altKey="program.fromStationAlt"
+                  />
                 ),
               }}
             />

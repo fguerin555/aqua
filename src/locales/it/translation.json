@@ -38,14 +38,14 @@
 
       "location2": {
         "time_and_name": "17 Luglio ore 21.00 - Spazio Y",
-        "address": "via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
+        "address": "via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><toSpazioY_1/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, municipio XI",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
 
       "location3": {
         "time_and_name": "8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice, municipio VII <map3/><br/> <br/>",
+        "address": "Acquedotto Marcio Felice, municipio VII <map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }

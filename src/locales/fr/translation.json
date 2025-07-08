@@ -29,6 +29,7 @@
       "name": "L'Eau en Mouvement",
       "description": "Projections vidéo supervisées par Bruno di Marino",
       "artistList": "Artistes : <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br /><br/>Accès libre",
+
       "location1": {
         "time_and_name": "16 Juillet 21 heures - Maison Pirri - Valentini",
         "address": "via del Mandrione 451/455, municipio VII <map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
@@ -43,7 +44,7 @@
       },
       "location3": {
         "time_and_name": "8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice, municipio VII <map3/><br/> <br/>",
+        "address": "Acquedotto Marcio Felice, municipio VII <map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
