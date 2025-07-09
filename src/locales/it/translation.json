@@ -22,6 +22,8 @@
     "pageTitle": "Programma",
     "mapSymbolAlt": "Simbolo indicazione mappa",
     "bookAlt": "Informations sul luogo",
+    "fromStationAlt": "Icona per vedere percorso dalla stazione Termini",
+    "fotoAlt": "Icona per vedere la foto del luogo",
 
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
@@ -38,7 +40,7 @@
 
       "location2": {
         "time_and_name": "17 Luglio ore 21.00 - Spazio Y",
-        "address": "via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><toSpazioY_1/><br/> <br/>",
+        "address": "via dei Juvenci 11, municipio XI <map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, municipio XI",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
@@ -57,42 +59,42 @@
       "description": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.<br /><br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
       "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br /> <br /> Accesso libero",
       "location1": {
-        "name": "via Casilina Vecchia 19,Roma.",
+        "time_and_name": "via Casilina Vecchia 19,Roma.<map/><to></to><book></book><foto/>",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "name": "Via Casalina Vecchia 115,Roma.",
+        "time_and_name": "Via Casalina Vecchia 115,Roma.<map/><to></to> <book></book><foto/>",
         "imageAlt": "Via Casalina Vecchia 115,Roma.",
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "name": "Villa de Sanctis, via dei Giordiani 5,Roma.",
+        "time_and_name": "Villa de Sanctis, via dei Giordiani 5,Roma.<map/><to></to><book></book><foto/>",
         "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
       },
       "location4": {
-        "name": "Via dell’Acqua Felice,Roma.",
+        "time_and_name": "Via dell’Acqua Felice,Roma.<map/> <to></to><book></book><foto/>",
         "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
-
       "location5": {
-        "name": "Vicolo dell'Acquedotto Felice,Roma.",
+        "time_and_name": "Vicolo dell'Acquedotto Felice,Roma.<map/><to></to><book></book> <foto/>",
         "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
       "location6": {
-        "name": "Via di Torre Branca, Roma.",
+        "time_and_name": "Via di Torre Branca, Roma.<map/><to></to><book></book><foto></foto>",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
       "location7": {
-        "name": "Parco di Torre del Fiscale, Roma.",
+        "time_and_name": "Parco di Torre del Fiscale, Roma.<map/><to></to><book></book> <foto/>",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
       }
     },
+
     "appointment3": {
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",

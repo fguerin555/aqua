@@ -26,7 +26,7 @@ const Foto = ({ imageMap, altKey }) => {
         <button className={modalStyles.triggerButton}>
           <img
             src={stationIcon}
-            alt={t(altKey, "Itinéraire depuis la gare")}
+            alt={t(altKey, "voir la photo du lieu")}
             className={modalStyles.triggerIcon}
           />
         </button>

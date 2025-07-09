@@ -99,12 +99,80 @@ import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
 import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
 import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
 
+import VillaDeSanctisIT from "../../assets/images/VillaDeSanctisIT.png";
+import VillaDeSanctisEN from "../../assets/images/VillaDeSanctisEN.png";
+import VillaDeSanctisFR from "../../assets/images/VillaDeSanctisFR.png";
+import ToVillaDeSanctisEN from "../../assets/images/ToVillaDeSanctisEN.png";
+import ToVillaDeSanctisIT from "../../assets/images/ToVillaDeSanctisIT.png";
+import ToVillaDeSanctisFR from "../../assets/images/ToVillaDeSanctisFR.png";
+
+import CasilinaVecchiaIT from "../../assets/images/CasilinaVecchiaIT.png";
+import CasilinaVecchiaEN from "../../assets/images/CasilinaVecchiaEN.png";
+import CasilinaVecchiaFR from "../../assets/images/CasilinaVecchiaFR.png";
+import ToCasilinaVecchiaIT from "../../assets/images/ToCasilinaVecchiaIT.png";
+import ToCasilinaVecchiaEN from "../../assets/images/ToCasilinaVecchiaEN.png";
+import ToCasilinaVecchiaFR from "../../assets/images/ToCasilinaVecchiaFR.png";
+
+import ViaDellAcquedottoFeliceIT from "../../assets/images/ViaDellAcquedottoFeliceIT.png";
+import ViaDellAcquedottoFeliceEN from "../../assets/images/ViaDellAcquedottoFeliceEN.png";
+import ViaDellAcquedottoFeliceFR from "../../assets/images/ViaDellAcquedottoFeliceFR.png";
+import ToViaDellAcquedottoFeliceIT from "../../assets/images/ToViaDellAcquedottoFeliceIT.png";
+import ToViaDellAcquedottoFeliceEN from "../../assets/images/ToViaDellAcquedottoFeliceEN.png";
+import ToViaDellAcquedottoFeliceFR from "../../assets/images/ToViaDellAcquedottoFeliceFR.png";
+
+import ParcoDiTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
+import ParcoDiTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
+import ParcoDiTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
+import ToParcoDiTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
+import ToParcoDiTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
+import ToParcoDiTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
+// import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
+
+import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
+import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
+import CentroAnzianiFR from "../../assets/images/CentroAnzianiFR.png";
+import ToCentroAnzianiIT from "../../assets/images/ToCentroAnzianiIT.png";
+import ToCentroAnzianiEN from "../../assets/images/ToCentroAnzianiEN.png";
+import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
+
+import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
+
+import ViaDellAcquaFeliceIT from "../../assets/images/ViaDellAcquaFeliceIT.png";
+import ViaDellAcquaFeliceEN from "../../assets/images/ViaDellAcquaFeliceEN.png";
+import ViaDellAcquaFeliceFR from "../../assets/images/ViaDellAcquaFeliceFR.png";
+import ToViaDellAcquaFeliceIT from "../../assets/images/ToViaDellAcquaFeliceIT.png";
+import ToViaDellAcquaFeliceEN from "../../assets/images/ToViaDellAcquaFeliceEN.png";
+import ToViaDellAcquaFeliceFR from "../../assets/images/ToViaDellAcquaFeliceFR.png";
+
+import VicolodellAcquedottoFelice from "../../assets/images/VicolodellAcquedottoFelice.png";
+
+import VicoloDellAcquedottoFeliceIT from "../../assets/images/VicoloDellAcquedottoFeliceIT.png";
+import VicoloDellAcquedottoFeliceFR from "../../assets/images/VicoloDellAcquedottoFeliceFR.png";
+import VicoloDellAcquedottoFeliceEN from "../../assets/images/VicoloDellAcquedottoFeliceEN.png";
+import ToVicoloDellAcquedottoFeliceIT from "../../assets/images/ToVicoloDellAcquedottoFeliceIT.png";
+import ToVicoloDellAcquedottoFeliceEN from "../../assets/images/ToVicoloDellAcquedottoFeliceEN.png";
+import ToVicoloDellAcquedottoFeliceFR from "../../assets/images/ToVicoloDellAcquedottoFeliceFR.png";
+
+import ViadiTorreBranca from "../../assets/images/ViadiTorreBranca.png";
+
+import ViaDiTorreBrancaIT from "../../assets/images/ViaDiTorreBrancaIT.png";
+import ViaDiTorreBrancaEN from "../../assets/images/ViaDiTorreBrancaEN.png";
+import ViaDiTorreBrancaFR from "../../assets/images/ViaDiTorreBrancaFR.png";
+import ToViaDiTorreBrancaIT from "../../assets/images/ToViaDiTorreBrancaIT.png";
+import ToViaDiTorreBrancaEN from "../../assets/images/ToViaDiTorreBrancaEN.png";
+import ToViaDiTorreBrancaFR from "../../assets/images/ToViaDiTorreBrancaFR.png";
+
+import ViaCasilinaVecchia19 from "../../assets/images/ViaCasilinaVecchia19.png";
+import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png";
+
+import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
+
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
 import AppareilFoto from "../../assets/images/AppareilFoto.png";
 
 import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
-import ParcoTorFiscale from "../../assets/images/ParcoTorFiscale.png";
+import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -217,11 +285,198 @@ const Programma = () => {
     en: AcquedottoEN,
     fr: AcquedottoFR,
   };
-
-  const AppFotoImageMap = {
-    src: LagoExSNIAE,
-    src: ParcoTorFiscale,
+  const ToVillaDeSanctisImageMap = {
+    it: ToVillaDeSanctisIT,
+    en: ToVillaDeSanctisEN,
+    fr: ToVillaDeSanctisFR,
   };
+  const VillaDeSanctisBookImageMap = {
+    it: VillaDeSanctisIT,
+    en: VillaDeSanctisEN,
+    fr: VillaDeSanctisFR,
+  };
+  const VillaDeSanctisFotoImageMap = {
+    it: VillaDeSanctis,
+    en: VillaDeSanctis,
+    fr: VillaDeSanctis,
+  };
+  const CasilinaVecchia19FotoImageMap = {
+    it: ViaCasilinaVecchia19,
+    en: ViaCasilinaVecchia19,
+    fr: ViaCasilinaVecchia19,
+  };
+  const CasilinaVecchia115FotoImageMap = {
+    it: ViaCasilinaVecchia115,
+    en: ViaCasilinaVecchia115,
+    fr: ViaCasilinaVecchia115,
+  };
+  const ViaDellAcquaFeliceFotoImageMap = {
+    it: ViadellAcquaFelice,
+    en: ViadellAcquaFelice,
+    fr: ViadellAcquaFelice,
+  };
+
+  const VicoloDellAcquedottoFeliceFotoImageMap = {
+    it: VicolodellAcquedottoFelice,
+    en: VicolodellAcquedottoFelice,
+    fr: VicolodellAcquedottoFelice,
+  };
+  const ViaDiTorreBrancaFotoImageMap = {
+    it: ViadiTorreBranca,
+    en: ViadiTorreBranca,
+    fr: ViadiTorreBranca,
+  };
+
+  const ToCasilinaVecchiaImageMap = {
+    it: ToCasilinaVecchiaIT,
+    en: ToCasilinaVecchiaEN,
+    fr: ToCasilinaVecchiaFR,
+  };
+
+  const CasilinaVecchiaBookImageMap = {
+    it: CasilinaVecchiaIT,
+    en: CasilinaVecchiaEN,
+    fr: CasilinaVecchiaFR,
+  };
+
+  const ToViaDellAcquedottoFeliceImageMap = {
+    it: ToViaDellAcquedottoFeliceIT,
+    en: ToViaDellAcquedottoFeliceEN,
+    fr: ToViaDellAcquedottoFeliceFR,
+  };
+  const ViaDellAcquedottoFeliceBookImageMap = {
+    it: ViaDellAcquedottoFeliceIT,
+    en: ViaDellAcquedottoFeliceEN,
+    fr: ViaDellAcquedottoFeliceFR,
+  };
+
+  const ToCentroAnzianiImageMap = {
+    it: ToCentroAnzianiIT,
+    en: ToCentroAnzianiEN,
+    fr: ToCentroAnzianiFR,
+  };
+  const CentroAnzianiBookImageMap = {
+    it: CentroAnzianiIT,
+    en: CentroAnzianiEN,
+    fr: CentroAnzianiFR,
+  };
+
+  const ToVicoloDellAcquedottoFeliceImageMap = {
+    it: ToVicoloDellAcquedottoFeliceIT,
+    en: ToVicoloDellAcquedottoFeliceEN,
+    fr: ToVicoloDellAcquedottoFeliceFR,
+  };
+  const VicoloDellAcquedottoFeliceBookImageMap = {
+    it: VicoloDellAcquedottoFeliceIT,
+    en: VicoloDellAcquedottoFeliceEN,
+    fr: VicoloDellAcquedottoFeliceFR,
+  };
+
+  const ToViaDiTorreBrancaImageMap = {
+    it: ToViaDiTorreBrancaIT,
+    en: ToViaDiTorreBrancaEN,
+    fr: ToViaDiTorreBrancaFR,
+  };
+
+  const ParcoDiTorFiscaleImageMap = {
+    it: ParcoDiTorFiscaleIT,
+    en: ParcoDiTorFiscaleEN,
+    fr: ParcoDiTorFiscaleFR,
+  };
+
+  const ToParcoDiTorFiscaleImageMap = {
+    it: ToParcoDiTorFiscaleIT,
+    en: ToParcoDiTorFiscaleEN,
+    fr: ToParcoDiTorFiscaleFR,
+  };
+
+  const ParcoDiTorFiscaleBookImageMap = {
+    it: ParcoDiTorFiscaleIT,
+    en: ParcoDiTorFiscaleEN,
+    fr: ParcoDiTorFiscaleFR,
+  };
+
+  const ParcoDiTorFiscaleFotoImageMap = {
+    it: ParcoDiTorFiscale,
+    en: ParcoDiTorFiscale,
+    fr: ParcoDiTorFiscale,
+  };
+
+  const ViaDiTorreBrancaBookImageMap = {
+    it: ViaDiTorreBrancaIT,
+    en: ViaDiTorreBrancaEN,
+    fr: ViaDiTorreBrancaFR,
+  };
+
+  const ViaDiTorreBrancaImageMap = {
+    it: ViaDiTorreBrancaIT,
+    en: ViaDiTorreBrancaEN,
+    fr: ViaDiTorreBrancaFR,
+  };
+
+  const ToViaDellAcquaFeliceImageMap = {
+    it: ToViaDellAcquaFeliceIT,
+    en: ToViaDellAcquaFeliceEN,
+    fr: ToViaDellAcquaFeliceFR,
+  };
+  const ViaDellAcquaFeliceBookImageMap = {
+    it: ViaDellAcquaFeliceIT,
+    en: ViaDellAcquaFeliceEN,
+    fr: ViaDellAcquaFeliceFR,
+  };
+
+  const appointment2Locations = [
+    {
+      timeAndNameKey: "program.appointment2.location1.time_and_name",
+      mapQueryKey: "program.appointment2.location1.mapQuery",
+      fromStationImageMap: ToCasilinaVecchiaImageMap,
+      bookImageMap: CasilinaVecchiaBookImageMap,
+      fotoImageMap: CasilinaVecchia19FotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location2.time_and_name",
+      mapQueryKey: "program.appointment2.location2.mapQuery",
+      fromStationImageMap: ToCasilinaVecchiaImageMap,
+      bookImageMap: CasilinaVecchiaBookImageMap,
+      fotoImageMap: CasilinaVecchia115FotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location3.time_and_name",
+      mapQueryKey: "program.appointment2.location3.mapQuery",
+      fromStationImageMap: ToVillaDeSanctisImageMap,
+      bookImageMap: VillaDeSanctisBookImageMap,
+      fotoImageMap: VillaDeSanctisFotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location4.time_and_name",
+      mapQueryKey: "program.appointment2.location4.mapQuery",
+      fromStationImageMap: ToViaDellAcquaFeliceImageMap,
+      bookImageMap: ViaDellAcquaFeliceBookImageMap,
+      fotoImageMap: ViaDellAcquaFeliceFotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location5.time_and_name",
+      mapQueryKey: "program.appointment2.location5.mapQuery",
+      fromStationImageMap: ToVicoloDellAcquedottoFeliceImageMap,
+      bookImageMap: VicoloDellAcquedottoFeliceBookImageMap,
+      fotoImageMap: VicoloDellAcquedottoFeliceFotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location6.time_and_name",
+      mapQueryKey: "program.appointment2.location6.mapQuery",
+      fromStationImageMap: ToViaDiTorreBrancaImageMap,
+      bookImageMap: ViaDiTorreBrancaBookImageMap,
+      fotoImageMap: ViaDiTorreBrancaFotoImageMap,
+    },
+
+    {
+      timeAndNameKey: "program.appointment2.location7.time_and_name",
+      mapQueryKey: "program.appointment2.location7.mapQuery",
+      fromStationImageMap: ToParcoDiTorFiscaleImageMap,
+      bookImageMap: ParcoDiTorFiscaleBookImageMap,
+      fotoImageMap: ParcoDiTorFiscaleFotoImageMap,
+    },
+  ];
 
   return (
     <div>
@@ -417,64 +672,44 @@ const Programma = () => {
             />
           </div>
         </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location1.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location1.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
+        {appointment2Locations.map((loc, index) => (
+          <div className={styles.Luoghi} key={index}>
+            <div>
+              <Trans
+                i18nKey={loc.timeAndNameKey}
+                components={{
+                  map: (
+                    <span className={styles.SimbolMapp}>
+                      <MapButton mapQuery={t(loc.mapQueryKey)}>
+                        <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                      </MapButton>
+                    </span>
+                  ),
+                  to: (
+                    <FromStation
+                      imageMap={loc.fromStationImageMap}
+                      altKey="program.fromStationAlt"
+                    />
+                  ),
+                  book: (
+                    <Book
+                      imageMap={loc.bookImageMap}
+                      altKey="program.bookAlt"
+                    />
+                  ),
+                  foto: (
+                    <Foto
+                      imageMap={loc.fotoImageMap}
+                      altKey="program.fotoAlt"
+                    />
+                  ),
+                }}
+              />
+            </div>
           </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location2.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location2.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location3.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location3.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location4.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location4.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location5.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location5.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location6.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location6.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment2.location7.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment2.location7.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
+        ))}
 
-        {/* -----------------------------------------------2------------------- */}
+        {/* -----------------------------------------------3------------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment3.sectionTitle")}</p>
         </div>

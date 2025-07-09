@@ -22,6 +22,8 @@
     "pageTitle": "Program",
     "mapSymbolAlt": "Map pin symbol",
     "bookAlt": "Informations on the place",
+    "fromStationAlt": "Icon to see the way from Termini Station",
+    "fotoAlt": "Icon to see the picture of the location",
 
     "appointment1": {
       "sectionTitle": "APPOINTMENT 1",
@@ -55,38 +57,37 @@
       "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
       "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br /><br />Free acces.",
       "location1": {
-        "name": "via Casilina Vecchia 19,Roma.",
+        "time_and_name": "via Casilina Vecchia 19,Roma.<map/><to></to><book></book><foto/>",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "name": "Via Casalina Vecchia 115,Roma.",
+        "time_and_name": "Via Casalina Vecchia 115,Roma.<map/><to></to> <book></book><foto/>",
         "imageAlt": "Via Casalina Vecchia 115,Roma.",
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "name": "Villa de Sanctis, via dei Giordiani 5,Roma.",
+        "time_and_name": "Villa de Sanctis, via dei Giordiani 5,Roma.<map/><to></to><book></book><foto/>",
         "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
       },
       "location4": {
-        "name": "Via dell’Acqua Felice,Roma.",
+        "time_and_name": "Via dell’Acqua Felice,Roma.<map/> <to></to><book></book><foto/>",
         "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
-
       "location5": {
-        "name": "Vicolo dell'Acquedotto Felice,Roma.",
+        "time_and_name": "Vicolo dell'Acquedotto Felice,Roma.<map/><to></to><book></book> <foto/>",
         "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
       "location6": {
-        "name": "Via di Torre Branca, Roma.",
+        "time_and_name": "Via di Torre Branca, Roma.<map/><to></to><book></book><foto></foto>",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
       "location7": {
-        "name": "Parco di Torre del Fiscale, Roma.",
+        "time_and_name": "Parco di Torre del Fiscale, Roma.<map/><to></to><book></book> <foto/>",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
       }
