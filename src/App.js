@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePageFile/HomePage";
 import NewProgramma from "./pages/NewProgrammaFile/NewProgramma";
-import BlogPage from "./pages/BlogPageFile/BlogPage";
+
 import LinksPage from "./pages/LinksPageFile/LinksPage";
 import Stampa from "./pages/StampaFile/Stampa";
 import Navbar from "./components/Navbar";
@@ -17,7 +17,7 @@ const App = () => {
           <Route path="/" element={<HomePage />} />
           <Route path="/homepage" element={<HomePage />} />
           <Route path="/newprogramma" element={<NewProgramma />} />
-          <Route path="/blogpage" element={<BlogPage />} />
+
           <Route path="/linkspage" element={<LinksPage />} />
           <Route path="/stampa" element={<Stampa />} />
         </Routes>

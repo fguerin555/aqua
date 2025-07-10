@@ -681,24 +681,31 @@ const Programma = () => {
                   map: (
                     <span className={styles.SimbolMapp}>
                       <MapButton mapQuery={t(loc.mapQueryKey)}>
-                        <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                        <img
+                          src={simbolmapp}
+                          alt={t("program.mapSymbolAlt")}
+                          className={styles.IconStandard}
+                        />
                       </MapButton>
                     </span>
                   ),
                   to: (
                     <FromStation
+                      className={styles.IconStandard}
                       imageMap={loc.fromStationImageMap}
                       altKey="program.fromStationAlt"
                     />
                   ),
                   book: (
                     <Book
+                      className={styles.IconStandard}
                       imageMap={loc.bookImageMap}
                       altKey="program.bookAlt"
                     />
                   ),
                   foto: (
                     <Foto
+                      className={styles.IconStandard}
                       imageMap={loc.fotoImageMap}
                       altKey="program.fotoAlt"
                     />
@@ -708,7 +715,6 @@ const Programma = () => {
             </div>
           </div>
         ))}
-
         {/* -----------------------------------------------3------------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment3.sectionTitle")}</p>

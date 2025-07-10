@@ -96,6 +96,8 @@
 
 .Luoghi {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   gap: 10px; /* Espace entre le texte et l'icône */
@@ -115,8 +117,8 @@
 .SimbolMapp {
   display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
   vertical-align: middle; /* Alignement vertical avec le texte */
-  width: 40px; /* Taille de l'icône */
-  height: 40px; /* Taille de l'icône */
+  width: 30px; /* Taille de l'icône */
+  height: 30px; /* Taille de l'icône */
   margin-left: 0 !important; /* Petit espace après le texte */
 }
 
@@ -154,7 +156,13 @@
                           et conserve ses proportions à l'intérieur du bouton.
                           Utilisez 'cover' si vous préférez remplir et potentiellement rogner. */
 }
-
+.IconStandard {
+  width: 35px;
+  height: 35px;
+  display: inline-flex;
+  vertical-align: middle;
+  margin-left: 5px;
+}
 .FotoV {
   position: relative;
   z-index: 1;
@@ -302,11 +310,18 @@
   .Luoghi > div {
     font-size: 18px;
   }
+  .IconStandard {
+    width: 35px;
+    height: 35px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin-left: 5px;
+  }
   .SimbolMapp {
     display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
     vertical-align: middle; /* Alignement vertical avec le texte */
-    width: 35px; /* Taille de l'icône */
-    height: 35px; /* Taille de l'icône */
+    width: 30px; /* Taille de l'icône */
+    height: 30px; /* Taille de l'icône */
     margin-left: 5px; /* Petit espace après le texte */
   }
   .EventDescription > div {
@@ -369,14 +384,29 @@
   .Orari div {
     font-size: 16px;
   }
+  .Luoghi {
+    flex-direction: column;
+    align-items: flex-start; /* ou center selon le besoin */
+    margin-left: 20%;
+    margin-right: auto;
+  }
   .Luoghi > div {
+    width: 100%;
+    text-align: left;
     font-size: 16px;
+  }
+  .IconStandard {
+    width: 25px;
+    height: 25px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin-left: 5px;
   }
   .SimbolMapp {
     display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
     vertical-align: middle; /* Alignement vertical avec le texte */
-    width: 25px; /* Taille de l'icône */
-    height: 25px; /* Taille de l'icône */
+    width: 22px; /* Taille de l'icône */
+    height: 22px; /* Taille de l'icône */
     margin-left: 5px; /* Petit espace après le texte */
   }
   .Foto {
@@ -446,15 +476,30 @@
   .Orari div {
     font-size: 15px;
   }
+  .Luoghi {
+    flex-direction: column;
+    align-items: flex-start; /* ou center selon le besoin */
+    margin-left: 20%;
+    margin-right: auto;
+  }
   .Luoghi div {
     font-size: 15px;
+    width: 100%;
+    text-align: left;
   }
   .SimbolMapp {
     display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
     vertical-align: middle; /* Alignement vertical avec le texte */
-    width: 25px; /* Taille de l'icône */
-    height: 25px; /* Taille de l'icône */
+    width: 22px; /* Taille de l'icône */
+    height: 22px; /* Taille de l'icône */
     margin-left: 5px; /* Petit espace après le texte */
+  }
+  .IconStandard {
+    width: 25px;
+    height: 25px;
+    display: inline-flex;
+    vertical-align: middle;
+    margin-left: 5px;
   }
   .Foto {
     width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
