@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.77a269e4.css",
-    "main.js": "/static/js/main.25865a21.js",
+    "main.css": "/static/css/main.0555cf3e.css",
+    "main.js": "/static/js/main.91daa05c.js",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.4c7db1f82e9e254bb9b9.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -137,7 +137,6 @@
     "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.56ce42cc3c309ff2db4f.png",
     "static/media/AppareilFoto.png": "/static/media/AppareilFoto.7df6d9c660e45a3f8ddd.png",
-    "static/media/LogoAcqua2.png": "/static/media/LogoAcqua2.e0e7f28908bfdbc4edff.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.064ed424b0091d89b80b.png",
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
     "static/media/Book.png": "/static/media/Book.916f970eb32e68892106.png",
@@ -148,11 +147,11 @@
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.77a269e4.css.map": "/static/css/main.77a269e4.css.map",
-    "main.25865a21.js.map": "/static/js/main.25865a21.js.map"
+    "main.0555cf3e.css.map": "/static/css/main.0555cf3e.css.map",
+    "main.91daa05c.js.map": "/static/js/main.91daa05c.js.map"
   },
   "entrypoints": [
-    "static/css/main.77a269e4.css",
-    "static/js/main.25865a21.js"
+    "static/css/main.0555cf3e.css",
+    "static/js/main.91daa05c.js"
   ]
 }
