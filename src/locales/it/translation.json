@@ -33,21 +33,21 @@
       "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/>Curatore: BRUNO DI MARINO.<br/><br/>Accesso libero.",
       "location1": {
         "time_and_name": "16 Luglio ore 21.00 - Casa Pirri - Valentini",
-        "address": "via del Mandrione 451/455, municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
+        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
         "imageAlt": "Casa Pirri - Valentini, Via del Mandrione 451/455, municipio VII",
         "mapQuery": "Via del Mandrione 451, Roma"
       },
 
       "location2": {
         "time_and_name": "17 Luglio ore 21.00 - Spazio Y",
-        "address": "via dei Juvenci 11, municipio XI <br/><map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
+        "address": "via dei Juvenci 11<br/> municipio XI <br/><map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, municipio XI",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
 
       "location3": {
         "time_and_name": "8, 9, 10 Settembre ore 21.00 - Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice, municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
+        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
