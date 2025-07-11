@@ -71,7 +71,7 @@
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5</>municipio V<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5<br/>municipio V<br/><map/><to></to><book></book><foto/>",
         "address": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
@@ -196,7 +196,7 @@
       "artistList": "Artista: ALFREDO PIRRI, autore dell'opera <br />Curatrice: ADRIANA POLVERONI  <br /><br /> Accesso libero",
 
       "location1": {
-        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII.",
+        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII",
         "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
       },

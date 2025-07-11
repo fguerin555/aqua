@@ -58,37 +58,37 @@
       "description": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br /> 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus. Spazio Y, via dei Juvenci 11, Rome <map9 />",
       "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br /><br />  Accès libre",
       "location1": {
-        "time_and_name": "via Casilina Vecchia 19,Roma.<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "via Casilina Vecchia 19</>municipio VII<br/><map/><to></to><book></book><foto/>",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "time_and_name": "Via Casalina Vecchia 115,Roma.<br/><map/><to></to> <book></book><foto/>",
+        "time_and_name": "Via Casalina Vecchia 115<br/>municipio VII.<br/><map/><to></to> <book></book><foto/>",
         "imageAlt": "Via Casalina Vecchia 115,Roma.",
         "mapQuery": "Via Casalina Vecchia 115,Roma."
       },
       "location3": {
-        "time_and_name": "Villa de Sanctis, via dei Giordiani 5,Roma.<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5<br/>municipio V<br/><map/><to></to><book></book><foto/>",
         "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
         "mapQuery": "via dei Giordiani 5,Roma."
       },
       "location4": {
-        "time_and_name": "Via dell’Acqua Felice,Roma.<br/><map/> <to></to><book></book><foto/>",
+        "time_and_name": "Via dell’Acqua Felice<br/>municipio VII. <br/><map/> <to></to><book></book><foto/>",
         "imageAlt": "Via dell’Acqua Felice,Roma.",
         "mapQuery": "Via dell’Acqua Felice,Roma."
       },
       "location5": {
-        "time_and_name": "Vicolo dell'Acquedotto Felice,Roma.<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": "Vicolo dell'Acquedotto Felice<br/>municipio VII<br/><map/><to></to><book></book> <foto/>",
         "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
         "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
       },
       "location6": {
-        "time_and_name": "Via di Torre Branca, Roma.<br/><map/><to></to><book></book><foto></foto>",
+        "time_and_name": "Via di Torre Branca<br/>municipio VII<br/><map/><to></to><book></book><foto></foto>",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
       "location7": {
-        "time_and_name": "Parco di Torre del Fiscale, Roma.<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
       }
@@ -113,10 +113,10 @@
     "appointment4": {
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "L'Art dans une Pièce",
-      "time1": "Ateliers de sculpture pour les aveugles et les malvoyants <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artiste: Irma Alonzo<br/> Centro Anziani, Via dei Volsci, 82c, Rome <map1/> <br/>19, 26 Septembre - 01, 08, 15, 22, 29 Octobre - 05 Novembre 2025<br/> de 15h.30 à 17h.30",
-      "time2": "Ateliers de bande dessinée <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Rome <map2/> <br />07, 22 Octobre - 05, 26 Novembre 2025 <br/> de 9h à 13h",
-      "time3": "Ateliers de bande dessinée <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />rtistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Rome <map3/> <br />09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9h à 13h",
-      "time4": "Ateliers de céramique<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artiste: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico, Via Beata Maria de Mattias, 5 Rome <map4/> <br />10, 24 Octobre - 07, 28 Novembre 2025 <br/> de 9h à 13h",
+      "time1": "19, 26 Septembre - 01, 08, 15, 22, 29 Octobre - 05 Novembre 2025<br /> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map1/>",
+      "time2": " 07, 22 Octobre - 05, 26 Novembre 2025 <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map2/>",
+      "time3": "09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map3/>",
+      "time4": "10, 24 Octobre - 07 e 28 Novembre 2025 <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map4/>",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
       "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
@@ -143,18 +143,18 @@
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
-      "time1": "Oeuvre: La Fontaine des Brumes de Paolo Assenza <br/> Inauguration le 10 Octobre à 19 heures.",
-      "time2": "Oeuvre: Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration le 4 Octobre à 19 heures",
-      "time3": "Oeuvre: Ri-Sorgente de Laurent le Deunff <br/> Inauguration le 29 Novembre à 19 heures",
+      "time1": "Oeuvre : La Fontaine des Brumes de Paolo Assenza<br/>Inauguration 10 Octobre à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII",
+      "time2": "Oeuvre : Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration 4 Octobre à 19 heures 19.00<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII",
+      "time3": "Oeuvre : Ri-Sorgente de Laurent le Deunff <br />Inauguration 29 Novembre 2025 à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
       "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
-        "name": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome.",
+        "name": "",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
         "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       },
       "location2": {
-        "name": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome.",
+        "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
       }
@@ -165,7 +165,7 @@
       "name1": "Pour un monument publique dédié à Don Roberto Sardelli",
       "name2": "De la nuit, des Pleurs, de l'Aurore",
       "time1": "Le 29 Novembre 2025 à 18 heures",
-      "time2": "Maison Pirri - Valentini, via del Mandrione 451/455. Municipio VII <map1/><carousel_casaPirri/>",
+      "time2": "Maison Pirri - Valentini<br/> via del Mandrione 451/455<br/> Municipio VII <br/><map1/><carousel_casaPirri/>",
       "description": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sarcedote.<br/> Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
       "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation",
 
@@ -188,7 +188,7 @@
       "artistList": "Artiste: ALFREDO PIRRI, auteur de l'oeuvre <br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
 
       "location1": {
-        "name": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma.",
+        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII",
         "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
       },
