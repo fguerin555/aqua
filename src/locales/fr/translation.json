@@ -33,19 +33,19 @@
       "artistList": "Artistes : <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br /><br/>Accès libre",
 
       "location1": {
-        "time_and_name": "16 Juillet 21 heures - Maison Pirri - Valentini",
+        "time_and_name": "8,9,10 Septembre à 21 heures - Maison Pirri - Valentini",
         "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
         "imageAlt": "Maison Pirri - Valentini, Via del Mandrione 451/455, municipio VII.",
         "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "time_and_name": "17 Juillet 21 heures - Spazio Y",
+        "time_and_name": "19 Septembre à 21 heures - Spazio Y",
         "address": "via dei Juvenci 11<br/> municipio VII <br/> <map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, VII.",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
       "location3": {
-        "time_and_name": "8, 9, 10 Septembre 21 heures - Parco di Tor Fiscale",
+        "time_and_name": "11,12 Septembre à 21 heures - Parco di Tor Fiscale",
         "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
