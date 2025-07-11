@@ -23,9 +23,9 @@ import LorenzaCVF from "../../assets/images/LorenzaCVF.png";
 import CristianaP1 from "../../assets/images/CristianaP1.png";
 import CristianaP2 from "../../assets/images/CristianaP2.png";
 import CristianaP3 from "../../assets/images/CristianaP3.png";
-import CristianaP4 from "../../assets/images/CristianaP4.png";
-import CristianaP5 from "../../assets/images/CristianaP5.png";
-import CristianaP6 from "../../assets/images/CristianaP6.png";
+import CristianaPCVI from "../../assets/images/CristianaPCVI.png";
+import CristianaPCVE from "../../assets/images/CristianaPCVE.png";
+import CristianaPCVF from "../../assets/images/CristianaPCVF.png";
 
 import Giancarlo1 from "../../assets/images/Giancarlo1.png";
 import Giancarlo2 from "../../assets/images/Giancarlo2.png";
@@ -206,9 +206,9 @@ const Programma = () => {
     { src: CristianaP1, alt: "" },
     { src: CristianaP2, alt: "" },
     { src: CristianaP3, alt: "" },
-    { src: CristianaP4, alt: "" },
-    { src: CristianaP5, alt: "" },
-    { src: CristianaP6, alt: "" },
+    { src: CristianaPCVI, alt: "" },
+    { src: CristianaPCVE, alt: "" },
+    { src: CristianaPCVF, alt: "" },
   ];
   const giancarloCaracuzzoImages = [
     { src: Giancarlo1, alt: "" },
