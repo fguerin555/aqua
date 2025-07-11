@@ -893,17 +893,47 @@ const Programma = () => {
               components={{ br: <br /> }}
             />
           </div>
+          <div className={styles.Luoghi}>
+            <div>{t("program.appointment5.location1.name")}</div>
+            <div className={styles.SimbolMapp}>
+              <MapButton
+                mapQuery={t("program.appointment5.location1.mapQuery")}
+              >
+                <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+              </MapButton>
+            </div>
+          </div>
           <div>
             <Trans
               i18nKey="program.appointment5.time2"
               components={{ br: <br /> }}
             />
           </div>
+          <div className={styles.Luoghi}>
+            <div>{t("program.appointment5.location2.name")}</div>
+            <div className={styles.SimbolMapp}>
+              <MapButton
+                mapQuery={t("program.appointment5.location2.mapQuery")}
+              >
+                <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+              </MapButton>
+            </div>
+          </div>
           <div>
             <Trans
               i18nKey="program.appointment5.time3"
               components={{ br: <br /> }}
             />
+          </div>
+          <div className={styles.Luoghi}>
+            <div>{t("program.appointment5.location1.name")}</div>
+            <div className={styles.SimbolMapp}>
+              <MapButton
+                mapQuery={t("program.appointment5.location1.mapQuery")}
+              >
+                <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+              </MapButton>
+            </div>
           </div>
         </div>
         <div className={styles.EventDescription}>
@@ -922,22 +952,7 @@ const Programma = () => {
             />
           </div>
         </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment5.location1.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment5.location1.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
-        <div className={styles.Luoghi}>
-          <div>{t("program.appointment5.location2.name")}</div>
-          <div className={styles.SimbolMapp}>
-            <MapButton mapQuery={t("program.appointment5.location2.mapQuery")}>
-              <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-            </MapButton>
-          </div>
-        </div>
+
         {/* ---------------------------------------------------6--------------- */}
         <div className={styles.TitleAppuntamento}>
           <p>{t("program.appointment6.sectionTitle")}</p>
