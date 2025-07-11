@@ -397,14 +397,14 @@
     font-size: 16px;
   }
   .Luoghi {
-    flex-direction: column;
-    align-items: flex-start; /* ou center selon le besoin */
-    margin-left: 20%;
-    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .Luoghi > div {
     width: 100%;
-    text-align: left;
+
     font-size: 16px;
   }
   .IconStandard {
@@ -489,15 +489,14 @@
     font-size: 15px;
   }
   .Luoghi {
-    flex-direction: column;
-    align-items: flex-start; /* ou center selon le besoin */
-    margin-left: 20%;
-    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .Luoghi div {
     font-size: 15px;
     width: 100%;
-    text-align: left;
   }
   .SimbolMapp {
     display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
