@@ -119,12 +119,12 @@ import ToViaDellAcquedottoFeliceIT from "../../assets/images/ToViaDellAcquedotto
 import ToViaDellAcquedottoFeliceEN from "../../assets/images/ToViaDellAcquedottoFeliceEN.png";
 import ToViaDellAcquedottoFeliceFR from "../../assets/images/ToViaDellAcquedottoFeliceFR.png";
 
-import ParcoDiTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
-import ParcoDiTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
-import ParcoDiTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
-import ToParcoDiTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
-import ToParcoDiTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
-import ToParcoDiTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
+import ParcoTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
+import ParcoTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
+import ParcoTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
+import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
+import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
+import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
 // import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
@@ -161,6 +161,14 @@ import ToViaDiTorreBrancaIT from "../../assets/images/ToViaDiTorreBrancaIT.png";
 import ToViaDiTorreBrancaEN from "../../assets/images/ToViaDiTorreBrancaEN.png";
 import ToViaDiTorreBrancaFR from "../../assets/images/ToViaDiTorreBrancaFR.png";
 
+import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
+import LagoExSNIAEIT from "../../assets/images/LagoExSNIAEIT.png";
+import LagoExSNIAEEN from "../../assets/images/LagoExSNIAEEN.png";
+import LagoExSNIAEFR from "../../assets/images/LagoExSNIAEFR.png";
+import ToLagoExSNIAEIT from "../../assets/images/ToLagoExSNIAEIT.png";
+import ToLagoExSNIAEEN from "../../assets/images/ToLagoExSNIAEEN.png";
+import ToLagoExSNIAEFR from "../../assets/images/ToLagoExSNIAEFR.png";
+
 import ViaCasilinaVecchia19 from "../../assets/images/ViaCasilinaVecchia19.png";
 import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png";
 
@@ -170,8 +178,7 @@ import Logo from "../../assets/images/LogoOndaBlue2.png";
 
 import AppareilFoto from "../../assets/images/AppareilFoto.png";
 
-import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
-import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
+import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -381,28 +388,28 @@ const Programma = () => {
     fr: ToViaDiTorreBrancaFR,
   };
 
-  const ParcoDiTorFiscaleImageMap = {
-    it: ParcoDiTorFiscaleIT,
-    en: ParcoDiTorFiscaleEN,
-    fr: ParcoDiTorFiscaleFR,
+  const ParcoTorFiscaleImageMap = {
+    it: ParcoTorFiscaleIT,
+    en: ParcoTorFiscaleEN,
+    fr: ParcoTorFiscaleFR,
   };
 
-  const ToParcoDiTorFiscaleImageMap = {
-    it: ToParcoDiTorFiscaleIT,
-    en: ToParcoDiTorFiscaleEN,
-    fr: ToParcoDiTorFiscaleFR,
+  const ToParcoTorFiscaleImageMap = {
+    it: ToParcoTorFiscaleIT,
+    en: ToParcoTorFiscaleEN,
+    fr: ToParcoTorFiscaleFR,
   };
 
-  const ParcoDiTorFiscaleBookImageMap = {
-    it: ParcoDiTorFiscaleIT,
-    en: ParcoDiTorFiscaleEN,
-    fr: ParcoDiTorFiscaleFR,
+  const ParcoTorFiscaleBookImageMap = {
+    it: ParcoTorFiscaleIT,
+    en: ParcoTorFiscaleEN,
+    fr: ParcoTorFiscaleFR,
   };
 
-  const ParcoDiTorFiscaleFotoImageMap = {
-    it: ParcoDiTorFiscale,
-    en: ParcoDiTorFiscale,
-    fr: ParcoDiTorFiscale,
+  const ParcoTorFiscaleFotoImageMap = {
+    it: ParcoTorFiscale,
+    en: ParcoTorFiscale,
+    fr: ParcoTorFiscale,
   };
 
   const ViaDiTorreBrancaBookImageMap = {
@@ -426,6 +433,26 @@ const Programma = () => {
     it: ViaDellAcquaFeliceIT,
     en: ViaDellAcquaFeliceEN,
     fr: ViaDellAcquaFeliceFR,
+  };
+  const LagoExSNIAEBookImageMap = {
+    it: LagoExSNIAEIT,
+    en: LagoExSNIAEEN,
+    fr: LagoExSNIAEFR,
+  };
+  const LagoExSNIAEImageMap = {
+    it: LagoExSNIAEIT,
+    en: LagoExSNIAEEN,
+    fr: LagoExSNIAEFR,
+  };
+  const LagoExSNIAEFotoImageMap = {
+    it: LagoExSNIAE,
+    en: LagoExSNIAE,
+    fr: LagoExSNIAE,
+  };
+  const ToLagoExSNIAEImageMap = {
+    it: ToLagoExSNIAEIT,
+    en: ToLagoExSNIAEEN,
+    fr: ToLagoExSNIAEFR,
   };
 
   const appointment2Locations = [
@@ -475,9 +502,9 @@ const Programma = () => {
     {
       timeAndNameKey: "program.appointment2.location7.time_and_name",
       mapQueryKey: "program.appointment2.location7.mapQuery",
-      fromStationImageMap: ToParcoDiTorFiscaleImageMap,
-      bookImageMap: ParcoDiTorFiscaleBookImageMap,
-      fotoImageMap: ParcoDiTorFiscaleFotoImageMap,
+      fromStationImageMap: ToParcoTorFiscaleImageMap,
+      bookImageMap: ParcoTorFiscaleBookImageMap,
+      fotoImageMap: ParcoTorFiscaleFotoImageMap,
     },
   ];
 
@@ -770,19 +797,25 @@ const Programma = () => {
         </div>
       </div>
       {/* --------------------------------------------------3------------- */}
+      {/* ---------- BLOC 3 : APPUNTAMENTO 3 ---------- */}
+      {/* ---------- BLOC 3 : APPUNTAMENTO 3 ---------- */}
+
       <div className={styles.TitleAppuntamento}>
         <p>{t("program.appointment3.sectionTitle")}</p>
       </div>
+
       <div className={styles.NameAppuntamento}>
         <p>{t("program.appointment3.name")}</p>
       </div>
+
+      {/* 🌊 Evento 1 — Lago Ex Snia */}
       <div className={styles.Orari}>
         <div>
           <Trans
-            i18nKey="program.appointment3.time"
+            i18nKey="program.appointment3.event1"
             components={{
               br: <br />,
-              map1: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment3.location1.mapQuery")}
@@ -791,7 +824,40 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
-              map2: (
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToLagoExSNIAEImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={LagoExSNIAEBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={LagoExSNIAEFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
+            }}
+          />
+        </div>
+      </div>
+
+      {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
+      <div className={styles.Orari}>
+        <div>
+          <Trans
+            i18nKey="program.appointment3.event2"
+            components={{
+              br: <br />,
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment3.location2.mapQuery")}
@@ -800,24 +866,62 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToParcoTorFiscaleImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
             }}
           />
         </div>
       </div>
-      <div className={styles.EventDescription}>
+
+      {/* 🧠 Description */}
+      <div className={styles.Orari}>
         <div>{t("program.appointment3.description")}</div>
       </div>
+
+      {/* 🎨 ArtistList parfaitement aligné */}
       <div className={styles.ArtistList}>
         <div>
           <Trans
             i18nKey="program.appointment3.artistList"
             components={{
               br: <br />,
-              carousel_giulia: <ButtonCarousel images={giuliaApiceImages} />,
-              carousel_maddalena: (
-                <ButtonCarousel images={maddalenaScuderoniImages} />
+              carousel_giulia: (
+                <ButtonCarousel
+                  images={giuliaApiceImages}
+                  className={styles.IconStandard}
+                />
               ),
-              carousel_luca: <ButtonCarousel images={lucaGrechiImages} />,
+              carousel_luca: (
+                <ButtonCarousel
+                  images={lucaGrechiImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              carousel_maddalena: (
+                <ButtonCarousel
+                  images={maddalenaScuderoniImages}
+                  className={styles.IconStandard}
+                />
+              ),
             }}
           />
         </div>

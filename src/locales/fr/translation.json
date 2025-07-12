@@ -103,8 +103,13 @@
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
-      "time": "15 et 16 Septembre 2025 à partir de 16 heures <br/> Lago Ex.Snia <br/>municipio V<br/><map1/><br/> Supervision: Adriana Polveroni<br />Artistes Peinture: Paolo Assenza et Luca Grechi <br /> Artiste IA: Matteo Basilè <br /><br /> 23 et 24 Settembre 2025 à partir de 16 heures<br/> Parco di Tor Fiscale, Acquedotto Marcio Felice <br/> municipio VII<br/><map2/> <br />Supervision: Adriana Polveroni<br />Artistes Peinture: Giulia Apice et Maddalena Scuderoni <br /> Artiste IA: Matteo Basilè",
+
+      "event1": "15 et 16 Septembre 2025 à 16 heures<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè",
+
+      "event2": "23 et 24 Septembre 2025 à 16 heures<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè",
+
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
+
       "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",

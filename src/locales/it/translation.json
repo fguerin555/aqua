@@ -112,20 +112,24 @@
     "appointment3": {
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
-      "time": "15 e 16 Settembre 2025 dalle ore 16 <br/> Lago Ex.Snia <br/> municipio V<br/> <map1/><br/> A cura di Adriana Polveroni<br />Artisti Pittura: Paolo Assenza e Luca Grechi <br /> Artista IA: Matteo Basilè <br /><br /> 23 e 24 Settembre 2025 dalle ore 16<br/>Parco di Tor Fiscale<br/> Acquedotto Marcio Felice<br/> municipio VII<br/><map2/><br /> A cura di Adriana Polveroni<br />Artisti Pittura: Giulia Apice e Maddalena Scuderoni <br /> Artista IA: Matteo Basilè",
+
+      "event1": "15 e 16 Settembre 2025 dalle ore 16<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><foto/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Paolo Assenza e Luca Grechi<br/>Artista IA: Matteo Basilè",
+
+      "event2": "23 e 24 Settembre 2025 dalle ore 16<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Giulia Apice e Maddalena Scuderoni<br/>Artista IA: Matteo Basilè",
+
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale creando ambienti immersivi che consentono l’interazione del pubblico.",
-      "artistList": "Artisti: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Curatrice: ADRIANA POLVERONI <br /><br/>Accesso libero",
+
+      "artistList": "Artisti:<br/>GIULIA APICE<carousel_giulia/><br/>PAOLO ASSENZA<br/>MATTEO BASILÉ<br/>LUCA GRECHI<carousel_luca/><br/>MADDALENA SCUDERONI<carousel_maddalena/><br/>Curatrice: ADRIANA POLVERONI<br/><br/>Accesso libero",
+
       "location1": {
-        "name": "",
-        "imageAlt": "",
-        "mapQuery": "Lago Ex.Snia,Roma."
+        "mapQuery": "Lago Ex.Snia, Roma."
       },
+
       "location2": {
-        "name": "",
-        "imageAlt": "",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice,Roma."
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma."
       }
     },
+
     "appointment4": {
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "L'Arte in una Stanza",
