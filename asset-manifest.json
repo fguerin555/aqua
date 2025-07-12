@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e51a2996.css",
-    "main.js": "/static/js/main.cf72ba58.js",
-    "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.4c7db1f82e9e254bb9b9.png",
+    "main.js": "/static/js/main.dcdb31b4.js",
+    "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
@@ -59,6 +59,7 @@
     "static/media/CristianaPCVI.png": "/static/media/CristianaPCVI.37fdd4b226ae9cefc0ce.png",
     "static/media/AlbertoBCVF.png": "/static/media/AlbertoBCVF.9a187ec823c60227ce70.png",
     "static/media/DavideCVI.png": "/static/media/DavideCVI.1c5b00e64461da762d58.png",
+    "static/media/LagoExSNIAEEN.png": "/static/media/LagoExSNIAEEN.4933b3e5cb34e182c0a5.png",
     "static/media/AlbertoBCVE.png": "/static/media/AlbertoBCVE.919e592390ce68385827.png",
     "static/media/CentroAnzianiEN.png": "/static/media/CentroAnzianiEN.520f0752116441b9fdc2.png",
     "static/media/CentroAnzianiFR.png": "/static/media/CentroAnzianiFR.1f51eaf8edd87cc6d475.png",
@@ -68,13 +69,16 @@
     "static/media/ToCasaPirriFR.png": "/static/media/ToCasaPirriFR.ca9047c0f2eda126bfab.png",
     "static/media/LucaGCVF.png": "/static/media/LucaGCVF.a450b444cbb8e168c071.png",
     "static/media/CasilinaVecchiaFR.png": "/static/media/CasilinaVecchiaFR.f3ee83d2de249f8a570c.png",
+    "static/media/LagoExSNIAEFR.png": "/static/media/LagoExSNIAEFR.75fc15ce4507cffcae9c.png",
     "static/media/ToCentroAnzianiFR.png": "/static/media/ToCentroAnzianiFR.f96b9624c8122cfb00b9.png",
     "static/media/ViaDellAcquedottoFeliceEN.png": "/static/media/ViaDellAcquedottoFeliceEN.40aadf68eb9ddfe7aa28.png",
     "static/media/ViaDellAcquedottoFeliceFR.png": "/static/media/ViaDellAcquedottoFeliceFR.4bafa2ba439e8bc1c647.png",
     "static/media/CasaPirriEN.png": "/static/media/CasaPirriEN.f25be1a19f198797498b.png",
+    "static/media/LagoExSNIAEIT.png": "/static/media/LagoExSNIAEIT.0679d4b86b1a55dadd10.png",
     "static/media/LorenzaCVF.png": "/static/media/LorenzaCVF.4a6aaff302452ba6a9f8.png",
     "static/media/CasaPirriFR.png": "/static/media/CasaPirriFR.26c9e75e32db4ee2ab0d.png",
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.4b97349796a196e95e55.png",
+    "static/media/ToLagoExSNIAEFR.png": "/static/media/ToLagoExSNIAEFR.cbc793533d3066eceff3.png",
     "static/media/LucaGCVE.png": "/static/media/LucaGCVE.9968626169d1b54de4a4.png",
     "static/media/AcquedottoEN.png": "/static/media/AcquedottoEN.7d165c112131214bccc9.png",
     "static/media/ParcoDiTorFiscaleEN.png": "/static/media/ParcoDiTorFiscaleEN.7d165c112131214bccc9.png",
@@ -87,6 +91,7 @@
     "static/media/CasilinaVecchiaEN.png": "/static/media/CasilinaVecchiaEN.6e7f6bea615a48f38baf.png",
     "static/media/ToCasilinaVecchiaEN.png": "/static/media/ToCasilinaVecchiaEN.d5ee1d1ac56da0be80b9.png",
     "static/media/ViaDellAcquedottoFeliceIT.png": "/static/media/ViaDellAcquedottoFeliceIT.87e6ce61715c857d14ce.png",
+    "static/media/ToLagoExSNIAEEN.png": "/static/media/ToLagoExSNIAEEN.9d100cc0fdb7db87e605.png",
     "static/media/DavideCVE.png": "/static/media/DavideCVE.6c060b390db600260c1a.png",
     "static/media/CentroAnzianiIT.png": "/static/media/CentroAnzianiIT.5630d897f660db58194e.png",
     "static/media/CasilinaVecchiaIT.png": "/static/media/CasilinaVecchiaIT.20a1645c19bb48f9ad7c.png",
@@ -94,7 +99,7 @@
     "static/media/ToCasilinaVecchiaFR.png": "/static/media/ToCasilinaVecchiaFR.9387d824b6069527b75a.png",
     "static/media/ViaCasilinaVecchia19.png": "/static/media/ViaCasilinaVecchia19.48631516dad02d61bc0c.png",
     "static/media/AcquedottoIT.png": "/static/media/AcquedottoIT.1cce8df1b4f3ddeda7ee.png",
-    "static/media/ParcoDiTorFiscaleIT.png": "/static/media/ParcoDiTorFiscaleIT.1cce8df1b4f3ddeda7ee.png",
+    "static/media/ParcoDiTorFiscaleIT.png": "/static/media/ParcoDiTorFiscaleIT.5321b0f56e2ad87440a5.png",
     "static/media/ToAcquedottoFR.png": "/static/media/ToAcquedottoFR.3514fc30674ad55f7960.png",
     "static/media/ToParcoDiTorFiscaleFR.png": "/static/media/ToParcoDiTorFiscaleFR.3514fc30674ad55f7960.png",
     "static/media/ToViaDellAcquedottoFeliceEN.png": "/static/media/ToViaDellAcquedottoFeliceEN.f8c8d5e9645c05d0de42.png",
@@ -112,6 +117,7 @@
     "static/media/ToParcoDiTorFiscaleIT.png": "/static/media/ToParcoDiTorFiscaleIT.218ab6a973ab2fbd1cac.png",
     "static/media/AlbertoBCVI.png": "/static/media/AlbertoBCVI.5a7ed308959a0e98f463.png",
     "static/media/ToCentroAnzianiIT.png": "/static/media/ToCentroAnzianiIT.baab7925fb103d99402d.png",
+    "static/media/ToLagoExSNIAEIT.png": "/static/media/ToLagoExSNIAEIT.4e32739ced9ff31c181a.png",
     "static/media/ToSpazioYIT.png": "/static/media/ToSpazioYIT.53886c4c1fec9d172878.png",
     "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.a130667c8eb7672502d8.png",
     "static/media/ToViaDellAcquedottoFeliceIT.png": "/static/media/ToViaDellAcquedottoFeliceIT.fdcfca8174ec41d0aa83.png",
@@ -148,10 +154,10 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.e51a2996.css.map": "/static/css/main.e51a2996.css.map",
-    "main.cf72ba58.js.map": "/static/js/main.cf72ba58.js.map"
+    "main.dcdb31b4.js.map": "/static/js/main.dcdb31b4.js.map"
   },
   "entrypoints": [
     "static/css/main.e51a2996.css",
-    "static/js/main.cf72ba58.js"
+    "static/js/main.dcdb31b4.js"
   ]
 }
