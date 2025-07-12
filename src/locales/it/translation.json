@@ -56,50 +56,57 @@
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "I Portatori d'Acqua",
       "time": "",
-      "description1": "24 Settembre 2025 dalle 18 in poi <br/>Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.<br /><br />25 Settembre 2025 dalle 18 in poi <br/>Mostra/restituzione di performance di disegno acquatico di Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
-      "artistList": "Artisti: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curatrice: ADRIANA POLVERONI <br /> <br /> Accesso libero",
+      "description1": "24 Settembre dalle 18 in poi<br /><map /> Circolazione per le vie indicate del Municipio VII di un’autobotte che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.",
       "location1": {
-        "time_and_name": "via Casilina Vecchia 19</>municipio VII<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "via Casilina Vecchia 19<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "via Casilina Vecchia 19, Roma.",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
       "location2": {
-        "time_and_name": "Via Casalina Vecchia 115<br/>municipio VII.<br/><map/><to></to> <book></book><foto/>",
+        "time_and_name": "via Casilina Vecchia 115<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "via Casilina Vecchia 115, Roma.",
-        "imageAlt": "Via Casalina Vecchia 115,Roma.",
-        "mapQuery": "Via Casalina Vecchia 115,Roma."
+        "imageAlt": "via Casilina Vecchia 115, Roma.",
+        "mapQuery": "via Casilina Vecchia 115, Roma."
       },
       "location3": {
-        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5<br/>municipio V<br/><map/><to></to><book></book><foto/>",
-        "address": "Villa de Sanctis, via dei Giordiani 5,Roma.",
-        "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
-        "mapQuery": "via dei Giordiani 5,Roma."
+        "time_and_name": "Villa de Sanctis<br />via dei Giordiani 5<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "address": "Villa de Sanctis, via dei Giordiani 5, Roma.",
+        "imageAlt": "Villa de Sanctis, via dei Giordiani 5, Roma.",
+        "mapQuery": "via dei Giordiani 5, Roma."
       },
       "location4": {
-        "time_and_name": "Via dell’Acqua Felice<br/>municipio VII. <br/><map/> <to></to><book></book><foto/>",
-        "address": "Via dell’Acqua Felice,Roma.",
-        "imageAlt": "Via dell’Acqua Felice,Roma.",
-        "mapQuery": "Via dell’Acqua Felice,Roma."
+        "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via dell’Acqua Felice, Roma.",
+        "imageAlt": "Via dell’Acqua Felice, Roma.",
+        "mapQuery": "Via dell’Acqua Felice, Roma."
       },
       "location5": {
-        "time_and_name": "Vicolo dell'Acquedotto Felice<br/>municipio VII<br/><map/><to></to><book></book> <foto/>",
-        "address": "Vicolo dell'Acquedotto Felice,Roma.",
-        "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
-        "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
+        "time_and_name": "Vicolo dell'Acquedotto Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Vicolo dell'Acquedotto Felice, Roma.",
+        "imageAlt": "Vicolo dell'Acquedotto Felice, Roma.",
+        "mapQuery": "Vicolo dell'Acquedotto Felice, Roma."
       },
       "location6": {
-        "time_and_name": "Via di Torre Branca<br/>municipio VII<br/><map/><to></to><book></book><foto></foto>",
+        "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "Via di Torre Branca, Roma.",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
       "location7": {
-        "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": "Parco di Torre del Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "Parco di Torre del Fiscale, Roma.",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
-      }
+      },
+      "description2": "12 Settembre alle 18<br /><map /> Mostra/restituzione di performance di disegno acquatico di Pamela Pintus.",
+      "location8": {
+        "time_and_name": "Spazio Y<br />via dei Juvenci, 11<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "address": "via dei Juvenci, 11, Roma.",
+        "imageAlt": "via dei Juvenci, 11, Roma.",
+        "mapQuery": "via dei Juvenci, 11, Roma."
+      },
+      "artistList": "Artisti:<br />IGINIO DE LUCA<br />PAMELA PINTUS<br />Curatrice: ADRIANA POLVERONI<br /><br />Accesso libero"
     },
 
     "appointment3": {

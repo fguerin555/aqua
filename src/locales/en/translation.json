@@ -54,7 +54,7 @@
       "sectionTitle": "APPOINTMENT 2",
       "name": "The Water Bearers",
       "time": "",
-      "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus. Spazio Y, via dei Juvenci 11, Roma <map9 />",
+      "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />",
       "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br /><br />Free acces.",
       "location1": {
         "time_and_name": "via Casilina Vecchia 19</>municipio VII<br/><map/><to></to><book></book><foto/>",
@@ -90,6 +90,13 @@
         "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
+      },
+      "description2": "25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus",
+      "location8": {
+        "time_and_name": "Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
+        "address": "via dei juvenci, 11, Roma.",
+        "imageAlt": "via dei juvenci, 11, Roma.",
+        "mapQuery": "via dei juvenci, 11, Roma."
       }
     },
     "appointment3": {

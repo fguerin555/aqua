@@ -55,7 +55,7 @@
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "Les Porteurs d'Eau",
       "time": "",
-      "description": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br /> 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus. Spazio Y, via dei Juvenci 11, Rome <map9 />",
+      "description1": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
       "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br /><br />  Accès libre",
       "location1": {
         "time_and_name": "via Casilina Vecchia 19</>municipio VII<br/><map/><to></to><book></book><foto/>",
@@ -91,6 +91,13 @@
         "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
+      },
+      "description2": " 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
+      "location8": {
+        "time_and_name": "Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
+        "address": "via dei juvenci, 11, Roma.",
+        "imageAlt": "via dei juvenci, 11, Roma.",
+        "mapQuery": "via dei juvenci, 11, Roma."
       }
     },
     "appointment3": {
