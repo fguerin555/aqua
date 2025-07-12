@@ -279,8 +279,8 @@ const Programma = () => {
   };
   const ToSpazioYImageMap = {
     it: ToSpazioYIT,
-    en: ToSpazioYFR,
-    fr: ToSpazioYEN,
+    en: ToSpazioYEN,
+    fr: ToSpazioYFR,
   };
 
   const AcquedottoBookImageMap = {
