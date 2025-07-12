@@ -91,6 +91,23 @@ import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
 import SpazioY from "../../assets/images/SpazioY.png";
 
+import ABalabanoff from "../../assets/images/ABalabanoff.png";
+import ABalabanoffIT from "../../assets/images/ABalabanoffIT.png";
+import ABalabanoffFR from "../../assets/images/ABalabanoffFR.png";
+import ABalabanoffEN from "../../assets/images/ABalabanoffEN.png";
+import ToABalabanoffIT from "../../assets/images/ToABalabanoffIT.png";
+import ToABalabanoffEN from "../../assets/images/ToABalabanoffEN.png";
+import ToABalabanoffFR from "../../assets/images/ToABalabanoffFR.png";
+
+import AnnaFraentzelCelli from "../../assets/images/AnnaFraentzelCelli.png";
+import AnnaFraentzelCelliIT from "../../assets/images/AnnaFraentzelCelliIT.png";
+import AnnaFraentzelCelliEN from "../../assets/images/AnnaFraentzelCelliEN.png";
+import AnnaFraentzelCelliFR from "../../assets/images/AnnaFraentzelCelliFR.png";
+
+import ToAnnaFraentzelCelliIT from "../../assets/images/ToAnnaFraentzelCelliIT.png";
+import ToAnnaFraentzelCelliEN from "../../assets/images/ToAnnaFraentzelCelliEN.png";
+import ToAnnaFraentzelCelliFR from "../../assets/images/ToAnnaFraentzelCelliFR.png";
+
 import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
 import AcquedottoIT from "../../assets/images/AcquedottoIT.png";
 import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
@@ -133,6 +150,7 @@ import CentroAnzianiFR from "../../assets/images/CentroAnzianiFR.png";
 import ToCentroAnzianiIT from "../../assets/images/ToCentroAnzianiIT.png";
 import ToCentroAnzianiEN from "../../assets/images/ToCentroAnzianiEN.png";
 import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
+import CentroAnziani from "../../assets/images/CentroAnziani.png";
 
 import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
 
@@ -168,6 +186,14 @@ import LagoExSNIAEFR from "../../assets/images/LagoExSNIAEFR.png";
 import ToLagoExSNIAEIT from "../../assets/images/ToLagoExSNIAEIT.png";
 import ToLagoExSNIAEEN from "../../assets/images/ToLagoExSNIAEEN.png";
 import ToLagoExSNIAEFR from "../../assets/images/ToLagoExSNIAEFR.png";
+
+import Confalonieri from "../../assets/images/Confalonieri.png";
+import ConfalonieriIT from "../../assets/images/ConfalonieriIT.png";
+import ConfalonieriEN from "../../assets/images/ConfalonieriEN.png";
+import ConfalonieriFR from "../../assets/images/ConfalonieriFR.png";
+import ToConfalonieriIT from "../../assets/images/ToConfalonieriIT.png";
+import ToConfalonieriEN from "../../assets/images/ToConfalonieriEN.png";
+import ToConfalonieriFR from "../../assets/images/ToConfalonieriFR.png";
 
 import ViaCasilinaVecchia19 from "../../assets/images/ViaCasilinaVecchia19.png";
 import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png";
@@ -365,10 +391,76 @@ const Programma = () => {
     en: ToCentroAnzianiEN,
     fr: ToCentroAnzianiFR,
   };
+  const CentroAnzianiImageMap = {
+    it: CentroAnzianiIT,
+    en: CentroAnzianiEN,
+    fr: CentroAnzianiFR,
+  };
   const CentroAnzianiBookImageMap = {
     it: CentroAnzianiIT,
     en: CentroAnzianiEN,
     fr: CentroAnzianiFR,
+  };
+  const CentroAnzianiFotoImageMap = {
+    it: CentroAnziani,
+    en: CentroAnziani,
+    fr: CentroAnziani,
+  };
+  const AnnaFraentzelCelliFotoImageMap = {
+    it: AnnaFraentzelCelli,
+    en: AnnaFraentzelCelli,
+    fr: AnnaFraentzelCelli,
+  };
+  const AnnaFraentzelCelliBookImageMap = {
+    it: AnnaFraentzelCelliIT,
+    en: AnnaFraentzelCelliEN,
+    fr: AnnaFraentzelCelliFR,
+  };
+  const ToAnnaFraentzelCelliImageMap = {
+    it: ToAnnaFraentzelCelliIT,
+    en: ToAnnaFraentzelCelliEN,
+    fr: ToAnnaFraentzelCelliFR,
+  };
+  const AnnaFraentzelCelliImageMap = {
+    it: ABalabanoffIT,
+    en: ABalabanoffEN,
+    fr: ABalabanoffFR,
+  };
+
+  const ToABalabanoffImageMap = {
+    it: ToABalabanoffIT,
+    en: ToABalabanoffEN,
+    fr: ToABalabanoffFR,
+  };
+  const ABalabanoffBookImageMap = {
+    it: ABalabanoffIT,
+    en: ABalabanoffEN,
+    fr: ABalabanoffFR,
+  };
+  const ABalabanoffFotoImageMap = {
+    it: ABalabanoff,
+    en: ABalabanoff,
+    fr: ABalabanoff,
+  };
+  const ConfalonieriImageMap = {
+    it: ConfalonieriIT,
+    en: ConfalonieriEN,
+    fr: ConfalonieriFR,
+  };
+  const ToConfalonieriImageMap = {
+    it: ToConfalonieriIT,
+    en: ToConfalonieriEN,
+    fr: ToConfalonieriFR,
+  };
+  const ConfalonieriBookImageMap = {
+    it: ConfalonieriIT,
+    en: ConfalonieriEN,
+    fr: ConfalonieriFR,
+  };
+  const ConfalonieriFotoImageMap = {
+    it: Confalonieri,
+    en: Confalonieri,
+    fr: Confalonieri,
   };
 
   const ToVicoloDellAcquedottoFeliceImageMap = {
@@ -797,8 +889,6 @@ const Programma = () => {
         </div>
       </div>
       {/* --------------------------------------------------3------------- */}
-      {/* ---------- BLOC 3 : APPUNTAMENTO 3 ---------- */}
-      {/* ---------- BLOC 3 : APPUNTAMENTO 3 ---------- */}
 
       <div className={styles.TitleAppuntamento}>
         <p>{t("program.appointment3.sectionTitle")}</p>
@@ -939,7 +1029,7 @@ const Programma = () => {
             i18nKey="program.appointment4.time1"
             components={{
               br: <br />,
-              map1: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment4.location1.mapQuery")}
@@ -947,6 +1037,27 @@ const Programma = () => {
                     <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                   </MapButton>
                 </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToCentroAnzianiImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={CentroAnzianiBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={CentroAnzianiFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
               ),
             }}
           />
@@ -958,7 +1069,7 @@ const Programma = () => {
             i18nKey="program.appointment4.time2"
             components={{
               br: <br />,
-              map2: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment4.location2.mapQuery")}
@@ -966,6 +1077,27 @@ const Programma = () => {
                     <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                   </MapButton>
                 </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={AnnaFraentzelCelliImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AnnaFraentzelCelliBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={AnnaFraentzelCelliFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
               ),
             }}
           />
@@ -977,7 +1109,7 @@ const Programma = () => {
             i18nKey="program.appointment4.time3"
             components={{
               br: <br />,
-              map3: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment4.location3.mapQuery")}
@@ -985,6 +1117,27 @@ const Programma = () => {
                     <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                   </MapButton>
                 </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToABalabanoffImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
               ),
             }}
           />
@@ -996,7 +1149,7 @@ const Programma = () => {
             i18nKey="program.appointment4.time4"
             components={{
               br: <br />,
-              map4: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment4.location4.mapQuery")}
@@ -1004,6 +1157,27 @@ const Programma = () => {
                     <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
                   </MapButton>
                 </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToConfalonieriImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ConfalonieriBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ConfalonieriFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
               ),
             }}
           />
