@@ -239,9 +239,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: justify;
-  box-sizing: border-box;
-  overflow-wrap: break-word;
+  /* text-align: justify; */
+  /* box-sizing: border-box; */
+  width: 80%;
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
   text-shadow: 2px 2px 2px #000;
@@ -254,9 +254,14 @@
 }
 
 .EventDescription > div {
-  text-align: justify;
+  /* text-align: justify;
   box-sizing: border-box;
-  hyphens: auto;
+  hyphens: auto; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* text-align: justify; */
+  /* box-sizing: border-box; */
   width: 80%;
   font-size: 20px;
   color: #e9f2fd;
@@ -275,7 +280,7 @@
   text-align: left;
   justify-content: left;
   width: 100%;
-  margin-left: 26%;
+  margin-left: 28%;
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;

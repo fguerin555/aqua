@@ -29,23 +29,23 @@
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
       "name": "L'Eau en Mouvement",
-      "description": "Projections vidéo supervisées par Bruno di Marino",
-      "artistList": "Artistes : <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br />Commissaire : BRUNO DI MARINO <br /><br/>Accès libre",
+      "description": "Projections vidéo sur le thème de l'eau supervisées par Bruno di Marino",
+      "artistList": "Artistes : <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br /><br/>Commissaire: <br/>BRUNO DI MARINO <br /><br/>Accès libre",
 
       "location1": {
-        "time_and_name": "8,9,10 Septembre à 21 heures - Maison Pirri - Valentini",
+        "time_and_name": "8,9,10 Septembre à 21 heures <br/>Maison Pirri - Valentini",
         "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
-        "imageAlt": "Maison Pirri - Valentini, Via del Mandrione 451/455, municipio VII.",
+        "imageAlt": "Maison Pirri - Valentini Via del Mandrione 451/455, municipio VII.",
         "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "time_and_name": "19 Septembre à 21 heures - Spazio Y",
+        "time_and_name": "19 Septembre à 21 heures <br/>Spazio Y",
         "address": "via dei Juvenci 11<br/> municipio VII <br/> <map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, VII.",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
       "location3": {
-        "time_and_name": "11,12 Septembre à 21 heures - Parco di Tor Fiscale",
+        "time_and_name": "11,12 Septembre à 21 heures <br/>Parco di Tor Fiscale",
         "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
@@ -55,10 +55,10 @@
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "Les Porteurs d'Eau",
       "time": "",
-      "description1": "24 Septembre à partir de 18 heures <br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
-      "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Commissaire : ADRIANA POLVERONI <br /><br />  Accès libre",
+      "description1": "Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
+
       "location1": {
-        "time_and_name": "via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "24 Septembre à partir de 18 heures <br/><br/>via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
@@ -92,25 +92,26 @@
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
       },
-      "description2": " 25 Septembre à partir de 18 heures <br/ >Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
+      "description2": "Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
       "location8": {
-        "time_and_name": "Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": " 25 Septembre à partir de 18 heures <br/ ><br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
         "address": "via dei juvenci, 11, Roma.",
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
-      }
+      },
+      "artistList": "Artistes : <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /><br/> Commissaire: <br/>ADRIANA POLVERONI <br /><br />  Accès libre"
     },
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
 
-      "event1": "15 et 16 Septembre 2025 à 16 heures<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè",
+      "event1": "15 et 16 Septembre à 16 heures<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè",
 
-      "event2": "23 et 24 Septembre 2025 à 16 heures<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè",
+      "event2": "23 et 24 Septembre à 16 heures<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè",
 
-      "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle créant des environnements immersifs qui permettent l'interaction du public.",
+      "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
-      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -125,12 +126,12 @@
     "appointment4": {
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "L'Art dans une Pièce",
-      "time1": "19, 26 Septembre - 01, 08, 15, 22, 29 Octobre - 05 Novembre 2025<br /> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": " 07, 22 Octobre - 05, 26 Novembre 2025 <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time3": "09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time4": "10, 24 Octobre - 07 e 28 Novembre 2025 <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
-      "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /><br/>Accès libre",
+      "time1": "19, 26 Septembre <br/> 01, 08, 15, 22, 29 Octobre <br/> 05 Novembre 2025<br /> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+      "time2": " 07, 22 Octobre - 05, 26 Novembre <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09, 23 Octobre - 06, 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "10, 24 Octobre - 07 e 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
+      "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br /<br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -155,11 +156,12 @@
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
-      "time1": "La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Isabella Vitale<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> <br/>Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /><br/> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.<br/><br/>",
+      "time1": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Isabella Vitale<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
-      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
+
+      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
@@ -200,19 +202,14 @@
     "appointment7": {
       "sectionTitle": "RENDEZ-VOUS 7",
       "name": "Une oeuvre pour Don Sardelli",
-      "time1": "Le 29 Novembre 2025 à partir de 18.30 ",
-      "description": "Inauguration du monument pour Don Sardelli",
+      "time": "",
+      "description": "Le 29 Novembre 2025 à 18 heures 30<br/>Inauguration du monument pour Don Sardelli",
       "artistList": "Artiste: ALFREDO PIRRI, auteur de l'oeuvre <br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
 
       "location1": {
-        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII",
-        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
+        "name1": "Fontana de Clemente XII et murs limitrophes<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
+        "imageAlt": "Fontana di Clemente XII et  murs limitrophes, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
-      },
-      "location2": {
-        "name": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma."
       }
     },
     "blog": {

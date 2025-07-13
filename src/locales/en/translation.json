@@ -29,22 +29,22 @@
       "sectionTitle": "APPOINTMENT 1",
       "name": "Water in Motion",
       "description": "Video projections on the theme of water Curated by Bruno di Marino.",
-      "artistList": "Artists: <br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: BRUNO DI MARINO.<br /><br/>Free access.",
+      "artistList": "Artists: <br/> STUDIO AZZURO <br />FABRIZIO PLESSI<br /> ROBERT CAHEN<br /> Curator: <br/><br/>BRUNO DI MARINO.<br /><br/>Free access.",
       "location1": {
-        "time_and_name": "8,9,10september at 9 PM - Home Pirri - Valentini",
+        "time_and_name": "8,9,10september at 9 PM <br/>Home Pirri - Valentini",
         "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/><book_casaPirri /><br/><br/>",
         "imageAlt": "Home Pirri Valentini, Via del Mandrione 451/455, Roma.",
         "mapQuery": "Via del Mandrione 451, Roma."
       },
       "location2": {
-        "time_and_name": "12 September at 9 PM - Spazio Y",
+        "time_and_name": "12 September at 9 PM <br/> Spazio Y",
         "address": "via dei Juvenci 11<br/> municipio XI <br/><map2/><toSpazioY_1/><book_spazioY/><br/><br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
 
       "location3": {
-        "time_and_name": "11, 12 September at 9 PM - Parco di Tor Fiscale",
+        "time_and_name": "11, 12 September at 9 PM <br/> Parco di Tor Fiscale",
         "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/><br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
@@ -54,10 +54,9 @@
       "sectionTitle": "APPOINTMENT 2",
       "name": "The Water Bearers",
       "time": "",
-      "description": "24 September from 6 PM <br/> Circulation through the indicated streets of Municipality VII of a water tanker transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />",
-      "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /> Curator: ADRIANA POLVERONI <br /><br />Free acces.",
+      "description1": "Circulation through the indicated streets of Municipality VII of a water tanker <br/>transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />",
       "location1": {
-        "time_and_name": "via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+        "time_and_name": "24 September from 6 PM <br/> via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
         "imageAlt": "via Casilina Vecchia 19, Roma",
         "mapQuery": "via Casilina Vecchia 19, Roma"
       },
@@ -91,25 +90,26 @@
         "imageAlt": "Parco di Torre del Fiscale, Roma.",
         "mapQuery": "Parco di Torre del Fiscale, Roma."
       },
-      "description2": "25 September from 6 PM <br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus",
+      "description2": "<br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus",
       "location8": {
-        "time_and_name": "Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": "12 September at 6 PM <br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
         "address": "via dei juvenci, 11, Roma.",
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
-      }
+      },
+      "artistList": "Artists: <br />IGINIO DE LUCA <br /> PAMELA PINTUS <br /><br/> Curator: <br/>ADRIANA POLVERONI <br /><br />Free acces."
     },
     "appointment3": {
       "sectionTitle": "APPOINTMENT 3",
       "name": "From Plein Air Painting to Artificial Art",
 
-      "event": "15 and 16 September 2025 from 4 PM <br/> Lago Ex.Snia <br/>municipio V<br/><br/><map/><to></to><book></book><foto/><br/> Curated by Adriana Polveroni<br />Artists Painting: Paolo Assenza and Luca Grechi <br /> Artist IA: Matteo Basilè<br /><br /><br /> ",
+      "event1": "15 and 16 September 2025 from 4 PM <br/> Lago Ex.Snia <br/>municipio V<br/><map/><to></to><book></book><foto/><br/> Curated by Adriana Polveroni<br />Artists Painting: Paolo Assenza and Luca Grechi <br /> Artist IA: Matteo Basilè<br /><br />",
 
       "event2": "23 e 24 Settembre 2025 from 4 PM <br/>Parco di Tor Fiscale <br/> Acquedotto Marcio Felice<br/> municipio VII<br/><map/><to></to><book></book><foto/><br/>Curated by Adriana Polveroni<br />Artists Painting: Giulia Apice and Maddalena Scuderoni <br /> Artist IA: Matteo Basilè",
 
-      "description": "These initiatives will interface with artificial intelligence sessions, creating immersive environments that allow public interaction.",
+      "description": "These initiatives will interface with artificial intelligence sessions<br/>creating immersive environments that allow public interaction.",
 
-      "artistList": "Artists: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /> Curator: ADRIANA POLVERONI <br /><br/>Free access",
+      "artistList": "Artists: <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /><br/> Curator: <br/>ADRIANA POLVERONI <br /><br/>Free access",
 
       "location1": {
         "name": "",
@@ -125,12 +125,12 @@
     "appointment4": {
       "sectionTitle": "APPOINTMENT 4",
       "name": "Art in a Room",
-      "time1": " 19, 26 September - 01, 08 <br/> 15, 22, 29 October - 05 November 2025<br/>from 3.30 PM to 5:30 PM.<br/>Sculpture workshops for blind and partially sighted people <br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Irma Alonzo<br/>Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": "07, 22 October - 05, 26 November 2025 <br/>from 9 AM to 1 PM.<br/>Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time3": "09, 23 October - 06, 27 November 2025 <br/> from 9 AM to 1 PM.<br/>Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/>Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><<book></book><foto/>",
-      "time4": "10, 24 October - 07, 28 November 2025 <br/>from 9 AM to 1 PM.<br/>Ceramic workshops<br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
-      "description": "At the end of the training experience, one or more days of visits to the above-mentioned locations are also open to citizens.",
-      "artistList": "Artists: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO<carousel_giancarlo/> <br />ALBERTO BESI<carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br />Curators: IRMA ALONZO and ADRIANA POLVERONI<br /><br/>Free access",
+      "time1": " 19, 26 September <br/> 01, 08,15, 22, 29 October <br/> 05 November<br/>from 3.30 PM to 5:30 PM.<br/>Sculpture workshops for blind and partially sighted people <br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Irma Alonzo<br/>Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+      "time2": "07, 22 October <br/> 05, 26 November<br/>from 9 AM to 1 PM.<br/>Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09, 23 October <br/> 06, 27 November <br/> from 9 AM to 1 PM.<br/>Cartoon workshops <br /><br />Curated by Irma Alonzo and Adriana Polveroni<br />Artists: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/>Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><<book></book><foto/>",
+      "time4": "10, 24 October <br/> 07, 28 November<br/>from 9 AM to 1 PM.<br/>Ceramic workshops<br />Curated by Irma Alonzo and Adriana Polveroni<br />Artist: Cristiana Pacchiarotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "At the end of the training experience, one or more days of visits<br/> to the above-mentioned locations are also open to citizens.",
+      "artistList": "Artists: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO<carousel_giancarlo/> <br />ALBERTO BESI<carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br /><br/>Curators: <br/>IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Free access",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -155,11 +155,12 @@
     "appointment5": {
       "sectionTitle": "APPOINTMENT 5",
       "name": "The Beauty of Water",
-      "time1": "The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Isabella Vitale<br/>Opening on 10 October <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "description": "Creation of works themed on water and its sustainability. <br /><br/>Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /><br/>Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /><br/>Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.<br/><br/>",
+      "time1": "<br/>The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Isabella Vitale<br/>Opening on 10 October <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "Imago Acquae-Urbis <br/>by Mercedes Klausner <br />Curated by Isabella Vitale<br/>Opening on 4 October <br/>at 7 PM<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>by Laurent le Deunff <br />Curated by Isabella Vitale<br/>Opening Opening on 29 November <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "description": "Creation of works themed on water and its sustainability. <br />Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /> Artist Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /> Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.",
-      "artistList": "Artists: <br /> PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
+
+      "artistList": "Artists: <br /> PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br /><br/>Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
       "location1": {
         "name": "",
         "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
@@ -200,19 +201,14 @@
     "appointment7": {
       "sectionTitle": "APPOINTMENT 7",
       "name": "An Art Work for Don Sardelli",
-      "time1": "On 29 Novembre 2025 at 6.00 PM",
-      "description": "Inauguration of the monument for Don Sardelli",
-      "artistList": "Artist: ALFREDO PIRRI, author of the work <br />Curator : ADRIANA POLVERONI <br /><br/>Free access",
+      "time": "",
+      "description": "On 29 Novembre 2025 at 6.00 PM<br/>Inauguration of the monument for Don Sardelli",
+      "artistList": "Artist: <br/>ALFREDO PIRRI <br /><br/>Curator : <br/>ADRIANA POLVERONI <br /><br/>Free access",
 
       "location1": {
-        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII",
-        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Rome",
+        "name": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
+        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
-      },
-      "location2": {
-        "name": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
-        "imageAlt": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Rome.",
-        "mapQuery": "Parchetto condiviso del Mandrione, via Casilina Vecchia 124, Roma."
       }
     },
     "blog": {

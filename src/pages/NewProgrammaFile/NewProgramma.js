@@ -203,6 +203,13 @@ import ToConfalonieriIT from "../../assets/images/ToConfalonieriIT.png";
 import ToConfalonieriEN from "../../assets/images/ToConfalonieriEN.png";
 import ToConfalonieriFR from "../../assets/images/ToConfalonieriFR.png";
 
+import FontanaFR from "../../assets/images/FontanaFR.png";
+import FontanaIT from "../../assets/images/FontanaIT.png";
+import FontanaEN from "../../assets/images/FontanaEN.png";
+import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
+import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
+import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
+
 import ViaCasilinaVecchia19 from "../../assets/images/ViaCasilinaVecchia19.png";
 import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png";
 
@@ -574,6 +581,22 @@ const Programma = () => {
     it: ToPianoBiIT,
     en: ToPianoBiEN,
     fr: ToPianoBiFR,
+  };
+
+  const ToFontanaImageMap = {
+    it: ToFontanaIT,
+    en: ToFontanaEN,
+    fr: ToFontanaFR,
+  };
+  const FontanaBookImageMap = {
+    it: FontanaIT,
+    en: FontanaEN,
+    fr: FontanaFR,
+  };
+  const FontanaImageMap = {
+    it: FontanaIT,
+    en: FontanaEN,
+    fr: FontanaFR,
   };
 
   const appointment2Locations = [
@@ -1009,11 +1032,12 @@ const Programma = () => {
             }}
           />
         </div>
-      </div>
-
-      {/* 🧠 Description */}
-      <div className={styles.Orari}>
-        <div>{t("program.appointment3.description")}</div>
+        <div>
+          <Trans
+            i18nKey="program.appointment3.description"
+            components={{ br: <br /> }}
+          />
+        </div>
       </div>
 
       {/* 🎨 ArtistList parfaitement aligné */}
@@ -1211,9 +1235,12 @@ const Programma = () => {
             }}
           />
         </div>
-      </div>
-      <div className={styles.EventDescription}>
-        <div>{t("program.appointment4.description")}</div>
+        <div>
+          <Trans
+            i18nKey="program.appointment4.description"
+            components={{ br: <br /> }}
+          />
+        </div>
       </div>
       <div className={styles.ArtistList}>
         <div>
@@ -1242,8 +1269,11 @@ const Programma = () => {
       <div className={styles.NameAppuntamento}>
         <p>{t("program.appointment5.name")}</p>
       </div>
+
       <div className={styles.Orari}>
         <div>
+          <div className={styles.EventDescription}></div>
+
           <Trans
             i18nKey="program.appointment5.time1"
             components={{
@@ -1362,6 +1392,22 @@ const Programma = () => {
           />
         </div>
       </div>
+      <div className={styles.EventDescription}>
+        <div>
+          <Trans
+            i18nKey="program.appointment5.description"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.ArtistList}>
+        <div>
+          <Trans
+            i18nKey="program.appointment5.artistList"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
       {/* ------------------------------------------------6------------------ */}
       <div className={styles.TitleAppuntamento}>
         <p>{t("program.appointment6.sectionTitle")}</p>
@@ -1439,14 +1485,52 @@ const Programma = () => {
       </div>
       <div className={styles.NameAppuntamento}>
         <p>
-          <Trans> {t("program.appointment7.name")}</Trans>
+          <Trans> {t("program.appointment7.time")}</Trans>
         </p>
       </div>
+
       <div className={styles.Orari}>
-        <div>{t("program.appointment7.time1")}</div>
+        <div className={styles.EventDescription}></div>
+        <div>
+          <Trans
+            i18nKey="program.appointment7.description"
+            components={{ br: <br /> }}
+          />
+        </div>
+        <div>
+          <Trans
+            i18nKey="program.appointment7.location1.name1"
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t("program.appointment7.location1.mapQuery")}
+                  >
+                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToFontanaImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={FontanaImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+            }}
+          />
+        </div>
       </div>
-      <div className={styles.EventDescriptionShort}>
-        <div>{t("program.appointment7.description")}</div>
+      <div className={styles.Foto}>
+        <img src={Pirri2} alt={t("program.appointment7.location1.imageAlt")} />
       </div>
       <div className={styles.ArtistList}>
         <div>
@@ -1455,19 +1539,6 @@ const Programma = () => {
             components={{ br: <br /> }}
           />
         </div>
-      </div>
-      <div className={styles.Luoghi}>
-        <div>
-          <Trans> {t("program.appointment7.location1.name")}</Trans>
-        </div>
-        <div className={styles.SimbolMapp}>
-          <MapButton mapQuery={t("program.appointment7.location1.mapQuery")}>
-            <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-          </MapButton>
-        </div>
-      </div>
-      <div className={styles.Foto}>
-        <img src={Pirri2} alt={t("program.appointment7.location1.imageAlt")} />
       </div>
     </div>
   );
