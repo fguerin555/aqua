@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e51a2996.css",
-    "main.js": "/static/js/main.f53210fa.js",
+    "main.css": "/static/css/main.594e7cd2.css",
+    "main.js": "/static/js/main.3ab1beec.js",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -45,8 +45,10 @@
     "static/media/ConfalonieriEN.png": "/static/media/ConfalonieriEN.8aa1aa63a9f2ecff3769.png",
     "static/media/SpazioYFR.png": "/static/media/SpazioYFR.3edc0a93137b10d2dbe9.png",
     "static/media/PianoBiEN.png": "/static/media/PianoBiEN.0eb6442dd31fb5b29771.png",
+    "static/media/FontanaEN.png": "/static/media/FontanaEN.d610779eb90b1e4342c8.png",
     "static/media/ConfalonieriIT.png": "/static/media/ConfalonieriIT.d8e3bdf0b36993021972.png",
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.4c6ee8a34924ae4cebb9.png",
+    "static/media/FontanaFR.png": "/static/media/FontanaFR.678209af40076cf86b07.png",
     "static/media/IrmaAlonzo3.png": "/static/media/IrmaAlonzo3.367036898b8ea0389160.png",
     "static/media/SpazioYEN.png": "/static/media/SpazioYEN.7229c1413988946c456b.png",
     "static/media/IrmaAlonzo2.png": "/static/media/IrmaAlonzo2.32156ac5ad1315304795.png",
@@ -57,15 +59,18 @@
     "static/media/AnnaFraentzelCelliEN.png": "/static/media/AnnaFraentzelCelliEN.943219bda1bba0437b9d.png",
     "static/media/SpazioYIT.png": "/static/media/SpazioYIT.31abeab4b28ff0ec4756.png",
     "static/media/PianoBiFR.png": "/static/media/PianoBiFR.b2f18985135ab41614ce.png",
+    "static/media/ToFontanaFR.png": "/static/media/ToFontanaFR.5ccab52b48fbf2a2dbd5.png",
     "static/media/MaddalenaCVI.png": "/static/media/MaddalenaCVI.2989810d366002a5a437.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.9b2423106c432afee27c.png",
     "static/media/PianoBiIT.png": "/static/media/PianoBiIT.fe2a076c49548ce72197.png",
+    "static/media/ToFontanaEN.png": "/static/media/ToFontanaEN.094b04bbbd6a4849fcd2.png",
     "static/media/ToPianoBiFR.png": "/static/media/ToPianoBiFR.29140710073b1a7f13c9.png",
     "static/media/CristianaPCVF.png": "/static/media/CristianaPCVF.df8fd51eb258c74c2fba.png",
     "static/media/ToCentroAnzianiEN.png": "/static/media/ToCentroAnzianiEN.008fcf62249b8b3a0560.png",
     "static/media/ToSpazioYFR.png": "/static/media/ToSpazioYFR.85581fd13a4436421796.png",
     "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.9744ed0d6b63e10b014c.png",
     "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.6855837878aa521e703d.png",
+    "static/media/FontanaIT.png": "/static/media/FontanaIT.214f8ee6387276c20971.png",
     "static/media/VillaDeSanctisEN.png": "/static/media/VillaDeSanctisEN.fd7f7462d710e800ab50.png",
     "static/media/CristianaPCVE.png": "/static/media/CristianaPCVE.5fce15bc27d5fa486b36.png",
     "static/media/VillaDeSanctisFR.png": "/static/media/VillaDeSanctisFR.fce66c004f5679d90042.png",
@@ -130,6 +135,7 @@
     "static/media/VillaDeSanctis.png": "/static/media/VillaDeSanctis.fcbf177461aea9116b30.png",
     "static/media/AnnaFraentzelCelli.png": "/static/media/AnnaFraentzelCelli.6d10705b43d9a1a6abb4.png",
     "static/media/ToCasaPirriIT.png": "/static/media/ToCasaPirriIT.344bb098aae8443c32ab.png",
+    "static/media/ToFontanaIT.png": "/static/media/ToFontanaIT.57ab5840ba9016e39c71.png",
     "static/media/ViaCasilinaVecchia115.png": "/static/media/ViaCasilinaVecchia115.d245e7ea454166a2b09b.png",
     "static/media/ToVillaDeSanctisIT.png": "/static/media/ToVillaDeSanctisIT.8cf82678c943e7473067.png",
     "static/media/ToCasilinaVecchiaIT.png": "/static/media/ToCasilinaVecchiaIT.02dbde8393f14215cbaa.png",
@@ -182,11 +188,11 @@
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.e51a2996.css.map": "/static/css/main.e51a2996.css.map",
-    "main.f53210fa.js.map": "/static/js/main.f53210fa.js.map"
+    "main.594e7cd2.css.map": "/static/css/main.594e7cd2.css.map",
+    "main.3ab1beec.js.map": "/static/js/main.3ab1beec.js.map"
   },
   "entrypoints": [
-    "static/css/main.e51a2996.css",
-    "static/js/main.f53210fa.js"
+    "static/css/main.594e7cd2.css",
+    "static/js/main.3ab1beec.js"
   ]
 }
