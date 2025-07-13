@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e51a2996.css",
-    "main.js": "/static/js/main.d66a5fc4.js",
+    "main.js": "/static/js/main.42510e09.js",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -44,6 +44,7 @@
     "static/media/MaddalenaCVF.png": "/static/media/MaddalenaCVF.b2c35037c54c998a8881.png",
     "static/media/ConfalonieriEN.png": "/static/media/ConfalonieriEN.8aa1aa63a9f2ecff3769.png",
     "static/media/SpazioYFR.png": "/static/media/SpazioYFR.3edc0a93137b10d2dbe9.png",
+    "static/media/PianoBiEN.png": "/static/media/PianoBiEN.0eb6442dd31fb5b29771.png",
     "static/media/ConfalonieriIT.png": "/static/media/ConfalonieriIT.d8e3bdf0b36993021972.png",
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.4c6ee8a34924ae4cebb9.png",
     "static/media/IrmaAlonzo3.png": "/static/media/IrmaAlonzo3.367036898b8ea0389160.png",
@@ -55,8 +56,11 @@
     "static/media/AnnaFraentzelCelliFR.png": "/static/media/AnnaFraentzelCelliFR.b4719f010defe6b99342.png",
     "static/media/AnnaFraentzelCelliEN.png": "/static/media/AnnaFraentzelCelliEN.943219bda1bba0437b9d.png",
     "static/media/SpazioYIT.png": "/static/media/SpazioYIT.31abeab4b28ff0ec4756.png",
+    "static/media/PianoBiFR.png": "/static/media/PianoBiFR.b2f18985135ab41614ce.png",
     "static/media/MaddalenaCVI.png": "/static/media/MaddalenaCVI.2989810d366002a5a437.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.9b2423106c432afee27c.png",
+    "static/media/PianoBiIT.png": "/static/media/PianoBiIT.fe2a076c49548ce72197.png",
+    "static/media/ToPianoBiFR.png": "/static/media/ToPianoBiFR.29140710073b1a7f13c9.png",
     "static/media/CristianaPCVF.png": "/static/media/CristianaPCVF.df8fd51eb258c74c2fba.png",
     "static/media/ToCentroAnzianiEN.png": "/static/media/ToCentroAnzianiEN.008fcf62249b8b3a0560.png",
     "static/media/ToSpazioYFR.png": "/static/media/ToSpazioYFR.85581fd13a4436421796.png",
@@ -65,6 +69,7 @@
     "static/media/VillaDeSanctisEN.png": "/static/media/VillaDeSanctisEN.fd7f7462d710e800ab50.png",
     "static/media/CristianaPCVE.png": "/static/media/CristianaPCVE.5fce15bc27d5fa486b36.png",
     "static/media/VillaDeSanctisFR.png": "/static/media/VillaDeSanctisFR.fce66c004f5679d90042.png",
+    "static/media/ToPianoBiEN.png": "/static/media/ToPianoBiEN.a97b7918e7c9a226d88a.png",
     "static/media/DavideCVF.png": "/static/media/DavideCVF.55ab0748b9ebf19c469e.png",
     "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.b4113783f0354e470d9f.png",
     "static/media/CristianaPCVI.png": "/static/media/CristianaPCVI.37fdd4b226ae9cefc0ce.png",
@@ -79,6 +84,7 @@
     "static/media/ToParcoDiTorFiscaleEN.png": "/static/media/ToParcoDiTorFiscaleEN.47d40b34a2cabdfead81.png",
     "static/media/ToCasaPirriFR.png": "/static/media/ToCasaPirriFR.ca9047c0f2eda126bfab.png",
     "static/media/LucaGCVF.png": "/static/media/LucaGCVF.a450b444cbb8e168c071.png",
+    "static/media/ToPianoBiIT.png": "/static/media/ToPianoBiIT.dc608b1276434b9693e1.png",
     "static/media/CasilinaVecchiaFR.png": "/static/media/CasilinaVecchiaFR.f3ee83d2de249f8a570c.png",
     "static/media/LagoExSNIAEFR.png": "/static/media/LagoExSNIAEFR.75fc15ce4507cffcae9c.png",
     "static/media/ToCentroAnzianiFR.png": "/static/media/ToCentroAnzianiFR.f96b9624c8122cfb00b9.png",
@@ -95,6 +101,7 @@
     "static/media/ParcoDiTorFiscaleEN.png": "/static/media/ParcoDiTorFiscaleEN.7d165c112131214bccc9.png",
     "static/media/ToCasaPirriEN.png": "/static/media/ToCasaPirriEN.c0b41de2cf0671c102db.png",
     "static/media/VicolodellAcquedottoFelice.png": "/static/media/VicolodellAcquedottoFelice.c29bdf68946fa0a34af5.png",
+    "static/media/PianoBi.png": "/static/media/PianoBi.7e433dce8267f070ffcf.png",
     "static/media/AcquedottoFR.png": "/static/media/AcquedottoFR.5974249d9afdc1c38436.png",
     "static/media/ParcoDiTorFiscaleFR.png": "/static/media/ParcoDiTorFiscaleFR.5974249d9afdc1c38436.png",
     "static/media/VillaDeSanctisIT.png": "/static/media/VillaDeSanctisIT.7f4ec565c540e4032ef5.png",
@@ -176,10 +183,10 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.e51a2996.css.map": "/static/css/main.e51a2996.css.map",
-    "main.d66a5fc4.js.map": "/static/js/main.d66a5fc4.js.map"
+    "main.42510e09.js.map": "/static/js/main.42510e09.js.map"
   },
   "entrypoints": [
     "static/css/main.e51a2996.css",
-    "static/js/main.d66a5fc4.js"
+    "static/js/main.42510e09.js"
   ]
 }
