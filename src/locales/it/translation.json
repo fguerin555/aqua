@@ -134,9 +134,9 @@
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "L'Arte in una Stanza",
       "time1": "19, 26 Settembre - 01, 08, 15, 22, 29 Ottobre - 05 Novembre 2025<br /> dalle ore 15.30 alle 17.30<br />Laboratori di scultura per ciechi, ipovedenti e vedenti <br/> A cura di Irma Alonzo e Adriana Polveroni<br/>Artista: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": " 07, 22 Ottobre - 05, 26 Novembre 2025 <br />  dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "09, 23 Ottobre - 06, 27 Novembre 2025 <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time4": "10, 24 Ottobre - 07 e 28 Novembre 2025 <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": " 07, 22 Ottobre - 05, 26 Novembre 2025 <br />  dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09, 23 Ottobre - 06, 27 Novembre 2025 <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "10, 24 Ottobre - 07 e 28 Novembre 2025 <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite presso i suddetti luoghi aperti anche alla cittadinanza.",
       "artistList": "Artisti: <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI <carousel_alberto/><br />DAVIDE DI TOLLA<carousel_davide/> <br /><br/>Accesso libero",
       "location1": {
@@ -163,9 +163,9 @@
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "La Bellezza dell'Acqua",
-      "time1": "Opera : La Fontana delle Brume di Paolo Assenza<br/>Inaugurazione 10 Ottobre alle ore 19.00<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII",
-      "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br/> Inaugurazione 4 Ottobre 2025 alle ore 19.00<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII",
-      "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br />Inaugurazione 29 Novembre 2025 alle ore 19.00<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII",
+      "time1": "Opera : La Fontana delle Brume di Paolo Assenza<br/>Inaugurazione 10 Ottobre alle ore 19.00<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "Opera : Imago Acquae-Urbis di Mercedes Klausner <br/> Inaugurazione 4 Ottobre 2025 alle ore 19.00<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "Opera : Ri-Sorgente di Laurent le Deunff <br />Inaugurazione 29 Novembre 2025 alle ore 19.00<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "description": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità. <br />L'opera di Paolo Assenza consiste una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br /> L’artista Mercedes Klausner, ospitata in residenza da progetto Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate sui muri di progetto Pianobi in via dei ciceri 99. <br /> Laurent le Deunff, durante la sua residenza presso la sede operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del giubileo. I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate",
       "artistList": "Artisti: <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Curatrici:<br/ >ADRIANA POLVERONI <br /> ISABELLA VITALE <br /><br/>Accesso libero",
       "location1": {
@@ -177,6 +177,11 @@
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       }
     },
     "appointment6": {

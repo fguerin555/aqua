@@ -91,6 +91,14 @@ import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
 import SpazioY from "../../assets/images/SpazioY.png";
 
+import PianoBi from "../../assets/images/PianoBi.png";
+import PianoBiIT from "../../assets/images/PianoBiIT.png";
+import PianoBiEN from "../../assets/images/PianoBiEN.png";
+import PianoBiFR from "../../assets/images/PianoBiFR.png";
+import ToPianoBiIT from "../../assets/images/ToPianoBiIT.png";
+import ToPianoBiEN from "../../assets/images/ToPianoBiEN.png";
+import ToPianoBiFR from "../../assets/images/ToPianoBiFR.png";
+
 import ABalabanoff from "../../assets/images/ABalabanoff.png";
 import ABalabanoffIT from "../../assets/images/ABalabanoffIT.png";
 import ABalabanoffFR from "../../assets/images/ABalabanoffFR.png";
@@ -545,6 +553,27 @@ const Programma = () => {
     it: ToLagoExSNIAEIT,
     en: ToLagoExSNIAEEN,
     fr: ToLagoExSNIAEFR,
+  };
+
+  const PianoBiImageMap = {
+    it: PianoBiIT,
+    en: PianoBiEN,
+    fr: PianoBiFR,
+  };
+  const PianoBiBookImageMap = {
+    it: PianoBiIT,
+    en: PianoBiEN,
+    fr: PianoBiFR,
+  };
+  const PianoBiFotoImageMap = {
+    it: PianoBi,
+    en: PianoBi,
+    fr: PianoBi,
+  };
+  const ToPianoBiImageMap = {
+    it: ToPianoBiIT,
+    en: ToPianoBiEN,
+    fr: ToPianoBiFR,
   };
 
   const appointment2Locations = [
@@ -1217,63 +1246,119 @@ const Programma = () => {
         <div>
           <Trans
             i18nKey="program.appointment5.time1"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t("program.appointment5.location1.mapQuery")}
+                  >
+                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToParcoTorFiscaleImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
+            }}
           />
-        </div>
-      </div>
-      <div className={styles.LuoghiVertical}>
-        <div>{t("program.appointment5.location1.name")}</div>
-        <div className={styles.SimbolMapp}>
-          <MapButton mapQuery={t("program.appointment5.location1.mapQuery")}>
-            <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-          </MapButton>
         </div>
       </div>
       <div className={styles.Orari}>
         <div>
           <Trans
             i18nKey="program.appointment5.time2"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t("program.appointment5.location2.mapQuery")}
+                  >
+                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToPianoBiImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={PianoBiBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={PianoBiFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
+            }}
           />
-        </div>
-      </div>
-      <div className={styles.LuoghiVertical}>
-        <div>{t("program.appointment5.location2.name")}</div>
-        <div className={styles.SimbolMapp}>
-          <MapButton mapQuery={t("program.appointment5.location2.mapQuery")}>
-            <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-          </MapButton>
         </div>
       </div>
       <div className={styles.Orari}>
         <div>
           <Trans
             i18nKey="program.appointment5.time3"
-            components={{ br: <br /> }}
-          />
-        </div>
-      </div>
-      <div className={styles.LuoghiVertical}>
-        <div>{t("program.appointment5.location1.name")}</div>
-        <div className={styles.SimbolMapp}>
-          <MapButton mapQuery={t("program.appointment5.location1.mapQuery")}>
-            <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-          </MapButton>
-        </div>
-      </div>
-      <div className={styles.EventDescription}>
-        <div>
-          <Trans
-            i18nKey="program.appointment5.description"
-            components={{ br: <br /> }}
-          />
-        </div>
-      </div>
-      <div className={styles.ArtistList}>
-        <div>
-          <Trans
-            i18nKey="program.appointment5.artistList"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t("program.appointment5.location3.mapQuery")}
+                  >
+                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToParcoTorFiscaleImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
+            }}
           />
         </div>
       </div>

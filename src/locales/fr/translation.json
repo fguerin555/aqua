@@ -126,9 +126,9 @@
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "L'Art dans une Pièce",
       "time1": "19, 26 Septembre - 01, 08, 15, 22, 29 Octobre - 05 Novembre 2025<br /> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": " 07, 22 Octobre - 05, 26 Novembre 2025 <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time4": "10, 24 Octobre - 07 e 28 Novembre 2025 <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": " 07, 22 Octobre - 05, 26 Novembre 2025 <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09, 23 Octobre - 06, 27 Novembre 2025 <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "10, 24 Octobre - 07 e 28 Novembre 2025 <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
       "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br />Commissaires : IRMA ALONZO et ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
@@ -155,9 +155,9 @@
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
-      "time1": "Oeuvre : La Fontaine des Brumes de Paolo Assenza<br/>Inauguration 10 Octobre à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII",
-      "time2": "Oeuvre : Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration 4 Octobre à 19 heures 19.00<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII",
-      "time3": "Oeuvre : Ri-Sorgente de Laurent le Deunff <br />Inauguration 29 Novembre 2025 à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII",
+      "time1": "Oeuvre : La Fontaine des Brumes de Paolo Assenza<br/>Inauguration 10 Octobre à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "Oeuvre : Imago Acquae-Urbis de Mercedes Klausner <br/> Inauguration 4 Octobre à 19 heures 19.00<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "Oeuvre : Ri-Sorgente de Laurent le Deunff <br />Inauguration 29 Novembre 2025 à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> L'artiste Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.",
       "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br />Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
@@ -169,6 +169,11 @@
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       }
     },
 
