@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.594e7cd2.css",
-    "main.js": "/static/js/main.fc31702d.js",
+    "main.js": "/static/js/main.a6d38d4c.js",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -183,16 +183,16 @@
     "static/media/Book.png": "/static/media/Book.916f970eb32e68892106.png",
     "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.565894e9072113410030.png",
+    "static/media/oeil.png": "/static/media/oeil.57fe0dbb51d8f07a097d.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.7dfa2d899cf70dbb7f5f.png",
-    "static/media/oeil.png": "/static/media/oeil.f1e984715fcc96cea986.png",
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.594e7cd2.css.map": "/static/css/main.594e7cd2.css.map",
-    "main.fc31702d.js.map": "/static/js/main.fc31702d.js.map"
+    "main.a6d38d4c.js.map": "/static/js/main.a6d38d4c.js.map"
   },
   "entrypoints": [
     "static/css/main.594e7cd2.css",
-    "static/js/main.fc31702d.js"
+    "static/js/main.a6d38d4c.js"
   ]
 }
