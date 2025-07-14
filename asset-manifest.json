@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.594e7cd2.css",
-    "main.js": "/static/js/main.3ab1beec.js",
+    "main.js": "/static/js/main.fc31702d.js",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -95,7 +95,7 @@
     "static/media/ToCentroAnzianiFR.png": "/static/media/ToCentroAnzianiFR.f96b9624c8122cfb00b9.png",
     "static/media/ViaDellAcquedottoFeliceEN.png": "/static/media/ViaDellAcquedottoFeliceEN.40aadf68eb9ddfe7aa28.png",
     "static/media/ViaDellAcquedottoFeliceFR.png": "/static/media/ViaDellAcquedottoFeliceFR.4bafa2ba439e8bc1c647.png",
-    "static/media/CasaPirriEN.png": "/static/media/CasaPirriEN.f25be1a19f198797498b.png",
+    "static/media/CasaPirriEN.png": "/static/media/CasaPirriEN.287557fa7b7617da3e4c.png",
     "static/media/LagoExSNIAEIT.png": "/static/media/LagoExSNIAEIT.0679d4b86b1a55dadd10.png",
     "static/media/LorenzaCVF.png": "/static/media/LorenzaCVF.4a6aaff302452ba6a9f8.png",
     "static/media/CasaPirriFR.png": "/static/media/CasaPirriFR.26c9e75e32db4ee2ab0d.png",
@@ -189,10 +189,10 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
     "main.594e7cd2.css.map": "/static/css/main.594e7cd2.css.map",
-    "main.3ab1beec.js.map": "/static/js/main.3ab1beec.js.map"
+    "main.fc31702d.js.map": "/static/js/main.fc31702d.js.map"
   },
   "entrypoints": [
     "static/css/main.594e7cd2.css",
-    "static/js/main.3ab1beec.js"
+    "static/js/main.fc31702d.js"
   ]
 }
