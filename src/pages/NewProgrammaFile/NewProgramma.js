@@ -232,64 +232,85 @@ const Programma = () => {
     { src: Apice1, alt: "" },
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
-    { src: GiuliaACVI, alt: "" },
-    { src: GiuliaACVE, alt: "" },
-    { src: GiuliaACVF, alt: "" },
   ];
+  const GiuliaApiceBookImages = {
+    it: GiuliaACVI,
+    en: GiuliaACVE,
+    fr: GiuliaACVF,
+  };
+
   const maddalenaScuderoniImages = [
     { src: Madscud1, alt: "" },
     { src: Madscud2, alt: "" },
     { src: Madscud3, alt: "" },
-    { src: MaddalenaCVI, alt: "" },
-    { src: MaddalenaCVE, alt: "" },
-    { src: MaddalenaCVF, alt: "" },
   ];
+  const maddalenaScuderoniBookImages = {
+    it: MaddalenaCVI,
+    en: MaddalenaCVE,
+    fr: MaddalenaCVF,
+  };
   const lorenzaRicciImages = [
     { src: Lorenza1, alt: "" },
     { src: Lorenza2, alt: "" },
-    { src: LorenzaCVI, alt: "" },
-    { src: LorenzaCVE, alt: "" },
-    { src: LorenzaCVF, alt: "" },
   ];
+  const lorenzaRicciBookImages = {
+    it: LorenzaCVI,
+    en: LorenzaCVE,
+    fr: LorenzaCVF,
+  };
+
   const cristianaPacchiarottiImages = [
     { src: CristianaP1, alt: "" },
     { src: CristianaP2, alt: "" },
     { src: CristianaP3, alt: "" },
-    { src: CristianaPCVI, alt: "" },
-    { src: CristianaPCVE, alt: "" },
-    { src: CristianaPCVF, alt: "" },
   ];
+  const cristianaPacchiarottiBookImages = {
+    it: CristianaPCVI,
+    en: CristianaPCVE,
+    fr: CristianaPCVF,
+  };
   const giancarloCaracuzzoImages = [
     { src: Giancarlo1, alt: "" },
     { src: Giancarlo2, alt: "" },
     { src: Giancarlo3, alt: "" },
     { src: Giancarlo4, alt: "" },
-    { src: GiancarloCVI, alt: "" },
-    { src: GiancarloCVE, alt: "" },
-    { src: GiancarloCVF, alt: "" },
   ];
+  const giancarloCaracuzzoBookImages = {
+    it: GiancarloCVI,
+    en: GiancarloCVE,
+    fr: GiancarloCVF,
+  };
+
   const albertoBesiImages = [
     { src: AlbertoB1, alt: "" },
     { src: AlbertoB2, alt: "" },
-    { src: AlbertoBCVI, alt: "" },
-    { src: AlbertoBCVE, alt: "" },
-    { src: AlbertoBCVF, alt: "" },
   ];
+  const albertoBesiBookImages = {
+    it: AlbertoBCVI,
+    en: AlbertoBCVE,
+    fr: AlbertoBCVF,
+  };
+
   const davideDiTollaImages = [
     { src: Davide1, alt: "" },
     { src: Davide2, alt: "" },
     { src: Davide3, alt: "" },
     { src: Davide4, alt: "" },
-    { src: DavideCVI, alt: "" },
-    { src: DavideCVE, alt: "" },
-    { src: DavideCVF, alt: "" },
   ];
-  const lucaGrechiImages = [
-    { src: LucaG1, alt: "" },
-    { src: LucaGCVI, alt: "" },
-    { src: LucaGCVE, alt: "" },
-    { src: LucaGCVF, alt: "" },
-  ];
+  const davideDiTollaBookImages = {
+    it: DavideCVI,
+    en: DavideCVE,
+    fr: DavideCVF,
+  };
+
+  const lucaGrechiImages = [{ src: LucaG1, alt: "" }];
+
+  const lucaGrechiBookImages = {
+    it: LucaGCVI,
+    en: LucaGCVE,
+    fr: LucaGCVF,
+  };
+
   const irmaAlonzoImages = [
     { src: IrmaAlonzo1, alt: "" },
     { src: IrmaAlonzo2, alt: "" },
@@ -1037,6 +1058,13 @@ const Programma = () => {
                   className={styles.IconStandard}
                 />
               ),
+              book_giulia: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={GiuliaApiceBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
 
               carousel_luca: (
                 <ButtonCarousel
@@ -1044,10 +1072,24 @@ const Programma = () => {
                   className={styles.IconStandard}
                 />
               ),
+              book_luca: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={lucaGrechiBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_maddalena: (
                 <ButtonCarousel
                   images={maddalenaScuderoniImages}
                   className={styles.IconStandard}
+                />
+              ),
+              book_maddalena: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={maddalenaScuderoniBookImages}
+                  altKey="program.bookAlt"
                 />
               ),
               OV: (

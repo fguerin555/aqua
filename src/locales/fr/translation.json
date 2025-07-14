@@ -111,7 +111,7 @@
 
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
-      "artistList": "Artistes : <br/><carousel_giulia/>GIULIA APICE<br/><OV/>PAOLO ASSENZA<br/><OV/>MATTEO BASILÉ<br/><carousel_luca/>LUCA GRECHI<br/><carousel_maddalena/>MADDALENA SCUDERONI<br /><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artistes : <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><OV/><OV/>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br /><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -161,7 +161,7 @@
       "time2": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br /><OV/>PAOLO ASSENZA <br /><OV/>MERCEDES KLAUSNER <br /><OV/>LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
+      "artistList": "Artistes : <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",

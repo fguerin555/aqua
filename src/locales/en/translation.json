@@ -109,7 +109,7 @@
 
       "description": "These initiatives will interface with artificial intelligence sessions<br/>creating immersive environments that allow public interaction.",
 
-      "artistList": "Artists: <br/><carousel_giulia/>GIULIA APICE<br/><OV/>PAOLO ASSENZA<br/><OV/>MATTEO BASILÉ<br/><carousel_luca/>LUCA GRECHI<br/><carousel_maddalena/>MADDALENA SCUDERONI<br /><br/> Curator: <br/>ADRIANA POLVERONI <br /><br/>Free access",
+      "artistList": "Artists: <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><OV/><OV/>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br /><br/> Curator: <br/>ADRIANA POLVERONI <br /><br/>Free access",
 
       "location1": {
         "name": "",
@@ -160,7 +160,7 @@
       "time2": "Imago Acquae-Urbis <br/>by Mercedes Klausner <br />Curated by Isabella Vitale<br/>Opening on 4 October <br/>at 7 PM<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>by Laurent le Deunff <br />Curated by Isabella Vitale<br/>Opening Opening on 29 November <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artists: <br /><OV/>PAOLO ASSENZA <br /><OV/>MERCEDES KLAUSNER <br /><OV/>LAURENT LE DEUNFF <br /><br/>Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
+      "artistList": "Artists: <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
       "location1": {
         "name": "",
         "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
