@@ -6,6 +6,8 @@ import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import Foto from "../../components/Foto";
+import OeilVide from "../../components/OeilVide"; // composant React
+import OV from "../../assets/images/OeilVide.png"; // l’image elle-même
 
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
@@ -294,8 +296,6 @@ const Programma = () => {
     { src: IrmaAlonzo3, alt: "" },
     { src: IrmaAlonzo4, alt: "" },
   ];
-  const CasaPirriImages = [{ src: CasaPirri, alt: "" }];
-  const SpazioYImages = [{ src: SpazioY, alt: "" }];
 
   const ToCasaPirriImageMap = {
     it: ToCasaPirriIT,
@@ -314,11 +314,7 @@ const Programma = () => {
     en: CasaPirriEN,
     fr: CasaPirriFR,
   };
-  const CasaPirriImageMap = {
-    it: CasaPirriIT,
-    en: CasaPirriEN,
-    fr: CasaPirriFR,
-  };
+
   const CasaPirriFotoImageMap = {
     it: CasaPirri,
     en: CasaPirri,
@@ -416,11 +412,7 @@ const Programma = () => {
     en: ToCentroAnzianiEN,
     fr: ToCentroAnzianiFR,
   };
-  const CentroAnzianiImageMap = {
-    it: CentroAnzianiIT,
-    en: CentroAnzianiEN,
-    fr: CentroAnzianiFR,
-  };
+
   const CentroAnzianiBookImageMap = {
     it: CentroAnzianiIT,
     en: CentroAnzianiEN,
@@ -441,11 +433,7 @@ const Programma = () => {
     en: AnnaFraentzelCelliEN,
     fr: AnnaFraentzelCelliFR,
   };
-  const ToAnnaFraentzelCelliImageMap = {
-    it: ToAnnaFraentzelCelliIT,
-    en: ToAnnaFraentzelCelliEN,
-    fr: ToAnnaFraentzelCelliFR,
-  };
+
   const AnnaFraentzelCelliImageMap = {
     it: ABalabanoffIT,
     en: ABalabanoffEN,
@@ -467,11 +455,7 @@ const Programma = () => {
     en: ABalabanoff,
     fr: ABalabanoff,
   };
-  const ConfalonieriImageMap = {
-    it: ConfalonieriIT,
-    en: ConfalonieriEN,
-    fr: ConfalonieriFR,
-  };
+
   const ToConfalonieriImageMap = {
     it: ToConfalonieriIT,
     en: ToConfalonieriEN,
@@ -505,12 +489,6 @@ const Programma = () => {
     fr: ToViaDiTorreBrancaFR,
   };
 
-  const ParcoTorFiscaleImageMap = {
-    it: ParcoTorFiscaleIT,
-    en: ParcoTorFiscaleEN,
-    fr: ParcoTorFiscaleFR,
-  };
-
   const ToParcoTorFiscaleImageMap = {
     it: ToParcoTorFiscaleIT,
     en: ToParcoTorFiscaleEN,
@@ -535,12 +513,6 @@ const Programma = () => {
     fr: ViaDiTorreBrancaFR,
   };
 
-  const ViaDiTorreBrancaImageMap = {
-    it: ViaDiTorreBrancaIT,
-    en: ViaDiTorreBrancaEN,
-    fr: ViaDiTorreBrancaFR,
-  };
-
   const ToViaDellAcquaFeliceImageMap = {
     it: ToViaDellAcquaFeliceIT,
     en: ToViaDellAcquaFeliceEN,
@@ -556,11 +528,7 @@ const Programma = () => {
     en: LagoExSNIAEEN,
     fr: LagoExSNIAEFR,
   };
-  const LagoExSNIAEImageMap = {
-    it: LagoExSNIAEIT,
-    en: LagoExSNIAEEN,
-    fr: LagoExSNIAEFR,
-  };
+
   const LagoExSNIAEFotoImageMap = {
     it: LagoExSNIAE,
     en: LagoExSNIAE,
@@ -572,11 +540,6 @@ const Programma = () => {
     fr: ToLagoExSNIAEFR,
   };
 
-  const PianoBiImageMap = {
-    it: PianoBiIT,
-    en: PianoBiEN,
-    fr: PianoBiFR,
-  };
   const PianoBiBookImageMap = {
     it: PianoBiIT,
     en: PianoBiEN,
@@ -598,15 +561,17 @@ const Programma = () => {
     en: ToFontanaEN,
     fr: ToFontanaFR,
   };
-  const FontanaBookImageMap = {
-    it: FontanaIT,
-    en: FontanaEN,
-    fr: FontanaFR,
-  };
+
   const FontanaImageMap = {
     it: FontanaIT,
     en: FontanaEN,
     fr: FontanaFR,
+  };
+
+  const OVImageMap = {
+    it: OV,
+    fr: OV,
+    en: OV,
   };
 
   const appointment2Locations = [
@@ -946,7 +911,16 @@ const Programma = () => {
         <div>
           <Trans
             i18nKey="program.appointment2.artistList"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
+                  className={styles.IconStandard}
+                />
+              ),
+            }}
           />
         </div>
       </div>
@@ -1063,6 +1037,7 @@ const Programma = () => {
                   className={styles.IconStandard}
                 />
               ),
+
               carousel_luca: (
                 <ButtonCarousel
                   images={lucaGrechiImages}
@@ -1072,6 +1047,13 @@ const Programma = () => {
               carousel_maddalena: (
                 <ButtonCarousel
                   images={maddalenaScuderoniImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
                   className={styles.IconStandard}
                 />
               ),
@@ -1414,7 +1396,16 @@ const Programma = () => {
         <div>
           <Trans
             i18nKey="program.appointment5.artistList"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
+                  className={styles.IconStandard}
+                />
+              ),
+            }}
           />
         </div>
       </div>

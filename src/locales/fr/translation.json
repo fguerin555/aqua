@@ -111,7 +111,7 @@
 
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
-      "artistList": "Artistes : <br />GIULIA APICE <carousel_giulia/><br /> PAOLO ASSENZA <br /> MATTEO BASILÉ <br />LUCA GRECHI<carousel_luca/> <br />MADDALENA SCUDERONI <carousel_maddalena/><br /><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artistes : <br/><carousel_giulia/>GIULIA APICE<br/><OV/>PAOLO ASSENZA<br/><OV/>MATTEO BASILÉ<br/><carousel_luca/>LUCA GRECHI<br/><carousel_maddalena/>MADDALENA SCUDERONI<br /><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -131,7 +131,7 @@
       "time3": "09, 23 Octobre - 06, 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
       "time4": "10, 24 Octobre - 07 e 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br />IRMA ALONZO<carousel_irma/> <br /> CRISTIANA PACCHIAROTTI<carousel_cristiana/> <br />LORENZA RICCI<carousel_lorenza/> <br />GIANCARLO CARACUZZO <carousel_giancarlo/><br />ALBERTO BESI<carousel_alberto/> <br />DAVIDE DI TOLLA<carousel_davide/><br /<br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_irma/>IRMA ALONZO <br /><carousel_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/>ALBERTO BESI <br /><carousel_davide/>DAVIDE DI TOLLA<br /<br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -161,7 +161,7 @@
       "time2": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br />PAOLO ASSENZA <br /> MERCEDES KLAUSNER <br /> LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><OV/>PAOLO ASSENZA <br /><OV/>MERCEDES KLAUSNER <br /><OV/>LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
