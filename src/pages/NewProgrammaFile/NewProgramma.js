@@ -314,6 +314,16 @@ const Programma = () => {
     en: CasaPirriEN,
     fr: CasaPirriFR,
   };
+  const CasaPirriImageMap = {
+    it: CasaPirriIT,
+    en: CasaPirriEN,
+    fr: CasaPirriFR,
+  };
+  const CasaPirriFotoImageMap = {
+    it: CasaPirri,
+    en: CasaPirri,
+    fr: CasaPirri,
+  };
 
   const SpazioYBookImageMap = {
     it: SpazioYIT,
@@ -1412,23 +1422,22 @@ const Programma = () => {
       <div className={styles.TitleAppuntamento}>
         <p>{t("program.appointment6.sectionTitle")}</p>
       </div>
+
       <div className={styles.NameAppuntamento}>
         <p>{t("program.appointment6.name1")}</p>
       </div>
-      <div className={styles.Orari}>
-        <div>{t("program.appointment6.time1")}</div>
-      </div>
+
       <div className={styles.NameAppuntamento}>
         <p>{t("program.appointment6.name2")}</p>
       </div>
+
       <div className={styles.Orari}>
         <div>
           <Trans
-            i18nKey="program.appointment6.time2"
+            i18nKey="program.appointment6.time1"
             components={{
               br: <br />,
-              carousel_casaPirri: <ButtonCarousel images={CasaPirriImages} />,
-              map1: (
+              map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
                     mapQuery={t("program.appointment6.location1.mapQuery")}
@@ -1437,10 +1446,32 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToCasaPirriImageMap}
+                  altKey="program.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={CasaPirriBookImageMap}
+                  altKey="program.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={CasaPirriFotoImageMap}
+                  altKey="program.fotoAlt"
+                />
+              ),
             }}
           />
         </div>
       </div>
+
       <div className={styles.EventDescription}>
         <div>
           <Trans
@@ -1449,6 +1480,7 @@ const Programma = () => {
           />
         </div>
       </div>
+
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1457,6 +1489,7 @@ const Programma = () => {
           />
         </div>
       </div>
+
       <div className={styles.Luoghi}>
         <div>{t("program.appointment6.location2.name")}</div>
         <div className={styles.SimbolMapp}>
@@ -1479,6 +1512,7 @@ const Programma = () => {
       <div className={styles.FotoV}>
         <img src={Pirri0} alt={t("program.appointment6.location2.imageAlt")} />
       </div>
+
       {/* ------------------------------------------------7------------------ */}
       <div className={styles.TitleAppuntamento}>
         <p>{t("program.appointment7.sectionTitle")}</p>
