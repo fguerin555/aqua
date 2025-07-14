@@ -1282,15 +1282,57 @@ const Programma = () => {
             i18nKey="program.appointment4.artistList"
             components={{
               br: <br />,
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
+                  className={styles.IconStandard}
+                />
+              ),
               carousel_lorenza: <ButtonCarousel images={lorenzaRicciImages} />,
+              book_lorenza: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={lorenzaRicciBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_cristiana: (
                 <ButtonCarousel images={cristianaPacchiarottiImages} />
+              ),
+              book_cristiana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={cristianaPacchiarottiBookImages}
+                  altKey="program.bookAlt"
+                />
               ),
               carousel_giancarlo: (
                 <ButtonCarousel images={giancarloCaracuzzoImages} />
               ),
+              book_giancarlo: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={giancarloCaracuzzoBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_alberto: <ButtonCarousel images={albertoBesiImages} />,
+              book_alberto: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={albertoBesiBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_davide: <ButtonCarousel images={davideDiTollaImages} />,
+              book_davide: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={davideDiTollaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_irma: <ButtonCarousel images={irmaAlonzoImages} />,
             }}
           />
