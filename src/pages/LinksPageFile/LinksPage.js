@@ -433,13 +433,6 @@ const LinksPage = () => {
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
-            <span>
-              <img
-                src={LinkVide}
-                alt={t("links.LinkVide")}
-                className={styles.icon}
-              />
-            </span>
             <a
               href="https://www.instagram.com/davidem.ditolla/"
               target="_blank"
@@ -451,6 +444,13 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
 
             {/* <a
               href="https://www.facebook.com/iginio.deluca/
