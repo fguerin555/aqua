@@ -87,7 +87,7 @@ const LinksPage = () => {
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/pianobi_artecontemporanea/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -433,9 +433,13 @@ const LinksPage = () => {
             >
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
-            <a href="https://www.artstation.com/dmdt" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
             <a
               href="https://www.instagram.com/davidem.ditolla/"
               target="_blank"
@@ -786,7 +790,7 @@ const LinksPage = () => {
               <img src={Link} alt={t("links.Link")} className={styles.icon} />
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/pianobi_artecontemporanea/"
               target="_blank"
               rel="noopener noreferrer"
             >
