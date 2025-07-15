@@ -168,17 +168,6 @@ const LinksPage = () => {
               />
             </span>
 
-            {/* <a
-              href="https://www.instagram.com/alfredo_pirri/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a> */}
             <a
               href="https://www.facebook.com/irma.alonzo.54"
               rel="noopener noreferrer"
@@ -196,13 +185,6 @@ const LinksPage = () => {
         {/* --- Giulia Apice--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
-            {/* <a
-              href="https://paoloassenza.it/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a> */}
             <span>
               <img
                 src={LinkVide}
@@ -449,19 +431,6 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
-
-            {/* <a
-              href="https://www.facebook.com/iginio.deluca/
-"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a> */}
           </div>
           <Trans i18nKey="links.NameArtists.davideT" />
         </div>
@@ -556,17 +525,6 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
-            {/* <a
-              href="https://www.facebook.com/mercedes.klausner/?locale=fr_FR"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a> */}
           </div>
           <Trans i18nKey="links.NameArtists.laurentL" />
         </div>
@@ -580,13 +538,7 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
-            {/* <a
-              href="https://www.instagram.com/cristiana.pacchiarotti/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a> */}
+
             <a
               href="https://www.instagram.com/cristiana.pacchiarotti/"
               target="_blank"
@@ -725,28 +677,6 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
-            {/* <a
-              href="https://www.instagram.com/fabrizio.plessi/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/FabrizioPlessiOfficial/?locale=it_IT"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a> */}
           </div>
           <Trans i18nKey="links.NameArtists.lorenzaR" />
         </div>

@@ -105,7 +105,7 @@
         "imageAlt": "via dei Juvenci, 11, Roma.",
         "mapQuery": "via dei Juvenci, 11, Roma."
       },
-      "artistList": "Artisti:<br />IGINIO DE LUCA<br />PAMELA PINTUS<br /><br/>Curatrice: <br/>ADRIANA POLVERONI<br /><br />Accesso libero"
+      "artistList": "Artisti:<br /><OV/><OV/>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/>Curatrice: <br/>ADRIANA POLVERONI<br /><br />Accesso libero"
     },
 
     "appointment3": {

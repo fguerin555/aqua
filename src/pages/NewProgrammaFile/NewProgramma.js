@@ -16,6 +16,16 @@ import GiuliaACVI from "../../assets/images/GiuliaACVI.png";
 import GiuliaACVE from "../../assets/images/GiuliaACVE.png";
 import GiuliaACVF from "../../assets/images/GiuliaACVF.png";
 
+import PamelaP1 from "../../assets/images/PamelaP1.png";
+import PamelaP2 from "../../assets/images/PamelaP2.png";
+import PamelaP3 from "../../assets/images/PamelaP3.png";
+import PamelaP4 from "../../assets/images/PamelaP4.png";
+import PamelaP5 from "../../assets/images/PamelaP5.png";
+import PamelaP6 from "../../assets/images/PamelaP6.png";
+import PamelaPCVI from "../../assets/images/PamelaPCVI.png";
+import PamelaPCVE from "../../assets/images/PamelaPCVE.png";
+import PamelaPCVF from "../../assets/images/PamelaPCVF.png";
+
 import Lorenza1 from "../../assets/images/Lorenza1.png";
 import Lorenza2 from "../../assets/images/Lorenza2.png";
 import LorenzaCVI from "../../assets/images/LorenzaCVI.png";
@@ -237,6 +247,19 @@ const Programma = () => {
     it: GiuliaACVI,
     en: GiuliaACVE,
     fr: GiuliaACVF,
+  };
+  const PamelaPImages = [
+    { src: PamelaP1, alt: "" },
+    { src: PamelaP2, alt: "" },
+    { src: PamelaP3, alt: "" },
+    { src: PamelaP4, alt: "" },
+    { src: PamelaP5, alt: "" },
+    { src: PamelaP6, alt: "" },
+  ];
+  const PamelaPBookImages = {
+    it: PamelaPCVI,
+    en: PamelaPCVE,
+    fr: PamelaPCVF,
   };
 
   const maddalenaScuderoniImages = [
@@ -934,6 +957,19 @@ const Programma = () => {
             i18nKey="program.appointment2.artistList"
             components={{
               br: <br />,
+              carousel_pamela: (
+                <ButtonCarousel
+                  images={PamelaPImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_pamela: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={PamelaPBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               OV: (
                 <OeilVide
                   imageMap={OVImageMap}
