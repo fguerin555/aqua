@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.594e7cd2.css",
-    "main.js": "/static/js/main.c24d2292.js",
+    "main.css": "/static/css/main.9134a723.css",
+    "main.js": "/static/js/main.1cfb9849.js",
+    "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
+    "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/CentroAnziani.png": "/static/media/CentroAnziani.65ddd429a38689967de8.png",
+    "static/media/PamelaP6.png": "/static/media/PamelaP6.eba483ad6ea8a0c4f2b4.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
     "static/media/ParcoDiTorFiscale.png": "/static/media/ParcoDiTorFiscale.c370c13ab1f41ae9e53d.png",
+    "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
+    "static/media/PamelaP3.png": "/static/media/PamelaP3.375885cc0a4c7ae6c1c8.png",
     "static/media/Davide1.png": "/static/media/Davide1.f685a2a5a20907de5f6d.png",
     "static/media/Davide4.png": "/static/media/Davide4.5ac04be670d5dd9817b1.png",
+    "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.149d4fc4c4a1c606f061.png",
@@ -54,6 +60,7 @@
     "static/media/IrmaAlonzo2.png": "/static/media/IrmaAlonzo2.32156ac5ad1315304795.png",
     "static/media/AnnaFraentzelCelliIT.png": "/static/media/AnnaFraentzelCelliIT.cbe32ebe19c2ed1483f3.png",
     "static/media/LucaG1.png": "/static/media/LucaG1.5320e757ca3d919e9b58.png",
+    "static/media/PamelaPCVF.png": "/static/media/PamelaPCVF.8d2824d433d325b0a315.png",
     "static/media/ConfalonieriFR.png": "/static/media/ConfalonieriFR.2508ab59e348fd7117ed.png",
     "static/media/AnnaFraentzelCelliFR.png": "/static/media/AnnaFraentzelCelliFR.b4719f010defe6b99342.png",
     "static/media/AnnaFraentzelCelliEN.png": "/static/media/AnnaFraentzelCelliEN.943219bda1bba0437b9d.png",
@@ -65,6 +72,7 @@
     "static/media/PianoBiIT.png": "/static/media/PianoBiIT.fe2a076c49548ce72197.png",
     "static/media/ToFontanaEN.png": "/static/media/ToFontanaEN.094b04bbbd6a4849fcd2.png",
     "static/media/ToPianoBiFR.png": "/static/media/ToPianoBiFR.29140710073b1a7f13c9.png",
+    "static/media/PamelaPCVE.png": "/static/media/PamelaPCVE.63f971d4fb5f22d6cf35.png",
     "static/media/CristianaPCVF.png": "/static/media/CristianaPCVF.df8fd51eb258c74c2fba.png",
     "static/media/ToCentroAnzianiEN.png": "/static/media/ToCentroAnzianiEN.008fcf62249b8b3a0560.png",
     "static/media/ToSpazioYFR.png": "/static/media/ToSpazioYFR.85581fd13a4436421796.png",
@@ -79,6 +87,7 @@
     "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.b4113783f0354e470d9f.png",
     "static/media/CristianaPCVI.png": "/static/media/CristianaPCVI.37fdd4b226ae9cefc0ce.png",
     "static/media/AlbertoBCVF.png": "/static/media/AlbertoBCVF.9a187ec823c60227ce70.png",
+    "static/media/PamelaPCVI.png": "/static/media/PamelaPCVI.a69e16f3925a9058af9d.png",
     "static/media/DavideCVI.png": "/static/media/DavideCVI.1c5b00e64461da762d58.png",
     "static/media/LagoExSNIAEEN.png": "/static/media/LagoExSNIAEEN.4933b3e5cb34e182c0a5.png",
     "static/media/AlbertoBCVE.png": "/static/media/AlbertoBCVE.919e592390ce68385827.png",
@@ -188,11 +197,11 @@
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "index.html": "/index.html",
-    "main.594e7cd2.css.map": "/static/css/main.594e7cd2.css.map",
-    "main.c24d2292.js.map": "/static/js/main.c24d2292.js.map"
+    "main.9134a723.css.map": "/static/css/main.9134a723.css.map",
+    "main.1cfb9849.js.map": "/static/js/main.1cfb9849.js.map"
   },
   "entrypoints": [
-    "static/css/main.594e7cd2.css",
-    "static/js/main.c24d2292.js"
+    "static/css/main.9134a723.css",
+    "static/js/main.1cfb9849.js"
   ]
 }
