@@ -16,6 +16,9 @@
   width: auto;
   display: block; /* Assure que l'image se comporte bien dans le bouton */
 }
+.triggerIcon:hover {
+  transform: scale(1.4);
+}
 
 .modalOverlay {
   position: fixed;

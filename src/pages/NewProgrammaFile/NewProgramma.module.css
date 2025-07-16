@@ -168,6 +168,10 @@
                           et conserve ses proportions à l'intérieur du bouton.
                           Utilisez 'cover' si vous préférez remplir et potentiellement rogner. */
 }
+.SimbolMapp > a > img:hover {
+  transform: scale(1.3);
+}
+
 .IconStandard {
   width: 35px;
   height: 35px;
@@ -175,6 +179,7 @@
   vertical-align: middle;
   margin-left: 5px;
 }
+
 .FotoV {
   position: relative;
   z-index: 1;
@@ -328,8 +333,8 @@
     font-size: 18px;
   }
   .IconStandard {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     display: inline-flex;
     vertical-align: middle;
     margin-left: 5px;
@@ -360,7 +365,7 @@
     font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .Logo img {
-    width: 30%;
+    width: 10%;
   }
 
   .Foto img {
@@ -453,7 +458,7 @@
   }
 
   .Logo img {
-    width: 19%;
+    width: 10%;
   }
   .Foto img {
     margin-bottom: 1px;
@@ -539,7 +544,7 @@
   }
 
   .Logo img {
-    width: 18%;
+    width: 10%;
   }
   .Foto img {
     margin-bottom: 1px;
