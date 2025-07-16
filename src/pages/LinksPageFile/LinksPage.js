@@ -57,40 +57,6 @@ const LinksPage = () => {
         </p>
       </div>
       <div className={styles.NamePartners}>
-        {/* --- OpenPolice --- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://www.openpolis.it/" rel="noopener noreferrer">
-              <img
-                src={LogoOpenPolis}
-                alt={t("links.logoOpenPolis")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.instagram.com/openpolis/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/openpolis/?locale=it_IT"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NamePartners.Openpolis" />
-        </div>
-
         {/* comitato di quartiere Casilina vecchia */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
@@ -127,16 +93,26 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NamePartners.Comitato" />
         </div>
-        {/* Istituto Anna Fraentzel */}
+        {/* IIS Confalonieri De Chirico */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
             <a
-              href="https://www.icannacelli.edu.it/la-scuola/"
+              href="https://www.confalonieridechirico.edu.it/"
               rel="noopener noreferrer"
             >
               <img
-                src={LogoAFraentzel}
-                alt={t("links.logoComitato")}
+                src={LogoConfalonieri}
+                alt={t("links.LogoConfalonieri")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/confalonieridechirico_official/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
                 className={styles.icon}
               />
             </a>
@@ -147,18 +123,8 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
-            <a
-              href="https://www.facebook.com/pages/Istituto-Comprensivo-Statale-Anna-Fraentzel-Celli/681756385208329/?locale=it_IT"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
           </div>
-          <Trans i18nKey="links.NamePartners.ICAFraentzel" />
+          <Trans i18nKey="links.NamePartners.IISConfalonieri" />
         </div>
         {/* IC angelica Balabanoff */}
         <div className={styles.ArtistNameAndIcons}>
@@ -196,26 +162,16 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NamePartners.ICABalabanoff" />
         </div>
-        {/* IIS Confalonieri De Chirico */}
+        {/* Istituto Anna Fraentzel */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
             <a
-              href="https://www.confalonieridechirico.edu.it/"
+              href="https://www.icannacelli.edu.it/la-scuola/"
               rel="noopener noreferrer"
             >
               <img
-                src={LogoConfalonieri}
-                alt={t("links.LogoConfalonieri")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.instagram.com/confalonieridechirico_official/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
+                src={LogoAFraentzel}
+                alt={t("links.logoComitato")}
                 className={styles.icon}
               />
             </a>
@@ -226,9 +182,53 @@ const LinksPage = () => {
                 className={styles.icon}
               />
             </span>
+            <a
+              href="https://www.facebook.com/pages/Istituto-Comprensivo-Statale-Anna-Fraentzel-Celli/681756385208329/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
           </div>
-          <Trans i18nKey="links.NamePartners.IISConfalonieri" />
+          <Trans i18nKey="links.NamePartners.ICAFraentzel" />
         </div>
+        {/* --- OpenPolice --- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a href="https://www.openpolis.it/" rel="noopener noreferrer">
+              <img
+                src={LogoOpenPolis}
+                alt={t("links.logoOpenPolis")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/openpolis/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/openpolis/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.Openpolis" />
+        </div>
+
         {/* --- Pianobi--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
