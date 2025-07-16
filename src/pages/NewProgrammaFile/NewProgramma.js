@@ -124,10 +124,6 @@ import AnnaFraentzelCelliIT from "../../assets/images/AnnaFraentzelCelliIT.png";
 import AnnaFraentzelCelliEN from "../../assets/images/AnnaFraentzelCelliEN.png";
 import AnnaFraentzelCelliFR from "../../assets/images/AnnaFraentzelCelliFR.png";
 
-import ToAnnaFraentzelCelliIT from "../../assets/images/ToAnnaFraentzelCelliIT.png";
-import ToAnnaFraentzelCelliEN from "../../assets/images/ToAnnaFraentzelCelliEN.png";
-import ToAnnaFraentzelCelliFR from "../../assets/images/ToAnnaFraentzelCelliFR.png";
-
 import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
 import AcquedottoIT from "../../assets/images/AcquedottoIT.png";
 import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
@@ -228,8 +224,6 @@ import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png
 import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
-
-import AppareilFoto from "../../assets/images/AppareilFoto.png";
 
 import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
@@ -440,16 +434,16 @@ const Programma = () => {
     fr: CasilinaVecchiaFR,
   };
 
-  const ToViaDellAcquedottoFeliceImageMap = {
-    it: ToViaDellAcquedottoFeliceIT,
-    en: ToViaDellAcquedottoFeliceEN,
-    fr: ToViaDellAcquedottoFeliceFR,
-  };
-  const ViaDellAcquedottoFeliceBookImageMap = {
-    it: ViaDellAcquedottoFeliceIT,
-    en: ViaDellAcquedottoFeliceEN,
-    fr: ViaDellAcquedottoFeliceFR,
-  };
+  // const ToViaDellAcquedottoFeliceImageMap = {
+  //   it: ToViaDellAcquedottoFeliceIT,
+  //   en: ToViaDellAcquedottoFeliceEN,
+  //   fr: ToViaDellAcquedottoFeliceFR,
+  // };
+  // const ViaDellAcquedottoFeliceBookImageMap = {
+  //   it: ViaDellAcquedottoFeliceIT,
+  //   en: ViaDellAcquedottoFeliceEN,
+  //   fr: ViaDellAcquedottoFeliceFR,
+  // };
 
   const ToCentroAnzianiImageMap = {
     it: ToCentroAnzianiIT,
