@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9134a723.css",
-    "main.js": "/static/js/main.1cfb9849.js",
+    "main.css": "/static/css/main.90daa53a.css",
+    "main.js": "/static/js/main.6ea760b9.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.e09a27ee97b236cda42c.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
@@ -186,22 +186,28 @@
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
     "static/media/ViadiTorreBranca.png": "/static/media/ViadiTorreBranca.40c3fecb761517699b0d.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
+    "static/media/LogoConfalonieri.png": "/static/media/LogoConfalonieri.24058c2ca8705320422c.png",
     "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/AppareilFoto.png": "/static/media/AppareilFoto.7df6d9c660e45a3f8ddd.png",
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
     "static/media/Book.png": "/static/media/Book.916f970eb32e68892106.png",
+    "static/media/LogoComitato.png": "/static/media/LogoComitato.f7b32d425fadd18334de.png",
     "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
+    "static/media/LogoAFraentzel.png": "/static/media/LogoAFraentzel.d9282a61d9b0345c91bb.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.565894e9072113410030.png",
     "static/media/oeil.png": "/static/media/oeil.57fe0dbb51d8f07a097d.png",
+    "static/media/LogoABalabanoff.png": "/static/media/LogoABalabanoff.f9eb8050980c3cb8c88a.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.7dfa2d899cf70dbb7f5f.png",
+    "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
     "static/media/Link.png": "/static/media/Link.afd2d7d0b71a803afa50.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
+    "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
-    "main.9134a723.css.map": "/static/css/main.9134a723.css.map",
-    "main.1cfb9849.js.map": "/static/js/main.1cfb9849.js.map"
+    "main.90daa53a.css.map": "/static/css/main.90daa53a.css.map",
+    "main.6ea760b9.js.map": "/static/js/main.6ea760b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.9134a723.css",
-    "static/js/main.1cfb9849.js"
+    "static/css/main.90daa53a.css",
+    "static/js/main.6ea760b9.js"
   ]
 }
