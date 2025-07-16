@@ -9,6 +9,13 @@ import Link from "../../assets/images/Link.png";
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import LinkVide from "../../assets/images/LinkVide.png";
+import LogoOpenPolis from "../../assets/images/LogoOpenPolis.png";
+import LogoComitato from "../../assets/images/LogoComitato.png";
+import LogoAFraentzel from "../../assets/images/LogoAFraentzel.png";
+import LogoABalabanoff from "../../assets/images/LogoABalabanoff.png";
+import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
+import LogoPianobi from "../../assets/images/LogoPianobi.png";
+import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
@@ -40,6 +47,260 @@ const LinksPage = () => {
         <p>irma.alonzo@pec.it - tel: 389 639 1150</p>
         <p>cielincitta.org</p>
       </div>
+
+      <div className={styles.TitleListPartners}>
+        <p>
+          <Trans
+            i18nKey="links.TitleListPartners"
+            components={{ br: <br /> }}
+          />
+        </p>
+      </div>
+      <div className={styles.NamePartners}>
+        {/* --- OpenPolice --- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a href="https://www.openpolis.it/" rel="noopener noreferrer">
+              <img
+                src={LogoOpenPolis}
+                alt={t("links.logoOpenPolis")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/openpolis/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/openpolis/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.Openpolis" />
+        </div>
+
+        {/* comitato di quartiere Casilina vecchia */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://comitatocvm.altervista.org/index.html"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoComitato}
+                alt={t("links.logoComitato")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/comitato_mandrione/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/comitatocvm/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.Comitato" />
+        </div>
+        {/* Istituto Anna Fraentzel */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.icannacelli.edu.it/la-scuola/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoAFraentzel}
+                alt={t("links.logoComitato")}
+                className={styles.icon}
+              />
+            </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            <a
+              href="https://www.facebook.com/pages/Istituto-Comprensivo-Statale-Anna-Fraentzel-Celli/681756385208329/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.ICAFraentzel" />
+        </div>
+        {/* IC angelica Balabanoff */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.icbalabanoff.edu.it/la-scuola/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoABalabanoff}
+                alt={t("links.LogoABalabanoff")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/explore/locations/108140782552046/scuola-media-angelica-balabanoff/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/pages/Scuola%20Media%20Angelica%20Balabanoff/108140782552046/#about"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.ICABalabanoff" />
+        </div>
+        {/* IIS Confalonieri De Chirico */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.confalonieridechirico.edu.it/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoConfalonieri}
+                alt={t("links.LogoConfalonieri")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/confalonieridechirico_official/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+          </div>
+          <Trans i18nKey="links.NamePartners.IISConfalonieri" />
+        </div>
+        {/* --- Pianobi--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a href="https://www.pianobi.info" rel="noopener noreferrer">
+              <img
+                src={LogoPianobi}
+                alt={t("links.logoPianobi")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/pianobi_artecontemporanea/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/pianobi.info/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.pianoB" />
+        </div>
+        {/* --- Spazio Y--- */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a href="https://spazioy.com/" rel="noopener noreferrer">
+              <img
+                src={LogoSpazioY}
+                alt={t("links.logoSpazioY")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/spazio.y/?hl=it"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/SpazioY/?locale=it_IT"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.spazioY" />
+        </div>
+        {/* --- Istituto Anna Fraentzel--- */}
+      </div>
+
       <div className={styles.TitleListCurators}>
         <p>
           <Trans
@@ -710,67 +971,6 @@ const LinksPage = () => {
             </a>
           </div>
           <Trans i18nKey="links.NameArtists.studioA" />
-        </div>
-        {/* --- Pianobi--- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://www.pianobi.info" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
-            <a
-              href="https://www.instagram.com/pianobi_artecontemporanea/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/pianobi.info/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NameArtists.pianoB" />
-        </div>
-        {/* --- Spazio Y--- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://spazioy.com/" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
-            <a
-              href="https://www.instagram.com/spazio.y/?hl=it"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/SpazioY/?locale=it_IT"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NameArtists.spazioY" />
         </div>
       </div>
     </div>

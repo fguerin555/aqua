@@ -226,6 +226,17 @@
     "pageTitle": "Contatti",
     "LogoCiC": "Logo Associazione Ciel in Città",
     "cielincitta": "Associazione Ciel'in Città",
+    "TitleListPartners": "Partners",
+    "NamePartners": {
+      "Openpolis": "Openpolis",
+      "Comitato": "Comitato di Quartiere <br/>Casilina Vecchia - Mandrione",
+      "pianoB": "Pianobi",
+      "spazioY": "Spazio Y",
+      "ICAFraentzel": "Istituto Comprensivo <br/> Anna Fraentzel Celli",
+      "ICABalabanoff": "Istituto Comprensivo <br/> Angelica Balabanoff",
+      "IISConfalonieri": "I.I.S. Confalonieri de Chirico"
+    },
+
     "TitleListCurators": "Curatrici/curatore",
     "NameCurators": {
       "adrianaP": "Adriana Polveroni",
@@ -252,9 +263,7 @@
       "alfredoP": "Alfredo Pirri",
       "fabrizioP": "Fabrizio Plessi",
       "lorenzaR": "Lorenza Ricci",
-      "studioA": "Studio Azzuro",
-      "pianoB": "Pianobi",
-      "spazioY": "Spazio Y"
+      "studioA": "Studio Azzuro"
     },
     "Link": "Link",
     "Facebook": "Facebook",
