@@ -226,6 +226,12 @@
     "pageTitle": "Contatti",
     "LogoCiC": "Logo Associazione Ciel in Città",
     "cielincitta": "Associazione Ciel'in Città",
+
+    "TitleListComunicazione": "Contatti",
+    "NameComunicazione": {
+      "NicolettaG": "Nicoletta Graziano"
+    },
+
     "TitleListPartners": "Partners",
     "NamePartners": {
       "Openpolis": "Openpolis",
