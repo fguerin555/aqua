@@ -198,6 +198,43 @@
 }
 
 /* --- Styles pour la liste des artistes (Mise à jour et responsive) --- */
+.TitleListCom {
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.TitleListCom p {
+  font-size: 30px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin: 0;
+}
+.NameCom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
+.TitleListPartners {
+  width: 100%;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.TitleListPartners p {
+  font-size: 30px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin: 0;
+}
 .TitleListCurators {
   width: 100%;
   text-align: center;
@@ -211,6 +248,7 @@
   text-shadow: 2px 2px 2px #000;
   margin: 0;
 }
+
 .NameCurators {
   display: flex;
   flex-direction: column;
@@ -220,19 +258,6 @@
   max-width: 800px;
   margin: 0 auto;
   margin-bottom: 15px;
-}
-.TitleListPartners {
-  width: 100%;
-  text-align: center;
-  margin-top: 40px;
-  margin-bottom: 20px;
-}
-.TitleListPartners p {
-  font-size: 30px;
-  color: #e9f2fd;
-  font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
-  margin: 0;
 }
 .NamePartners {
   display: flex;
@@ -337,17 +362,26 @@
   .LinksCIC p {
     font-size: 20px !important;
   }
+  .TitleListCom p {
+    font-size: 28px;
+  }
+
   .MailProjet p {
     font-size: 20px !important;
   }
 
   /* Artist List Responsive */
+  .TitleListPartners p {
+    font-size: 27px;
+  }
+
+  .TitleListCurators p {
+    font-size: 28px;
+  }
   .TitleListArtists p {
     font-size: 28px;
   }
-  .TitleListCurators p {
-    font-size: 26px;
-  }
+
   .ArtistNameAndIcons {
     font-size: 20px;
     max-width: 450px;
@@ -392,13 +426,20 @@
   .MailProjet p {
     font-size: 16px;
   }
-
-  /* Artist List Responsive */
-  .TitleListArtists p {
+  .TitleListCom p {
     font-size: 24px;
   }
+  /* Artist List Responsive */
+  .TitleListPartners p {
+    font-size: 24px;
+  }
+
   .TitleListCurators p {
-    font-size: 22px;
+    font-size: 24px;
+  }
+
+  .TitleListArtists p {
+    font-size: 24px;
   }
   .NameArtists {
     width: 95%;
@@ -449,12 +490,17 @@
   .MailProjet p {
     font-size: 16px !important;
   }
-
-  /* Artist List Responsive */
-  .TitleListArtists p {
+  .TitleListCom p {
     font-size: 22px;
   }
-  .TitleListCuratorsts p {
+  /* Artist List Responsive */
+  .TitleListPartners p {
+    font-size: 22px;
+  }
+  .TitleListCurators p {
+    font-size: 22px;
+  }
+  .TitleListArtists p {
     font-size: 22px;
   }
   .ArtistNameAndIcons {

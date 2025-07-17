@@ -30,13 +30,13 @@ const LinksPage = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-      <div className={styles.MailProjet}>
+      {/* <div className={styles.MailProjet}>
         <p>
           <a href="mailto:ilraccontodellacqua@gmail.com">
             ilraccontodellacqua@gmail.com
           </a>
         </p>
-      </div>
+      </div> */}
       <div className={styles.liensite}>
         <div className={styles.LogoCiC}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
@@ -66,11 +66,52 @@ const LinksPage = () => {
           </a>
         </p>
       </div>
-      {/* <div className={styles.LinksCIC}>
-        <p>c.f. 97994670582 - cielincitta@gmail.com</p>
-        <p>irma.alonzo@pec.it - tel: 389 639 1150</p>
-        <p>cielincitta.org</p>
-      </div> */}
+      <div className={styles.TitleListCom}>
+        <p>
+          <Trans i18nKey="links.TitleListCom" components={{ br: <br /> }} />
+        </p>
+      </div>
+      <div className={styles.NameCom}>
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+            <a
+              href="https://www.instagram.com/ilraccontodellacqua/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/ilraccontodellacqua"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameCom.NicolettaG" />
+        </div>
+        <div className={styles.MailProjet}>
+          <p>
+            <a href="mailto:ilraccontodellacqua@gmail.com">
+              ilraccontodellacqua@gmail.com
+            </a>
+          </p>
+        </div>
+      </div>
 
       <div className={styles.TitleListPartners}>
         <p>
