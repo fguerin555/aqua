@@ -31,7 +31,11 @@ const LinksPage = () => {
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
       <div className={styles.MailProjet}>
-        <p>ilraccontodellacqua@gmail.com</p>
+        <p>
+          <a href="mailto:ilraccontodellacqua@gmail.com">
+            ilraccontodellacqua@gmail.com
+          </a>
+        </p>
       </div>
       <div className={styles.liensite}>
         <div className={styles.LogoCiC}>
@@ -42,11 +46,31 @@ const LinksPage = () => {
         </div>
       </div>
 
+      <div className={styles.CodiceFiscale}>
+        <p>c.f. 97994670582 </p>
+      </div>
+
       <div className={styles.LinksCIC}>
+        <p>
+          <a href="mailto:cielincitta@gmail.com">cielincitta@gmail.com</a>
+        </p>
+        <p>
+          <a href="mailto:irma.alonzo@pec.it">irma.alonzo@pec.it</a>
+        </p>
+        <p>
+          <a href="tel:3896391150">tel: 389 639 1150</a>
+        </p>
+        <p>
+          <a href="https://cielincitta.org" rel="noopener noreferrer">
+            cielincitta.org
+          </a>
+        </p>
+      </div>
+      {/* <div className={styles.LinksCIC}>
         <p>c.f. 97994670582 - cielincitta@gmail.com</p>
         <p>irma.alonzo@pec.it - tel: 389 639 1150</p>
         <p>cielincitta.org</p>
-      </div>
+      </div> */}
 
       <div className={styles.TitleListPartners}>
         <p>
