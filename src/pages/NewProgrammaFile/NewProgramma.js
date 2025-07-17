@@ -1396,21 +1396,21 @@ const Programma = () => {
               to: (
                 <FromStation
                   className={styles.IconStandard}
-                  imageMap={ToParcoTorFiscaleImageMap}
+                  imageMap={ToPianoBiImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
               book: (
                 <Book
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleBookImageMap}
+                  imageMap={PianoBiBookImageMap}
                   altKey="program.bookAlt"
                 />
               ),
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  imageMap={PianoBiFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
@@ -1436,21 +1436,21 @@ const Programma = () => {
               to: (
                 <FromStation
                   className={styles.IconStandard}
-                  imageMap={ToPianoBiImageMap}
+                  imageMap={ToParcoTorFiscaleImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
               book: (
                 <Book
                   className={styles.IconStandard}
-                  imageMap={PianoBiBookImageMap}
+                  imageMap={ParcoTorFiscaleBookImageMap}
                   altKey="program.bookAlt"
                 />
               ),
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={PianoBiFotoImageMap}
+                  imageMap={ParcoTorFiscaleFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),

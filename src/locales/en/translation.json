@@ -163,13 +163,13 @@
       "artistList": "Artists: <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
       "location1": {
         "name": "",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Roma"
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
       },
       "location2": {
         "name": "",
-        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
-        "mapQuery": "Via dei Ciceri 97/99, Roma"
+        "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Roma"
       },
       "location3": {
         "name": "",
