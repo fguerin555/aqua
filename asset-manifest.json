@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.28bef421.css",
-    "main.js": "/static/js/main.6f19ba3a.js",
+    "main.css": "/static/css/main.51ac29d2.css",
+    "main.js": "/static/js/main.d4b3a7f7.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -200,11 +200,11 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
-    "main.28bef421.css.map": "/static/css/main.28bef421.css.map",
-    "main.6f19ba3a.js.map": "/static/js/main.6f19ba3a.js.map"
+    "main.51ac29d2.css.map": "/static/css/main.51ac29d2.css.map",
+    "main.d4b3a7f7.js.map": "/static/js/main.d4b3a7f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.28bef421.css",
-    "static/js/main.6f19ba3a.js"
+    "static/css/main.51ac29d2.css",
+    "static/js/main.d4b3a7f7.js"
   ]
 }
