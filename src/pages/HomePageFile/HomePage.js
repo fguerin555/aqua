@@ -18,9 +18,6 @@ const Home = () => {
         <div className={styles.BackgroundFoto}>
           <img src={BackgroundFoto} alt={t("home.backgroundAlt")} />
         </div>
-        {/* <div className={styles.Credits}>
-          <p>{t("home.credits")}</p>
-        </div> */}
 
         <div className={styles.CiCpresenta}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
