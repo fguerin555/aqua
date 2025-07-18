@@ -40,7 +40,7 @@
       },
       "location2": {
         "time_and_name": "12 September at 9 PM <br/> Spazio Y",
-        "address": "via dei Juvenci 11<br/> municipio XI <br/><map2/><toSpazioY_1/><book_spazioY/><br/><br/>",
+        "address": "via dei Juvenci 11<br/> municipio VII <br/><map2/><toSpazioY_1/><book_spazioY/><br/><br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, Rome.",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
@@ -70,7 +70,7 @@
         "mapQuery": "Casale di Tor Fiscale, PArco di Tor Fiscale, Roma."
       },
       "location3": {
-        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via Casilina Vecchia<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "Via casilina Vecchia, municipio VII",
         "imageAlt": "Via casilina Vecchia, municipio VII",
         "mapQuery": "Via casilina Vecchia, Roma."
@@ -109,7 +109,7 @@
       },
       "description2": "<br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus",
       "location9": {
-        "time_and_name": "12 September at 6 PM <br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
+        "time_and_name": "12 September at 6 PM <br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
         "address": "via dei juvenci, 11, Roma.",
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
@@ -174,8 +174,8 @@
       "name": "The Beauty of Water",
       "description": "Creation of works themed on water and its sustainability. <br /><br/>Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time. <br /><br/>Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99. <br /><br/>Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.<br/><br/>",
       "time1": "Imago Acquae-Urbis <br/>by Mercedes Klausner <br />Curated by Isabella Vitale<br/>Opening on 4 October <br/>at 7 PM<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Isabella Vitale<br/>Opening on 10 October <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "Ri-Sorgente <br/>by Laurent le Deunff <br />Curated by Isabella Vitale<br/>Opening Opening on 29 November <br/>at 7 PM<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "<br/>The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Isabella Vitale<br/>Opening on 10 October <br/>at 7 PM<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "Ri-Sorgente <br/>by Laurent le Deunff <br />Curated by Isabella Vitale<br/>Opening Opening on 29 November <br/>at 7 PM<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
       "artistList": "Artists: <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Curators: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Free access",
       "location1": {
@@ -185,13 +185,13 @@
       },
       "location2": {
         "name": "",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell'Acquedotto Felice 120, Roma"
+        "imageAlt": "Parco di Tor Fiscale, Via dell'Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Via dell'Acquedotto Felice 120, Roma"
       },
       "location3": {
         "name": "",
-        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "imageAlt": "Parc de Tor Fiscale, Via dell' Acquedotto Felice 120, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Via dell' Acquedotto Felice 120, Roma"
       }
     },
 

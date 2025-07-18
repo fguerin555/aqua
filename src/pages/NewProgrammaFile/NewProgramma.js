@@ -94,6 +94,7 @@ import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
 import Acquedotto from "../../assets/images/Acquedotto.png";
+import Acquedotto2 from "../../assets/images/Acquedotto2.png";
 
 import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";
 import ToCasaPirriEN from "../../assets/images/ToCasaPirriEN.png";
@@ -171,6 +172,7 @@ import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
 import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
 import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
 import ParcodiTorFiscale2 from "../../assets/images/ParcodiTorFiscale2.png";
+import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
 import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
@@ -188,14 +190,13 @@ import ToViaDellAcquaFeliceIT from "../../assets/images/ToViaDellAcquaFeliceIT.p
 import ToViaDellAcquaFeliceEN from "../../assets/images/ToViaDellAcquaFeliceEN.png";
 import ToViaDellAcquaFeliceFR from "../../assets/images/ToViaDellAcquaFeliceFR.png";
 
-import VicolodellAcquedottoFelice from "../../assets/images/VicolodellAcquedottoFelice.png";
-
-import VicoloDellAcquedottoFeliceIT from "../../assets/images/VicoloDellAcquedottoFeliceIT.png";
-import VicoloDellAcquedottoFeliceFR from "../../assets/images/VicoloDellAcquedottoFeliceFR.png";
-import VicoloDellAcquedottoFeliceEN from "../../assets/images/VicoloDellAcquedottoFeliceEN.png";
-import ToVicoloDellAcquedottoFeliceIT from "../../assets/images/ToVicoloDellAcquedottoFeliceIT.png";
-import ToVicoloDellAcquedottoFeliceEN from "../../assets/images/ToVicoloDellAcquedottoFeliceEN.png";
-import ToVicoloDellAcquedottoFeliceFR from "../../assets/images/ToVicoloDellAcquedottoFeliceFR.png";
+// import VicolodellAcquedottoFelice from "../../assets/images/VicolodellAcquedottoFelice.png";
+// import VicoloDellAcquedottoFeliceIT from "../../assets/images/VicoloDellAcquedottoFeliceIT.png";
+// import VicoloDellAcquedottoFeliceFR from "../../assets/images/VicoloDellAcquedottoFeliceFR.png";
+// import VicoloDellAcquedottoFeliceEN from "../../assets/images/VicoloDellAcquedottoFeliceEN.png";
+// import ToVicoloDellAcquedottoFeliceIT from "../../assets/images/ToVicoloDellAcquedottoFeliceIT.png";
+// import ToVicoloDellAcquedottoFeliceEN from "../../assets/images/ToVicoloDellAcquedottoFeliceEN.png";
+// import ToVicoloDellAcquedottoFeliceFR from "../../assets/images/ToVicoloDellAcquedottoFeliceFR.png";
 
 import ViadelMandrione from "../../assets/images/ViadelMandrione.png";
 import ViadelMandrioneIT from "../../assets/images/ViadelMandrioneIT.png";
@@ -244,11 +245,11 @@ import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
 import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
 import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
 
-import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
+// import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
-import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
+// import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -586,11 +587,13 @@ const Programma = () => {
     en: Casale,
     fr: Casale,
   };
-  const CasaleImageMap = {
-    it: CasaleIT,
-    en: CasaleEN,
-    fr: CasaleFR,
-  };
+
+  // const CasaleImageMap = {
+  //   it: CasaleIT,
+  //   en: CasaleEN,
+  //   fr: CasaleFR,
+  // };
+
   const ToCasaleImageMap = {
     it: ToCasaleIT,
     en: ToCasaleEN,
@@ -603,10 +606,21 @@ const Programma = () => {
     fr: ParcoTorFiscaleFR,
   };
 
-  const ParcoTorFiscaleFotoImageMap = {
+  const ParcodiTorFiscaleFotoImageMap = {
     it: ParcodiTorFiscale2,
     en: ParcodiTorFiscale2,
     fr: ParcodiTorFiscale2,
+  };
+
+  const ParcoDiTorFiscaleFotoImageMap = {
+    it: ParcoDiTorFiscale,
+    en: ParcoDiTorFiscale,
+    fr: ParcoDiTorFiscale,
+  };
+  const Acquedotto2FotoImageMap = {
+    it: Acquedotto2,
+    en: Acquedotto2,
+    fr: Acquedotto2,
   };
 
   const ViaDiTorreBrancaBookImageMap = {
@@ -683,7 +697,7 @@ const Programma = () => {
       mapQueryKey: "program.appointment2.location7.mapQuery",
       fromStationImageMap: ToParcoTorFiscaleImageMap,
       bookImageMap: ParcoTorFiscaleBookImageMap,
-      fotoImageMap: ParcoTorFiscaleFotoImageMap,
+      fotoImageMap: ParcodiTorFiscaleFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location2.time_and_name",
@@ -1139,7 +1153,7 @@ const Programma = () => {
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  imageMap={Acquedotto2FotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
@@ -1529,7 +1543,7 @@ const Programma = () => {
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  imageMap={ParcoDiTorFiscaleFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
@@ -1569,7 +1583,7 @@ const Programma = () => {
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleFotoImageMap}
+                  imageMap={ParcoDiTorFiscaleFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),

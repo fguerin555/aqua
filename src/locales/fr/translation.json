@@ -61,14 +61,14 @@
 
       "location1": {
         "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "address": "Parco di Tor Fiscale, Municipio VII",
-        "imageAlt": "Parco di Tor Fiscale, Municipio VII",
+        "address": "Parco di Tor Fiscale, municipio VII",
+        "imageAlt": "Parco di Tor Fiscale, municipio VII",
         "mapQuery": "Parco di Tor Fiscale, Roma"
       },
       "location2": {
         "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "imageAlt": "Casale di Tor Fiscale, Roma.",
-        "mapQuery": "Casale di Tor Fiscale, PArco di Tor Fiscale, Roma."
+        "imageAlt": "Casale di Tor Fiscale, municipio VII",
+        "mapQuery": "Casale di Tor Fiscale, Parco di Tor Fiscale, Roma."
       },
       "location3": {
         "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
@@ -84,8 +84,8 @@
       },
       "location5": {
         "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "address": "Via dell’Acqua Felice, Roma.",
-        "imageAlt": "Via dell’Acqua Felice, Roma.",
+        "address": "Via dell’Acqua Felice, municipio VII",
+        "imageAlt": "Via dell’Acqua Felice, municipio VII",
         "mapQuery": "Via dell’Acqua Felice, Roma."
       },
       "location6": {
@@ -97,7 +97,7 @@
 
       "location7": {
         "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "address": "Via di Torre Branca, Roma.",
+        "address": "Via di Torre Branca, municipio VII",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
@@ -113,7 +113,7 @@
 
       "location9": {
         "time_and_name": " 25 Septembre à partir de 18 heures <br/ ><br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
-        "address": "via dei juvenci, 11, Roma.",
+        "address": "via dei juvenci, 11, Municipio VII",
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
       },
@@ -177,8 +177,8 @@
       "name": "La Beauté de l'Eau",
       "description": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br />L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br /> <br/>Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /><br/> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.<br/><br/>",
       "time1": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Isabella Vitale<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Isabella Vitale<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Tor Fiscale, Via dell'Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
       "artistList": "Artistes : <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Commissaires: <br /> ADRIANA POLVERONI <br />ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
@@ -188,13 +188,13 @@
       },
       "location2": {
         "name": "",
-        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "imageAlt": "Parc de Tor Fiscale, Via dell' Acquedotto Felice 120, Roma",
+        "mapQuery": "Parco di Tor Fiscale, Via dell' Acquedotto Felice 120, Roma"
       },
       "location3": {
         "name": "",
-        "imageAlt": "Parc de Torre del Fiscale, Via dell' Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "imageAlt": "Parc de Tor Fiscale, Via dell' Acquedotto Felice 120, Roma",
+        "mapQuery": "Parco di Tor Fiscale, Via dell' Acquedotto Felice 120, Roma"
       }
     },
 

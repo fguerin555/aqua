@@ -43,8 +43,8 @@
 
       "location2": {
         "time_and_name": "12 Settembre 21.00 <br/> Spazio Y",
-        "address": "via dei Juvenci 11<br/> municipio XI <br/><map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
-        "imageAlt": "Spazio Y, via dei Juvenci 11, municipio XI",
+        "address": "via dei Juvenci 11<br/> municipio VII <br/><map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
+        "imageAlt": "Spazio Y, via dei Juvenci 11, municipio VII",
         "mapQuery": "Via dei Juvenci 11, Roma"
       },
 
@@ -70,10 +70,10 @@
       "location2": {
         "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "imageAlt": "Casale di Tor Fiscale, Roma.",
-        "mapQuery": "Casale di Tor Fiscale, PArco di Tor Fiscale, Roma."
+        "mapQuery": "Casale di Tor Fiscale, Parco di Tor Fiscale, Roma."
       },
       "location3": {
-        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via Casilina Vecchia<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "Via casilina Vecchia, municipio VII",
         "imageAlt": "Via casilina Vecchia, municipio VII",
         "mapQuery": "Via casilina Vecchia, Roma."
@@ -99,8 +99,8 @@
 
       "location7": {
         "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "address": "Via di Torre Branca, Roma.",
-        "imageAlt": "Via di Torre Branca, Roma.",
+        "address": "Via di Torre Branca, municipio VII",
+        "imageAlt": "Via di Torre Branca, municipio VII",
         "mapQuery": "Via di Torre Branca, Roma."
       },
 
@@ -113,9 +113,9 @@
 
       "description2": "Mostra/restituzione di performance di disegno acquatico di Pamela Pintus.",
       "location9": {
-        "time_and_name": "12 Settembre alle 18<br /> <br/>Spazio Y<br />via dei Juvenci, 11<br />municipio V<br /><map /><to></to><book></book><foto />",
-        "address": "via dei Juvenci, 11, Roma.",
-        "imageAlt": "via dei Juvenci, 11, Roma.",
+        "time_and_name": "12 Settembre alle 18<br /> <br/>Spazio Y<br />via dei Juvenci, 11<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "via dei Juvenci, 11, municipio VII",
+        "imageAlt": "via dei Juvenci, 11, municipio VII",
         "mapQuery": "via dei Juvenci, 11, Roma."
       },
       "artistList": "Artisti:<br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/>Curatrice: <br/>ADRIANA POLVERONI<br /><br />Accesso libero"
@@ -177,8 +177,8 @@
       "name": "La Bellezza dell'Acqua",
       "description": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità. <br/><br />L'opera di Paolo Assenza consiste una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br /><br />Mercedes Klausner, ospitata in residenza da progetto Pianobi, realizzerà un’opera utilizzando della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’Acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate sui muri di progetto Pianobi in via dei ciceri 99. <br /><br />  Laurent le Deunff, durante la sua residenza presso la sede operativa di Pianobi, realizzerà una fontana dalla forma zoomorfa. L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del giubileo. I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate<br/><br/>",
       "time1": "Imago Acquae-Urbis <br/>di Mercedes Klausner <br/>A cura di Isabella Vitale<br/> Inaugurazione 4 Ottobre 2025 <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>La Fontana delle Brume <br/>di Paolo Assenza<br/>A cura di Isabella Vitale<br/>Inaugurazione 10 Ottobre <br/>alle 19.00<br/>Parco di Torre del Fiscale<br/> Via dell' Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "Ri-Sorgente <br/>di Laurent le Deunff <br />A cura di Isabella Vitale<br/>Inaugurazione 29 Novembre <br/>alle 19<br/>Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "<br/>La Fontana delle Brume <br/>di Paolo Assenza<br/>A cura di Isabella Vitale<br/>Inaugurazione 10 Ottobre <br/>alle 19.00<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "Ri-Sorgente <br/>di Laurent le Deunff <br />A cura di Isabella Vitale<br/>Inaugurazione 29 Novembre <br/>alle 19<br/>Parco di Tor Fiscale, Via dell'Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
       "artistList": "Artisti: <br />PAOLO ASSENZA <br />MERCEDES KLAUSNER <br />LAURENT LE DEUNFF <br /><br/>Curatrici:<br/ >ADRIANA POLVERONI <br /> ISABELLA VITALE <br /><br/>Accesso libero",
       "location1": {
@@ -188,13 +188,13 @@
       },
       "location2": {
         "name": "",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "imageAlt": "Parco di Tor del Fiscale, Via dell' Acquedotto Felice 120, Roma",
+        "mapQuery": "Parco di Tor  del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       },
       "location3": {
         "name": "",
-        "imageAlt": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma",
-        "mapQuery": "Parco di Torre del Fiscale, Via dell' Acquedotto Felice 120, Roma"
+        "imageAlt": "Parco di Tor del Fiscale, Via dell' Acquedotto Felice 120, Roma",
+        "mapQuery": "Parco di Tor del Fiscale, Via dell' Acquedotto Felice 120, Roma"
       }
     },
     "appointment6": {
