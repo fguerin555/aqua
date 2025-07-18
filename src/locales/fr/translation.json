@@ -101,7 +101,7 @@
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
       },
-      "artistList": "Artistes : <br /><OV/><OV/>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/>ADRIANA POLVERONI <br /><br />  Accès libre"
+      "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/>ADRIANA POLVERONI <br /><br />  Accès libre"
     },
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",

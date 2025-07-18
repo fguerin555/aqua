@@ -82,6 +82,15 @@ import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
 import Pirri0 from "../../assets/images/Pirri0.png";
 
+import IginiodeLucaW1 from "../../assets/images/IginiodeLucaW1.png";
+import IginiodeLucaW3 from "../../assets/images/IginiodeLucaW3.png";
+import IginiodeLucaW4 from "../../assets/images/IginiodeLucaW4.png";
+import IginiodeLucaW6 from "../../assets/images/IginiodeLucaW6.png";
+import IginiodeLucaW7 from "../../assets/images/IginiodeLucaW7.png";
+import IginiodeLucaIT from "../../assets/images/IginiodeLucaIT.png";
+import IginiodeLucaEN from "../../assets/images/IginiodeLucaEN.png";
+import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
+
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
 import Acquedotto from "../../assets/images/Acquedotto.png";
@@ -334,6 +343,21 @@ const Programma = () => {
     { src: IrmaAlonzo3, alt: "" },
     { src: IrmaAlonzo4, alt: "" },
   ];
+
+  const IginiodeLucaImages = [
+    { src: IginiodeLucaW1, alt: "" },
+
+    { src: IginiodeLucaW3, alt: "" },
+    { src: IginiodeLucaW4, alt: "" },
+
+    { src: IginiodeLucaW6, alt: "" },
+    { src: IginiodeLucaW7, alt: "" },
+  ];
+  const IginiodeLucaBookImages = {
+    it: IginiodeLucaIT,
+    en: IginiodeLucaEN,
+    fr: IginiodeLucaFR,
+  };
 
   const ToCasaPirriImageMap = {
     it: ToCasaPirriIT,
@@ -951,6 +975,19 @@ const Programma = () => {
             i18nKey="program.appointment2.artistList"
             components={{
               br: <br />,
+              carousel_iginio: (
+                <ButtonCarousel
+                  images={IginiodeLucaImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_iginio: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={IginiodeLucaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
               carousel_pamela: (
                 <ButtonCarousel
                   images={PamelaPImages}
@@ -964,17 +1001,11 @@ const Programma = () => {
                   altKey="program.bookAlt"
                 />
               ),
-              OV: (
-                <OeilVide
-                  imageMap={OVImageMap}
-                  altKey="program.artistPlaceholderAlt"
-                  className={styles.IconStandard}
-                />
-              ),
             }}
           />
         </div>
       </div>
+
       {/* --------------------------------------------------3------------- */}
 
       <div className={styles.TitleAppuntamento}>
