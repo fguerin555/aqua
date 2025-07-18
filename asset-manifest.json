@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.561bdc11.css",
-    "main.js": "/static/js/main.dcc87d63.js",
+    "main.js": "/static/js/main.5dc140dc.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -11,6 +11,7 @@
     "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.4d4d6c2dc4241728ab00.png",
     "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
     "static/media/ViadellAcquedottoFelice.png": "/static/media/ViadellAcquedottoFelice.6463cb7966866bab40f3.png",
+    "static/media/Acquedotto2.png": "/static/media/Acquedotto2.bf12e9f9fa73a368533a.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
@@ -44,7 +45,6 @@
     "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
     "static/media/CentroAnziani.png": "/static/media/CentroAnziani.e48e596b13fbbd072f8f.png",
     "static/media/SpazioY.png": "/static/media/SpazioY.902302616b7496c9e790.png",
-    "static/media/VicolodellAcquedottoFelice.png": "/static/media/VicolodellAcquedottoFelice.279ea885fe00a3bf2921.png",
     "static/media/ABalabanoff.png": "/static/media/ABalabanoff.900ddb7a3736e2de4f8e.png",
     "static/media/IginiodeLucaW7.png": "/static/media/IginiodeLucaW7.bd9d83a31caa2492b352.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
@@ -62,7 +62,6 @@
     "static/media/Madscud2.png": "/static/media/Madscud2.ea4689374dfcb735e984.png",
     "static/media/ABalabanoffIT.png": "/static/media/ABalabanoffIT.1c5a14463475ab8ddf1d.png",
     "static/media/ABalabanoffEN.png": "/static/media/ABalabanoffEN.ebdfcb53a881b911ec5d.png",
-    "static/media/VillaDeSanctis.png": "/static/media/VillaDeSanctis.d64cd75f96978a0d1b2f.png",
     "static/media/MaddalenaCVE.png": "/static/media/MaddalenaCVE.f23d9d1d6dd7e55dee25.png",
     "static/media/GiancarloCVF.png": "/static/media/GiancarloCVF.c24febeadf06f15fbd9e.png",
     "static/media/MaddalenaCVF.png": "/static/media/MaddalenaCVF.b2c35037c54c998a8881.png",
@@ -173,10 +172,8 @@
     "static/media/ToABalabanoffFR.png": "/static/media/ToABalabanoffFR.0f2996931296724b5e03.png",
     "static/media/ToConfalonieriFR.png": "/static/media/ToConfalonieriFR.0f2996931296724b5e03.png",
     "static/media/ToViaDellAcquaFeliceFR.png": "/static/media/ToViaDellAcquaFeliceFR.4074ecaa05bdef541252.png",
-    "static/media/ToVicoloDellAcquedottoFeliceFR.png": "/static/media/ToVicoloDellAcquedottoFeliceFR.4074ecaa05bdef541252.png",
     "static/media/ViaDellAcquaFeliceFR.png": "/static/media/ViaDellAcquaFeliceFR.4074ecaa05bdef541252.png",
     "static/media/ViaDiTorreBrancaFR.png": "/static/media/ViaDiTorreBrancaFR.4074ecaa05bdef541252.png",
-    "static/media/VicoloDellAcquedottoFeliceFR.png": "/static/media/VicoloDellAcquedottoFeliceFR.4074ecaa05bdef541252.png",
     "static/media/CasaleIT.png": "/static/media/CasaleIT.12b9b3b1bed5c519996a.png",
     "static/media/ToCasaleIT.png": "/static/media/ToCasaleIT.12b9b3b1bed5c519996a.png",
     "static/media/ToViaTuscolanaIT.png": "/static/media/ToViaTuscolanaIT.12b9b3b1bed5c519996a.png",
@@ -187,10 +184,8 @@
     "static/media/ToConfalonieriIT.png": "/static/media/ToConfalonieriIT.ffb2398f38cceb4d3796.png",
     "static/media/ToViaDellAcquaFeliceIT.png": "/static/media/ToViaDellAcquaFeliceIT.702f48de83e889bf0a8a.png",
     "static/media/ToViaDiTorreBrancaIT.png": "/static/media/ToViaDiTorreBrancaIT.702f48de83e889bf0a8a.png",
-    "static/media/ToVicoloDellAcquedottoFeliceIT.png": "/static/media/ToVicoloDellAcquedottoFeliceIT.702f48de83e889bf0a8a.png",
     "static/media/ViaDellAcquaFeliceIT.png": "/static/media/ViaDellAcquaFeliceIT.702f48de83e889bf0a8a.png",
     "static/media/ViaDiTorreBrancaIT.png": "/static/media/ViaDiTorreBrancaIT.702f48de83e889bf0a8a.png",
-    "static/media/VicoloDellAcquedottoFeliceIT.png": "/static/media/VicoloDellAcquedottoFeliceIT.702f48de83e889bf0a8a.png",
     "static/media/CasaleEN.png": "/static/media/CasaleEN.c7a0d998e2f0ddfa4b02.png",
     "static/media/ToCasaleEN.png": "/static/media/ToCasaleEN.c7a0d998e2f0ddfa4b02.png",
     "static/media/ToViaTuscolanaEN.png": "/static/media/ToViaTuscolanaEN.c7a0d998e2f0ddfa4b02.png",
@@ -201,10 +196,8 @@
     "static/media/ToConfalonieriEN.png": "/static/media/ToConfalonieriEN.fe224032fe36a96fb4a3.png",
     "static/media/ToViaDellAcquaFeliceEN.png": "/static/media/ToViaDellAcquaFeliceEN.cbc3fd8d858a24d97464.png",
     "static/media/ToViaDiTorreBrancaEN.png": "/static/media/ToViaDiTorreBrancaEN.cbc3fd8d858a24d97464.png",
-    "static/media/ToVicoloDellAcquedottoFeliceEN.png": "/static/media/ToVicoloDellAcquedottoFeliceEN.cbc3fd8d858a24d97464.png",
     "static/media/ViaDellAcquaFeliceEN.png": "/static/media/ViaDellAcquaFeliceEN.cbc3fd8d858a24d97464.png",
     "static/media/ViaDiTorreBrancaEN.png": "/static/media/ViaDiTorreBrancaEN.cbc3fd8d858a24d97464.png",
-    "static/media/VicoloDellAcquedottoFeliceEN.png": "/static/media/VicoloDellAcquedottoFeliceEN.cbc3fd8d858a24d97464.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
     "static/media/LogoConfalonieri.png": "/static/media/LogoConfalonieri.24058c2ca8705320422c.png",
@@ -225,10 +218,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.561bdc11.css.map": "/static/css/main.561bdc11.css.map",
-    "main.dcc87d63.js.map": "/static/js/main.dcc87d63.js.map"
+    "main.5dc140dc.js.map": "/static/js/main.5dc140dc.js.map"
   },
   "entrypoints": [
     "static/css/main.561bdc11.css",
-    "static/js/main.dcc87d63.js"
+    "static/js/main.5dc140dc.js"
   ]
 }
