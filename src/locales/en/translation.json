@@ -56,44 +56,59 @@
       "sectionTitle": "APPOINTMENT 2",
       "name": "The Water Bearers",
       "time": "",
-      "description1": "Circulation through the indicated streets of Municipality VII of a water tanker <br/>transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />",
+      "description1": "September 24 from 6 PM <br/>Circulation through the indicated streets of Municipality VII of a water tanker <br/>transmitting thoughts, desires, experiences, and more, collected from the neighborhood inhabitants by Iginio De Luca.<br/><br />",
+
       "location1": {
-        "time_and_name": "24 September from 6 PM <br/> via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-        "imageAlt": "via Casilina Vecchia 19, Roma",
-        "mapQuery": "via Casilina Vecchia 19, Roma"
+        "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Parco di Tor Fiscale, Municipio VII",
+        "imageAlt": "Parco di Tor Fiscale, Municipio VII",
+        "mapQuery": "Parco di Tor Fiscale, Roma"
       },
       "location2": {
-        "time_and_name": "Via Casalina Vecchia 115<br/>municipio VII<br/><map/><to></to> <book></book><foto/>",
-        "imageAlt": "Via Casalina Vecchia 115,Roma.",
-        "mapQuery": "Via Casalina Vecchia 115,Roma."
+        "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "imageAlt": "Casale di Tor Fiscale, Roma.",
+        "mapQuery": "Casale di Tor Fiscale, PArco di Tor Fiscale, Roma."
       },
       "location3": {
-        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5<br/>municipio V<br/><map/><to></to><book></book><foto/>",
-        "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
-        "mapQuery": "via dei Giordiani 5,Roma."
+        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "address": "Via casilina Vecchia, municipio VII",
+        "imageAlt": "Via casilina Vecchia, municipio VII",
+        "mapQuery": "Via casilina Vecchia, Roma."
       },
       "location4": {
-        "time_and_name": "Via dell’Acqua Felice<br/>municipio VII. <br/><map/> <to></to><book></book><foto/>",
-        "imageAlt": "Via dell’Acqua Felice,Roma.",
-        "mapQuery": "Via dell’Acqua Felice,Roma."
+        "time_and_name": "Via del Mandrione<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via del Mandrione, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione, Roma."
       },
       "location5": {
-        "time_and_name": "Vicolo dell'Acquedotto Felice<br/>municipio VII<br/><map/><to></to><book></book> <foto/>",
-        "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
-        "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
+        "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via dell’Acqua Felice, Roma.",
+        "imageAlt": "Via dell’Acqua Felice, Roma.",
+        "mapQuery": "Via dell’Acqua Felice, Roma."
       },
       "location6": {
-        "time_and_name": "Via di Torre Branca<br/>municipio VII<br/><map/><to></to><book></book><foto></foto>",
+        "time_and_name": "Via dell’Acquedotto Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via dell’Acquedotto Felice, municipio VII",
+        "imageAlt": "Via dell’Acquedotto Felice, municipio VII",
+        "mapQuery": "Via dell’Acquedotto Felice, Roma."
+      },
+
+      "location7": {
+        "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via di Torre Branca, Roma.",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
-      "location7": {
-        "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
-        "imageAlt": "Parco di Torre del Fiscale, Roma.",
-        "mapQuery": "Parco di Torre del Fiscale, Roma."
+
+      "location8": {
+        "time_and_name": "Via Tuscolana<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via Tuscolana, municipio VII",
+        "imageAlt": "Via Tuscolana, municipio VII",
+        "mapQuery": "Via Tuscolana, Roma."
       },
       "description2": "<br/> Exhibition/restitution of performance, of aquatic drawing by Pamela Pintus",
-      "location8": {
+      "location9": {
         "time_and_name": "12 September at 6 PM <br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
         "address": "via dei juvenci, 11, Roma.",
         "imageAlt": "via dei juvenci, 11, Roma.",
@@ -238,12 +253,15 @@
       "ICABalabanoff": "Istituto Comprensivo <br/> Angelica Balabanoff",
       "IISConfalonieri": "I.I.S. Confalonieri de Chirico"
     },
+
     "TitleListCurators": "Curators",
     "NameCurators": {
+      "IrmaA": "Irma Alonzo",
       "adrianaP": "Adriana Polveroni",
       "isabellaV": "Isabella Vitale",
       "brunoD": "Bruno di Marino"
     },
+
     "TitleListArtists": "Artists",
     "NameArtists": {
       "irmaA": "Irma Alonzo",

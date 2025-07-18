@@ -140,20 +140,23 @@ import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
 import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
 import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
 
-import VillaDeSanctisIT from "../../assets/images/VillaDeSanctisIT.png";
-import VillaDeSanctisEN from "../../assets/images/VillaDeSanctisEN.png";
-import VillaDeSanctisFR from "../../assets/images/VillaDeSanctisFR.png";
-import ToVillaDeSanctisEN from "../../assets/images/ToVillaDeSanctisEN.png";
-import ToVillaDeSanctisIT from "../../assets/images/ToVillaDeSanctisIT.png";
-import ToVillaDeSanctisFR from "../../assets/images/ToVillaDeSanctisFR.png";
+import Casale from "../../assets/images/Casale.png";
+import CasaleIT from "../../assets/images/CasaleIT.png";
+import CasaleEN from "../../assets/images/CasaleEN.png";
+import CasaleFR from "../../assets/images/CasaleFR.png";
+import ToCasaleIT from "../../assets/images/ToCasaleIT.png";
+import ToCasaleEN from "../../assets/images/ToCasaleEN.png";
+import ToCasaleFR from "../../assets/images/ToCasaleFR.png";
 
-import CasilinaVecchiaIT from "../../assets/images/CasilinaVecchiaIT.png";
-import CasilinaVecchiaEN from "../../assets/images/CasilinaVecchiaEN.png";
-import CasilinaVecchiaFR from "../../assets/images/CasilinaVecchiaFR.png";
-import ToCasilinaVecchiaIT from "../../assets/images/ToCasilinaVecchiaIT.png";
-import ToCasilinaVecchiaEN from "../../assets/images/ToCasilinaVecchiaEN.png";
-import ToCasilinaVecchiaFR from "../../assets/images/ToCasilinaVecchiaFR.png";
+import ViaCasilinaVecchia from "../../assets/images/ViaCasilinaVecchia.png";
+import ViaCasilinaVecchiaIT from "../../assets/images/ViaCasilinaVecchiaIT.png";
+import ViaCasilinaVecchiaEN from "../../assets/images/ViaCasilinaVecchiaEN.png";
+import ViaCasilinaVecchiaFR from "../../assets/images/ViaCasilinaVecchiaFR.png";
+import ToViaCasilinaVecchiaIT from "../../assets/images/ToViaCasilinaVecchiaIT.png";
+import ToViaCasilinaVecchiaEN from "../../assets/images/ToViaCasilinaVecchiaEN.png";
+import ToViaCasilinaVecchiaFR from "../../assets/images/ToViaCasilinaVecchiaFR.png";
 
+import ViadellAcquedottoFelice from "../../assets/images/ViadellAcquedottoFelice.png";
 import ViaDellAcquedottoFeliceIT from "../../assets/images/ViaDellAcquedottoFeliceIT.png";
 import ViaDellAcquedottoFeliceEN from "../../assets/images/ViaDellAcquedottoFeliceEN.png";
 import ViaDellAcquedottoFeliceFR from "../../assets/images/ViaDellAcquedottoFeliceFR.png";
@@ -167,7 +170,7 @@ import ParcoTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
 import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
 import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
 import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
-// import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
+import ParcodiTorFiscale2 from "../../assets/images/ParcodiTorFiscale2.png";
 
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
 import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
@@ -178,7 +181,6 @@ import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
 import CentroAnziani from "../../assets/images/CentroAnziani.png";
 
 import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
-
 import ViaDellAcquaFeliceIT from "../../assets/images/ViaDellAcquaFeliceIT.png";
 import ViaDellAcquaFeliceEN from "../../assets/images/ViaDellAcquaFeliceEN.png";
 import ViaDellAcquaFeliceFR from "../../assets/images/ViaDellAcquaFeliceFR.png";
@@ -195,14 +197,29 @@ import ToVicoloDellAcquedottoFeliceIT from "../../assets/images/ToVicoloDellAcqu
 import ToVicoloDellAcquedottoFeliceEN from "../../assets/images/ToVicoloDellAcquedottoFeliceEN.png";
 import ToVicoloDellAcquedottoFeliceFR from "../../assets/images/ToVicoloDellAcquedottoFeliceFR.png";
 
-import ViadiTorreBranca from "../../assets/images/ViadiTorreBranca.png";
+import ViadelMandrione from "../../assets/images/ViadelMandrione.png";
+import ViadelMandrioneIT from "../../assets/images/ViadelMandrioneIT.png";
+import ViadelMandrioneEN from "../../assets/images/ViadelMandrioneEN.png";
+import ViadelMandrioneFR from "../../assets/images/ViadelMandrioneFR.png";
+import ToViadelMandrioneIT from "../../assets/images/ToViadelMandrioneIT.png";
+import ToViadelMandrioneEN from "../../assets/images/ToViadelMandrioneEN.png";
+import ToViadelMandrioneFR from "../../assets/images/ToViadelMandrioneFR.png";
 
+import ViadiTorreBranca from "../../assets/images/ViadiTorreBranca.png";
 import ViaDiTorreBrancaIT from "../../assets/images/ViaDiTorreBrancaIT.png";
 import ViaDiTorreBrancaEN from "../../assets/images/ViaDiTorreBrancaEN.png";
 import ViaDiTorreBrancaFR from "../../assets/images/ViaDiTorreBrancaFR.png";
 import ToViaDiTorreBrancaIT from "../../assets/images/ToViaDiTorreBrancaIT.png";
 import ToViaDiTorreBrancaEN from "../../assets/images/ToViaDiTorreBrancaEN.png";
 import ToViaDiTorreBrancaFR from "../../assets/images/ToViaDiTorreBrancaFR.png";
+
+import ViaTuscolana from "../../assets/images/ViaTuscolana.png";
+import ViaTuscolanaIT from "../../assets/images/ViaTuscolanaIT.png";
+import ViaTuscolanaEN from "../../assets/images/ViaTuscolanaEN.png";
+import ViaTuscolanaFR from "../../assets/images/ViaTuscolanaFR.png";
+import ToViaTuscolanaIT from "../../assets/images/ToViaTuscolanaIT.png";
+import ToViaTuscolanaEN from "../../assets/images/ToViaTuscolanaEN.png";
+import ToViaTuscolanaFR from "../../assets/images/ToViaTuscolanaFR.png";
 
 import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
 import LagoExSNIAEIT from "../../assets/images/LagoExSNIAEIT.png";
@@ -226,9 +243,6 @@ import FontanaEN from "../../assets/images/FontanaEN.png";
 import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
 import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
 import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
-
-import ViaCasilinaVecchia19 from "../../assets/images/ViaCasilinaVecchia19.png";
-import ViaCasilinaVecchia115 from "../../assets/images/ViaCasilinaVecchia115.png";
 
 import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
 
@@ -404,41 +418,17 @@ const Programma = () => {
     en: AcquedottoEN,
     fr: AcquedottoFR,
   };
-  const ToVillaDeSanctisImageMap = {
-    it: ToVillaDeSanctisIT,
-    en: ToVillaDeSanctisEN,
-    fr: ToVillaDeSanctisFR,
-  };
-  const VillaDeSanctisBookImageMap = {
-    it: VillaDeSanctisIT,
-    en: VillaDeSanctisEN,
-    fr: VillaDeSanctisFR,
-  };
-  const VillaDeSanctisFotoImageMap = {
-    it: VillaDeSanctis,
-    en: VillaDeSanctis,
-    fr: VillaDeSanctis,
-  };
-  const CasilinaVecchia19FotoImageMap = {
-    it: ViaCasilinaVecchia19,
-    en: ViaCasilinaVecchia19,
-    fr: ViaCasilinaVecchia19,
-  };
-  const CasilinaVecchia115FotoImageMap = {
-    it: ViaCasilinaVecchia115,
-    en: ViaCasilinaVecchia115,
-    fr: ViaCasilinaVecchia115,
-  };
+
   const ViaDellAcquaFeliceFotoImageMap = {
     it: ViadellAcquaFelice,
     en: ViadellAcquaFelice,
     fr: ViadellAcquaFelice,
   };
 
-  const VicoloDellAcquedottoFeliceFotoImageMap = {
-    it: VicolodellAcquedottoFelice,
-    en: VicolodellAcquedottoFelice,
-    fr: VicolodellAcquedottoFelice,
+  const ViaDellAcquedottoFeliceFotoImageMap = {
+    it: ViadellAcquedottoFelice,
+    en: ViadellAcquedottoFelice,
+    fr: ViadellAcquedottoFelice,
   };
   const ViaDiTorreBrancaFotoImageMap = {
     it: ViadiTorreBranca,
@@ -446,28 +436,40 @@ const Programma = () => {
     fr: ViadiTorreBranca,
   };
 
-  const ToCasilinaVecchiaImageMap = {
-    it: ToCasilinaVecchiaIT,
-    en: ToCasilinaVecchiaEN,
-    fr: ToCasilinaVecchiaFR,
+  const ToViaCasilinaVecchiaImageMap = {
+    it: ToViaCasilinaVecchiaIT,
+    en: ToViaCasilinaVecchiaEN,
+    fr: ToViaCasilinaVecchiaFR,
   };
 
-  const CasilinaVecchiaBookImageMap = {
-    it: CasilinaVecchiaIT,
-    en: CasilinaVecchiaEN,
-    fr: CasilinaVecchiaFR,
+  const ViaCasilinaVecchiaBookImageMap = {
+    it: ViaCasilinaVecchiaIT,
+    en: ViaCasilinaVecchiaEN,
+    fr: ViaCasilinaVecchiaFR,
+  };
+  const ViaCasilinaVecchiaFotoImageMap = {
+    it: ViaCasilinaVecchia,
+    en: ViaCasilinaVecchia,
+    fr: ViaCasilinaVecchia,
   };
 
-  // const ToViaDellAcquedottoFeliceImageMap = {
-  //   it: ToViaDellAcquedottoFeliceIT,
-  //   en: ToViaDellAcquedottoFeliceEN,
-  //   fr: ToViaDellAcquedottoFeliceFR,
-  // };
-  // const ViaDellAcquedottoFeliceBookImageMap = {
-  //   it: ViaDellAcquedottoFeliceIT,
-  //   en: ViaDellAcquedottoFeliceEN,
-  //   fr: ViaDellAcquedottoFeliceFR,
-  // };
+  const ToViadelMandrioneImageMap = {
+    it: ToViadelMandrioneIT,
+    en: ToViadelMandrioneEN,
+    fr: ToViadelMandrioneFR,
+  };
+
+  const ViadelMandrioneBookImageMap = {
+    it: ViadelMandrioneIT,
+    en: ViadelMandrioneEN,
+    fr: ViadelMandrioneFR,
+  };
+
+  const ViadelMandrioneFotoImageMap = {
+    it: ViadelMandrione,
+    en: ViadelMandrione,
+    fr: ViadelMandrione,
+  };
 
   const ToCentroAnzianiImageMap = {
     it: ToCentroAnzianiIT,
@@ -534,15 +536,31 @@ const Programma = () => {
     fr: Confalonieri,
   };
 
-  const ToVicoloDellAcquedottoFeliceImageMap = {
-    it: ToVicoloDellAcquedottoFeliceIT,
-    en: ToVicoloDellAcquedottoFeliceEN,
-    fr: ToVicoloDellAcquedottoFeliceFR,
+  const ToViaDellAcquedottoFeliceImageMap = {
+    it: ToViaDellAcquedottoFeliceIT,
+    en: ToViaDellAcquedottoFeliceEN,
+    fr: ToViaDellAcquedottoFeliceFR,
   };
-  const VicoloDellAcquedottoFeliceBookImageMap = {
-    it: VicoloDellAcquedottoFeliceIT,
-    en: VicoloDellAcquedottoFeliceEN,
-    fr: VicoloDellAcquedottoFeliceFR,
+  const ViaDellAcquedottoFeliceBookImageMap = {
+    it: ViaDellAcquedottoFeliceIT,
+    en: ViaDellAcquedottoFeliceEN,
+    fr: ViaDellAcquedottoFeliceFR,
+  };
+
+  const ToViaTuscolanaImageMap = {
+    it: ToViaTuscolanaIT,
+    en: ToViaTuscolanaEN,
+    fr: ToViaTuscolanaFR,
+  };
+  const ViaTuscolanaBookImageMap = {
+    it: ViaTuscolanaIT,
+    en: ViaTuscolanaEN,
+    fr: ViaTuscolanaFR,
+  };
+  const ViaTuscolanaFotoImageMap = {
+    it: ViaTuscolana,
+    en: ViaTuscolana,
+    fr: ViaTuscolana,
   };
 
   const ToViaDiTorreBrancaImageMap = {
@@ -557,6 +575,28 @@ const Programma = () => {
     fr: ToParcoTorFiscaleFR,
   };
 
+  const CasaleBookImageMap = {
+    it: CasaleIT,
+    en: CasaleEN,
+    fr: CasaleFR,
+  };
+
+  const CasaleFotoImageMap = {
+    it: Casale,
+    en: Casale,
+    fr: Casale,
+  };
+  const CasaleImageMap = {
+    it: CasaleIT,
+    en: CasaleEN,
+    fr: CasaleFR,
+  };
+  const ToCasaleImageMap = {
+    it: ToCasaleIT,
+    en: ToCasaleEN,
+    fr: ToCasaleFR,
+  };
+
   const ParcoTorFiscaleBookImageMap = {
     it: ParcoTorFiscaleIT,
     en: ParcoTorFiscaleEN,
@@ -564,9 +604,9 @@ const Programma = () => {
   };
 
   const ParcoTorFiscaleFotoImageMap = {
-    it: ParcoTorFiscale,
-    en: ParcoTorFiscale,
-    fr: ParcoTorFiscale,
+    it: ParcodiTorFiscale2,
+    en: ParcodiTorFiscale2,
+    fr: ParcodiTorFiscale2,
   };
 
   const ViaDiTorreBrancaBookImageMap = {
@@ -585,6 +625,7 @@ const Programma = () => {
     en: ViaDellAcquaFeliceEN,
     fr: ViaDellAcquaFeliceFR,
   };
+
   const LagoExSNIAEBookImageMap = {
     it: LagoExSNIAEIT,
     en: LagoExSNIAEEN,
@@ -639,53 +680,60 @@ const Programma = () => {
   const appointment2Locations = [
     {
       timeAndNameKey: "program.appointment2.location1.time_and_name",
-      mapQueryKey: "program.appointment2.location1.mapQuery",
-      fromStationImageMap: ToCasilinaVecchiaImageMap,
-      bookImageMap: CasilinaVecchiaBookImageMap,
-      fotoImageMap: CasilinaVecchia19FotoImageMap,
+      mapQueryKey: "program.appointment2.location7.mapQuery",
+      fromStationImageMap: ToParcoTorFiscaleImageMap,
+      bookImageMap: ParcoTorFiscaleBookImageMap,
+      fotoImageMap: ParcoTorFiscaleFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location2.time_and_name",
-      mapQueryKey: "program.appointment2.location2.mapQuery",
-      fromStationImageMap: ToCasilinaVecchiaImageMap,
-      bookImageMap: CasilinaVecchiaBookImageMap,
-      fotoImageMap: CasilinaVecchia115FotoImageMap,
+      mapQueryKey: "program.appointment2.location1.mapQuery",
+      fromStationImageMap: ToCasaleImageMap,
+      bookImageMap: CasaleBookImageMap,
+      fotoImageMap: CasaleFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location3.time_and_name",
-      mapQueryKey: "program.appointment2.location3.mapQuery",
-      fromStationImageMap: ToVillaDeSanctisImageMap,
-      bookImageMap: VillaDeSanctisBookImageMap,
-      fotoImageMap: VillaDeSanctisFotoImageMap,
+      mapQueryKey: "program.appointment2.location2.mapQuery",
+      fromStationImageMap: ToViaCasilinaVecchiaImageMap,
+      bookImageMap: ViaCasilinaVecchiaBookImageMap,
+      fotoImageMap: ViaCasilinaVecchiaFotoImageMap,
     },
+
     {
       timeAndNameKey: "program.appointment2.location4.time_and_name",
       mapQueryKey: "program.appointment2.location4.mapQuery",
+      fromStationImageMap: ToViadelMandrioneImageMap,
+      bookImageMap: ViadelMandrioneBookImageMap,
+      fotoImageMap: ViadelMandrioneFotoImageMap,
+    },
+    {
+      timeAndNameKey: "program.appointment2.location5.time_and_name",
+      mapQueryKey: "program.appointment2.location5.mapQuery",
       fromStationImageMap: ToViaDellAcquaFeliceImageMap,
       bookImageMap: ViaDellAcquaFeliceBookImageMap,
       fotoImageMap: ViaDellAcquaFeliceFotoImageMap,
     },
     {
-      timeAndNameKey: "program.appointment2.location5.time_and_name",
+      timeAndNameKey: "program.appointment2.location6.time_and_name",
       mapQueryKey: "program.appointment2.location5.mapQuery",
-      fromStationImageMap: ToVicoloDellAcquedottoFeliceImageMap,
-      bookImageMap: VicoloDellAcquedottoFeliceBookImageMap,
-      fotoImageMap: VicoloDellAcquedottoFeliceFotoImageMap,
+      fromStationImageMap: ToViaDellAcquedottoFeliceImageMap,
+      bookImageMap: ViaDellAcquedottoFeliceBookImageMap,
+      fotoImageMap: ViaDellAcquedottoFeliceFotoImageMap,
     },
     {
-      timeAndNameKey: "program.appointment2.location6.time_and_name",
+      timeAndNameKey: "program.appointment2.location7.time_and_name",
       mapQueryKey: "program.appointment2.location6.mapQuery",
       fromStationImageMap: ToViaDiTorreBrancaImageMap,
       bookImageMap: ViaDiTorreBrancaBookImageMap,
       fotoImageMap: ViaDiTorreBrancaFotoImageMap,
     },
-
     {
-      timeAndNameKey: "program.appointment2.location7.time_and_name",
-      mapQueryKey: "program.appointment2.location7.mapQuery",
-      fromStationImageMap: ToParcoTorFiscaleImageMap,
-      bookImageMap: ParcoTorFiscaleBookImageMap,
-      fotoImageMap: ParcoTorFiscaleFotoImageMap,
+      timeAndNameKey: "program.appointment2.location8.time_and_name",
+      mapQueryKey: "program.appointment2.location6.mapQuery",
+      fromStationImageMap: ToViaTuscolanaImageMap,
+      bookImageMap: ViaTuscolanaBookImageMap,
+      fotoImageMap: ViaTuscolanaFotoImageMap,
     },
   ];
 
@@ -931,7 +979,7 @@ const Programma = () => {
         <div className={styles.Luoghi}>
           <div>
             <Trans
-              i18nKey="program.appointment2.location8.time_and_name"
+              i18nKey="program.appointment2.location9.time_and_name"
               components={{
                 br: <br />,
                 map: (

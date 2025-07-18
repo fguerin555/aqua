@@ -57,45 +57,61 @@
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "Les Porteurs d'Eau",
       "time": "",
-      "description1": "Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
+      "description1": "24 Septembre à partir de 18 heures<br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
 
       "location1": {
-        "time_and_name": "24 Septembre à partir de 18 heures <br/><br/>via Casilina Vecchia 19<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-        "imageAlt": "via Casilina Vecchia 19, Roma",
-        "mapQuery": "via Casilina Vecchia 19, Roma"
+        "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Parco di Tor Fiscale, Municipio VII",
+        "imageAlt": "Parco di Tor Fiscale, Municipio VII",
+        "mapQuery": "Parco di Tor Fiscale, Roma"
       },
       "location2": {
-        "time_and_name": "Via Casalina Vecchia 115<br/>municipio VII<br/><map/><to></to> <book></book><foto/>",
-        "imageAlt": "Via Casalina Vecchia 115,Roma.",
-        "mapQuery": "Via Casalina Vecchia 115,Roma."
+        "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "imageAlt": "Casale di Tor Fiscale, Roma.",
+        "mapQuery": "Casale di Tor Fiscale, PArco di Tor Fiscale, Roma."
       },
       "location3": {
-        "time_and_name": "Villa de Sanctis<br/>via dei Giordiani 5<br/>municipio V<br/><map/><to></to><book></book><foto/>",
-        "imageAlt": "Villa de Sanctis, via dei Giordiani 5,Roma.",
-        "mapQuery": "via dei Giordiani 5,Roma."
+        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "address": "Via casilina Vecchia, municipio VII",
+        "imageAlt": "Via casilina Vecchia, municipio VII",
+        "mapQuery": "Via casilina Vecchia, Roma."
       },
       "location4": {
-        "time_and_name": "Via dell’Acqua Felice<br/>municipio VII. <br/><map/> <to></to><book></book><foto/>",
-        "imageAlt": "Via dell’Acqua Felice,Roma.",
-        "mapQuery": "Via dell’Acqua Felice,Roma."
+        "time_and_name": "Via del Mandrione<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via del Mandrione, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione, Roma."
       },
       "location5": {
-        "time_and_name": "Vicolo dell'Acquedotto Felice<br/>municipio VII<br/><map/><to></to><book></book> <foto/>",
-        "imageAlt": "Vicolo dell'Acquedotto Felice,Roma.",
-        "mapQuery": "Vicolo dell'Acquedotto Felice,Roma."
+        "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via dell’Acqua Felice, Roma.",
+        "imageAlt": "Via dell’Acqua Felice, Roma.",
+        "mapQuery": "Via dell’Acqua Felice, Roma."
       },
       "location6": {
-        "time_and_name": "Via di Torre Branca<br/>municipio VII<br/><map/><to></to><book></book><foto></foto>",
+        "time_and_name": "Via dell’Acquedotto Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via dell’Acquedotto Felice, municipio VII",
+        "imageAlt": "Via dell’Acquedotto Felice, municipio VII",
+        "mapQuery": "Via dell’Acquedotto Felice, Roma."
+      },
+
+      "location7": {
+        "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via di Torre Branca, Roma.",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
-      "location7": {
-        "time_and_name": "Parco di Torre del Fiscale<br/> municipio VII<br/><map/><to></to><book></book> <foto/>",
-        "imageAlt": "Parco di Torre del Fiscale, Roma.",
-        "mapQuery": "Parco di Torre del Fiscale, Roma."
-      },
-      "description2": "Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
+
       "location8": {
+        "time_and_name": "Via Tuscolana<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via Tuscolana, municipio VII",
+        "imageAlt": "Via Tuscolana, municipio VII",
+        "mapQuery": "Via Tuscolana, Roma."
+      },
+
+      "description2": "Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
+
+      "location9": {
         "time_and_name": " 25 Septembre à partir de 18 heures <br/ ><br/>Spazio Y<br/>via dei Juvenci, 11<br/> municipio V<br/><map/><to></to><book></book> <foto/>",
         "address": "via dei juvenci, 11, Roma.",
         "imageAlt": "via dei juvenci, 11, Roma.",
@@ -103,6 +119,7 @@
       },
       "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/>ADRIANA POLVERONI <br /><br />  Accès libre"
     },
+
     "appointment3": {
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
@@ -133,7 +150,7 @@
       "time3": "09, 23 Octobre - 06, 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
       "time4": "10, 24 Octobre - 07 e 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br /><carousel_irma/><OV/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA<br /<br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_irma/><OV/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA<br/><br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -241,6 +258,7 @@
     },
     "TitleListCurators": "Curatrices/curateur",
     "NameCurators": {
+      "IrmaA": "Irma Alonzo",
       "adrianaP": "Adriana Polveroni",
       "isabellaV": "Isabella Vitale",
       "brunoD": "Bruno di Marino"

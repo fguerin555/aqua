@@ -375,6 +375,37 @@ const LinksPage = () => {
         </p>
       </div>
       <div className={styles.NameCurators}>
+        {/* Irma Alonzo */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://irmaalonzo53.wixsite.com/irmaalonzo"
+              rel="noopener noreferrer"
+            >
+              <img src={Link} alt={t("links.Link")} className={styles.icon} />
+            </a>
+
+            <span>
+              <img
+                src={LinkVide}
+                alt={t("links.LinkVide")}
+                className={styles.icon}
+              />
+            </span>
+
+            <a
+              href="https://www.facebook.com/irma.alonzo.54"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NameCurators.IrmaA" />
+        </div>
         {/* --- Adriana Polveroni --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
