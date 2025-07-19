@@ -31,28 +31,29 @@
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
       "name": "L'acqua in movimento",
-      "description": "Videoproiezioni sul tema dell'acqua a cura di Bruno di Marino",
+      "name2": "Liquefazione",
+      "description": "Videoproiezioni sul tema dell'acqua <br/>a cura di Bruno di Marino",
 
       "artistList": "Artisti: <br/> FABRIZIO PLESSI <br/>ROBERT CAHEN <br/>STUDIO AZZURO<br/><br/>Curatore: <br/>BRUNO DI MARINO.<br/><br/>Accesso libero.",
       "location1": {
-        "time_and_name": "8,9,10 Settembre ore 21.00 <br/>Casa Pirri - Valentini",
-        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
+        "time_and_name": "8, 9, 10 Settembre ore 21.00 <br/> Parco di Tor Fiscale",
+        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
+      },
+
+      "location2": {
+        "time_and_name": "11, 12 Settembre ore 21.00 <br/>Casa Pirri - Valentini",
+        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map2/><toCasaPirri/> <book_CasaPirri /><br/> <br/>",
         "imageAlt": "Casa Pirri - Valentini, Via del Mandrione 451/455, municipio VII",
         "mapQuery": "Via del Mandrione 451, Roma"
       },
 
-      "location2": {
+      "location3": {
         "time_and_name": "12 Settembre 21.00 <br/> Spazio Y",
-        "address": "via dei Juvenci 11<br/> municipio VII <br/><map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
+        "address": "via dei Juvenci 11<br/> municipio VII <br/><map3/><toSpazioY/><book_SpazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, municipio VII",
         "mapQuery": "Via dei Juvenci 11, Roma"
-      },
-
-      "location3": {
-        "time_and_name": "11,12 Settembre ore 21.00 <br/> Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
-        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment2": {

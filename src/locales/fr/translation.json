@@ -31,26 +31,28 @@
     "appointment1": {
       "sectionTitle": "RENDEZ-VOUS 1",
       "name": "L'Eau en Mouvement",
-      "description": "Projections vidéo sur le thème de l'eau supervisées par Bruno di Marino",
+      "name2": "Liquéfaction",
+      "description": "Projections vidéo sur le thème de l'eau <br/> sous la supervision de Bruno di Marino",
       "artistList": "Artistes : <br />STUDIO AZZURO <br />FABRIZIO PLESSI  <br />ROBERT CAHEN <br /><br/>Commissaire: <br/>BRUNO DI MARINO <br /><br/>Accès libre",
 
       "location1": {
-        "time_and_name": "8,9,10 Septembre à 21 heures <br/>Maison Pirri - Valentini",
-        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map1/><toCasaPirri_1/> <book_casaPirri /><br/> <br/>",
+        "time_and_name": "8, 9, 10 Septembre à 21 heures <br/>Parco di Tor Fiscale",
+        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
+      },
+
+      "location2": {
+        "time_and_name": "11, 12 Septembre à 21 heures <br/>Maison Pirri - Valentini",
+        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map2/><toCasaPirri/> <book_CasaPirri /><br/> <br/>",
         "imageAlt": "Maison Pirri - Valentini Via del Mandrione 451/455, municipio VII.",
         "mapQuery": "Via del Mandrione 451, Roma."
       },
-      "location2": {
-        "time_and_name": "19 Septembre à 21 heures <br/>Spazio Y",
-        "address": "via dei Juvenci 11<br/> municipio VII <br/> <map2/><toSpazioY_1/><book_spazioY/><br/> <br/>",
+      "location3": {
+        "time_and_name": "12 Septembre à 21 heures <br/>Spazio Y",
+        "address": "via dei Juvenci 11<br/> municipio VII <br/> <map3/><toSpazioY/><book_SpazioY/><br/> <br/>",
         "imageAlt": "Spazio Y, via dei Juvenci 11, VII.",
         "mapQuery": "Via dei Juvenci 11, Roma"
-      },
-      "location3": {
-        "time_and_name": "11,12 Septembre à 21 heures <br/>Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map3/><toAcquedotto_1/><book_Acquedotto/><br/> <br/>",
-        "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       }
     },
     "appointment2": {

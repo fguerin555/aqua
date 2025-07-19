@@ -83,6 +83,15 @@
   margin-bottom: 5px;
   margin-top: 5px;
 }
+.Name2Appuntamento p {
+  text-align: center;
+  font-size: 25px;
+  color: #e9f2fd;
+  text-shadow: 2px 2px 2px #000;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
 
 .Orari > div {
   text-align: center;
@@ -244,8 +253,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* text-align: justify; */
-  /* box-sizing: border-box; */
   width: 80%;
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
@@ -257,17 +264,21 @@
   margin-top: 20px;
   margin-bottom: 10px;
 }
-
+.EventDescription3 {
+  text-align: center;
+  font-size: 20px;
+  color: #e9f2fd;
+  min-width: 90%;
+  text-shadow: 2px 2px 2px #000;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-bottom: 5px;
+  margin-top: 20px;
+}
 .EventDescription > div {
-  /* text-align: justify;
-  box-sizing: border-box;
-  hyphens: auto; */
   display: flex;
   justify-content: center;
   align-items: center;
-  /* text-align: justify; */
-  /* box-sizing: border-box; */
-  width: 80%;
+  width: 100%;
   font-size: 20px;
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -324,6 +335,9 @@
   .NameAppuntamento p {
     font-size: 25px; /* Taille intermédiaire pour tablette */
   }
+  .Name2Appuntamento p {
+    font-size: 25px; /* Taille intermédiaire pour tablette */
+  }
 
   .Orari > div {
     font-size: 18px;
@@ -347,6 +361,9 @@
     margin-left: 5px; /* Petit espace après le texte */
   }
   .EventDescription > div {
+    font-size: 18px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription3 > div {
     font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {
@@ -402,6 +419,9 @@
   .NameAppuntamento p {
     font-size: 21px; /* Taille intermédiaire pour tablette */
   }
+  .Name2Appuntamento p {
+    font-size: 21px; /* Taille intermédiaire pour tablette */
+  }
 
   .Orari div {
     font-size: 16px;
@@ -436,6 +456,9 @@
     height: 250px;
   }
   .EventDescription > div {
+    font-size: 16px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription3 > div {
     font-size: 16px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {
@@ -494,6 +517,9 @@
   .NameAppuntamento p {
     font-size: 18px; /* Taille intermédiaire pour tablette */
   }
+  .Name2Appuntamento p {
+    font-size: 18px; /* Taille intermédiaire pour tablette */
+  }
 
   .Orari div {
     font-size: 15px;
@@ -531,6 +557,9 @@
     height: 400px;
   }
   .EventDescription > div {
+    font-size: 15px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription3 > div {
     font-size: 15px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {

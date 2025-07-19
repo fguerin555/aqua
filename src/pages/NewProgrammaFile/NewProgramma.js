@@ -9,6 +9,14 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide"; // composant React
 import OV from "../../assets/images/OeilVide.png"; // l’image elle-même
 
+import App1_IlNuotatore from "../../assets/images/App1_IlNuotatore.png";
+import App1_VoyagedHiver from "../../assets/images/App1_VoyagedHiver.png";
+import App1_Pryntil from "../../assets/images/App1_Pryntil.png";
+import App1_MurodiSabbia from "../../assets/images/App1_MurodiSabbia.png";
+import App1_IlSatiroDanzante from "../../assets/images/App1_IlSatiroDanzante.png";
+import App1_SpectralCanticle from "../../assets/images/App1_SpectralCanticle.png";
+import App1_Karma from "../../assets/images/App1_Karma.png";
+
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
 import Apice3 from "../../assets/images/Apice3.png";
@@ -190,14 +198,6 @@ import ToViaDellAcquaFeliceIT from "../../assets/images/ToViaDellAcquaFeliceIT.p
 import ToViaDellAcquaFeliceEN from "../../assets/images/ToViaDellAcquaFeliceEN.png";
 import ToViaDellAcquaFeliceFR from "../../assets/images/ToViaDellAcquaFeliceFR.png";
 
-// import VicolodellAcquedottoFelice from "../../assets/images/VicolodellAcquedottoFelice.png";
-// import VicoloDellAcquedottoFeliceIT from "../../assets/images/VicoloDellAcquedottoFeliceIT.png";
-// import VicoloDellAcquedottoFeliceFR from "../../assets/images/VicoloDellAcquedottoFeliceFR.png";
-// import VicoloDellAcquedottoFeliceEN from "../../assets/images/VicoloDellAcquedottoFeliceEN.png";
-// import ToVicoloDellAcquedottoFeliceIT from "../../assets/images/ToVicoloDellAcquedottoFeliceIT.png";
-// import ToVicoloDellAcquedottoFeliceEN from "../../assets/images/ToVicoloDellAcquedottoFeliceEN.png";
-// import ToVicoloDellAcquedottoFeliceFR from "../../assets/images/ToVicoloDellAcquedottoFeliceFR.png";
-
 import ViadelMandrione from "../../assets/images/ViadelMandrione.png";
 import ViadelMandrioneIT from "../../assets/images/ViadelMandrioneIT.png";
 import ViadelMandrioneEN from "../../assets/images/ViadelMandrioneEN.png";
@@ -244,8 +244,6 @@ import FontanaEN from "../../assets/images/FontanaEN.png";
 import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
 import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
 import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
-
-// import VillaDeSanctis from "../../assets/images/VillaDeSanctis.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
@@ -769,9 +767,19 @@ const Programma = () => {
       <div className={styles.NameAppuntamento}>
         <p>{t("program.appointment1.name")}</p>
       </div>
-      <div className={styles.EventDescriptionShort}>
-        <div>{t("program.appointment1.description")}</div>
+      <div className={styles.Name2Appuntamento}>
+        <p>{t("program.appointment1.name2")}</p>
       </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.description"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+
+      <div className={styles.EventDescriptionShort}></div>
       <div className={styles.Orari}>
         <div>
           <Trans i18nKey="program.appointment1.location1.time_and_name" />
@@ -779,7 +787,7 @@ const Programma = () => {
       </div>
       <div className={styles.Foto}>
         <img
-          src={CasaPirri}
+          src={Acquedotto}
           alt={t("program.appointment1.location1.imageAlt")}
         />
       </div>
@@ -788,9 +796,9 @@ const Programma = () => {
           <Trans
             i18nKey="program.appointment1.location1.address"
             components={{
-              book_casaPirri: (
+              book_Acquedotto: (
                 <Book
-                  imageMap={CasaPirriBookImageMap}
+                  imageMap={AcquedottoBookImageMap}
                   altKey="program.bookAlt"
                 />
               ),
@@ -803,9 +811,9 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
-              toCasaPirri_1: (
+              toAcquedotto: (
                 <FromStation
-                  imageMap={ToCasaPirriImageMap}
+                  imageMap={ToAcquedottoImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
@@ -819,15 +827,21 @@ const Programma = () => {
         </div>
       </div>
       <div className={styles.Foto}>
-        <img src={SpazioY} alt={t("program.appointment1.location2.imageAlt")} />
+        <img
+          src={CasaPirri}
+          alt={t("program.appointment1.location2.imageAlt")}
+        />
       </div>
       <div className={styles.Luoghi}>
         <div>
           <Trans
             i18nKey="program.appointment1.location2.address"
             components={{
-              book_spazioY: (
-                <Book imageMap={SpazioYBookImageMap} altKey="program.bookAlt" />
+              book_CasaPirri: (
+                <Book
+                  imageMap={CasaPirriBookImageMap}
+                  altKey="program.bookAlt"
+                />
               ),
               map2: (
                 <span className={styles.SimbolMapp}>
@@ -838,9 +852,9 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
-              toSpazioY_1: (
+              toCasaPirri: (
                 <FromStation
-                  imageMap={ToSpazioYImageMap}
+                  imageMap={ToCasaPirriImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
@@ -854,21 +868,15 @@ const Programma = () => {
         </div>
       </div>
       <div className={styles.Foto}>
-        <img
-          src={Acquedotto}
-          alt={t("program.appointment1.location3.imageAlt")}
-        />
+        <img src={SpazioY} alt={t("program.appointment1.location3.imageAlt")} />
       </div>
       <div className={styles.Luoghi}>
         <div>
           <Trans
             i18nKey="program.appointment1.location3.address"
             components={{
-              book_Acquedotto: (
-                <Book
-                  imageMap={AcquedottoBookImageMap}
-                  altKey="program.bookAlt"
-                />
+              book_SpazioY: (
+                <Book imageMap={SpazioYBookImageMap} altKey="program.bookAlt" />
               ),
               map3: (
                 <span className={styles.SimbolMapp}>
@@ -879,7 +887,7 @@ const Programma = () => {
                   </MapButton>
                 </span>
               ),
-              toAcquedotto_1: (
+              toSpazioY: (
                 <FromStation
                   imageMap={ToAcquedottoImageMap}
                   altKey="program.fromStationAlt"
@@ -908,7 +916,7 @@ const Programma = () => {
       <div className={styles.Orari}>
         <div>{t("program.appointment2.time")}</div>
       </div>
-      <div className={styles.EventDescription}>
+      <div className={styles.EventDescription3}>
         <div>
           <Trans
             i18nKey="program.appointment2.description1"
