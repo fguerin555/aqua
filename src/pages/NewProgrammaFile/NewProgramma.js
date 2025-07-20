@@ -897,10 +897,18 @@ const Programma = () => {
           />
         </div>
       </div>
-      <div className={styles.ArtistList}>
+      <div className={styles.EventDescription3}>
         <div>
           <Trans
-            i18nKey="program.appointment1.artistList"
+            i18nKey="program.appointment1.descriptionTitle"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription4}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionProgram"
             components={{ br: <br /> }}
           />
         </div>

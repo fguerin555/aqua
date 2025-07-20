@@ -274,11 +274,25 @@
   margin-bottom: 5px;
   margin-top: 20px;
 }
+.EventDescription4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+  font-size: 20px;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 .EventDescription > div {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 80%;
   font-size: 20px;
   color: #e9f2fd;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -364,6 +378,9 @@
     font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .EventDescription3 > div {
+    font-size: 18px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription4 > div {
     font-size: 18px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {
@@ -459,6 +476,9 @@
     font-size: 16px; /* Taille intermédiaire pour tablette */
   }
   .EventDescription3 > div {
+    font-size: 16px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription4 > div {
     font-size: 16px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {
@@ -560,6 +580,9 @@
     font-size: 15px; /* Taille intermédiaire pour tablette */
   }
   .EventDescription3 > div {
+    font-size: 15px; /* Taille intermédiaire pour tablette */
+  }
+  .EventDescription4 > div {
     font-size: 15px; /* Taille intermédiaire pour tablette */
   }
   .EventDescriptionShort > div {
