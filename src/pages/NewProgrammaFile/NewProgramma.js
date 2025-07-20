@@ -945,6 +945,54 @@ const Programma = () => {
           />
         </div>
       </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionTitle4"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription4}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionProgram4"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionTitle5"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription4}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionProgram5"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionTitle6"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription4}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.descriptionProgram6"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
 
       {/* --------------------------------------------------2------------- */}
       <div className={styles.TitleAppuntamento}>
