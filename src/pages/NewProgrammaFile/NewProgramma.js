@@ -993,6 +993,22 @@ const Programma = () => {
           />
         </div>
       </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.CriticTextTitle"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.CriticTextParagraphs"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
 
       {/* --------------------------------------------------2------------- */}
       <div className={styles.TitleAppuntamento}>
