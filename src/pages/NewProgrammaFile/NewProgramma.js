@@ -153,9 +153,6 @@ import Casale from "../../assets/images/Casale.png";
 import CasaleIT from "../../assets/images/CasaleIT.png";
 import CasaleEN from "../../assets/images/CasaleEN.png";
 import CasaleFR from "../../assets/images/CasaleFR.png";
-import ToCasaleIT from "../../assets/images/ToCasaleIT.png";
-import ToCasaleEN from "../../assets/images/ToCasaleEN.png";
-import ToCasaleFR from "../../assets/images/ToCasaleFR.png";
 
 import ViaCasilinaVecchia from "../../assets/images/ViaCasilinaVecchia.png";
 import ViaCasilinaVecchiaIT from "../../assets/images/ViaCasilinaVecchiaIT.png";
@@ -215,12 +212,6 @@ import ToViaDiTorreBrancaEN from "../../assets/images/ToViaDiTorreBrancaEN.png";
 import ToViaDiTorreBrancaFR from "../../assets/images/ToViaDiTorreBrancaFR.png";
 
 import ViaTuscolana from "../../assets/images/ViaTuscolana.png";
-import ViaTuscolanaIT from "../../assets/images/ViaTuscolanaIT.png";
-import ViaTuscolanaEN from "../../assets/images/ViaTuscolanaEN.png";
-import ViaTuscolanaFR from "../../assets/images/ViaTuscolanaFR.png";
-import ToViaTuscolanaIT from "../../assets/images/ToViaTuscolanaIT.png";
-import ToViaTuscolanaEN from "../../assets/images/ToViaTuscolanaEN.png";
-import ToViaTuscolanaFR from "../../assets/images/ToViaTuscolanaFR.png";
 
 import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
 import LagoExSNIAEIT from "../../assets/images/LagoExSNIAEIT.png";
@@ -556,16 +547,6 @@ const Programma = () => {
     fr: ViaDellAcquedottoFeliceFR,
   };
 
-  const ToViaTuscolanaImageMap = {
-    it: ToViaTuscolanaIT,
-    en: ToViaTuscolanaEN,
-    fr: ToViaTuscolanaFR,
-  };
-  const ViaTuscolanaBookImageMap = {
-    it: ViaTuscolanaIT,
-    en: ViaTuscolanaEN,
-    fr: ViaTuscolanaFR,
-  };
   const ViaTuscolanaFotoImageMap = {
     it: ViaTuscolana,
     en: ViaTuscolana,
@@ -594,18 +575,6 @@ const Programma = () => {
     it: Casale,
     en: Casale,
     fr: Casale,
-  };
-
-  // const CasaleImageMap = {
-  //   it: CasaleIT,
-  //   en: CasaleEN,
-  //   fr: CasaleFR,
-  // };
-
-  const ToCasaleImageMap = {
-    it: ToCasaleIT,
-    en: ToCasaleEN,
-    fr: ToCasaleFR,
   };
 
   const ParcoTorFiscaleBookImageMap = {
@@ -692,6 +661,11 @@ const Programma = () => {
     en: FontanaEN,
     fr: FontanaFR,
   };
+  const FontanaBookImageMap = {
+    it: FontanaIT,
+    en: FontanaEN,
+    fr: FontanaFR,
+  };
 
   const OVImageMap = {
     it: OV,
@@ -702,21 +676,21 @@ const Programma = () => {
   const appointment2Locations = [
     {
       timeAndNameKey: "program.appointment2.location1.time_and_name",
-      mapQueryKey: "program.appointment2.location7.mapQuery",
+      mapQueryKey: "program.appointment2.location1.mapQuery",
       fromStationImageMap: ToParcoTorFiscaleImageMap,
       bookImageMap: ParcoTorFiscaleBookImageMap,
       fotoImageMap: ParcodiTorFiscaleFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location2.time_and_name",
-      mapQueryKey: "program.appointment2.location1.mapQuery",
-      fromStationImageMap: ToCasaleImageMap,
+      mapQueryKey: "program.appointment2.location2.mapQuery",
+      fromStationImageMap: ToParcoTorFiscaleImageMap,
       bookImageMap: CasaleBookImageMap,
       fotoImageMap: CasaleFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location3.time_and_name",
-      mapQueryKey: "program.appointment2.location2.mapQuery",
+      mapQueryKey: "program.appointment2.location3.mapQuery",
       fromStationImageMap: ToViaCasilinaVecchiaImageMap,
       bookImageMap: ViaCasilinaVecchiaBookImageMap,
       fotoImageMap: ViaCasilinaVecchiaFotoImageMap,
@@ -738,23 +712,23 @@ const Programma = () => {
     },
     {
       timeAndNameKey: "program.appointment2.location6.time_and_name",
-      mapQueryKey: "program.appointment2.location5.mapQuery",
+      mapQueryKey: "program.appointment2.location6.mapQuery",
       fromStationImageMap: ToViaDellAcquedottoFeliceImageMap,
       bookImageMap: ViaDellAcquedottoFeliceBookImageMap,
       fotoImageMap: ViaDellAcquedottoFeliceFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location7.time_and_name",
-      mapQueryKey: "program.appointment2.location6.mapQuery",
+      mapQueryKey: "program.appointment2.location7.mapQuery",
       fromStationImageMap: ToViaDiTorreBrancaImageMap,
       bookImageMap: ViaDiTorreBrancaBookImageMap,
       fotoImageMap: ViaDiTorreBrancaFotoImageMap,
     },
     {
       timeAndNameKey: "program.appointment2.location8.time_and_name",
-      mapQueryKey: "program.appointment2.location6.mapQuery",
-      fromStationImageMap: ToViaTuscolanaImageMap,
-      bookImageMap: ViaTuscolanaBookImageMap,
+      mapQueryKey: "program.appointment2.location8.mapQuery",
+      fromStationImageMap: ToFontanaImageMap,
+      bookImageMap: FontanaBookImageMap,
       fotoImageMap: ViaTuscolanaFotoImageMap,
     },
   ];

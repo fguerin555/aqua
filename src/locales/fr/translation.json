@@ -124,10 +124,10 @@
       },
 
       "location8": {
-        "time_and_name": "Via Tuscolana<br />municipio VII<br /><map /><to></to><book></book><foto />",
-        "address": "Via Tuscolana, municipio VII",
-        "imageAlt": "Via Tuscolana, municipio VII",
-        "mapQuery": "Via Tuscolana, Roma."
+        "time_and_name": "Fontana di Clemente XII<br/>Via Tuscolana, 545<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "address": "Via Tuscolana, 545 municipio VII",
+        "imageAlt": "Via Tuscolana, 545 municipio VII",
+        "mapQuery": "Via Tuscolana,545 Roma."
       },
 
       "description2": "Exposition/restitution de performance, de dessin aquatique par Pamela Pintus",
