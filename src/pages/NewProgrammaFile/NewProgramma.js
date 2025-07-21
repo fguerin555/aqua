@@ -366,6 +366,16 @@ const Programma = () => {
     { src: IginiodeLucaW6, alt: "" },
     { src: IginiodeLucaW7, alt: "" },
   ];
+  const VisionImages = [
+    { src: App1_IlNuotatore, alt: "" },
+    { src: App1_IlSatiroDanzante, alt: "" },
+    { src: App1_Karma, alt: "" },
+    { src: App1_MurodiSabbia, alt: "" },
+    { src: App1_Pryntil, alt: "" },
+    { src: App1_SpectralCanticle, alt: "" },
+    { src: App1_VoyagedHiver, alt: "" },
+  ];
+
   const IginiodeLucaBookImages = {
     it: IginiodeLucaIT,
     en: IginiodeLucaEN,
@@ -1006,6 +1016,23 @@ const Programma = () => {
           <Trans
             i18nKey="program.appointment1.CriticTextParagraphs"
             components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+
+      <div className={styles.Vision}>
+        <div>
+          <Trans
+            i18nKey="program.appointment1.Vision"
+            components={{
+              br: <br />,
+              carousel_Vision: (
+                <ButtonCarousel
+                  images={VisionImages}
+                  className={styles.IconStandard}
+                />
+              ),
+            }}
           />
         </div>
       </div>
