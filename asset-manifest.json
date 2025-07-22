@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.77d5c177.css",
-    "main.js": "/static/js/main.c13ee6b5.js",
+    "main.js": "/static/js/main.a4de5b97.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
+    "static/media/PaoloAssenzaW3.png": "/static/media/PaoloAssenzaW3.5435cca90db594dfafa0.png",
     "static/media/PamelaP6.png": "/static/media/PamelaP6.eba483ad6ea8a0c4f2b4.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
     "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.4d4d6c2dc4241728ab00.png",
     "static/media/App1_SpectralCanticle.png": "/static/media/App1_SpectralCanticle.2fe984d979c9c8692aed.png",
     "static/media/App1_MurodiSabbia.png": "/static/media/App1_MurodiSabbia.28905021287c396b1267.png",
     "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
+    "static/media/PaoloAssenzaW1.png": "/static/media/PaoloAssenzaW1.ce9bb8dc5eee2b0930fc.png",
     "static/media/ViadellAcquedottoFelice.png": "/static/media/ViadellAcquedottoFelice.6463cb7966866bab40f3.png",
     "static/media/Acquedotto2.png": "/static/media/Acquedotto2.bf12e9f9fa73a368533a.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
@@ -41,6 +43,7 @@
     "static/media/AnnaFraentzelCelli.png": "/static/media/AnnaFraentzelCelli.85465e4ec926398d33b4.png",
     "static/media/Giancarlo1.png": "/static/media/Giancarlo1.0dbe1eb50472d3b96dbd.png",
     "static/media/IginiodeLucaW1.png": "/static/media/IginiodeLucaW1.c191c740a73df66a52de.png",
+    "static/media/PaoloAssenzaW2.png": "/static/media/PaoloAssenzaW2.6461d5228624715dbfcf.png",
     "static/media/Davide2.png": "/static/media/Davide2.394af198679d4c398f0f.png",
     "static/media/Apice1.png": "/static/media/Apice1.ffd1a74169165c4756fc.png",
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
@@ -88,8 +91,10 @@
     "static/media/FontanaEN.png": "/static/media/FontanaEN.d610779eb90b1e4342c8.png",
     "static/media/ConfalonieriIT.png": "/static/media/ConfalonieriIT.d8e3bdf0b36993021972.png",
     "static/media/ViadelMandrioneIT.png": "/static/media/ViadelMandrioneIT.639b58b0f7bb098ae957.png",
+    "static/media/PaoloAssenzaIT.png": "/static/media/PaoloAssenzaIT.0dc3bbbcfb7bbb22732b.png",
     "static/media/GiancarloCVE.png": "/static/media/GiancarloCVE.4c6ee8a34924ae4cebb9.png",
     "static/media/IrmaAlonzo3.png": "/static/media/IrmaAlonzo3.367036898b8ea0389160.png",
+    "static/media/PaoloAssenzaEN.png": "/static/media/PaoloAssenzaEN.16a419e8083679398a9d.png",
     "static/media/SpazioYEN.png": "/static/media/SpazioYEN.7229c1413988946c456b.png",
     "static/media/IginiodeLucaFR.png": "/static/media/IginiodeLucaFR.6b168886316d6a4304ad.png",
     "static/media/IrmaAlonzo2.png": "/static/media/IrmaAlonzo2.32156ac5ad1315304795.png",
@@ -97,6 +102,7 @@
     "static/media/ViaDiTorreBrancaIT.png": "/static/media/ViaDiTorreBrancaIT.404120c11210cfbaa234.png",
     "static/media/IginiodeLucaEN.png": "/static/media/IginiodeLucaEN.78fadb9aecbb3f4db835.png",
     "static/media/LucaG1.png": "/static/media/LucaG1.5320e757ca3d919e9b58.png",
+    "static/media/PaoloAssenzaFR.png": "/static/media/PaoloAssenzaFR.f81ffe81676cd8e55fec.png",
     "static/media/PamelaPCVF.png": "/static/media/PamelaPCVF.8d2824d433d325b0a315.png",
     "static/media/ConfalonieriFR.png": "/static/media/ConfalonieriFR.2508ab59e348fd7117ed.png",
     "static/media/AnnaFraentzelCelliFR.png": "/static/media/AnnaFraentzelCelliFR.b4719f010defe6b99342.png",
@@ -216,10 +222,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.77d5c177.css.map": "/static/css/main.77d5c177.css.map",
-    "main.c13ee6b5.js.map": "/static/js/main.c13ee6b5.js.map"
+    "main.a4de5b97.js.map": "/static/js/main.a4de5b97.js.map"
   },
   "entrypoints": [
     "static/css/main.77d5c177.css",
-    "static/js/main.c13ee6b5.js"
+    "static/js/main.a4de5b97.js"
   ]
 }
