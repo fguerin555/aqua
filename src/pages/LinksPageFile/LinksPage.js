@@ -666,36 +666,7 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NameArtists.albertoB" />
         </div>
-        {/* --- Rober Cahen--- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://robertcahen.com/" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
-            <a
-              href="https://www.instagram.com/robertcahen/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/robert.cahen.29/?locale=pt_BR"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NameArtists.robertC" />
-        </div>
+
         {/* --- Giancarlo Caracuzzo--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
@@ -1036,37 +1007,6 @@ const LinksPage = () => {
             </span>
           </div>
           <Trans i18nKey="links.NameArtists.lorenzaR" />
-        </div>
-        {/* --- Studio Azzuro--- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://www.studioazzurro.com" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
-            <a
-              href="https://www.instagram.com/studioazzurro/?hl=it"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/StudioAzzurro/?locale=it_IT"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NameArtists.studioA" />
         </div>
       </div>
     </div>

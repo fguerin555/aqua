@@ -148,7 +148,7 @@
 
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale <br/> creando ambienti immersivi che consentono l’interazione del pubblico.",
 
-      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><OV/><OV/>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/>ADRIANA POLVERONI<br/><br/>Accesso libero",
+      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/>ADRIANA POLVERONI<br/><br/>Accesso libero",
 
       "location1": {
         "mapQuery": "Lago Ex.Snia, Roma."
@@ -287,7 +287,6 @@
       "paoloA": "Paolo Assenza",
       "matteoB": "Matteo Basilé",
       "albertoB": "Alberto Besi",
-      "robertC": "Robert Cahen",
       "giancarloC": "Giancarlo Caracuzzo",
       "iginioD": "Iginio De Luca",
       "davideT": "Davide Di Tolla",
@@ -299,8 +298,7 @@
       "pamelaP": "Pamela Pintus",
       "alfredoP": "Alfredo Pirri",
       "fabrizioP": "Fabrizio Plessi",
-      "lorenzaR": "Lorenza Ricci",
-      "studioA": "Studio Azzuro"
+      "lorenzaR": "Lorenza Ricci"
     },
     "Link": "Link",
     "Facebook": "Facebook",

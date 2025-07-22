@@ -9,6 +9,13 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide"; // composant React
 import OV from "../../assets/images/OeilVide.png"; // l’image elle-même
 
+import PaoloAssenzaIT from "../../assets/images/PaoloAssenzaIT.png";
+import PaoloAssenzaEN from "../../assets/images/PaoloAssenzaEN.png";
+import PaoloAssenzaFR from "../../assets/images/PaoloAssenzaFR.png";
+import PaoloAssenzaW1 from "../../assets/images/PaoloAssenzaW1.png";
+import PaoloAssenzaW2 from "../../assets/images/PaoloAssenzaW2.png";
+import PaoloAssenzaW3 from "../../assets/images/PaoloAssenzaW3.png";
+
 import App1_IlNuotatore from "../../assets/images/App1_IlNuotatore.png";
 import App1_VoyagedHiver from "../../assets/images/App1_VoyagedHiver.png";
 import App1_Pryntil from "../../assets/images/App1_Pryntil.png";
@@ -250,10 +257,20 @@ const Programma = () => {
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
   ];
+  const PaoloAssenzaImages = [
+    { src: PaoloAssenzaW1, alt: "" },
+    { src: PaoloAssenzaW2, alt: "" },
+    { src: PaoloAssenzaW3, alt: "" },
+  ];
   const GiuliaApiceBookImages = {
     it: GiuliaACVI,
     en: GiuliaACVE,
     fr: GiuliaACVF,
+  };
+  const PaoloAssenzaBookImages = {
+    it: PaoloAssenzaIT,
+    en: PaoloAssenzaEN,
+    fr: PaoloAssenzaFR,
   };
   const PamelaPImages = [
     { src: PamelaP1, alt: "" },
@@ -1298,6 +1315,19 @@ const Programma = () => {
                 <Book
                   className={styles.IconStandard}
                   imageMap={GiuliaApiceBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+              carousel_paolo: (
+                <ButtonCarousel
+                  images={PaoloAssenzaImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_paolo: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={PaoloAssenzaBookImages}
                   altKey="program.bookAlt"
                 />
               ),
