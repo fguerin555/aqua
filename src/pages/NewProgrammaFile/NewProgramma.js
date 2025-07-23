@@ -6,8 +6,11 @@ import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import Foto from "../../components/Foto";
-import OeilVide from "../../components/OeilVide"; // composant React
-import OV from "../../assets/images/OeilVide.png"; // l’image elle-même
+import OeilVide from "../../components/OeilVide";
+import OV from "../../assets/images/OeilVide.png";
+
+import MercedesKW1 from "../../assets/images/MercedesKW1.png";
+import LaurentLDW1 from "../../assets/images/LaurentLDW1.png";
 
 import PaoloAssenzaIT from "../../assets/images/PaoloAssenzaIT.png";
 import PaoloAssenzaEN from "../../assets/images/PaoloAssenzaEN.png";
