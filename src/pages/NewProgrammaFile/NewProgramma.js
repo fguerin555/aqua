@@ -9,6 +9,10 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 
+import IsabellaVitaleIT from "../../assets/images/IsabellaVitaleIT.png";
+import IsabellaVitaleEN from "../../assets/images/IsabellaVitaleEN.png";
+import IsabellaVitaleFR from "../../assets/images/IsabellaVitaleFR.png";
+
 import MercedesKW1 from "../../assets/images/MercedesKW1.png";
 import MercedesKIT from "../../assets/images/MercedesKIT.png";
 import MercdesKEN from "../../assets/images/MercedesKEN.png";
@@ -363,6 +367,11 @@ const Programma = () => {
     it: DavideCVI,
     en: DavideCVE,
     fr: DavideCVF,
+  };
+  const IsabellaVitaleBookImages = {
+    it: IsabellaVitaleIT,
+    en: IsabellaVitaleEN,
+    fr: IsabellaVitaleFR,
   };
 
   const lucaGrechiImages = [{ src: LucaG1, alt: "" }];
@@ -1804,6 +1813,28 @@ const Programma = () => {
                 <Book
                   className={styles.IconStandard}
                   imageMap={LaurentLDBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+              carousel_laurent: <ButtonCarousel images={LaurentLDImages} />,
+              book_laurent: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={LaurentLDBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
+                  className={styles.IconStandard}
+                />
+              ),
+              book_isabella: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={IsabellaVitaleBookImages}
                   altKey="program.bookAlt"
                 />
               ),
