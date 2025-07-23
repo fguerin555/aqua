@@ -10,7 +10,14 @@ import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 
 import MercedesKW1 from "../../assets/images/MercedesKW1.png";
+import MercedesKIT from "../../assets/images/MercedesKIT.png";
+import MercdesKEN from "../../assets/images/MercedesKEN.png";
+import MercedesKFR from "../../assets/images/MercedesKFR.png";
+
 import LaurentLDW1 from "../../assets/images/LaurentLDW1.png";
+import LaurentLDIT from "../../assets/images/LaurentLDIT.png";
+import LaurentLDEN from "../../assets/images/LaurentLDEN.png";
+import LaurentLDFR from "../../assets/images/LaurentLDFR.png";
 
 import PaoloAssenzaIT from "../../assets/images/PaoloAssenzaIT.png";
 import PaoloAssenzaEN from "../../assets/images/PaoloAssenzaEN.png";
@@ -260,6 +267,11 @@ const Programma = () => {
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
   ];
+
+  const MercedesKWImages = [{ src: MercedesKW1, alt: "" }];
+
+  const LaurentLDImages = [{ src: LaurentLDW1, alt: "" }];
+
   const PaoloAssenzaImages = [
     { src: PaoloAssenzaW1, alt: "" },
     { src: PaoloAssenzaW2, alt: "" },
@@ -386,6 +398,17 @@ const Programma = () => {
     { src: App1_SpectralCanticle, alt: "" },
     { src: App1_VoyagedHiver, alt: "" },
   ];
+
+  const MercedesKBookImages = {
+    it: MercedesKIT,
+    en: MercdesKEN,
+    fr: MercedesKFR,
+  };
+  const LaurentLDBookImages = {
+    it: LaurentLDIT,
+    en: LaurentLDEN,
+    fr: LaurentLDFR,
+  };
 
   const IginiodeLucaBookImages = {
     it: IginiodeLucaIT,
@@ -1615,6 +1638,15 @@ const Programma = () => {
         <p>{t("program.appointment5.name")}</p>
       </div>
 
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment5.description2"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+
       <div className={styles.Orari}>
         <div>
           <div className={styles.EventDescription}></div>
@@ -1751,11 +1783,28 @@ const Programma = () => {
             i18nKey="program.appointment5.artistList"
             components={{
               br: <br />,
-              OV: (
-                <OeilVide
-                  imageMap={OVImageMap}
-                  altKey="program.artistPlaceholderAlt"
+              carousel_mercedes: <ButtonCarousel images={MercedesKWImages} />,
+              book_mercedes: (
+                <Book
                   className={styles.IconStandard}
+                  imageMap={MercedesKBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+              carousel_paolo: <ButtonCarousel images={PaoloAssenzaImages} />,
+              book_paolo: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={PaoloAssenzaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+              carousel_laurent: <ButtonCarousel images={LaurentLDImages} />,
+              book_laurent: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={LaurentLDBookImages}
+                  altKey="program.bookAlt"
                 />
               ),
             }}
