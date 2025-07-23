@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77d5c177.css",
-    "main.js": "/static/js/main.a4de5b97.js",
+    "main.js": "/static/js/main.0b88e899.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -41,6 +41,7 @@
     "static/media/Giancarlo4.png": "/static/media/Giancarlo4.d786cfc7df4a88aca225.png",
     "static/media/IginiodeLucaW4.png": "/static/media/IginiodeLucaW4.2f87b8c85dad8c2309a3.png",
     "static/media/AnnaFraentzelCelli.png": "/static/media/AnnaFraentzelCelli.85465e4ec926398d33b4.png",
+    "static/media/PianoBi.png": "/static/media/PianoBi.09ea750668a4fc7bf881.png",
     "static/media/Giancarlo1.png": "/static/media/Giancarlo1.0dbe1eb50472d3b96dbd.png",
     "static/media/IginiodeLucaW1.png": "/static/media/IginiodeLucaW1.c191c740a73df66a52de.png",
     "static/media/PaoloAssenzaW2.png": "/static/media/PaoloAssenzaW2.6461d5228624715dbfcf.png",
@@ -53,11 +54,12 @@
     "static/media/SpazioY.png": "/static/media/SpazioY.902302616b7496c9e790.png",
     "static/media/ABalabanoff.png": "/static/media/ABalabanoff.900ddb7a3736e2de4f8e.png",
     "static/media/IginiodeLucaW7.png": "/static/media/IginiodeLucaW7.bd9d83a31caa2492b352.png",
+    "static/media/LaurentLDW1.png": "/static/media/LaurentLDW1.46fc4d90bc2f2938ca5f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
-    "static/media/PianoBi.png": "/static/media/PianoBi.b4372e5b2cba1f8521d4.png",
     "static/media/App1_VoyagedHiver.png": "/static/media/App1_VoyagedHiver.5c587abeb3957d29870c.png",
     "static/media/Pirri0.png": "/static/media/Pirri0.12c14e67210467d30843.png",
     "static/media/CasaPirri.png": "/static/media/CasaPirri.428b5af05d0a0b854518.png",
+    "static/media/MercedesKW1.png": "/static/media/MercedesKW1.b0855372027e0cbe5fda.png",
     "static/media/Davide3.png": "/static/media/Davide3.862b934045f2a60d232a.png",
     "static/media/IginiodeLucaW3.png": "/static/media/IginiodeLucaW3.a4d68408568d343d47c0.png",
     "static/media/CristianaP1.png": "/static/media/CristianaP1.dd04fac45491b7f17b2d.png",
@@ -196,10 +198,16 @@
     "static/media/ToLagoExSNIAEIT.png": "/static/media/ToLagoExSNIAEIT.4e32739ced9ff31c181a.png",
     "static/media/ToSpazioYIT.png": "/static/media/ToSpazioYIT.53886c4c1fec9d172878.png",
     "static/media/ToViaDellAcquedottoFeliceIT.png": "/static/media/ToViaDellAcquedottoFeliceIT.fdcfca8174ec41d0aa83.png",
+    "static/media/LaurentLDFR.png": "/static/media/LaurentLDFR.0f2996931296724b5e03.png",
+    "static/media/MercedesKFR.png": "/static/media/MercedesKFR.0f2996931296724b5e03.png",
     "static/media/ToABalabanoffFR.png": "/static/media/ToABalabanoffFR.0f2996931296724b5e03.png",
     "static/media/ToConfalonieriFR.png": "/static/media/ToConfalonieriFR.0f2996931296724b5e03.png",
+    "static/media/LaurentLDIT.png": "/static/media/LaurentLDIT.ffb2398f38cceb4d3796.png",
+    "static/media/MercedesKIT.png": "/static/media/MercedesKIT.ffb2398f38cceb4d3796.png",
     "static/media/ToABalabanoffIT.png": "/static/media/ToABalabanoffIT.ffb2398f38cceb4d3796.png",
     "static/media/ToConfalonieriIT.png": "/static/media/ToConfalonieriIT.ffb2398f38cceb4d3796.png",
+    "static/media/LaurentLDEN.png": "/static/media/LaurentLDEN.fe224032fe36a96fb4a3.png",
+    "static/media/MercedesKEN.png": "/static/media/MercedesKEN.fe224032fe36a96fb4a3.png",
     "static/media/ToABalabanoffEN.png": "/static/media/ToABalabanoffEN.fe224032fe36a96fb4a3.png",
     "static/media/ToConfalonieriEN.png": "/static/media/ToConfalonieriEN.fe224032fe36a96fb4a3.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
@@ -222,10 +230,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.77d5c177.css.map": "/static/css/main.77d5c177.css.map",
-    "main.a4de5b97.js.map": "/static/js/main.a4de5b97.js.map"
+    "main.0b88e899.js.map": "/static/js/main.0b88e899.js.map"
   },
   "entrypoints": [
     "static/css/main.77d5c177.css",
-    "static/js/main.a4de5b97.js"
+    "static/js/main.0b88e899.js"
   ]
 }
