@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77d5c177.css",
-    "main.js": "/static/js/main.e0e61e7d.js",
+    "main.js": "/static/js/main.a9210ae5.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -109,6 +109,7 @@
     "static/media/ViaDiTorreBrancaIT.png": "/static/media/ViaDiTorreBrancaIT.404120c11210cfbaa234.png",
     "static/media/IginiodeLucaEN.png": "/static/media/IginiodeLucaEN.78fadb9aecbb3f4db835.png",
     "static/media/LucaG1.png": "/static/media/LucaG1.5320e757ca3d919e9b58.png",
+    "static/media/IrmaAlonzoEN.png": "/static/media/IrmaAlonzoEN.26ab1cc73ca526e18daf.png",
     "static/media/PaoloAssenzaFR.png": "/static/media/PaoloAssenzaFR.f81ffe81676cd8e55fec.png",
     "static/media/PamelaPCVF.png": "/static/media/PamelaPCVF.8d2824d433d325b0a315.png",
     "static/media/ConfalonieriFR.png": "/static/media/ConfalonieriFR.2508ab59e348fd7117ed.png",
@@ -116,7 +117,9 @@
     "static/media/AnnaFraentzelCelliEN.png": "/static/media/AnnaFraentzelCelliEN.943219bda1bba0437b9d.png",
     "static/media/SpazioYIT.png": "/static/media/SpazioYIT.31abeab4b28ff0ec4756.png",
     "static/media/MercedesKIT.png": "/static/media/MercedesKIT.0d59eabf71c928f0ff4f.png",
+    "static/media/IrmaAlonzoIT.png": "/static/media/IrmaAlonzoIT.7d30c6847003ed0cfbd9.png",
     "static/media/ToFontanaEN.png": "/static/media/ToFontanaEN.f53cb452363049d2bcd1.png",
+    "static/media/IrmaAlonzoFR.png": "/static/media/IrmaAlonzoFR.eb1955724c6deb5647e7.png",
     "static/media/IsabellaVitaleIT.png": "/static/media/IsabellaVitaleIT.c4de5b6e435aff3db645.png",
     "static/media/ViaDellAcquaFeliceIT.png": "/static/media/ViaDellAcquaFeliceIT.2e63aeaa02a2991ab237.png",
     "static/media/PianoBiFR.png": "/static/media/PianoBiFR.b2f18985135ab41614ce.png",
@@ -136,6 +139,7 @@
     "static/media/ToSpazioYFR.png": "/static/media/ToSpazioYFR.85581fd13a4436421796.png",
     "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.9744ed0d6b63e10b014c.png",
     "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.6855837878aa521e703d.png",
+    "static/media/IrmaAlonzoRit.png": "/static/media/IrmaAlonzoRit.d18ace0d80103872fca3.png",
     "static/media/CristianaPCVE.png": "/static/media/CristianaPCVE.5fce15bc27d5fa486b36.png",
     "static/media/ToPianoBiEN.png": "/static/media/ToPianoBiEN.a97b7918e7c9a226d88a.png",
     "static/media/ToViaDiTorreBrancaFR.png": "/static/media/ToViaDiTorreBrancaFR.9f5b51f5bc58cb4cdff4.png",
@@ -234,10 +238,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.77d5c177.css.map": "/static/css/main.77d5c177.css.map",
-    "main.e0e61e7d.js.map": "/static/js/main.e0e61e7d.js.map"
+    "main.a9210ae5.js.map": "/static/js/main.a9210ae5.js.map"
   },
   "entrypoints": [
     "static/css/main.77d5c177.css",
-    "static/js/main.e0e61e7d.js"
+    "static/js/main.a9210ae5.js"
   ]
 }
