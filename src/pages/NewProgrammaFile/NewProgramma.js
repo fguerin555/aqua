@@ -106,6 +106,10 @@ import IrmaAlonzo1 from "../../assets/images/IrmaAlonzo1.png";
 import IrmaAlonzo2 from "../../assets/images/IrmaAlonzo2.png";
 import IrmaAlonzo3 from "../../assets/images/IrmaAlonzo3.png";
 import IrmaAlonzo4 from "../../assets/images/IrmaAlonzo4.png";
+import IrmaAlonzoRit from "../../assets/images/IrmaAlonzoRit.png";
+import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
+import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
+import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
 import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
@@ -383,6 +387,7 @@ const Programma = () => {
   };
 
   const irmaAlonzoImages = [
+    { src: IrmaAlonzoRit, alt: "" },
     { src: IrmaAlonzo1, alt: "" },
     { src: IrmaAlonzo2, alt: "" },
     { src: IrmaAlonzo3, alt: "" },
@@ -408,6 +413,11 @@ const Programma = () => {
     { src: App1_VoyagedHiver, alt: "" },
   ];
 
+  const IrmaAlonzoBookImages = {
+    it: IrmaAlonzoIT,
+    en: IrmaAlonzoEN,
+    fr: IrmaAlonzoFR,
+  };
   const MercedesKBookImages = {
     it: MercedesKIT,
     en: MercdesKEN,
@@ -1635,6 +1645,13 @@ const Programma = () => {
                 />
               ),
               carousel_irma: <ButtonCarousel images={irmaAlonzoImages} />,
+              book_irma: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={IrmaAlonzoBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
             }}
           />
         </div>
