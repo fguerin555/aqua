@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import LogoImg from "../assets/images/LogoOndaBlue2.png";
 import styles from "./Navbar.module.css";
-import Costruzione from "../assets/images/Costruzione.png";
+// import Costruzione from "../assets/images/Costruzione.png";
 
 // Importer les drapeaux
 import flagIT from "../assets/images/FlagItaly.png";
@@ -37,11 +37,11 @@ const Navbar = () => {
             alt={t("navbar.logoAlt")}
             className={styles.logoImage}
           />
-          <img
+          {/* <img
             src={Costruzione}
             alt="Site en construction"
             className={styles.Costruzione}
-          />
+          /> */}
         </div>
       </Link>
 
