@@ -9,6 +9,11 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 
+import AdrianaRit from "../../assets/images/AdrianaRit.png";
+import AdrianaIT from "../../assets/images/AdrianaIT.png";
+import AdrianaEN from "../../assets/images/AdrianaEN.png";
+import AdrianaFR from "../../assets/images/AdrianaFR.png";
+
 import IsabellaVitaleIT from "../../assets/images/IsabellaVitaleIT.png";
 import IsabellaVitaleEN from "../../assets/images/IsabellaVitaleEN.png";
 import IsabellaVitaleFR from "../../assets/images/IsabellaVitaleFR.png";
@@ -280,11 +285,14 @@ const Programma = () => {
 
   const LaurentLDImages = [{ src: LaurentLDW1, alt: "" }];
 
+  const AdrianaRitImages = [{ src: AdrianaRit, alt: "" }];
+
   const PaoloAssenzaImages = [
     { src: PaoloAssenzaW1, alt: "" },
     { src: PaoloAssenzaW2, alt: "" },
     { src: PaoloAssenzaW3, alt: "" },
   ];
+
   const GiuliaApiceBookImages = {
     it: GiuliaACVI,
     en: GiuliaACVE,
@@ -367,6 +375,7 @@ const Programma = () => {
     { src: Davide3, alt: "" },
     { src: Davide4, alt: "" },
   ];
+
   const davideDiTollaBookImages = {
     it: DavideCVI,
     en: DavideCVE,
@@ -376,6 +385,11 @@ const Programma = () => {
     it: IsabellaVitaleIT,
     en: IsabellaVitaleEN,
     fr: IsabellaVitaleFR,
+  };
+  const AdrianaBookImages = {
+    it: AdrianaIT,
+    en: AdrianaEN,
+    fr: AdrianaFR,
   };
 
   const lucaGrechiImages = [{ src: LucaG1, alt: "" }];
@@ -1238,6 +1252,19 @@ const Programma = () => {
                   altKey="program.bookAlt"
                 />
               ),
+              carousel_adriana: (
+                <ButtonCarousel
+                  images={AdrianaRitImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
             }}
           />
         </div>
@@ -1408,6 +1435,19 @@ const Programma = () => {
                   imageMap={OVImageMap}
                   altKey="program.artistPlaceholderAlt"
                   className={styles.IconStandard}
+                />
+              ),
+              carousel_adriana: (
+                <ButtonCarousel
+                  images={AdrianaRitImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="program.bookAlt"
                 />
               ),
             }}
@@ -1652,6 +1692,19 @@ const Programma = () => {
                   altKey="program.bookAlt"
                 />
               ),
+              carousel_adriana: (
+                <ButtonCarousel
+                  images={AdrianaRitImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
             }}
           />
         </div>
@@ -1833,19 +1886,25 @@ const Programma = () => {
                   altKey="program.bookAlt"
                 />
               ),
-              carousel_laurent: <ButtonCarousel images={LaurentLDImages} />,
-              book_laurent: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={LaurentLDBookImages}
-                  altKey="program.bookAlt"
-                />
-              ),
+
               OV: (
                 <OeilVide
                   imageMap={OVImageMap}
                   altKey="program.artistPlaceholderAlt"
                   className={styles.IconStandard}
+                />
+              ),
+              carousel_adriana: (
+                <ButtonCarousel
+                  images={AdrianaRitImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="program.bookAlt"
                 />
               ),
               book_isabella: (
@@ -1909,6 +1968,14 @@ const Programma = () => {
                 />
               ),
             }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="program.appointment6.time2"
+            components={{ br: <br /> }}
           />
         </div>
       </div>
@@ -2011,7 +2078,24 @@ const Programma = () => {
         <div>
           <Trans
             i18nKey="program.appointment7.artistList"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              OV: (
+                <OeilVide
+                  imageMap={OVImageMap}
+                  altKey="program.artistPlaceholderAlt"
+                  className={styles.IconStandard}
+                />
+              ),
+              carousel_adriana: <ButtonCarousel images={AdrianaRitImages} />,
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
+            }}
           />
         </div>
       </div>

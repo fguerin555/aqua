@@ -138,7 +138,7 @@
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
       },
-      "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/>ADRIANA POLVERONI <br /><br />  Accès libre"
+      "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><br />  Accès libre"
     },
 
     "appointment3": {
@@ -151,7 +151,7 @@
 
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
-      "artistList": "Artistes : <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Commissaire: <br/> ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artistes : <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><OV/><OV/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI <br /><br /> Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -171,7 +171,7 @@
       "time3": "09, 23 Octobre - 06, 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
       "time4": "10, 24 Octobre - 07 e 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Commissaires :<br/> IRMA ALONZO <br/> ADRIANA POLVERONI<br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Commissaires :<br/><carousel_irma/><book_irma/> IRMA ALONZO <br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accès libre",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -202,7 +202,7 @@
       "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Adriana Polveroni<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>Parco di Tor Fiscale, Via dell'Acquedotto Felice 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><OV/><OV/>ADRIANA POLVERONI <br /> <OV/><book_isabella></book_isabella>ISABELLA VITALE <br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /> <OV/><book_isabella></book_isabella>ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
@@ -245,7 +245,7 @@
       "name": "Une oeuvre pour Don Sardelli",
       "time": "",
       "description": "Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
-      "artistList": "Artiste: ALFREDO PIRRI<br />Commissaire : ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artiste:<br/><OV/><OV/> ALFREDO PIRRI<br />Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI <br /><br /> Accès libre",
 
       "location1": {
         "name1": "Fontana de Clemente XII et murs limitrophes<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
