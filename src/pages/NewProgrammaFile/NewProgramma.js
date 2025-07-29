@@ -9,6 +9,17 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 
+import DonSardelli01IT from "../../assets/images/DonSardelli01IT.png";
+import DonSardelli02IT from "../../assets/images/DonSardelli02IT.png";
+import DonSardelli03IT from "../../assets/images/DonSardelli03IT.png";
+import DonSardelli01EN from "../../assets/images/DonSardelli01EN.png";
+import DonSardelli02EN from "../../assets/images/DonSardelli02EN.png";
+import DonSardelli03EN from "../../assets/images/DonSardelli03EN.png";
+import DonSardelli01FR from "../../assets/images/DonSardelli01FR.png";
+import DonSardelli02FR from "../../assets/images/DonSardelli02FR.png";
+import DonSardelli03FR from "../../assets/images/DonSardelli03FR.png";
+import DonSardelliRitr from "../../assets/images/DonSardelliRit.png";
+
 import AdrianaRit from "../../assets/images/AdrianaRit.png";
 import AdrianaIT from "../../assets/images/AdrianaIT.png";
 import AdrianaEN from "../../assets/images/AdrianaEN.png";
@@ -286,6 +297,27 @@ const Programma = () => {
   const LaurentLDImages = [{ src: LaurentLDW1, alt: "" }];
 
   const AdrianaRitImages = [{ src: AdrianaRit, alt: "" }];
+
+  const DonSardelliITImages = [
+    { src: DonSardelliRitr, alt: "" },
+    { src: DonSardelli01IT, alt: "" },
+    { src: DonSardelli02IT, alt: "" },
+    { src: DonSardelli03IT, alt: "" },
+  ];
+
+  const DonSardelliENImages = [
+    { src: DonSardelliRitr, alt: "" },
+    { src: DonSardelli01EN, alt: "" },
+    { src: DonSardelli02EN, alt: "" },
+    { src: DonSardelli03EN, alt: "" },
+  ];
+
+  const DonSardelliFRImages = [
+    { src: DonSardelliRitr, alt: "" },
+    { src: DonSardelli01FR, alt: "" },
+    { src: DonSardelli02FR, alt: "" },
+    { src: DonSardelli03FR, alt: "" },
+  ];
 
   const PaoloAssenzaImages = [
     { src: PaoloAssenzaW1, alt: "" },
@@ -2040,6 +2072,23 @@ const Programma = () => {
           />
         </div>
         <div>
+          <Trans
+            i18nKey="program.appointment7.DonSardelli"
+            components={{
+              br: <br />,
+              carousel_DonSardelliIT: (
+                <ButtonCarousel images={DonSardelliITImages} />
+              ),
+              carousel_DonSardelliEN: (
+                <ButtonCarousel images={DonSardelliENImages} />
+              ),
+              carousel_DonSardelliFR: (
+                <ButtonCarousel images={DonSardelliFRImages} />
+              ),
+            }}
+          />
+          <div />
+
           <Trans
             i18nKey="program.appointment7.location1.name1"
             components={{
