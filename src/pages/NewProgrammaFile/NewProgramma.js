@@ -8,6 +8,8 @@ import Book from "../../components/Book";
 import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
+import RitVuoto from "../../assets/images/RitVuoto.png";
+import ContainerIMG from "../../assets/images/ContainerIMG.png";
 
 import DonSardelli01IT from "../../assets/images/DonSardelli01IT.png";
 import DonSardelli02IT from "../../assets/images/DonSardelli02IT.png";
@@ -184,7 +186,6 @@ import AnnaFraentzelCelliEN from "../../assets/images/AnnaFraentzelCelliEN.png";
 import AnnaFraentzelCelliFR from "../../assets/images/AnnaFraentzelCelliFR.png";
 
 import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
-import AcquedottoIT from "../../assets/images/AcquedottoIT.png";
 import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
 import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
 import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
@@ -418,6 +419,22 @@ const Programma = () => {
     en: IsabellaVitaleEN,
     fr: IsabellaVitaleFR,
   };
+  const IsabellaVitaleImages = [{ src: RitVuoto, alt: "" }];
+
+  const MatteoBasileImages = [{ src: RitVuoto, alt: "" }];
+
+  const AcquedottoFotoImageMap = {
+    en: Acquedotto,
+    fr: Acquedotto,
+    it: Acquedotto,
+  };
+
+  const MatteoBasileBookImages = {
+    it: ContainerIMG,
+    en: ContainerIMG,
+    fr: ContainerIMG,
+  };
+
   const AdrianaBookImages = {
     it: AdrianaIT,
     en: AdrianaEN,
@@ -522,7 +539,7 @@ const Programma = () => {
   };
 
   const AcquedottoBookImageMap = {
-    it: AcquedottoIT,
+    it: ParcoTorFiscaleIT,
     en: AcquedottoEN,
     fr: AcquedottoFR,
   };
@@ -1435,6 +1452,19 @@ const Programma = () => {
                   altKey="program.bookAlt"
                 />
               ),
+              carousel_matteo: (
+                <ButtonCarousel
+                  images={MatteoBasileImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_matteo: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={MatteoBasileBookImages}
+                  altKey="program.bookAlt"
+                />
+              ),
 
               carousel_luca: (
                 <ButtonCarousel
@@ -1872,7 +1902,7 @@ const Programma = () => {
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoDiTorFiscaleFotoImageMap}
+                  imageMap={AcquedottoFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
@@ -1937,6 +1967,12 @@ const Programma = () => {
                   className={styles.IconStandard}
                   imageMap={AdrianaBookImages}
                   altKey="program.bookAlt"
+                />
+              ),
+              carousel_isabella: (
+                <ButtonCarousel
+                  images={IsabellaVitaleImages}
+                  className={styles.IconStandard}
                 />
               ),
               book_isabella: (
