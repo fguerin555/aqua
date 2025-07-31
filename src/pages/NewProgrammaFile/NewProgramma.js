@@ -11,6 +11,16 @@ import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 import ContainerIMG from "../../assets/images/ContainerIMG.png";
 
+import APirriIT from "../../assets/images/APirriIT.png";
+import APirriEN from "../../assets/images/APirriEN.png";
+import APirriFR from "../../assets/images/APirriFR.png";
+import APirriRit from "../../assets/images/APirriRit.png";
+import APirriW01 from "../../assets/images/APirriW01.png";
+import APirriW02 from "../../assets/images/APirriW02.png";
+import APirriW03 from "../../assets/images/APirriW03.png";
+import APirriW04 from "../../assets/images/APirriW04.png";
+import APirriW05 from "../../assets/images/APirriW05.png";
+
 import DonSardelli01IT from "../../assets/images/DonSardelli01IT.png";
 import DonSardelli02IT from "../../assets/images/DonSardelli02IT.png";
 import DonSardelli03IT from "../../assets/images/DonSardelli03IT.png";
@@ -292,6 +302,14 @@ const Programma = () => {
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
   ];
+  const APirriImages = [
+    { src: APirriRit, alt: "" },
+    { src: APirriW01, alt: "" },
+    { src: APirriW02, alt: "" },
+    { src: APirriW03, alt: "" },
+    { src: APirriW04, alt: "" },
+    { src: APirriW05, alt: "" },
+  ];
 
   const MercedesKWImages = [{ src: MercedesKW1, alt: "" }];
 
@@ -331,6 +349,13 @@ const Programma = () => {
     en: GiuliaACVE,
     fr: GiuliaACVF,
   };
+
+  const APirriBookImages = {
+    it: APirriIT,
+    en: APirriEN,
+    fr: APirriFR,
+  };
+
   const PaoloAssenzaBookImages = {
     it: PaoloAssenzaIT,
     en: PaoloAssenzaEN,
@@ -2170,6 +2195,14 @@ const Programma = () => {
                   imageMap={OVImageMap}
                   altKey="program.artistPlaceholderAlt"
                   className={styles.IconStandard}
+                />
+              ),
+              carousel_alfredo: <ButtonCarousel images={APirriImages} />,
+              book_alfredo: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={APirriBookImages}
+                  altKey="program.bookAlt"
                 />
               ),
               carousel_adriana: <ButtonCarousel images={AdrianaRitImages} />,
