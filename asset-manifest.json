@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77d5c177.css",
-    "main.js": "/static/js/main.2791a4bf.js",
+    "main.js": "/static/js/main.e13b618e.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -251,9 +251,9 @@
     "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
     "static/media/LogoAFraentzel.png": "/static/media/LogoAFraentzel.d9282a61d9b0345c91bb.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.565894e9072113410030.png",
-    "static/media/oeil.png": "/static/media/oeil.57fe0dbb51d8f07a097d.png",
     "static/media/LogoABalabanoff.png": "/static/media/LogoABalabanoff.f9eb8050980c3cb8c88a.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.7dfa2d899cf70dbb7f5f.png",
+    "static/media/oeil.png": "/static/media/oeil.5ddcdf1847358a022eca.png",
     "static/media/RitVuoto.png": "/static/media/RitVuoto.f23c3d60254ded7ad91a.png",
     "static/media/LogoEcoMuseo.png": "/static/media/LogoEcoMuseo.4e2df6c1c50823e6d109.png",
     "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
@@ -262,10 +262,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.77d5c177.css.map": "/static/css/main.77d5c177.css.map",
-    "main.2791a4bf.js.map": "/static/js/main.2791a4bf.js.map"
+    "main.e13b618e.js.map": "/static/js/main.e13b618e.js.map"
   },
   "entrypoints": [
     "static/css/main.77d5c177.css",
-    "static/js/main.2791a4bf.js"
+    "static/js/main.e13b618e.js"
   ]
 }
