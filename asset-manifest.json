@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.77d5c177.css",
-    "main.js": "/static/js/main.e13b618e.js",
+    "main.js": "/static/js/main.efbecf0b.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -143,12 +143,12 @@
     "static/media/FontanaIT.png": "/static/media/FontanaIT.d09976b746760236b32c.png",
     "static/media/MercedesKEN.png": "/static/media/MercedesKEN.7fd051caf40c0532f39e.png",
     "static/media/GiancarloCVI.png": "/static/media/GiancarloCVI.9b2423106c432afee27c.png",
+    "static/media/ToPianoBiFR.png": "/static/media/ToPianoBiFR.1fb6da43132de46bc0c2.png",
     "static/media/ToViadelMandrioneFR.png": "/static/media/ToViadelMandrioneFR.de7231a0a222ed0ced1a.png",
     "static/media/IginiodeLucaIT.png": "/static/media/IginiodeLucaIT.50c2df747d41513d852b.png",
     "static/media/PianoBiIT.png": "/static/media/PianoBiIT.fe2a076c49548ce72197.png",
     "static/media/DonSardelli03EN.png": "/static/media/DonSardelli03EN.afe366b6b61aba8d34f4.png",
     "static/media/LaurentLDIT.png": "/static/media/LaurentLDIT.068367efc614419d4b08.png",
-    "static/media/ToPianoBiFR.png": "/static/media/ToPianoBiFR.29140710073b1a7f13c9.png",
     "static/media/DonSardelli02EN.png": "/static/media/DonSardelli02EN.508e4c8e8acadace4e61.png",
     "static/media/DonSardelli02FR.png": "/static/media/DonSardelli02FR.c0c54ca8340816e57bd7.png",
     "static/media/ToViadelMandrioneEN.png": "/static/media/ToViadelMandrioneEN.fdb76077b01b1b55091e.png",
@@ -158,10 +158,10 @@
     "static/media/ToSpazioYFR.png": "/static/media/ToSpazioYFR.85581fd13a4436421796.png",
     "static/media/GiuliaACVF.png": "/static/media/GiuliaACVF.9744ed0d6b63e10b014c.png",
     "static/media/GiuliaACVI.png": "/static/media/GiuliaACVI.6855837878aa521e703d.png",
+    "static/media/ToPianoBiEN.png": "/static/media/ToPianoBiEN.57d8fc754c7e80b324cc.png",
     "static/media/DonSardelli03IT.png": "/static/media/DonSardelli03IT.b781f630a2a4142754e8.png",
     "static/media/IrmaAlonzoRit.png": "/static/media/IrmaAlonzoRit.d18ace0d80103872fca3.png",
     "static/media/CristianaPCVE.png": "/static/media/CristianaPCVE.5fce15bc27d5fa486b36.png",
-    "static/media/ToPianoBiEN.png": "/static/media/ToPianoBiEN.a97b7918e7c9a226d88a.png",
     "static/media/ToViaDiTorreBrancaFR.png": "/static/media/ToViaDiTorreBrancaFR.9f5b51f5bc58cb4cdff4.png",
     "static/media/DavideCVF.png": "/static/media/DavideCVF.55ab0748b9ebf19c469e.png",
     "static/media/GiuliaACVE.png": "/static/media/GiuliaACVE.b4113783f0354e470d9f.png",
@@ -181,7 +181,6 @@
     "static/media/AdrianaFR.png": "/static/media/AdrianaFR.a74ee9a36b5ecaae961a.png",
     "static/media/ToCasaPirriFR.png": "/static/media/ToCasaPirriFR.ca9047c0f2eda126bfab.png",
     "static/media/LucaGCVF.png": "/static/media/LucaGCVF.a450b444cbb8e168c071.png",
-    "static/media/ToPianoBiIT.png": "/static/media/ToPianoBiIT.dc608b1276434b9693e1.png",
     "static/media/ViaCasilinaVecchiaFR.png": "/static/media/ViaCasilinaVecchiaFR.f3ee83d2de249f8a570c.png",
     "static/media/LagoExSNIAEFR.png": "/static/media/LagoExSNIAEFR.75fc15ce4507cffcae9c.png",
     "static/media/ToCentroAnzianiFR.png": "/static/media/ToCentroAnzianiFR.f96b9624c8122cfb00b9.png",
@@ -198,6 +197,7 @@
     "static/media/AcquedottoEN.png": "/static/media/AcquedottoEN.7d165c112131214bccc9.png",
     "static/media/ParcoDiTorFiscaleEN.png": "/static/media/ParcoDiTorFiscaleEN.7d165c112131214bccc9.png",
     "static/media/ToCasaPirriEN.png": "/static/media/ToCasaPirriEN.c0b41de2cf0671c102db.png",
+    "static/media/ToPianoBiIT.png": "/static/media/ToPianoBiIT.aec466ff90b76ea90e0b.png",
     "static/media/AcquedottoFR.png": "/static/media/AcquedottoFR.5974249d9afdc1c38436.png",
     "static/media/ParcoDiTorFiscaleFR.png": "/static/media/ParcoDiTorFiscaleFR.5974249d9afdc1c38436.png",
     "static/media/LucaGCVI.png": "/static/media/LucaGCVI.d14fab8aa5482b69c816.png",
@@ -262,10 +262,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.77d5c177.css.map": "/static/css/main.77d5c177.css.map",
-    "main.e13b618e.js.map": "/static/js/main.e13b618e.js.map"
+    "main.efbecf0b.js.map": "/static/js/main.efbecf0b.js.map"
   },
   "entrypoints": [
     "static/css/main.77d5c177.css",
-    "static/js/main.e13b618e.js"
+    "static/js/main.efbecf0b.js"
   ]
 }
