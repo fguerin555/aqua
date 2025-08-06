@@ -148,7 +148,7 @@
 
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale <br/> creando ambienti immersivi che consentono l’interazione del pubblico.",
 
-      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><book_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero",
+      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero",
 
       "location1": {
         "mapQuery": "Lago Ex.Snia, Roma."

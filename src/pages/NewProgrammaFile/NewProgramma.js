@@ -5,11 +5,25 @@ import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
+import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 import ContainerIMG from "../../assets/images/ContainerIMG.png";
+
+import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
+import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
+import MatteoBBio01FR from "../../assets/images/MatteoBBio01FR.png";
+import MatteoBBio02IT from "../../assets/images/MatteoBBio02IT.png";
+import MatteoBBio02EN from "../../assets/images/MatteoBBio02EN.png";
+import MatteoBBio02FR from "../../assets/images/MatteoBBio02FR.png";
+import MatteoBW01 from "../../assets/images/MatteoBW01.png";
+import MatteoBW02 from "../../assets/images/MatteoBW02.png";
+import MatteoBW03 from "../../assets/images/MatteoBW03.png";
+import MatteoBW04 from "../../assets/images/MatteoBW04.png";
+import MatteoBW05 from "../../assets/images/MatteoBW05.png";
+import MatteoBRit from "../../assets/images/MatteoBRit.png";
 
 import APirriIT from "../../assets/images/APirriIT.png";
 import APirriEN from "../../assets/images/APirriEN.png";
@@ -310,6 +324,14 @@ const Programma = () => {
     { src: APirriW04, alt: "" },
     { src: APirriW05, alt: "" },
   ];
+  const MatteoBImages = [
+    { src: MatteoBRit, alt: "" },
+    { src: MatteoBW01, alt: "" },
+    { src: MatteoBW02, alt: "" },
+    { src: MatteoBW03, alt: "" },
+    { src: MatteoBW04, alt: "" },
+    { src: MatteoBW05, alt: "" },
+  ];
 
   const MercedesKWImages = [{ src: MercedesKW1, alt: "" }];
 
@@ -354,6 +376,17 @@ const Programma = () => {
     it: APirriIT,
     en: APirriEN,
     fr: APirriFR,
+  };
+
+  const MatteoB1BookImages = {
+    it: MatteoBBio01IT,
+    en: MatteoBBio01EN,
+    fr: MatteoBBio01FR,
+  };
+  const MatteoB2BookImages = {
+    it: MatteoBBio02IT,
+    en: MatteoBBio02EN,
+    fr: MatteoBBio02FR,
   };
 
   const PaoloAssenzaBookImages = {
@@ -1479,17 +1512,25 @@ const Programma = () => {
               ),
               carousel_matteo: (
                 <ButtonCarousel
-                  images={MatteoBasileImages}
+                  images={MatteoBImages}
                   className={styles.IconStandard}
                 />
               ),
-              book_matteo: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={MatteoBasileBookImages}
+              bookcarousel_matteo: (
+                <BookCarousel
+                  imageMaps={[MatteoB1BookImages, MatteoB2BookImages]}
                   altKey="program.bookAlt"
+                  className={styles.IconStandard}
                 />
               ),
+              // book_matteo: (
+              //   <Book
+              //     className={styles.IconStandard}
+              //     // imageMap={MatteoB1BookImages}
+              //     imageMaps={[MatteoB1BookImages, MatteoB2BookImages]}
+              //     altKey="program.bookAlt"
+              //   />
+              // ),
 
               carousel_luca: (
                 <ButtonCarousel
