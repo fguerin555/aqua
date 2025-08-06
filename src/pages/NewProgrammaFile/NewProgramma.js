@@ -448,11 +448,11 @@ const Programma = () => {
 
   const MatteoBasileImages = [{ src: RitVuoto, alt: "" }];
 
-  const AcquedottoFotoImageMap = {
-    en: Acquedotto,
-    fr: Acquedotto,
-    it: Acquedotto,
-  };
+  // const AcquedottoFotoImageMap = {
+  //   en: Acquedotto,
+  //   fr: Acquedotto,
+  //   it: Acquedotto,
+  // };
 
   const MatteoBasileBookImages = {
     it: ContainerIMG,
@@ -1913,21 +1913,21 @@ const Programma = () => {
               to: (
                 <FromStation
                   className={styles.IconStandard}
-                  imageMap={ToParcoTorFiscaleImageMap}
+                  imageMap={ToPianoBiImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
               book: (
                 <Book
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleBookImageMap}
+                  imageMap={PianoBiBookImageMap}
                   altKey="program.bookAlt"
                 />
               ),
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={AcquedottoFotoImageMap}
+                  imageMap={PianoBiFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
