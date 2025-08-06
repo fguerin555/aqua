@@ -479,7 +479,7 @@ const Programma = () => {
   };
   const IsabellaVitaleImages = [{ src: RitVuoto, alt: "" }];
 
-  const MatteoBasileImages = [{ src: RitVuoto, alt: "" }];
+  // const MatteoBasileImages = [{ src: RitVuoto, alt: "" }];
 
   // const AcquedottoFotoImageMap = {
   //   en: Acquedotto,
@@ -487,11 +487,11 @@ const Programma = () => {
   //   it: Acquedotto,
   // };
 
-  const MatteoBasileBookImages = {
-    it: ContainerIMG,
-    en: ContainerIMG,
-    fr: ContainerIMG,
-  };
+  // const MatteoBasileBookImages = {
+  //   it: ContainerIMG,
+  //   en: ContainerIMG,
+  //   fr: ContainerIMG,
+  // };
 
   const AdrianaBookImages = {
     it: AdrianaIT,
