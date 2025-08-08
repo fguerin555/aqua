@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c9e6bcdb.css",
-    "main.js": "/static/js/main.8d0a1de2.js",
+    "main.js": "/static/js/main.f0bad500.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/PaoloAssenzaW3.png": "/static/media/PaoloAssenzaW3.5435cca90db594dfafa0.png",
-    "static/media/APirriW05.png": "/static/media/APirriW05.e42f7e91855053c3cb1b.png",
+    "static/media/APirriW05.png": "/static/media/APirriW05.98eb40f9066f7116f999.png",
     "static/media/PamelaP6.png": "/static/media/PamelaP6.eba483ad6ea8a0c4f2b4.png",
-    "static/media/APirriW01.png": "/static/media/APirriW01.5b0f9fc64f1b77689864.png",
+    "static/media/APirriW01.png": "/static/media/APirriW01.ecbc028476482607cc1a.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
     "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.4d4d6c2dc4241728ab00.png",
     "static/media/DonSardelliRit.png": "/static/media/DonSardelliRit.21842e4a96ffb56f9460.png",
-    "static/media/APirriW04.png": "/static/media/APirriW04.cc6c8bb7a51424e73e45.png",
+    "static/media/APirriW04.png": "/static/media/APirriW04.21fdfdb35cf6361cc783.png",
     "static/media/App1_SpectralCanticle.png": "/static/media/App1_SpectralCanticle.2fe984d979c9c8692aed.png",
     "static/media/App1_MurodiSabbia.png": "/static/media/App1_MurodiSabbia.28905021287c396b1267.png",
     "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
@@ -23,10 +23,10 @@
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
+    "static/media/APirriW02.png": "/static/media/APirriW02.2e30386268a5db0fd97b.png",
     "static/media/PamelaP3.png": "/static/media/PamelaP3.375885cc0a4c7ae6c1c8.png",
     "static/media/Davide1.png": "/static/media/Davide1.f685a2a5a20907de5f6d.png",
     "static/media/Davide4.png": "/static/media/Davide4.5ac04be670d5dd9817b1.png",
-    "static/media/APirriW02.png": "/static/media/APirriW02.5524b95bcc70a0f3ae2d.png",
     "static/media/ParcodiTorFiscale2.png": "/static/media/ParcodiTorFiscale2.3eafebb594adcb7deb9e.png",
     "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Casale.png": "/static/media/Casale.da2dfc11c5a4d192d2cb.png",
@@ -37,8 +37,8 @@
     "static/media/APirriRit.png": "/static/media/APirriRit.b881888c9a1def2d2b7f.png",
     "static/media/ViaCasilinaVecchia.png": "/static/media/ViaCasilinaVecchia.54655953290b3b99b96c.png",
     "static/media/Pirri1.png": "/static/media/Pirri1.e9b1d308cbfc692cda30.png",
+    "static/media/APirriW03.png": "/static/media/APirriW03.56437a5cb57883d0efc3.png",
     "static/media/App1_Pryntil.png": "/static/media/App1_Pryntil.fc1104f66e563619954d.png",
-    "static/media/APirriW03.png": "/static/media/APirriW03.292f84eab1a2108e998f.png",
     "static/media/ViadiTorreBranca.png": "/static/media/ViadiTorreBranca.f334f7c574f27dc95458.png",
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/ViaTuscolana.png": "/static/media/ViaTuscolana.a5f428e1d05bbbc64367.png",
@@ -274,10 +274,10 @@
     "static/media/LogoPianobi.png": "/static/media/LogoPianobi.ec248135db1f8c32f32a.png",
     "index.html": "/index.html",
     "main.c9e6bcdb.css.map": "/static/css/main.c9e6bcdb.css.map",
-    "main.8d0a1de2.js.map": "/static/js/main.8d0a1de2.js.map"
+    "main.f0bad500.js.map": "/static/js/main.f0bad500.js.map"
   },
   "entrypoints": [
     "static/css/main.c9e6bcdb.css",
-    "static/js/main.8d0a1de2.js"
+    "static/js/main.f0bad500.js"
   ]
 }
