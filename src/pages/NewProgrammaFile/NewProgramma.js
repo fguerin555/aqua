@@ -10,7 +10,7 @@ import Foto from "../../components/Foto";
 import OeilVide from "../../components/OeilVide";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
-import ContainerIMG from "../../assets/images/ContainerIMG.png";
+// import ContainerIMG from "../../assets/images/ContainerIMG.png";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -51,9 +51,12 @@ import AdrianaIT from "../../assets/images/AdrianaIT.png";
 import AdrianaEN from "../../assets/images/AdrianaEN.png";
 import AdrianaFR from "../../assets/images/AdrianaFR.png";
 
-import IsabellaVitaleIT from "../../assets/images/IsabellaVitaleIT.png";
-import IsabellaVitaleEN from "../../assets/images/IsabellaVitaleEN.png";
-import IsabellaVitaleFR from "../../assets/images/IsabellaVitaleFR.png";
+import IsabellaVitaleIT01 from "../../assets/images/IsabellaVitaleIT01.png";
+import IsabellaVitaleEN01 from "../../assets/images/IsabellaVitaleEN01.png";
+import IsabellaVitaleFR01 from "../../assets/images/IsabellaVitaleFR01.png";
+import IsabellaVitaleIT02 from "../../assets/images/IsabellaVitaleIT02.png";
+import IsabellaVitaleEN02 from "../../assets/images/IsabellaVitaleEN02.png";
+import IsabellaVitaleFR02 from "../../assets/images/IsabellaVitaleFR02.png";
 
 import MercedesKW1 from "../../assets/images/MercedesKW1.png";
 import MercedesKIT from "../../assets/images/MercedesKIT.png";
@@ -388,6 +391,17 @@ const Programma = () => {
     en: MatteoBBio02EN,
     fr: MatteoBBio02FR,
   };
+  const IsabellaVitale1BookImages = {
+    it: IsabellaVitaleIT01,
+    en: IsabellaVitaleEN01,
+    fr: IsabellaVitaleFR01,
+  };
+  const IsabellaVitale2BookImages = {
+    it: IsabellaVitaleIT02,
+    en: IsabellaVitaleEN02,
+    fr: IsabellaVitaleFR02,
+  };
+  const IsabellaVitaleImages = [{ src: RitVuoto, alt: "" }];
 
   const PaoloAssenzaBookImages = {
     it: PaoloAssenzaIT,
@@ -472,26 +486,6 @@ const Programma = () => {
     en: DavideCVE,
     fr: DavideCVF,
   };
-  const IsabellaVitaleBookImages = {
-    it: IsabellaVitaleIT,
-    en: IsabellaVitaleEN,
-    fr: IsabellaVitaleFR,
-  };
-  const IsabellaVitaleImages = [{ src: RitVuoto, alt: "" }];
-
-  // const MatteoBasileImages = [{ src: RitVuoto, alt: "" }];
-
-  // const AcquedottoFotoImageMap = {
-  //   en: Acquedotto,
-  //   fr: Acquedotto,
-  //   it: Acquedotto,
-  // };
-
-  // const MatteoBasileBookImages = {
-  //   it: ContainerIMG,
-  //   en: ContainerIMG,
-  //   fr: ContainerIMG,
-  // };
 
   const AdrianaBookImages = {
     it: AdrianaIT,
@@ -1523,14 +1517,6 @@ const Programma = () => {
                   className={styles.IconStandard}
                 />
               ),
-              // book_matteo: (
-              //   <Book
-              //     className={styles.IconStandard}
-              //     // imageMap={MatteoB1BookImages}
-              //     imageMaps={[MatteoB1BookImages, MatteoB2BookImages]}
-              //     altKey="program.bookAlt"
-              //   />
-              // ),
 
               carousel_luca: (
                 <ButtonCarousel
@@ -2041,11 +2027,14 @@ const Programma = () => {
                   className={styles.IconStandard}
                 />
               ),
-              book_isabella: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={IsabellaVitaleBookImages}
+              bookcarousel_isabella: (
+                <BookCarousel
+                  imageMaps={[
+                    IsabellaVitale1BookImages,
+                    IsabellaVitale2BookImages,
+                  ]}
                   altKey="program.bookAlt"
+                  className={styles.IconStandard}
                 />
               ),
             }}

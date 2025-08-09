@@ -15,7 +15,7 @@ import LogoEcoMuseo from "../../assets/images/LogoEcoMuseo.png";
 import LogoAFraentzel from "../../assets/images/LogoAFraentzel.png";
 import LogoABalabanoff from "../../assets/images/LogoABalabanoff.png";
 import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
-import LogoPianobi from "../../assets/images/LogoPianobi.png";
+// import LogoPianobi from "../../assets/images/LogoPianobi.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 
 const LinksPage = () => {
@@ -331,41 +331,6 @@ const LinksPage = () => {
           <Trans i18nKey="links.NamePartners.Openpolis" />
         </div>
 
-        {/* --- Pianobi--- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://www.pianobi.info" rel="noopener noreferrer">
-              <img
-                src={LogoPianobi}
-                alt={t("links.logoPianobi")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.instagram.com/pianobi_artecontemporanea/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/pianobi.info/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NamePartners.pianoB" />
-        </div>
         {/* --- Spazio Y--- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>

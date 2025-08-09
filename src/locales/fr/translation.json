@@ -202,7 +202,7 @@
       "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Adriana Polveroni<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><book_isabella></book_isabella>ISABELLA VITALE <br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
