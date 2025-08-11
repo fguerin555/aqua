@@ -192,9 +192,9 @@
       "sectionTitle": "APPOINTMENT 5",
       "name": "The Beauty of Water",
       "description2": "Creation of works themed on water and its sustainability. <br /><br />",
-      "description": "<br /><br/>Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99.<br /><br/>Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time.  <br /><br/>Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.<br/><br/>",
+      "description": "<br /><br/>Mercedes Klausner, hosted in residence by the Pianobi project, will create a work using dust obtained from the debris of old destroyed houses, recovered at the foot of the Felice aqueduct. This intervention will result in works capable of producing images that will be projected onto the walls of the Pianobi project at via dei ciceri 99.<br /><br/>Paolo Assenza's work consists of a fountain that activates during the night hours by capturing water particles present in the air humidity, which drip through the hole onto the stone element at its base. Constantly falling on the base, it modifies the appearance of the surface over time.  <br />This totally eco-sustainable and non-invasive technique has been extensively tested and used by the artist who will make himself available for meetings with the public for a mutual cognitive exchange.<br/><br/>Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.<br/><br/>",
       "time1": "Imago Acquae-Urbis <br/>by Mercedes Klausner <br />Curated by Isabella Vitale<br/>Opening on 4 October <br/>at 7 PM<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Adriana Polveroni<br/>Opening on 10 October <br/>at 7 PM<br/>Parco di Tor Fiscale<br/> Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time2": "<br/>The Mist Fountain<br/>by Paolo Assenza<br/>Curated by Adriana Polveroni<br/>Opening on 10 October <br/>at 7 PM<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
       "time3": "Ri-Sorgente <br/>by Laurent le Deunff <br />Curated by Isabella Vitale<br/>Opening Opening on 29 November <br/>at 7 PM<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
       "artistList": "Artists: <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Curators: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Free access",
@@ -205,8 +205,8 @@
       },
       "location2": {
         "name": "",
-        "imageAlt": "Parco di Tor Fiscale, Via dell'Acquedotto Felice 120, Rome",
-        "mapQuery": "Parco di Tor Fiscale, Via dell'Acquedotto Felice 120, Roma"
+        "imageAlt": "Laghetto di Roma Vecchia, Rome",
+        "mapQuery": "Laghetto di Roma Vecchia, Roma"
       },
       "location3": {
         "name": "",

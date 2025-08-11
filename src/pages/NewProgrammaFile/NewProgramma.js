@@ -305,6 +305,14 @@ import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
 import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
 import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
 
+import Laghetto from "../../assets/images/Laghetto.png";
+import LaghettoStoryIT from "../../assets/images/LaghettoStoryIT.png";
+import LaghettoStoryEN from "../../assets/images/LaghettoStoryEN.png";
+import LaghettoStoryFR from "../../assets/images/LaghettoStoryFR.png";
+import ToLaghettoIT from "../../assets/images/ToLaghettoIT.png";
+import ToLaghettoEN from "../../assets/images/ToLaghettoEN.png";
+import ToLaghettoFR from "../../assets/images/ToLaghettoFR.png";
+
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
 // import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
@@ -775,6 +783,21 @@ const Programma = () => {
     it: Acquedotto2,
     en: Acquedotto2,
     fr: Acquedotto2,
+  };
+  const ToLaghettoImageMap = {
+    it: ToLaghettoIT,
+    en: ToLaghettoEN,
+    fr: ToLaghettoFR,
+  };
+  const LaghettoBookImageMap = {
+    it: LaghettoStoryIT,
+    en: LaghettoStoryEN,
+    fr: LaghettoStoryFR,
+  };
+  const LaghettoFotoImageMap = {
+    it: Laghetto,
+    en: Laghetto,
+    fr: Laghetto,
   };
 
   const ViaDiTorreBrancaBookImageMap = {
@@ -1900,21 +1923,21 @@ const Programma = () => {
               to: (
                 <FromStation
                   className={styles.IconStandard}
-                  imageMap={ToParcoTorFiscaleImageMap}
+                  imageMap={ToLaghettoImageMap}
                   altKey="program.fromStationAlt"
                 />
               ),
               book: (
                 <Book
                   className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleBookImageMap}
+                  imageMap={LaghettoBookImageMap}
                   altKey="program.bookAlt"
                 />
               ),
               foto: (
                 <Foto
                   className={styles.IconStandard}
-                  imageMap={ParcoDiTorFiscaleFotoImageMap}
+                  imageMap={LaghettoFotoImageMap}
                   altKey="program.fotoAlt"
                 />
               ),
