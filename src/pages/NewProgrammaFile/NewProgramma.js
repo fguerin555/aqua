@@ -82,6 +82,7 @@ import App1_MurodiSabbia from "../../assets/images/App1_MurodiSabbia.png";
 import App1_IlSatiroDanzante from "../../assets/images/App1_IlSatiroDanzante.png";
 import App1_SpectralCanticle from "../../assets/images/App1_SpectralCanticle.png";
 import App1_Karma from "../../assets/images/App1_Karma.png";
+import App1_LaPiuLontanaPatria from "../../assets/images/App1_LaPiuLontanaPatria.png";
 
 import Apice1 from "../../assets/images/Apice1.png";
 import Apice2 from "../../assets/images/Apice2.png";
@@ -534,6 +535,7 @@ const Programma = () => {
     { src: App1_Pryntil, alt: "" },
     { src: App1_SpectralCanticle, alt: "" },
     { src: App1_VoyagedHiver, alt: "" },
+    { src: App1_LaPiuLontanaPatria, alt: "" },
   ];
 
   const IrmaAlonzoBookImages = {
