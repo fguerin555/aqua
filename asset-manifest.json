@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c9e6bcdb.css",
-    "main.js": "/static/js/main.815f1cbd.js",
+    "main.js": "/static/js/main.791eec79.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -19,6 +19,7 @@
     "static/media/App1_MurodiSabbia.png": "/static/media/App1_MurodiSabbia.28905021287c396b1267.png",
     "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
     "static/media/PaoloAssenzaW1.png": "/static/media/PaoloAssenzaW1.ce9bb8dc5eee2b0930fc.png",
+    "static/media/App1_LaPiuLontanaPatria.png": "/static/media/App1_LaPiuLontanaPatria.b044ed1f104f129558e6.png",
     "static/media/ViadellAcquedottoFelice.png": "/static/media/ViadellAcquedottoFelice.6463cb7966866bab40f3.png",
     "static/media/Acquedotto2.png": "/static/media/Acquedotto2.bf12e9f9fa73a368533a.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
@@ -282,10 +283,10 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.c9e6bcdb.css.map": "/static/css/main.c9e6bcdb.css.map",
-    "main.815f1cbd.js.map": "/static/js/main.815f1cbd.js.map"
+    "main.791eec79.js.map": "/static/js/main.791eec79.js.map"
   },
   "entrypoints": [
     "static/css/main.c9e6bcdb.css",
-    "static/js/main.815f1cbd.js"
+    "static/js/main.791eec79.js"
   ]
 }
