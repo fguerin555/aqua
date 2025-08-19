@@ -11,11 +11,9 @@ import Link from "../../assets/images/Link.png";
 import LinkVide from "../../assets/images/LinkVide.png";
 import LogoOpenPolis from "../../assets/images/LogoOpenPolis.png";
 import LogoComitato from "../../assets/images/LogoComitato.png";
-import LogoEcoMuseo from "../../assets/images/LogoEcoMuseo.png";
 import LogoAFraentzel from "../../assets/images/LogoAFraentzel.png";
 import LogoABalabanoff from "../../assets/images/LogoABalabanoff.png";
 import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
-// import LogoPianobi from "../../assets/images/LogoPianobi.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 
 const LinksPage = () => {
@@ -159,42 +157,7 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NamePartners.Comitato" />
         </div>
-        {/* ecomuseo della via Latina */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a
-              href="https://www.ecomuseodellavialatina.it/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={LogoEcoMuseo}
-                alt={t("links.logoComitato")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.instagram.com/ecomuseodellavialatina/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/ecomuseodellavialatina/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NamePartners.EcoMuseo" />
-        </div>
+
         {/* IIS Confalonieri De Chirico */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
