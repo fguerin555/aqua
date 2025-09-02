@@ -247,7 +247,7 @@ import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
 import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
 import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
 import ParcodiTorFiscale2 from "../../assets/images/ParcodiTorFiscale2.png";
-import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
+// import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
 import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
@@ -776,11 +776,11 @@ const Programma = () => {
     fr: ParcodiTorFiscale2,
   };
 
-  const ParcoDiTorFiscaleFotoImageMap = {
-    it: ParcoDiTorFiscale,
-    en: ParcoDiTorFiscale,
-    fr: ParcoDiTorFiscale,
-  };
+  // const ParcoDiTorFiscaleFotoImageMap = {
+  //   it: ParcoDiTorFiscale,
+  //   en: ParcoDiTorFiscale,
+  //   fr: ParcoDiTorFiscale,
+  // };
   const Acquedotto2FotoImageMap = {
     it: Acquedotto2,
     en: Acquedotto2,
@@ -1047,7 +1047,7 @@ const Programma = () => {
             }}
           />
         </div>
-      </div>
+        {/* </div>
       <div className={styles.Orari}>
         <div>
           <Trans i18nKey="program.appointment1.location3.time_and_name" />
@@ -1081,7 +1081,7 @@ const Programma = () => {
               ),
             }}
           />
-        </div>
+        </div> */}
       </div>
       <div className={styles.EventDescription3}>
         <div>
