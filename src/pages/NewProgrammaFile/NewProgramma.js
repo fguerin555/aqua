@@ -589,11 +589,11 @@ const Programma = () => {
     en: SpazioYEN,
     fr: SpazioYFR,
   };
-  const SpazioYFotoImageMap = {
-    it: SpazioY,
-    en: SpazioY,
-    fr: SpazioY,
-  };
+  // const SpazioYFotoImageMap = {
+  //   it: SpazioY,
+  //   en: SpazioY,
+  //   fr: SpazioY,
+  // };
   const ToSpazioYImageMap = {
     it: ToSpazioYIT,
     en: ToSpazioYEN,

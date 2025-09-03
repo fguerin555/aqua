@@ -4,7 +4,7 @@ import HomePage from "./pages/HomePageFile/HomePage";
 import NewProgramma from "./pages/NewProgrammaFile/NewProgramma";
 
 import LinksPage from "./pages/LinksPageFile/LinksPage";
-// import Stampa from "./pages/StampaFile/Stampa";
+import Stampa from "./pages/StampaFile/Stampa";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import "./index.css";
@@ -19,7 +19,7 @@ const App = () => {
           <Route path="/newprogramma" element={<NewProgramma />} />
 
           <Route path="/linkspage" element={<LinksPage />} />
-          {/* <Route path="/stampa" element={<Stampa />} /> */}
+          <Route path="/stampa" element={<Stampa />} />
         </Routes>
         <Footer></Footer>
       </div>

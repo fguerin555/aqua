@@ -1,7 +1,8 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
-// import LavoriInCorso from "../../assets/images/LavoriInCorso.png";
+import FondoCS from "../../assets/images/FondoCS.png";
+
 import styles from "./Stampa.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 const StampaPage = () => {
@@ -17,14 +18,14 @@ const StampaPage = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-      {/* <div className={styles.LavoriInCorso}>
+      <div className={styles.ComStampa}>
         <div className={styles.Foto}>
-          <img
-            src={LavoriInCorso}
-            alt={t("Simbolo di Lavori In Corso.imageAlt")}
-          />
+          <img src={FondoCS} alt={t("CommunicatoStampa.imageAlt")} />
         </div>
-      </div> */}
+      </div>
+      <div className={styles.copyright}>
+        <p>{t("home.copyright")}</p>
+      </div>
     </div>
   );
 };

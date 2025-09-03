@@ -65,6 +65,22 @@
   border-radius: 5px;
   box-shadow: 5px 5px 10px #19280199;
 }
+.Foto {
+  position: relative;
+  z-index: 1;
+  width: 397px;
+  height: 561.5px;
+  margin: 20px auto;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.copyright {
+  font-size: 12px;
+  color: #e9f2fd;
+  text-shadow: 2px 2px 2px #000;
+  font-family: "Poppins-Italic", Arial, sans-serif;
+}
 
 @media (max-width: 1224px) {
   .StampaTitle p {
@@ -72,6 +88,22 @@
   }
   .Logo img {
     width: 10% !important;
+  }
+  .Foto {
+    position: relative;
+    z-index: 1;
+    width: 397px;
+    height: 561.5px;
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .copyright {
+    font-size: 12px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 @media (max-width: 768px) {
@@ -82,6 +114,22 @@
   .Logo img {
     width: 10% !important;
   }
+  .Foto {
+    position: relative;
+    z-index: 1;
+    width: 387px;
+    height: 551.5px;
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
+  }
 }
 
 @media (max-width: 509px) {
@@ -90,5 +138,21 @@
   }
   .Logo img {
     width: 10% !important;
+  }
+  .Foto {
+    position: relative;
+    z-index: 1;
+    width: 357px;
+    height: 521.5px;
+    margin: 20px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }

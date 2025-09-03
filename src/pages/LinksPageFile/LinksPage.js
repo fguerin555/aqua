@@ -16,6 +16,7 @@ import LogoABalabanoff from "../../assets/images/LogoABalabanoff.png";
 import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 import LogoTorredelFiscale from "../../assets/images/LogoTorredelFiscale.png";
+import LogoEcoMuseo from "../../assets/images/LogoEcoMuseo.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
@@ -194,6 +195,42 @@ const LinksPage = () => {
             </a>
           </div>
           <Trans i18nKey="links.NamePartners.TorredelFiscale" />
+        </div>
+        {/* Eco Museo Via Latina */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.ecomuseodellavialatina.it/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoEcoMuseo}
+                alt={t("links.logoEcoMuseo")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/ecomuseodellavialatina/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/ecomuseodellavialatina/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.EcoMuseo" />
         </div>
 
         {/* IIS Confalonieri De Chirico */}
