@@ -31,13 +31,28 @@ const LinksPage = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-      {/* <div className={styles.MailProjet}>
-        <p>
-          <a href="mailto:ilraccontodellacqua@gmail.com">
-            ilraccontodellacqua@gmail.com
-          </a>
-        </p>
-      </div> */}
+      <div className={styles.iconLinks}>
+        <a
+          href="https://www.instagram.com/ilraccontodellacqua/"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={Instagram}
+            alt={t("links.Instagram")}
+            className={styles.icon}
+          />
+        </a>
+        <a
+          href="https://www.facebook.com/ilraccontodellacqua"
+          rel="noopener noreferrer"
+        >
+          <img
+            src={Facebook}
+            alt={t("links.Facebook")}
+            className={styles.icon}
+          />
+        </a>
+      </div>
       <div className={styles.liensite}>
         <div className={styles.LogoCiC}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
@@ -446,66 +461,6 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NameCurators.IrmaA" />
         </div>
-        {/* --- Adriana Polveroni --- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <span>
-              <img
-                src={LinkVide}
-                alt={t("links.LinkVide")}
-                className={styles.icon}
-              />
-            </span>
-            <a
-              href="https://www.instagram.com/adrianapolveroni/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <span>
-              <img
-                src={LinkVide}
-                alt={t("links.LinkVide")}
-                className={styles.icon}
-              />
-            </span>
-          </div>
-          <Trans i18nKey="links.NameCurators.adrianaP" />
-        </div>
-        {/* --- Isabella Vitale --- */}
-        <div className={styles.ArtistNameAndIcons}>
-          <div className={styles.iconsContainer}>
-            <a href="https://www.pianobi.info" rel="noopener noreferrer">
-              <img src={Link} alt={t("links.Link")} className={styles.icon} />
-            </a>
-            <a
-              href="https://www.instagram.com/pianobi_artecontemporanea/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Instagram}
-                alt={t("links.Instagram")}
-                className={styles.icon}
-              />
-            </a>
-            <a
-              href="https://www.facebook.com/pianobi.info/"
-              rel="noopener noreferrer"
-            >
-              <img
-                src={Facebook}
-                alt={t("links.Facebook")}
-                className={styles.icon}
-              />
-            </a>
-          </div>
-          <Trans i18nKey="links.NameCurators.isabellaV" />
-        </div>
         {/* --- Bruno di Marino --- */}
         <div className={styles.ArtistNameAndIcons}>
           <div className={styles.iconsContainer}>
@@ -539,6 +494,66 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NameCurators.brunoD" />
         </div>
+      </div>
+      {/* --- Adriana Polveroni --- */}
+      <div className={styles.ArtistNameAndIcons}>
+        <div className={styles.iconsContainer}>
+          <span>
+            <img
+              src={LinkVide}
+              alt={t("links.LinkVide")}
+              className={styles.icon}
+            />
+          </span>
+          <a
+            href="https://www.instagram.com/adrianapolveroni/"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={Instagram}
+              alt={t("links.Instagram")}
+              className={styles.icon}
+            />
+          </a>
+          <span>
+            <img
+              src={LinkVide}
+              alt={t("links.LinkVide")}
+              className={styles.icon}
+            />
+          </span>
+        </div>
+        <Trans i18nKey="links.NameCurators.adrianaP" />
+      </div>
+      {/* --- Isabella Vitale --- */}
+      <div className={styles.ArtistNameAndIcons}>
+        <div className={styles.iconsContainer}>
+          <a href="https://www.pianobi.info" rel="noopener noreferrer">
+            <img src={Link} alt={t("links.Link")} className={styles.icon} />
+          </a>
+          <a
+            href="https://www.instagram.com/pianobi_artecontemporanea/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={Instagram}
+              alt={t("links.Instagram")}
+              className={styles.icon}
+            />
+          </a>
+          <a
+            href="https://www.facebook.com/pianobi.info/"
+            rel="noopener noreferrer"
+          >
+            <img
+              src={Facebook}
+              alt={t("links.Facebook")}
+              className={styles.icon}
+            />
+          </a>
+        </div>
+        <Trans i18nKey="links.NameCurators.isabellaV" />
       </div>
 
       <div className={styles.TitleListArtists}>
