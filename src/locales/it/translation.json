@@ -18,7 +18,8 @@
 
     "paragraph2": "Il tema dell’acqua costituisce il fulcro dell’intera manifestazione, affrontato secondo un duplice registro: come elemento fondativo della storia di Roma e fonte d’ispirazione per l’immaginario artistico; e come risorsa naturale preziosa, sempre più al centro di riflessioni contemporanee legate all’unione, alla condivisione e alla sostenibilità.",
 
-    "paragraph3": "A partire da questi presupposti, il progetto individua come luoghi d’intervento un acquedotto e aree adiacenti – spazi verdi, siti simbolici, contesti pubblici e privati – nella zona sud-est della città."
+    "paragraph3": "A partire da questi presupposti, il progetto individua come luoghi d’intervento un acquedotto e aree adiacenti – spazi verdi, siti simbolici, contesti pubblici e privati – nella zona sud-est della città.",
+    "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   },
 
   "program": {
@@ -70,7 +71,7 @@
       "sectionTitle": "APPUNTAMENTO 2",
       "name": "I Portatori d'Acqua",
       "time": "",
-      "description1": "24 Settembre dalle 18 in poi<br/>Circolazione per le vie indicate del Municipio VII di un’autobotte <br/>che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.",
+      "description1": "24 e 25 Settembre dalle 18 in poi<br/>Circolazione per le vie indicate del Municipio VII di un’autobotte <br/>che trasmette pensieri, desideri, vissuti e altro raccolti dagli abitanti del quartiere da Iginio De Luca.",
 
       "location1": {
         "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
@@ -124,7 +125,7 @@
 
       "description2": "Mostra/restituzione di performance di disegno acquatico di Pamela Pintus.",
       "location9": {
-        "time_and_name": "12 Settembre alle 18<br /> <br/>Spazio Y<br />via dei Juvenci, 11<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "25 Settembre alle 18<br /> <br/>Spazio Y<br />via dei Juvenci, 11<br />municipio VII<br /><map /><to></to><book></book><foto />",
         "address": "via dei Juvenci, 11, municipio VII",
         "imageAlt": "via dei Juvenci, 11, municipio VII",
         "mapQuery": "via dei Juvenci, 11, Roma."
@@ -235,17 +236,13 @@
       "time": "",
       "description": "Il 29 Novembre alle 18.00 <br/>Inaugurazione del monumento a Don Sardelli",
       "DonSardelli": "<carousel_DonSardelliIT/><br/><br/>",
-      "artistList": "Artista: <br/><carousel_alfredo/><book_alfredo></book_alfredo>ALFREDO PIRRI<br/><br />Curatrice:<br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI  <br /><br /> Accesso libero",
+      "artistList": "Artista: <br/><carousel_alfredo/><book_alfredo></book_alfredo>ALFREDO PIRRI<br/><br />Curatrice:<br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI<br /><br /> Accesso libero",
 
       "location1": {
         "name1": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
         "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
       }
-    },
-
-    "blog": {
-      "pageTitle": "Blog"
     }
   },
 
@@ -263,6 +260,7 @@
     "NamePartners": {
       "Openpolis": "Openpolis",
       "Comitato": "Comitato di Quartiere <br/>Casilina Vecchia - Mandrione",
+      "TorredelFiscale": "La Torre del Fiscale OdV",
       "EcoMuseo": "Ecomuseo della Via Latina",
       "pianoB": "Pianobi",
       "spazioY": "Spazio Y",
@@ -301,6 +299,7 @@
     "Link": "Link",
     "Facebook": "Facebook",
     "Instagram": "Instagram",
-    "LinkVide": "LinkVide"
+    "LinkVide": "LinkVide",
+    "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   }
 }

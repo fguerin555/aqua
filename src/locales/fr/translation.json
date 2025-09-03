@@ -19,7 +19,8 @@
 
     "paragraph2": "Le thème de l’eau constitue le centre de toute la manifestation, abordée selon un double registre: comme élément fondateur de l’histoire de Rome et source d’inspiration pour l’imaginaire artistique; et comme ressource naturelle précieuse, de plus en plus au centre des réflexions contemporaines liées à l’union, au partage et à la durabilité.",
 
-    "paragraph3": "Partant de ces réflections, le projet identifie comme lieux d’intervention un aqueduc et des zones adjacentes - espaces verts, sites symboliques, contextes publics et privés - dans la zone sud-est de la ville."
+    "paragraph3": "Partant de ces réflections, le projet identifie comme lieux d’intervention un aqueduc et des zones adjacentes - espaces verts, sites symboliques, contextes publics et privés - dans la zone sud-est de la ville.",
+    "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   },
   "program": {
     "pageTitle": "Programme",
@@ -72,7 +73,7 @@
       "sectionTitle": "RENDEZ-VOUS 2",
       "name": "Les Porteurs d'Eau",
       "time": "",
-      "description1": "24 Septembre à partir de 18 heures<br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
+      "description1": "24 et 25 Septembre à partir de 18 heures<br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
 
       "location1": {
         "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
@@ -241,16 +242,13 @@
       "time": "",
       "description": "Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
       "DonSardelli": "<carousel_DonSardelliFR/><br/><br/>",
-      "artistList": "Artiste:<br/><br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br />Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artiste:<br/><br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br />Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br /> Accès libre",
 
       "location1": {
         "name1": "Fontana de Clemente XII et murs limitrophes<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
         "imageAlt": "Fontana di Clemente XII et  murs limitrophes, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
       }
-    },
-    "blog": {
-      "pageTitle": "Blog"
     }
   },
 
@@ -268,6 +266,7 @@
     "NamePartners": {
       "Openpolis": "Openpolis",
       "Comitato": "Comitato di Quartiere <br/>Casilina Vecchia - Mandrione",
+      "TorredelFiscale": "La Torre del Fiscale OdV",
       "EcoMuseo": "Ecomuseo della Via Latina",
       "pianoB": "Pianobi",
       "spazioY": "Spazio Y",
@@ -305,6 +304,7 @@
     "Link": "Link",
     "Facebook": "Facebook",
     "Instagram": "Instagram",
-    "LinkVide": "LinkVide"
+    "LinkVide": "LinkVide",
+    "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   }
 }

@@ -15,6 +15,7 @@ import LogoAFraentzel from "../../assets/images/LogoAFraentzel.png";
 import LogoABalabanoff from "../../assets/images/LogoABalabanoff.png";
 import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
+import LogoTorredelFiscale from "../../assets/images/LogoTorredelFiscale.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
@@ -156,6 +157,43 @@ const LinksPage = () => {
             </a>
           </div>
           <Trans i18nKey="links.NamePartners.Comitato" />
+        </div>
+
+        {/* Association Torre del fiscale */}
+        <div className={styles.ArtistNameAndIcons}>
+          <div className={styles.iconsContainer}>
+            <a
+              href="https://www.torredelfiscale.it/index.php/associazione"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={LogoTorredelFiscale}
+                alt={t("links.logoComitato")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.instagram.com/p/DB_RS7bAYl5/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/latorredelfiscaleodv/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
+          <Trans i18nKey="links.NamePartners.TorredelFiscale" />
         </div>
 
         {/* IIS Confalonieri De Chirico */}
@@ -973,6 +1011,9 @@ const LinksPage = () => {
           </div>
           <Trans i18nKey="links.NameArtists.lorenzaR" />
         </div>
+      </div>
+      <div className={styles.copyright}>
+        <p>{t("links.copyright")}</p>
       </div>
     </div>
   );

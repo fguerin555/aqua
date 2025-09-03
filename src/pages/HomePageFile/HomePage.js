@@ -3,7 +3,7 @@ import React from "react";
 import styles from "./HomePage.module.css";
 import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
-// import Logo from "../../assets/images/LogoCercléGood.png";
+
 import LogoCiC from "../../assets/images/LogoCiC.png";
 
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -42,6 +42,9 @@ const Home = () => {
           <p>{t("home.paragraph1")}</p>
           <p>{t("home.paragraph2")}</p>
           <p>{t("home.paragraph3")}</p>
+        </div>
+        <div className={styles.copyright}>
+          <p>{t("home.copyright")}</p>
         </div>
       </div>
     </div>

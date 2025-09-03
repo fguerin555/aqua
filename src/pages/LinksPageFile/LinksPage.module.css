@@ -332,7 +332,12 @@
 .icon:hover {
   transform: scale(1.1);
 }
-
+.copyright {
+  font-size: 12px;
+  color: #e9f2fd;
+  text-shadow: 2px 2px 2px #000;
+  font-family: "Poppins-Italic", Arial, sans-serif;
+}
 /* --- Media Queries --- */
 
 @media (max-width: 1224px) {
@@ -390,6 +395,12 @@
   .icon {
     width: 27px;
     height: 27px;
+  }
+  .copyright {
+    font-size: 12px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 
@@ -457,6 +468,12 @@
     width: 24px;
     height: 24px;
   }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
+  }
 }
 
 @media (max-width: 509px) {
@@ -514,5 +531,11 @@
   .icon {
     width: 23px;
     height: 23px;
+  }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }

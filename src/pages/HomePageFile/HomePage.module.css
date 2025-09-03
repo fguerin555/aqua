@@ -9,8 +9,7 @@
   align-items: center;
   justify-content: flex-start;
   box-sizing: border-box;
-  /* background-color: rgba(0, 0, 0, 0.5); */
-  /* background-color: rgba(6, 57, 145, 0.5); */
+
   background-color: rgba(39, 89, 152, 0.5);
   border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
@@ -165,7 +164,12 @@
   margin-top: 10px;
   margin-bottom: 5px;
 }
-
+.copyright {
+  font-size: 12px;
+  color: #e9f2fd;
+  text-shadow: 2px 2px 2px #000;
+  font-family: "Poppins-Italic", Arial, sans-serif;
+}
 /* --- Media Queries --- */
 
 @media (max-width: 1224px) {
@@ -188,6 +192,12 @@
   }
   .HomePageContentB p {
     font-size: 18px;
+  }
+  .copyright {
+    font-size: 12px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 
@@ -212,6 +222,12 @@
   .HomePageContentB p {
     font-size: 16px;
   }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
+  }
 }
 
 @media (max-width: 509px) {
@@ -234,5 +250,11 @@
   }
   .HomePageContentB p {
     font-size: 14px;
+  }
+  .copyright {
+    font-size: 10px;
+    color: #e9f2fd;
+    text-shadow: 2px 2px 2px #000;
+    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }

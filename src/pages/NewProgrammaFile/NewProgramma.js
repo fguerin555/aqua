@@ -2272,6 +2272,9 @@ const Programma = () => {
           />
         </div>
       </div>
+      <div className={styles.copyright}>
+        <p>{t("home.copyright")}</p>
+      </div>
     </div>
   );
 };
