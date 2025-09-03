@@ -1334,15 +1334,14 @@ const Programma = () => {
                     altKey="program.bookAlt"
                   />
                 ),
-                foto: (
-                  <Foto
-                    className={styles.IconStandard}
-                    imageMap={SpazioYFotoImageMap}
-                    altKey="program.fotoAlt"
-                  />
-                ),
               }}
             />
+            <div className={styles.Foto}>
+              <img
+                src={SpazioY}
+                alt={t("program.appointment2.location9.imageAlt")}
+              />
+            </div>
           </div>
         </div>
       </div>
