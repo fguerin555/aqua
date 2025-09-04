@@ -35,7 +35,11 @@ const Navbar = () => {
             alt={t("navbar.logoAlt")}
             className={styles.logoImage}
           />
+<<<<<<< HEAD
         </div>
+=======
+          
+>>>>>>> c73965eb850a7bac54c16fc7d976c1b76aa34fa1
       </Link>
 
       <button
@@ -78,11 +82,15 @@ const Navbar = () => {
             {t("navbar.contacts")}
           </Link>
         </li>
+<<<<<<< HEAD
         {/* <li>
           <Link to="/Stampa" onClick={handleLinkClick}>
             {t("navbar.pressReview")}
           </Link>
         </li> */}
+=======
+        
+>>>>>>> c73965eb850a7bac54c16fc7d976c1b76aa34fa1
 
         {/* Sélecteur de langue avec drapeaux */}
         <li className={styles.languageSwitcher}>
