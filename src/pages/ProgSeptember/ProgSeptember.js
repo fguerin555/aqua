@@ -1050,7 +1050,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
@@ -1058,7 +1062,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
@@ -1066,7 +1074,9 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle2"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
@@ -1074,15 +1084,22 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram2"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
+
       <div className={styles.EventDescription3}>
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle3"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
@@ -1090,7 +1107,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram3"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
@@ -1098,7 +1119,9 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle4"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
@@ -1106,7 +1129,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram4"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
@@ -1114,7 +1141,9 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle5"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
@@ -1122,7 +1151,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram5"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
@@ -1130,7 +1163,9 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionTitle6"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
@@ -1138,7 +1173,11 @@ const ProgSeptember = () => {
         <div>
           <Trans
             i18nKey="programSeptember.appointment1.descriptionProgram6"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+              i: <i />,
+              span: <span className={styles.Author} />,
+            }}
           />
         </div>
       </div>
