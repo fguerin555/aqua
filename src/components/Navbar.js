@@ -37,12 +37,7 @@ const Navbar = () => {
             alt={t("navbar.logoAlt")}
             className={styles.logoImage}
           />
-          {/* <img
-            src={Costruzione}
-            alt="Site en construction"
-            className={styles.Costruzione}
-          /> */}
-        </div>
+          
       </Link>
 
       <button
@@ -75,11 +70,7 @@ const Navbar = () => {
             {t("navbar.contacts")}
           </Link>
         </li>
-        <li>
-          <Link to="/Stampa" onClick={handleLinkClick}>
-            {t("navbar.pressReview")}
-          </Link>
-        </li>
+        
 
         {/* Sélecteur de langue avec drapeaux */}
         <li className={styles.languageSwitcher}>
