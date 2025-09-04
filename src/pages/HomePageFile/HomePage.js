@@ -3,7 +3,8 @@ import React from "react";
 import styles from "./HomePage.module.css";
 import { useTranslation } from "react-i18next";
 import Logo from "../../assets/images/LogoOndaBlue2.png";
-
+import Facebook from "../../assets/images/Facebook.png";
+import Instagram from "../../assets/images/Instagram.png";
 import LogoCiC from "../../assets/images/LogoCiC.png";
 
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -32,6 +33,7 @@ const Home = () => {
             alt={t("navbar.logoAlt")} // Réutilisation de la clé existante si le logo est le même
           />
         </div>
+
         <div className={styles.FotoGenerale}>
           <img
             src={fotoRepresentative}
@@ -42,6 +44,33 @@ const Home = () => {
           <p>{t("home.paragraph1")}</p>
           <p>{t("home.paragraph2")}</p>
           <p>{t("home.paragraph3")}</p>
+        </div>
+        <div className={styles.socials}>
+          <div className={styles.socialRow}>
+            <p>{t("home.socials")}</p>
+            <div className={styles.iconLinks}>
+              <a
+                href="https://www.instagram.com/ilraccontodellacqua/"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src={Instagram}
+                  alt={t("links.Instagram")}
+                  className={styles.icon}
+                />
+              </a>
+              <a
+                href="https://www.facebook.com/ilraccontodellacqua"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src={Facebook}
+                  alt={t("links.Facebook")}
+                  className={styles.icon}
+                />
+              </a>
+            </div>
+          </div>
         </div>
         <div className={styles.copyright}>
           <p>{t("home.copyright")}</p>

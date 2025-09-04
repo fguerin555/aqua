@@ -4,7 +4,9 @@
     "openMenu": "Apri menu",
     "closeMenu": "Chiudi menu",
     "home": "Home",
-    "program": "Programma",
+    "programSeptember": "Programma Settembre",
+    "programOctober": "Programma Ottobre",
+    "programNovember": "Programma Novembre",
     "blog": "Blog",
     "contacts": "Contatti",
     "pressReview": "Rassegna Stampa"
@@ -19,11 +21,12 @@
     "paragraph2": "Il tema dell’acqua costituisce il fulcro dell’intera manifestazione, affrontato secondo un duplice registro: come elemento fondativo della storia di Roma e fonte d’ispirazione per l’immaginario artistico; e come risorsa naturale preziosa, sempre più al centro di riflessioni contemporanee legate all’unione, alla condivisione e alla sostenibilità.",
 
     "paragraph3": "A partire da questi presupposti, il progetto individua come luoghi d’intervento un acquedotto e aree adiacenti – spazi verdi, siti simbolici, contesti pubblici e privati – nella zona sud-est della città.",
+    "socials": "Seguici su ",
     "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   },
 
-  "program": {
-    "pageTitle": "Programma",
+  "programSeptember": {
+    "pageTitle": "Programma di Settembre",
     "mapSymbolAlt": "Simbolo indicazione mappa",
     "bookAlt": "Informations sul luogo",
     "fromStationAlt": "Icona per vedere percorso dalla stazione Termini",
@@ -31,13 +34,13 @@
 
     "appointment1": {
       "sectionTitle": "APPUNTAMENTO 1",
-      "name": "L'acqua in movimento",
+      "name": "L'acqua in movimento ",
       "name2": "Liquefazione",
       "description": "Videoproiezioni sul tema dell'acqua <br/>a cura di Bruno di Marino",
 
       "location1": {
-        "time_and_name": "8, 9, 10 Settembre ore 21.00 <br/> Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "time_and_name": "8, 9, 10 Settembre ore 21.00 <br/>Parco di Tor Fiscale",
+        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       },
@@ -49,13 +52,13 @@
         "mapQuery": "Via del Mandrione 451, Roma"
       },
 
-      "descriptionTitle": "Programma rassegna<br/><br/>8 settembre<br/>Acquedotto parco Tor Fiscale<br/>ore: 21.00<br/><br/>",
+      "descriptionTitle": "Programma rassegna<br/><br/>8 settembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>ore: 21.00<br/><br/>",
       "descriptionProgram": "Perpendicolare avanti di Federica Foglia<br/> Italia/Canada, 2021, 18’<br/><br/>The Last Shipwreck di Giulio Latini<br/> Italia, 2021, colore, 10’34”<br/><br/>Spectral Canticle di Carloni e Franceschetti<br/> 2022, colore, 6’ (estratto)<br/><br/>Nice Party Nice People di Luca Sivelli<br/> Italia, 2023, colore, 6’20” <br/><br/> La più lontana patria di Dehors/Audela<br/> Italia, 2016, colore, 10’<br/><br/> Blu d’acqua di Michele Sambin<br/> Italia, 1972, colore, 45’ <br/><br/><br/>",
-      "descriptionTitle2": "9 settembre<br/>Acquedotto parco Tor Fiscale<br/>ore: 21.00<br/>",
+      "descriptionTitle2": "9 settembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>ore: 21.00<br/>",
       "descriptionProgram2": "Voyage d’hiver di Robert Cahen<br/> Francia, 1993, colore, 18’05”<br/><br/>Da qui, sopra al mare di Mauro Santini<br/> Italia, 2003, colore, 10’<br/>",
       "descriptionTitle3": "Selezione di lavori degli studenti<br/> della scuola di Cinema, Fotografia e Audiovisivo<br/>dell’Accademia di Belle Arti di Roma<br/>",
       "descriptionProgram3": "Io abito al mare di Cristian Iacono<br/> Italia, 2025, colore, 1’55”<br/><br/>Untitled di Gaetano Zazzera<br/> Italia, 2024, b/n, 2’<br/><br/>Mare Nostrum di Eleonora Silvestri<br/> Italia, 2025, colore, 5’40”<br/><br/>Io (non) abito al mare di Giorgia Perrone<br/> Italia, 2024, colore, 2’37”<br/><br/>Simpoiesi di Lucas Begendi e Camilla Dalmazio<br/> Italia, 2024, b/n, 5’43”<br/><br/>Acqua di Marta Marchio<br/> Italia, 2024, b/n, 2’14”<br/><br/>Insostenibile leggerezza di Matteo Farinelli<br/> Italia, 2024, b/n, 2’27”<br/><br/>Insperato di Pietro Paolo Boccio<br/> Italia, 2023, b/n, 2’57”<br/><br/>Ologramma di Pietro Paolo Boccio<br/> Italia, 2021, b/n, 5’06”<br/><br/>Be Water di Silvia Emiliani<br/> Italia, 2024, colore, 2’57”<br/><br/>Cinema alla deriva di Vicentiu Copoeru<br/> Italia, 2023, b/n, 2’53”<br/><br/>Muro di sabbia di Maria Giovanna Sodero<br/> Italia, 2022, colore, 7’<br/><br/><br/>",
-      "descriptionTitle4": "10 settembre<br/>Acquedotto parco Tor Fiscale<br/>ore: 21.00<br/><br/>",
+      "descriptionTitle4": "10 settembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>ore: 21.00<br/><br/>",
       "descriptionProgram4": "Il satiro danzante di Salvo Cuccia<br/>Italia, 2005, colore, 5’<br/><br/>Subemergency di Debora Vrizzi<br/> Italia, 2007, colore, 1’<br/><br/>Frame Line di Debora Vrizzi<br/> Italia, 2008, colore, 4’30”<br/><br/>Submission di Danilo Torre<br/> Italia, 2010, colore, 3’30”<br/><br/>Iailat di Iginio De Luca<br/> Italia, 2011, colore, 1’35”<br/><br/>Pryntil di Virgilio Villoresi<br/> Italia, 2011, colore, 3’ <br/><br/>The Ice Monolith di Stefano Cagol<br/> Italia, 2013, colore, 4’ <br/><br/>There She Blows di Francesco Cabras e Alberto Molinari<br/> Italia, 2015, b/n, 4’20” <br/><br/>Untitled di Beatrice Pediconi<br/> Italia, 2015, colore, 6’50”<br/><br/>Alla salute! di Davies Zambotti<br/> Italia, 2016, colore, 6’<br/><br/>Karma di Antonello Matarazzo<br/> Italia, 2016, b/n, 2’<br/><br/>Ricchezza di Luca Sivelli<br/> Italia, 2020, colore, 1’40” <br/><br/>L’ombra della sposa di Alessandra Pescetta<br/> Italia, 2017, colore, 11’ <br/> <br/><br/>",
       "descriptionTitle5": "11 settembre <br/>Casa Pirri-Valentini<br/>ore: 21.00<br/><br/>",
       "descriptionProgram5": "Regen di Joris Ivens<br/> Olanda, 1929, b/n, 10’<br/><br/>H2O di Ralph Steiner<br/> USA, 1929’, b/n, 12’<br/><br/>Le Vampire di Jean Painlevé<br/> Francia, 1939-45, b/n, 9’<br/><br/>Eaux d’artifice di Kenneth Anger<br/> USA, 1953, b/n, 13’<br/><br/>Fluids di Stan VanDerBeek<br/> USA, 1964, colore, 2’30”<br/><br/>The Reflecting Pool di Bill Viola<br/> USA, 1977, colore, 6’55”<br/><br/>Water Wrackets di Peter Greenaway<br/> UK, 1978, colore, 11’<br/><br/>Il nuotatore di Studio Azzurro<br/> Italia, 1984, colore, 3’ <br/><br/>Voyage d’hiver di Robert Cahen<br/> Francia, 1993, colore, 18’05”<br/><br/>Umino-eiga di Takashi Ishida<br/>Giappone, 2007, colore, 12’<br/><br/>A seguire<br/><br/>Il satiro danzante di Salvo Cuccia<br/> Italia, 2005, colore, 5’ <br/><br/>Subemergency di Debora Vrizzi<br/> Italia, 2007, colore, 1’ <br/><br/>Frame Line di Debora Vrizzi<br/> Italia, 2008, colore, 4’30”<br/><br/>Submission di Danilo Torre<br/> Italia, 2010, colore, 3’30”<br/><br/>Iailat di Iginio De Luca<br/>Italia, 2011, colore, 1’35”<br/><br/>Pryntil di Virgilio Villoresi<br/> Italia, 2011, colore, 3’ <br/><br/>The Ice Monolith di Stefano Cagol<br/> Italia, 2013, colore, 4’ <br/><br/>There She Blows di Francesco Cabras e Alberto Molinari<br/>Italia, 2015, b/n, 4’20”<br/><br/> Untitled di Beatrice Pediconi<br/> Italia, 2015, colore, 6’50”<br/><br/>Alla salute! di Davies Zambotti<br/> Italia, 2016, colore, 6’ <br/><br/>Karma di Antonello Matarazzo<br/> Italia, 2012, b/n, 2’ <br/><br/>Ricchezza di Luca Sivelli<br/> Italia, 2020, colore, 1’40” <br/><br/><br/>",
@@ -64,7 +67,7 @@
       "descriptionProgram6": "Io abito al mare di Cristian Iacono<br/> Italia, 2025, colore, 1’55”<br/><br/> Untitled di Gaetano Zazzera<br/> Italia, 2024, b/n, 2’<br/><br/> Mare Nostrum di Eleonora Silvestri<br/> Italia, 2025, colore, 5’40”<br/><br/> Io (non) abito al mare di Giorgia Perrone<br/> Italia, 2024, colore, 2’37”<br/><br/>Simpoiesi di Lucas Begendi e Camilla Dalmazio<br/> Italia, 2024, b/n, 5’43”<br/><br/>Acqua di Marta Marchio<br/> Italia, 2024, b/n, 2’14”<br/> <br/>Insostenibile leggerezza di Matteo Farinelli<br/> Italia, 2024, b/n, 2’27”<br/><br/>Insperato di Pietro Paolo Boccio<br/> Italia, 2023, b/n, 2’57”<br/><br/>Ologramma di Pietro Paolo Boccio<br/> Italia, 2021, b/n, 5’06”<br/><br/> Be Water di Silvia Emiliani<br/> Italia, 2024, colore, 2’57”<br/><br/> Cinema alla deriva di Vicentiu Copoeru<br/> Italia, 2023, b/n, 2’53”<br/> <br/>Muro di Sabbia di Maria Giovanna Sodero<br/> Italia, 2022, colore, 7’<br/><br/> A seguire<br/><br/> Perpendicolare avanti di Federica Foglia<br/> Italia/Canada, 2021, 18’<br/><br/> La più lontana patria di Dehors/Audela<br/> Italia, 2016, colore, 10’<br/><br/>L’ombra della sposa di Alessandra Pescetta<br/> Italia, 2017, colore, 11’<br/>",
       "CriticTextTitle": "LIQUEFAZIONI ovvero Le forme dell’acqua<br/>di Bruno di Marino",
       "CriticTextParagraphs": "L’acqua è uno degli elementi chiave sia del cinema sperimentale che della videoarte e della media art.<br> Per un’unica ragione: la sua fluidità.<br/> L’acqua è flusso continuo ma, soprattutto, cambia incessantemente di stato, da liquido a solido ad aeriforme. <br/>E non è forse stato Gilles Deleuze a definire le immagini in movimento sperimentali come qualcosa di gassoso e pulviscolare? <br/>Le trasformazioni della materia sono al centro dell’esperienza audiovisiva non condizionata necessariamente da una struttura narrativa ma, anzi, in grado di incantare e ipnotizzare lo spettatore proprio mediante il mutare intermittente.<br/><br/>Questa rassegna, che abbiamo voluto intitolare Liquefazioni, presenta una serie di lavori a partire dall’avanguardia storica, periodo primigenio in cui viene configurato il film d’artista più affine alla pittura e alla musica, piuttosto che al teatro e alla letteratura, così come volevano i futuristi.<br/> Per poi giungere fino ai giorni nostri, quando ormai con la digitalizzazione dell’immagine siamo approdati alla totale smaterializzazione di essa.<br/> E in fondo è lo statuto numerico del cinema lo stadio finale di un processo di fluidificazione che ci ha mostrato gli infiniti passaggi di una condizione di instabilità permanente dell’immaginario.<br/><br/>La videoarte, ancor più del cinema di ricerca, è stata associata all’elemento liquido sempre per quell’idea di fluidità inarrestabile che è alla base della sua natura, con la possibilità di scolpire la realtà e di riproporla su schermo (il monitor inizialmente con la sua cornice delimitata) mediante onde elettromagnetiche.<br/> Gli esperimenti eseguiti da Paik di deformazione in tempo reale applicando calamite al tubo catodico costituiscono uno dei primi esempi di modificazione del flusso televisivo, all’insegna di un processo composto da distorsioni e liquefazioni che dal figurativo ci conducono nel regno dell’astrazione, dal senso al non-senso.<br/><br/>Le modalità di presentazione delle opere non è, tuttavia, un dettaglio, un elemento secondario nel costruire una programmazione su questo tema.<br/> Intanto abbiamo deciso di superare le distinzioni tra opere pensate come “monocanale”, opere installative e opere che documentano (in parte) performance avvenute in un dato spazio e tempo.<br/> Anzi, il cuore del programma è quello di operare una riflessione su tutte quelle forme che può assumere l’acqua, includendo gli stati (e gli stadi) non solo della materia ma anche dei generi audiovisivi, inclusi i documentari scientifici (Painlevé) e le sinfonie visive.<br/><br/>Inoltre, a parte le serate in cui una selezione di film/video (chi può ormai distinguere tra queste due tipologie? Meglio definirle opere audiovisive in senso più largo) è riproposta su un normale schermo, perpetuando una vocazione al vedere che appartiene al ’900, abbiamo pensato di proiettare le immagini direttamente sulle mura di uno dei tanti acquedotti che disegnano geometrie ingegneristiche cariche di storia e di conoscenza sul vasto territorio romano che si snoda dal centro verso la periferia, non solo della città ma dell’Impero.<br/>L’acqua, insomma, ritorna all’acqua, anzi al suo dispositivo primigenio che ha consentito a una civiltà di dotarsi sistematicamente di un elemento vitale.<br/><br/>Proiettare opere audiovisive che hanno come soggetto l’acqua direttamente sulla struttura muraria di un acquedotto, non è solo un mero gioco autoreferenziale, ma un’amplificazione del medium e dell’opera stessa.<br/> Naturalmente le pietre e i mattoni di questa architettura millenaria tendono ad assorbire le immagini, ad appropriarsene modificandone i contorni.<br/> Ma è proprio l’incorporazione che aggiunge valore e rende ancor più significanti le trasformazioni dell’acqua trascritte sulla pellicola o rappresentate in digitale.<br/> Non si tratta di istituire l’ennesimo, banale e inflazionato videomapping. Pur piegandosi al supporto, le immagini oppongono tuttavia resistenza all’acquedotto-schermo, che idealmente le trasporta, accentuandone una forma-flusso che sembra non avere né inizio né fine.<br/>Buona visione.",
-      "Vision": "Schermate: <carousel_Vision/>"
+      "Vision": "Schermate: <carousel_Vision/><br/><br/><br/>"
     },
 
     "appointment2": {
@@ -130,7 +133,7 @@
         "imageAlt": "via dei Juvenci, 11, municipio VII",
         "mapQuery": "via dei Juvenci, 11, Roma."
       },
-      "artistList": "Artisti:<br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br />Accesso libero"
+      "artistList": "Artisti:<br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br />Accesso libero<br/><br/><br/>"
     },
 
     "appointment3": {
@@ -143,7 +146,7 @@
 
       "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale <br/> creando ambienti immersivi che consentono l’interazione del pubblico.",
 
-      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero",
+      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero<br/><br/><br/>",
 
       "location1": {
         "mapQuery": "Lago Ex.Snia, Roma."
@@ -157,12 +160,34 @@
     "appointment4": {
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "L'Arte in una Stanza",
-      "time1": "19, 26 Settembre <br/> 01, 08, 15, 22, 29 Ottobre<br/> 05 Novembre 2025<br /> dalle ore 15.30 alle 17.30<br />Laboratori di scultura per ciechi, ipovedenti e vedenti <br/> A cura di Irma Alonzo e Adriana Polveroni<br/>Artista: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": " 07, 22 Ottobre <br/> 05, 26 Novembre <br />  dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time3": "09, 23 Ottobre - 06, 27 Novembre <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time4": "10, 24 Ottobre - 07 e 28 Novembre <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time1": "19, 26 Settembre <br /> dalle ore 15.30 alle 17.30<br />Laboratori di scultura per ciechi, ipovedenti e vedenti <br/> A cura di Irma Alonzo e Adriana Polveroni<br/>Artista: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+
       "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite <br/>presso i suddetti luoghi aperti anche alla cittadinanza.",
-      "artistList": "Artisti: <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Curatrici: <br/><carousel_irma/><book_irma/>IRMA ALONZO<br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accesso libero",
+      "artistList": "Artisti: <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><br/>Curatrici: <br/><carousel_irma/><book_irma/>IRMA ALONZO<br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accesso libero<br/><br/><br/>",
+      "location1": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Centro Anziani, Via dei Volsci, 82c, Roma"
+      }
+    }
+  },
+
+  "programOctober": {
+    "pageTitle": "Programma di Ottobre",
+    "mapSymbolAlt": "Simbolo indicazione mappa",
+    "bookAlt": "Informations sul luogo",
+    "fromStationAlt": "Icona per vedere percorso dalla stazione Termini",
+    "fotoAlt": "Icona per vedere la foto del luogo",
+
+    "appointment4": {
+      "sectionTitle": "APPUNTAMENTO 4",
+      "name": "L'Arte in una Stanza",
+      "time1": "01, 08, 15, 22, 29 Ottobre<br/> dalle ore 15.30 alle 17.30<br />Laboratori di scultura per ciechi, ipovedenti e vedenti <br/> A cura di Irma Alonzo e Adriana Polveroni<br/>Artista: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+      "time2": " 07, 22 Ottobre <br/>dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09 e 23 Ottobre<br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "10 e24 Ottobre <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite <br/>presso i suddetti luoghi aperti anche alla cittadinanza.",
+      "artistList": "Artisti: <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Curatrici: <br/><carousel_irma/><book_irma/>IRMA ALONZO<br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accesso libero<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -188,12 +213,71 @@
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "La Bellezza dell'Acqua",
       "description2": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità.<br /><br />",
-      "description": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri con frammenti di polveri recuperate da detriti di luoghi scomparsi, come ad esempio le baracche addossate sull’antico Acquedotto Felice.<br/> Per l’occasione, l’artista sarà ospitata in residenza da Pianobi e accompagnata da Isabella Vitale in quanto curatrice, per la realizzazione di un’opera realizzate con la tecnica di cui sopra, che vede l’utilizzo della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate presso lo spazio espositivo in via dei Ciceri 99. <br/><br />L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br/> Questa tecnica totalmente ecosostenibile e non invasiva, è stata ampiamente testata e utilizzata dall’artista il quale si renderà disponibile a degli incontri con il pubblico per uno scambio reciproco conoscitivo.<br /><br />Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/><br/>",
+      "description": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri con frammenti di polveri recuperate da detriti di luoghi scomparsi, come ad esempio le baracche addossate sull’antico Acquedotto Felice.<br/> Per l’occasione, l’artista sarà ospitata in residenza da Pianobi e accompagnata da Isabella Vitale in quanto curatrice, per la realizzazione di un’opera realizzate con la tecnica di cui sopra, che vede l’utilizzo della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate presso lo spazio espositivo in via dei Ciceri 99. <br/><br />L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br/> Questa tecnica totalmente ecosostenibile e non invasiva, è stata ampiamente testata e utilizzata dall’artista il quale si renderà disponibile a degli incontri con il pubblico per uno scambio reciproco conoscitivo.<br /><br />",
       "time1": "Imago Acquae-Urbis <br/>di Mercedes Klausner <br/>A cura di Isabella Vitale<br/> Inaugurazione 4 Ottobre 2025 <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "<br/>La Fontana delle Brume <br/>di Paolo Assenza<br/>A cura di Adriana Polveroni<br/>Inaugurazione 10 Ottobre <br/>alle 19.00<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+
+      "artistList": "Artisti: <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><<br/>Curatrici:<br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
+      "location1": {
+        "name": "",
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
+      },
+      "location2": {
+        "name": "",
+        "imageAlt": "Laghetto di Roma Vecchia, Rome",
+        "mapQuery": "Laghetto di Roma Vecchia, Roma"
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
+      }
+    }
+  },
+
+  "programNovember": {
+    "pageTitle": "Programma di Novembre",
+    "mapSymbolAlt": "Simbolo indicazione mappa",
+    "bookAlt": "Informations sul luogo",
+    "fromStationAlt": "Icona per vedere percorso dalla stazione Termini",
+    "fotoAlt": "Icona per vedere la foto del luogo",
+
+    "appointment4": {
+      "sectionTitle": "APPUNTAMENTO 4",
+      "name": "L'Arte in una Stanza",
+
+      "time2": "05 e 26 Novembre <br />  dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "06 e 27 Novembre <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "07 e 28 Novembre <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite <br/>presso i suddetti luoghi aperti anche alla cittadinanza.",
+      "artistList": "Artisti: <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Curatrici: <br/><carousel_irma/><book_irma/>IRMA ALONZO<br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accesso libero<br/><br/><br/>",
+
+      "location2": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Anna Fraentzel Celli, Via dei Fiorentini 48, Roma"
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma"
+      },
+      "location4": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma "
+      }
+    },
+    "appointment5": {
+      "sectionTitle": "APPUNTAMENTO 5",
+      "name": "La Bellezza dell'Acqua",
+      "description2": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità.<br /><br />",
+      "description": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/><br/>",
+
       "time3": "Ri-Sorgente <br/>di Laurent le Deunff <br />A cura di Isabella Vitale<br/>Inaugurazione 29 Novembre <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto />",
 
-      "artistList": "Artisti: <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Curatrici:<br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero",
+      "artistList": "Artisti: <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Curatrici:<br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",

@@ -1,4 +1,3 @@
-/* NewProgramma.module.css */
 .ProgrammaPage {
   position: relative;
   overflow: hidden;
@@ -66,7 +65,7 @@
 
 .TitleAppuntamento p {
   text-align: center;
-  font-size: 28px;
+  font-size: 35px;
   color: #e9f2fd;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -336,7 +335,42 @@
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
 }
+.socialRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* espace entre le texte et les icônes */
+  flex-wrap: wrap; /* optionnel si tu veux que ça passe à la ligne sur petits écrans */
+}
+
+.socialRow p {
+  margin: 0;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px #000;
+  color: #e9f2fd;
+}
+.iconsContainer > a,
+.iconsContainer > span {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+  margin-bottom: 0;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}
 .copyright {
+  margin-top: 20px;
   font-size: 12px;
   color: #e9f2fd;
   text-shadow: 2px 2px 2px #000;
@@ -363,7 +397,7 @@
     font-size: 28px;
   }
   .TitleAppuntamento p {
-    font-size: 25px;
+    font-size: 28px;
   }
   .NameAppuntamento p {
     font-size: 25px; /* Taille intermédiaire pour tablette */
@@ -435,6 +469,13 @@
     margin-top: 1px !important;
     font-size: 11px;
   }
+  .socialRow p {
+    font-size: 18px;
+  }
+  .icon {
+    width: 27px;
+    height: 27px;
+  }
   .copyright {
     font-size: 12px;
     color: #e9f2fd;
@@ -459,7 +500,7 @@
     font-size: 23px;
   }
   .TitleAppuntamento p {
-    font-size: 21px;
+    font-size: 23px;
   }
   .NameAppuntamento p {
     font-size: 21px; /* Taille intermédiaire pour tablette */
@@ -545,6 +586,13 @@
     margin-top: 1px !important;
     font-size: 11px;
   }
+  .socialRow p {
+    font-size: 16px;
+  }
+  .icon {
+    width: 24px;
+    height: 24px;
+  }
   .copyright {
     font-size: 10px;
     color: #e9f2fd;
@@ -569,7 +617,7 @@
     font-size: 20px;
   }
   .TitleAppuntamento p {
-    font-size: 18px;
+    font-size: 20px;
   }
   .NameAppuntamento p {
     font-size: 18px; /* Taille intermédiaire pour tablette */
@@ -644,6 +692,13 @@
   .LegendaFoto p {
     margin-top: 1px !important;
     font-size: 11px;
+  }
+  .socialRow p {
+    font-size: 14px;
+  }
+  .icon {
+    width: 23px;
+    height: 23px;
   }
   .copyright {
     font-size: 10px;

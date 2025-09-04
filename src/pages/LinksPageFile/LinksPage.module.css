@@ -305,7 +305,7 @@
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   font-size: 22px;
-  margin-bottom: 20px !important;
+  margin-bottom: 40px !important;
 }
 
 .iconsContainer {
@@ -332,7 +332,23 @@
 .icon:hover {
   transform: scale(1.1);
 }
+.socialRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* espace entre le texte et les icônes */
+  flex-wrap: wrap; /* optionnel si tu veux que ça passe à la ligne sur petits écrans */
+}
+
+.socialRow p {
+  margin: 0;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px #000;
+  color: #e9f2fd;
+}
 .copyright {
+  margin-top: 20px;
   font-size: 12px;
   color: #e9f2fd;
   text-shadow: 2px 2px 2px #000;
@@ -391,6 +407,9 @@
     font-size: 20px;
     max-width: 450px;
     margin-bottom: 18px !important;
+  }
+  .socialRow p {
+    font-size: 18px;
   }
   .icon {
     width: 27px;
@@ -464,6 +483,9 @@
     font-size: 18px;
     margin-bottom: 17px !important;
   }
+  .socialRow p {
+    font-size: 16px;
+  }
   .icon {
     width: 24px;
     height: 24px;
@@ -527,6 +549,9 @@
   }
   .iconsContainer {
     margin-right: 0;
+  }
+  .socialRow p {
+    font-size: 18px;
   }
   .icon {
     width: 23px;

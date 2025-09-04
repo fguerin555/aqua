@@ -4,7 +4,9 @@
     "openMenu": "Ouvrir le menu",
     "closeMenu": "Fermer le menu",
     "home": "Accueil",
-    "program": "Programme",
+    "programSeptember": "Programme Septembre",
+    "programOctober": "Programme Octobre",
+    "programNovember": "Programme Novembre",
     "blog": "Blog",
     "contacts": "Contacts",
     "pressReview": "Revue de Presse"
@@ -20,10 +22,11 @@
     "paragraph2": "Le thème de l’eau constitue le centre de toute la manifestation, abordée selon un double registre: comme élément fondateur de l’histoire de Rome et source d’inspiration pour l’imaginaire artistique; et comme ressource naturelle précieuse, de plus en plus au centre des réflexions contemporaines liées à l’union, au partage et à la durabilité.",
 
     "paragraph3": "Partant de ces réflections, le projet identifie comme lieux d’intervention un aqueduc et des zones adjacentes - espaces verts, sites symboliques, contextes publics et privés - dans la zone sud-est de la ville.",
+    "socials": "Suivez nous sur ",
     "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   },
-  "program": {
-    "pageTitle": "Programme",
+  "programSeptember": {
+    "pageTitle": "Programme de Septembre",
     "mapSymbolAlt": "Symbole de localisation sur carte",
     "bookAlt": "Informations sur le lieu",
     "fromStationAlt": "Icone pour voir le parcours à partir de la gare Termini",
@@ -38,7 +41,7 @@
 
       "location1": {
         "time_and_name": "8, 9, 10 Septembre à 21 heures <br/>Parco di Tor Fiscale",
-        "address": "Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
         "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
       },
@@ -50,13 +53,13 @@
         "mapQuery": "Via del Mandrione 451, Roma."
       },
 
-      "descriptionTitle": "Programme du festival<br/><br/>8 septembre<br/>Acquedotto parco Tor Fiscale<br/>à 21 heures<br/><br/>",
+      "descriptionTitle": "Programme du festival<br/><br/>8 septembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/><br/>",
       "descriptionProgram": "Perpendicolare avanti de Federica Foglia<br/> Italie/Canada, 2021, 18’<br/><br/>The Last Shipwreck de Giulio Latini<br/> Italie, 2021, couleur, 10’34”<br/><br/>Spectral Canticle de Carloni et Franceschetti<br/> 2022, couleur, 6’ (extrait)<br/><br/>Nice Party Nice People de Luca Sivelli<br/> Italie, 2023, couleur, 6’20” <br/><br/> La più lontana patria de Dehors/Audela<br/> Italie, 2016, couleur, 10’<br/><br/>Blu d’acqua de Michele Sambin<br/> Italie, 1972, couleur, 45’ <br/><br/><br/>",
-      "descriptionTitle2": "9 septembre<br/>Acquedotto parco Tor Fiscale<br/>à 21 heures<br/>",
+      "descriptionTitle2": "9 septembre<br/>AParco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/>",
       "descriptionProgram2": "Voyage d’hiver de Robert Cahen<br/> France, 1993, couleur, 18’05”<br/><br/>Da qui, sopra al mare de Mauro Santini<br/> Italie, 2003, couleur, 10’<br/>",
       "descriptionTitle3": "Selection des travaux des étudiants <br/> de l'École de Cinema, Photographie et Audiovisuel<br/> de l'Académie des Beaux Arts de Rome<br/>",
       "descriptionProgram3": "Io abito al mare de Cristian Iacono<br/> Italie, 2025, couleur, 1’55”<br/><br/>Untitled de Gaetano Zazzera<br/> Italie, 2024, b/n, 2’<br/><br/>Mare Nostrum d'Eleonora Silvestri<br/> Italie, 2025, couleur, 5’40”<br/><br/>Io (non) abito al mare de Giorgia Perrone<br/> Italie, 2024, couleur, 2’37”<br/><br/> Simpoiesi de Lucas Begendi et Camilla Dalmazio<br/> Italie, 2024, b/n, 5’43”<br/><br/>Acqua de Marta Marchio<br/> Italie, 2024, b/n, 2’14”<br/><br/>Insostenibile leggerezza de Matteo Farinelli<br/> Italie, 2024, b/n, 2’27”<br/><br/>Insperato de Pietro Paolo Boccio<br/> Italie, 2023, b/n, 2’57”<br/><br/>Ologramma de Pietro Paolo Boccio<br/> Italie, 2021, b/n, 5’06”<br/><br/>Be Water de Silvia Emiliani<br/> Italie, 2024, couleur, 2’57”<br/><br/>Cinema alla deriva de Vicentiu Copoeru<br/> Italie, 2023, b/n, 2’53”<br/><br/>Muro di sabbia de Maria Giovanna Sodero<br/> Italie, 2022, couleur, 7’<br/><br/><br/>",
-      "descriptionTitle4": "10 septembre<br/>Acquedotto parco Tor Fiscale<br/>à 21 heures<br/><br/>",
+      "descriptionTitle4": "10 septembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/><br/>",
       "descriptionProgram4": "Il satiro danzante de Salvo Cuccia<br/>Italie, 2005, couleur, 5’<br/><br/>Subemergency de Debora Vrizzi<br/> Italie, 2007, couleur, 1’<br/><br/>Frame Line de Debora Vrizzi<br/> Italie, 2008, couleur, 4’30”<br/><br/>Submission de Danilo Torre<br/> Italie, 2010, couleur, 3’30”<br/><br/>Iailat de Iginio De Luca<br/> Italie, 2011, couleur, 1’35”<br/><br/>Pryntil de Virgilio Villoresi<br/> Italie, 2011, couleur, 3’ <br/><br/>The Ice Monolith de Stefano Cagol<br/> Italie, 2013, couleur, 4’ <br/><br/>There She Blows de Francesco Cabras et Alberto Molinari<br/> Italie, 2015, b/n, 4’20” <br/><br/>Untitled de Beatrice Pediconi<br/> Italie, 2015, couleur, 6’50”<br/><br/>Alla salute! de Davies Zambotti<br/> Italie, 2016, couleur, 6’<br/><br/>Karma de Antonello Matarazzo<br/> Italie, 2016, b/n, 2’<br/><br/>Ricchezza de Luca Sivelli<br/> Italie, 2020, couleur, 1’40” <br/><br/>L’ombra della sposa d'Alessandra Pescetta<br/> Italie, 2017, couleur, 11’ <br/> <br/><br/>",
       "descriptionTitle5": "11 septembre <br/>Maison Pirri - Valentini<br/>à 21 heures<br/><br/>",
       "descriptionProgram5": "Regen de Joris Ivens<br/> Hollande, 1929, b/n, 10’<br/><br/>H2O de Ralph Steiner<br/> USA, 1929’, b/n, 12’<br/><br/>Le Vampire de Jean Painlevé<br/> France, 1939-45, b/n, 9’<br/><br/>Eaux d’artifice de Kenneth Anger<br/>USA, 1953, b/n, 13’<br/><br/>Fluids de Stan VanDerBeek<br/>USA, 1964, couleur, 2’30”<br/><br/>The Reflecting Pool de Bill Viola<br/> USA, 1977, couleur, 6’55”<br/><br/>Water Wrackets de Peter Greenaway<br/> Royaume Uni, 1978, couleur, 11’<br/><br/>Il nuotatore de Studio Azzurro<br/> Italie, 1984, couleur, 3’ <br/><br/>Voyage d’hiver de Robert Cahen<br/> France, 1993, couleur, 18’05”<br/><br/>Umino-eiga de Takashi Ishida<br/>Japon, 2007, couleur, 12’<br/><br/>À suivre<br/><br/>Il satiro danzante de Salvo Cuccia<br/> Italie, 2005, couleur, 5’ <br/><br/>Subemergency de Debora Vrizzi<br/> Italie, 2007, couleur, 1’ <br/><br/>Frame Line de Debora Vrizzi<br/> Italie, 2008, couleur, 4’30”<br/><br/>Submission de Danilo Torre<br/> Italie, 2010, couleur, 3’30”<br/><br/>Iailat de Iginio De Luca<br/>Italie, 2011, couleur, 1’35”<br/><br/>Pryntil de Virgilio Villoresi<br/> Italie, 2011, couleur, 3’ <br/><br/>The Ice Monolith de Stefano Cagol<br/> Italie, 2013, couleur, 4’ <br/><br/>There She Blows de Francesco Cabras et Alberto Molinari<br/>Italie, 2015, b/n, 4’20”<br/><br/> Untitled de Beatrice Pediconi<br/> Italie, 2015, couleur, 6’50”<br/><br/>Alla salute! de Davies Zambotti<br/> Italie, 2016, couleur, 6’ <br/><br/>Karma de Antonello Matarazzo<br/> Italie, 2012, b/n, 2’ <br/><br/>Ricchezza de Luca Sivelli<br/> Italie, 2020, couleur, 1’40” <br/><br/><br/>",
@@ -66,7 +69,7 @@
 
       "CriticTextTitle": "LIQUÉFACTION ou Les formes de l’eau<br/>par Bruno di Marino",
       "CriticTextParagraphs": "L’eau est un des éléments clés du cinéma expérimental, de la vidéo et des médias.<br/> Pour une seule raison: sa fluidité. L’eau est un flux continu mais, surtout, change incessamment d’état, de liquide à solide à aeriforme.<br/> Et n’est-ce pas Gilles Deleuze qui a défini les images en mouvement expérimentales comme quelque chose de gazeux et poussiéreux? <br/>Les transformations de la matière sont au centre de l’expérience audiovisuelle, non pas nécessairement conditionnée par une structure narrative mais, au contraire, capable d’enchanter et d’hypnotiser le spectateur précisément à travers le muting intermittent.<br/><br/>Ce festival, que nous avons voulu intituler Liquefazioni, présente une série d’œuvres à partir de l’avant-garde historique, période primitive dans laquelle est configuré le film d’artiste plus proche de la peinture et de la musique, plutôt que du théâtre et de la littérature, comme les futuristes le voulaient.<br/> Pour ensuite arriver jusqu’à nos jours, quand désormais avec la numérisation de l’image nous sommes arrivés à la dématérialisation totale de celui-ci.<br/> Et au fond c’est le statut numérique du cinéma, la dernière étape d’un processus de fluidification qui nous a montré les passages infinis d’une condition d’instabilité permanente de l’imaginaire.<br/><br/>L’art vidéo, encore plus que le cinéma de recherche, a été associé à l’élément liquide toujours pour cette idée de fluidité imparable qui est à la base de sa nature, avec la possibilité de sculpter la réalité et de la reproposer sur écran (le moniteur initialement délimité) par des ondes électromagnétiques. <br/>Les expériences réalisées par Paik de déformation en temps réel en appliquant des aimants au tube cathodique constituent l’un des premiers exemples de modification du flux télévisuel, sous le signe d’un processus composé de distorsions et de liquéfactions qui nous conduisent du figuratif dans le royaume de l’abstraction, du sens au non-sens.<br/><br/>Le mode de présentation des œuvres n’est cependant pas un détail, un élément secondaire dans la construction d’une programmation sur ce thème.<br/> Entre temps, nous avons décidé de dépasser les distinctions entre des œuvres conçues comme 'monocanaux', des œuvres d’installation et des œuvres qui documentent (en partie) des performances survenues dans un espace et un temps donnés. <br/>Au contraire, le cœur du programme est d’opérer une réflexion sur toutes les formes que peut prendre l’eau, incluant les états (et les stades) non seulement de la matière mais aussi des genres audiovisuels, y compris les documentaires scientifiques (Painlevé) et les symphonies visuelles.<br/><br/>En outre, mis à part les soirées où une sélection de films/vidéos (qui peut désormais distinguer entre ces deux typologies? <br/>Mieux les définir comme des œuvres audiovisuelles au sens plus large) est reproposée sur un écran normal, perpétuant une vocation au voir qui appartient au 20ème siècle, nous avons pensé à projeter les images directement sur les murs de l’un des nombreux aqueducs qui dessinent des géométries d’ingénierie chargées d’histoire et de connaissances sur le vaste territoire romain qui s’étend du centre vers la périphérie, non seulement de la ville mais de l’Empire.<br/> L’eau, Bref, il revient à l’eau, voire à son dispositif primitif qui a permis à une civilisation de se doter systématiquement d’un élément vital.<br/><br/>Projeter des œuvres audiovisuelles dont le sujet est l’eau directement sur la structure murale d’un aqueduc n’est pas seulement un simple jeu autoréférentiel, mais une amplification du médium et de l’œuvre elle-même.<br/> Naturellement les pierres et les briques de cette architecture millénaire tendent à absorber les images, à s’en approprier en modifiant leurs contours. <br/>Mais c’est précisément l’incorporation qui ajoute de la valeur et rend encore plus significatives les transformations de l’eau enregistrées sur le film ou représentées numériquement. <br/>Il ne s’agit pas d’instituer un énième, banal et exagéré videomapping. Tout en se pliant au support, les images résistent cependant à l’aqueduc-écran qui les transporte idéalement, accentuant une forme-flux qui semble n’avoir ni début ni fin. <br/>Bonne vision.",
-      "Vision": "Cpatures d'écran: <carousel_Vision/>"
+      "Vision": "Cpatures d'écran: <carousel_Vision/><br/><br/><br/>"
     },
 
     "appointment2": {
@@ -133,7 +136,7 @@
         "imageAlt": "via dei juvenci, 11, Roma.",
         "mapQuery": "via dei juvenci, 11, Roma."
       },
-      "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><br />  Accès libre"
+      "artistList": "Artistes : <br /><carousel_iginio/><book_iginio></book_iginio>IGINIO DE LUCA<br /><carousel_pamela/><book_pamela></book_pamela>PAMELA PINTUS<br /><br/> Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><br />Accès libre<br/><br/><br/>"
     },
 
     "appointment3": {
@@ -146,7 +149,7 @@
 
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
-      "artistList": "Artistes : <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI <br /><br /> Accès libre",
+      "artistList": "Artistes : <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI <br /><br /> Accès libre<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "",
@@ -161,12 +164,34 @@
     "appointment4": {
       "sectionTitle": "RENDEZ-VOUS 4",
       "name": "L'Art dans une Pièce",
-      "time1": "19, 26 Septembre <br/> 01, 08, 15, 22, 29 Octobre <br/> 05 Novembre 2025<br /> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
-      "time2": " 07, 22 Octobre - 05, 26 Novembre <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time3": "09, 23 Octobre - 06, 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time4": "10, 24 Octobre - 07 e 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time1": "19, 26 Septembre <br/>à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+
       "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
-      "artistList": "Artistes : <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Commissaires :<br/><carousel_irma/><book_irma/> IRMA ALONZO <br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><br/>Commissaires :<br/><carousel_irma/><book_irma/> IRMA ALONZO <br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accès libre<br/><br/><br/>",
+      "location1": {
+        "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
+        "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
+        "mapQuery": "Centro Anziani, Via dei Volsci, 82c, Roma"
+      }
+    }
+  },
+
+  "programOctober": {
+    "pageTitle": "Programme d'Octobre",
+    "mapSymbolAlt": "Symbole de localisation sur carte",
+    "bookAlt": "Informations sur le lieu",
+    "fromStationAlt": "Icone pour voir le parcours à partir de la gare Termini",
+    "fotoAlt": "Icone pour voir la photo du lieu",
+
+    "appointment4": {
+      "sectionTitle": "RENDEZ-VOUS 4",
+      "name": "L'Art dans une Pièce",
+      "time1": "01, 08, 15, 22, 29 Octobre <br/> à 15 heures 30<br />Ateliers de sculptures pour aveugles, mal voyants et voyants <br/> Supervisés par Irma Alonzo et Adriana Polveroni<br/>Artiste: Irma Alonzo<br />Centro Anziani<br/> Via dei Volsci, 82c<br/> municipio II<br/><map/><to></to><book></book><foto/>",
+      "time2": " 07, 22 Octobrede 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "09, 23 Octobre de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "10, 24 Octobre de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
+      "artistList": "Artistes : <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Commissaires :<br/><carousel_irma/><book_irma/> IRMA ALONZO <br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accès libre<br/><br/><br/>",
       "location1": {
         "name": "Centro Anziani, Via dei Volsci, 82c, Rome",
         "imageAlt": "Centro Anziani, Via dei Volsci, 82c, Rome",
@@ -192,12 +217,11 @@
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
       "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
-      "description": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> <br/>L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br />Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/><br/> Laurent le Deunff, lors de sa résidence au siège opérationnel de Pianobi, réalisera une fontaine de forme zoomorphe. L'œuvre sera accessible à un public varié de professionnels et non professionnels, y compris les pèlerins venus à Rome à l'occasion du jubilé. Les visiteurs seront invités à exprimer leur vœu personnel par le geste rituel de jeter dans la fontaine l'une des pièces réalisées.<br/><br/>",
+      "description": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> <br/>L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br />Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/><br/>",
       "time1": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Adriana Polveroni<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre",
+      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
@@ -213,40 +237,99 @@
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
         "mapQuery": "Via dei Ciceri 97/99, Roma"
       }
-    },
+    }
+  },
 
+  "programNovember": {
+    "pageTitle": "Programme de Novembre",
+    "mapSymbolAlt": "Symbole de localisation sur carte",
+    "bookAlt": "Informations sur le lieu",
+    "fromStationAlt": "Icone pour voir le parcours à partir de la gare Termini",
+    "fotoAlt": "Icone pour voir la photo du lieu",
+
+    "appointment4": {
+      "sectionTitle": "APPUNTAMENTO 4",
+      "name": "L'Art dans une Pièce",
+
+      "time2": "05 et 26 Novembre <br />  de 9 heures 13 heures<br />Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time3": "06 et 27 Novembre <br/> de 9 heures à 13 heures<br/>Ateliers de Bande Dessinée<br />Supervisés par Irma Alonzo et Adriana Polveroni<br />Artistes: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time4": "07 et 28 Novembre <br /> de 9 heures à 13 heures3<br/>Ateliers de céramique <br />Supervisés par Irma Alonzo et Adriana Polveroni<br />artiste: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
+      "description": "À la fin de l’expérience de formation, il est prévu une ou plusieurs journées de visites<br/> dans les lieux mentionnés ci-dessus ouverts également à la citoyenneté.",
+      "artistList": "Artistes : <br /><br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_cristiana/><book_cristiana/>CRISTIANA PACCHIAROTTI <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Commissaires :<br/><carousel_irma/><book_irma/> IRMA ALONZO <br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accès libre<br/><br/><br/>",
+
+      "location2": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Compresivo Anna Fraentzel Celli ,Via dei Fiorentini 48, Roma."
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "IIstituto Angelica Balabanoff, Via Angelica Balabanoff 60, Roma"
+      },
+      "location4": {
+        "name": "",
+        "imageAlt": "",
+        "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
+      }
+    },
+    "appointment5": {
+      "sectionTitle": "APPUNTAMENTO 5",
+      "name": "La Beauté de l'Eau",
+      "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
+      "description": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/><br/>",
+
+      "time3": "Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+
+      "artistList": "Artistes : <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaires: <br/ ><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
+      "location1": {
+        "name": "",
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
+      },
+      "location2": {
+        "name": "",
+        "imageAlt": "Laghetto di Roma Vecchia, Rome",
+        "mapQuery": "Laghetto di Roma Vecchia, Roma"
+      },
+      "location3": {
+        "name": "",
+        "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
+        "mapQuery": "Via dei Ciceri 97/99, Roma"
+      }
+    },
     "appointment6": {
-      "sectionTitle": "RENDEZ-VOUS 6",
+      "sectionTitle": "APPUNTAMENTO 6",
       "name1": "Pour un monument publique dédié à Don Roberto Sardelli",
       "name2": "De la nuit, des Pleurs, de l'Aurore",
       "time1": "Le 29 Novembre à 18 heures<br/>Maison Pirri - Valentini<br/> via del Mandrione 451/455<br/>Municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sacerdote <br/><br/>",
-
       "description": "Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
-      "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation",
 
+      "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation<br/><br/><br/><br/>",
       "location1": {
-        "name": "Via del Mandrione 443 municipio VII",
-        "imageAlt": "Via del Mandrione, 443 municipio VII",
-        "mapQuery": "Via del Mandrione, 443 Roma"
+        "name": "Via del Mandrione, 443, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione, 443 Roma "
       },
       "location2": {
-        "name": "Via del Mandrione, 443 municipio VII",
-        "imageAlt": "Via del Mandrione, 443 municipio VII",
-        "mapQuery": "Via del Mandrione 443 Roma"
+        "name": "Via del Mandrione, 443, municipio VII",
+        "imageAlt": "Via del Mandrione, municipio VII",
+        "mapQuery": "Via del Mandrione 443, Roma "
       }
     },
     "appointment7": {
-      "sectionTitle": "RENDEZ-VOUS 7",
+      "sectionTitle": "APPUNTAMENTO 7",
       "name": "Une oeuvre pour Don Sardelli",
       "time": "",
       "description": "Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
-      "DonSardelli": "<carousel_DonSardelliFR/><br/><br/>",
-      "artistList": "Artiste:<br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br /><br/>Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br /> Accès libre",
+
+      "DonSardelli": "<carousel_DonSardelliIT/><br/><br/>",
+      "artistList": "Artiste:<br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br /><br/>Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br /> Accès libre<br/><br/>",
 
       "location1": {
-        "name1": "Fontana de Clemente XII et murs limitrophes<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
-        "imageAlt": "Fontana di Clemente XII et  murs limitrophes, via del Mandrione 363, Roma",
+        "name1": "Fontana di Clemente XII e mura limitrofe<br/> via del Mandrione 363<br/> municipio VII<br/><map/><to></to><book></book>",
+        "imageAlt": "Fontana di Clemente XII e mura limitrofe, via del Mandrione 363, Roma",
         "mapQuery": "Fontana di Clemente XII, via del Mandrione 363, Roma"
       }
     }

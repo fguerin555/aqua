@@ -1,7 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePageFile/HomePage";
-import NewProgramma from "./pages/NewProgrammaFile/NewProgramma";
+import ProgSeptember from "./pages/ProgSeptember/ProgSeptember";
+import ProgOctober from "./pages/ProgOctober/ProgOctober";
+import ProgNovember from "./pages/ProgNovember/ProgNovember";
 
 import LinksPage from "./pages/LinksPageFile/LinksPage";
 import Stampa from "./pages/StampaFile/Stampa";
@@ -16,7 +18,9 @@ const App = () => {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/homepage" element={<HomePage />} />
-          <Route path="/newprogramma" element={<NewProgramma />} />
+          <Route path="//Progseptember" element={<ProgSeptember />} />
+          <Route path="/progoctober" element={<ProgOctober />} />
+          <Route path="/prognovember" element={<ProgNovember />} />
 
           <Route path="/linkspage" element={<LinksPage />} />
           <Route path="/stampa" element={<Stampa />} />

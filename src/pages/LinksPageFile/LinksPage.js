@@ -31,28 +31,7 @@ const LinksPage = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-      <div className={styles.iconLinks}>
-        <a
-          href="https://www.instagram.com/ilraccontodellacqua/"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={Instagram}
-            alt={t("links.Instagram")}
-            className={styles.icon}
-          />
-        </a>
-        <a
-          href="https://www.facebook.com/ilraccontodellacqua"
-          rel="noopener noreferrer"
-        >
-          <img
-            src={Facebook}
-            alt={t("links.Facebook")}
-            className={styles.icon}
-          />
-        </a>
-      </div>
+
       <div className={styles.liensite}>
         <div className={styles.LogoCiC}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
@@ -1062,6 +1041,33 @@ const LinksPage = () => {
             </span>
           </div>
           <Trans i18nKey="links.NameArtists.lorenzaR" />
+        </div>
+      </div>
+      <div className={styles.socials}>
+        <div className={styles.socialRow}>
+          <p>{t("home.socials")}</p>
+          <div className={styles.iconLinks}>
+            <a
+              href="https://www.instagram.com/ilraccontodellacqua/"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Instagram}
+                alt={t("links.Instagram")}
+                className={styles.icon}
+              />
+            </a>
+            <a
+              href="https://www.facebook.com/ilraccontodellacqua"
+              rel="noopener noreferrer"
+            >
+              <img
+                src={Facebook}
+                alt={t("links.Facebook")}
+                className={styles.icon}
+              />
+            </a>
+          </div>
         </div>
       </div>
       <div className={styles.copyright}>

@@ -3,9 +3,7 @@ import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import LogoImg from "../assets/images/LogoOndaBlue2.png";
 import styles from "./Navbar.module.css";
-// import Costruzione from "../assets/images/Costruzione.png";
 
-// Importer les drapeaux
 import flagIT from "../assets/images/FlagItaly.png";
 import flagEN from "../assets/images/FlagEngland.png";
 import flagFR from "../assets/images/FlagFrance.png";
@@ -37,11 +35,6 @@ const Navbar = () => {
             alt={t("navbar.logoAlt")}
             className={styles.logoImage}
           />
-          {/* <img
-            src={Costruzione}
-            alt="Site en construction"
-            className={styles.Costruzione}
-          /> */}
         </div>
       </Link>
 
@@ -65,8 +58,18 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/NewProgramma" onClick={handleLinkClick}>
-            {t("navbar.program")}
+          <Link to="/ProgSeptember" onClick={handleLinkClick}>
+            {t("navbar.programSeptember")}
+          </Link>
+        </li>
+        <li>
+          <Link to="/ProgOctober" onClick={handleLinkClick}>
+            {t("navbar.programOctober")}
+          </Link>
+        </li>
+        <li>
+          <Link to="/ProgNovember" onClick={handleLinkClick}>
+            {t("navbar.programNovember")}
           </Link>
         </li>
 
@@ -75,11 +78,11 @@ const Navbar = () => {
             {t("navbar.contacts")}
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/Stampa" onClick={handleLinkClick}>
             {t("navbar.pressReview")}
           </Link>
-        </li>
+        </li> */}
 
         {/* Sélecteur de langue avec drapeaux */}
         <li className={styles.languageSwitcher}>
