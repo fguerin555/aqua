@@ -1,6 +1,7 @@
 import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgNovember.module.css";
+import FotoPerformance from "../../components/FotoPerformance";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -1192,6 +1193,7 @@ const ProgNovember = () => {
             i18nKey="programNovember.appointment5.time3"
             components={{
               br: <br />,
+              LaurentLDW1: <FotoPerformance imageKey="LaurentLDW1" />,
               map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
