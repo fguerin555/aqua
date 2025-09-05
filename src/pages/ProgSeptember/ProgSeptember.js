@@ -1007,12 +1007,12 @@ const ProgSeptember = () => {
           <Trans i18nKey="programSeptember.appointment1.location2.time_and_name" />
         </div>
       </div>
-      <div className={styles.Foto}>
+      {/* <div className={styles.Foto}>
         <img
           src={CasaPirri}
           alt={t("programSeptember.appointment1.location2.imageAlt")}
         />
-      </div>
+      </div> */}
       <div className={styles.Luoghi}>
         <div>
           <Trans
@@ -1044,10 +1044,18 @@ const ProgSeptember = () => {
                   altKey="programSeptember.fromStationAlt"
                 />
               ),
+              fotoCasaPirri: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={CasaPirriFotoImageMap}
+                  altKey="programSeptember.fotoAlt"
+                />
+              ),
             }}
           />
         </div>
       </div>
+
       <div className={styles.EventDescription3}>
         <div>
           <Trans

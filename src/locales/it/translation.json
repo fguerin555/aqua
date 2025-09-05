@@ -46,8 +46,8 @@
       },
 
       "location2": {
-        "time_and_name": "11, 12 Settembre ore 21.00 <br/>Casa Pirri - Valentini",
-        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map2/><toCasaPirri/> <book_CasaPirri /><br/> <br/>",
+        "time_and_name": "11, 12 Settembre ore 21.00 <br/><br/>Casa Pirri - Valentini",
+        "address": "via del Mandrione 451/455<br/> municipio VII <br/><map2/><toCasaPirri/> <book_CasaPirri /><fotoCasaPirri /><br/> <br/>",
         "imageAlt": "Casa Pirri - Valentini, Via del Mandrione 451/455, municipio VII",
         "mapQuery": "Via del Mandrione 451, Roma"
       },
