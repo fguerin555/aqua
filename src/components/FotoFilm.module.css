@@ -1,0 +1,14 @@
+.Foto {
+  width: 100%;
+  max-width: 700px;
+  margin: 5px auto 10px auto;
+  overflow: hidden;
+}
+
+.Image {
+  width: 100%;
+  height: auto; /* 👈 conserve les proportions naturelles */
+  object-fit: contain; /* 👈 affiche toute l’image sans la rogner */
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #272727;
+}

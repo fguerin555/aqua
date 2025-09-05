@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgSeptember.module.css";
 import ExpandableTransText from "../../components/ExpandableTransText";
+import FotoFilm from "../../components/FotoFilm";
 
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
@@ -1075,7 +1076,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1097,7 +1107,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1120,7 +1139,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1142,7 +1170,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1164,7 +1201,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1186,7 +1232,16 @@ const ProgSeptember = () => {
             components={{
               br: <br />,
               i: <i />,
-              span: <span className={styles.Author} />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
