@@ -1,6 +1,8 @@
 import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgSeptember.module.css";
+import ExpandableTransText from "../../components/ExpandableTransText";
+
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -1190,12 +1192,12 @@ const ProgSeptember = () => {
         </div>
       </div>
       <div className={styles.EventDescription}>
-        <div>
-          <Trans
-            i18nKey="programSeptember.appointment1.CriticTextParagraphs"
-            components={{ br: <br /> }}
-          />
-        </div>
+        <ExpandableTransText
+          i18nKeyIntro="programSeptember.appointment1.CriticTextIntro"
+          i18nKeyFull="programSeptember.appointment1.CriticTextFull"
+          i18nKeyMore="programSeptember.appointment1.ReadMore"
+          i18nKeyLess="programSeptember.appointment1.ReadLess"
+        />
       </div>
 
       <div className={styles.Vision}>
