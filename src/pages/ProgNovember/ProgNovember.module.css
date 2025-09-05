@@ -54,7 +54,7 @@
 .ProgrammaPageTitle p {
   text-align: center;
   font-size: 35px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 17px;
@@ -66,7 +66,7 @@
 .TitleAppuntamento p {
   text-align: center;
   font-size: 35px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 0;
@@ -76,7 +76,7 @@
 .NameAppuntamento p {
   text-align: center;
   font-size: 25px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
@@ -85,7 +85,7 @@
 .Name2Appuntamento p {
   text-align: center;
   font-size: 25px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
@@ -95,7 +95,7 @@
 .Orari > div {
   text-align: center;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   min-width: 90%;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -116,7 +116,7 @@
 .Luoghi > div {
   text-align: center;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin: 0; /* On enlève les marges verticales pour un bon alignement flex */
@@ -128,7 +128,7 @@
   gap: 5px; /* Espace entre le nom du lieu et l'icône */
   margin-top: 2px;
   margin-bottom: 2px;
-  color: #e9f2fd; /* Reprend la couleur du texte */
+  color: white;
   font-family: "Poppins-Medium", Arial, sans-serif; /* Reprend la police */
   font-size: 20px; /* Reprend la taille de la police */
 }
@@ -238,7 +238,7 @@
 .LegendaFoto p {
   text-align: center;
   font-size: 15px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 2px;
@@ -256,7 +256,7 @@
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
   text-shadow: 2px 2px 2px #000;
-  color: #e9f2fd;
+  color: white;
   text-justify: left;
   margin-left: auto;
   margin-right: auto;
@@ -266,7 +266,7 @@
 .EventDescription3 {
   text-align: center;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   min-width: 90%;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
@@ -279,7 +279,7 @@
   align-items: center;
   width: 95%;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   margin-left: auto;
@@ -293,7 +293,7 @@
   align-items: center;
   width: 80%;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   margin-left: auto;
@@ -307,7 +307,7 @@
   align-items: center;
   width: 80%;
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   font-family: "Poppins-Medium", Arial, sans-serif;
   text-shadow: 2px 2px 2px #000;
   margin-left: auto;
@@ -331,7 +331,7 @@
 
 .ArtistList > div {
   font-size: 20px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Medium", Arial, sans-serif;
 }
@@ -348,7 +348,7 @@
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
   text-shadow: 2px 2px 2px #000;
-  color: #e9f2fd;
+  color: white;
 }
 .iconsContainer > a,
 .iconsContainer > span {
@@ -372,7 +372,7 @@
 .copyright {
   margin-top: 20px;
   font-size: 12px;
-  color: #e9f2fd;
+  color: white;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
@@ -478,7 +478,7 @@
   }
   .copyright {
     font-size: 12px;
-    color: #e9f2fd;
+    color: white;
     text-shadow: 2px 2px 2px #000;
     font-family: "Poppins-Italic", Arial, sans-serif;
   }
@@ -595,7 +595,7 @@
   }
   .copyright {
     font-size: 10px;
-    color: #e9f2fd;
+    color: white;
     text-shadow: 2px 2px 2px #000;
     font-family: "Poppins-Italic", Arial, sans-serif;
   }
@@ -702,7 +702,7 @@
   }
   .copyright {
     font-size: 10px;
-    color: #e9f2fd;
+    color: white;
     text-shadow: 2px 2px 2px #000;
     font-family: "Poppins-Italic", Arial, sans-serif;
   }
