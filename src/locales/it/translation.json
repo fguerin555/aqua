@@ -40,9 +40,9 @@
 
       "location1": {
         "time_and_name": "8, 9, 10 Settembre ore 21.00 <br/>Parco di Tor Fiscale",
-        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><fotoEntrataParco /><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, municipio VII",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
+        "mapQuery": "Via dell'Acquedotto Felice 120, Roma"
       },
 
       "location2": {
@@ -55,7 +55,7 @@
       "descriptionTitle": "Programma rassegna<br/><br/>8 settembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>ore: 21.00<br/><br/>",
       "descriptionProgram": "<i>Currents - Perpendicolare avanti</i> di Federica Foglia<br/> Italia/Canada, 2021, 18’<br/><br/><i>The Last Shipwreck</i> di Giulio Latini<br/> Italia, 2021, colore, 10’34”<br/><br/><fotoSpectralCanticle /><i>Spectral Canticle</i> di Carloni e Franceschetti<br/> 2022, colore, 6’ (estratto)<br/><br/><i>Nice Party Nice People</i>di Luca Sivelli<br/> Italia, 2023, colore, 6’20” <br/><br/> <i>La più lontana patria</i>di Dehors/Audela<br/> Italia, 2016, colore, 10’<br/><br/><i> Blu d’acqua</i> di Michele Sambin<br/> Italia, 1972, colore, 45’ <br/><br/><br/>",
       "descriptionTitle2": "9 settembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>ore: 21.00<br/>",
-      "descriptionProgram2": "<fotoVoyagedHiver/><i>Voyage d’hiver</i> di Robert Cahen<br/> Francia, 1993, colore, 18’05”<br/><br/><i>Da qui, sopra al mare</i>di Mauro Santini<br/> Italia, 2003, colore, 10’<br/>",
+      "descriptionProgram2": "<i>Goccioline</i> di Fabio Massimo Iaquone<br/> Italia, 2025, colore, 2'30''<br/><br/><fotoVoyagedHiver/><i>Voyage d’hiver</i> di Robert Cahen<br/> Francia, 1993, colore, 18’05”<br/><br/><i>Da qui, sopra al mare</i>di Mauro Santini<br/> Italia, 2003, colore, 10’<br/>",
 
       "descriptionTitle3": "Selezione di lavori degli studenti<br/> della scuola di Cinema, Fotografia e Audiovisivo<br/>dell’Accademia di Belle Arti di Roma<br/>",
       "descriptionProgram3": "<i>Io abito al mare</i> di Cristian Iacono<br/> Italia, 2025, colore, 1’55”<br/><br/><i>Untitled</i> di Gaetano Zazzera<br/> Italia, 2024, b/n, 2’<br/><br/><i>Mare Nostrum</i> di Eleonora Silvestri<br/> Italia, 2025, colore, 5’40”<br/><br/><i>Io (non) abito al mare</i> di Giorgia Perrone<br/> Italia, 2024, colore, 2’37”<br/><br/><i>Simpoiesi</i> di Lucas Begendi e Camilla Dalmazio<br/> Italia, 2024, b/n, 5’43”<br/><br/><i>Acqua</i> di Marta Marchio<br/> Italia, 2024, b/n, 2’14”<br/> <br/><i>Insostenibile leggerezza</i> di Matteo Farinelli<br/> Italia, 2024, b/n, 2’27”<br/><br/><i>Insperato</i> di Pietro Paolo Boccio<br/> Italia, 2023, b/n, 2’57”<br/><br/><i>Ologramma</i> di Pietro Paolo Boccio<br/> Italia, 2021, b/n, 5’06”<br/><br/><i>Be Water</i> di Silvia Emiliani<br/> Italia, 2024, colore, 2’57”<br/><br/><i>Cinema alla deriva</i> di Vicentiu Copoeru<br/> Italia, 2023, b/n, 2’53”<br/><br/><fotoMurodiSabbia /><i>Muro di sabbia</i> di Giovanna Sodero<br/> Italia, 2022, colore, 7’<br/><br/><br/>",

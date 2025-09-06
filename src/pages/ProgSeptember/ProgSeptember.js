@@ -10,6 +10,7 @@ import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
+import EntrataParco from "../../assets/images/EntrataParco.png";
 import OeilVide from "../../components/OeilVide";
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
@@ -869,6 +870,12 @@ const ProgSeptember = () => {
     en: OV,
   };
 
+  const EntrataParcoFotoImageMap = {
+    it: EntrataParco,
+    en: EntrataParco,
+    fr: EntrataParco,
+  };
+
   const appointment2Locations = [
     {
       timeAndNameKey: "programSeptember.appointment2.location1.time_and_name",
@@ -999,6 +1006,13 @@ const ProgSeptember = () => {
                   altKey="programSeptember.fromStationAlt"
                 />
               ),
+              fotoEntrataParco: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={EntrataParcoFotoImageMap}
+                  altKey="programSeptember.fotoAlt"
+                />
+              ),
             }}
           />
         </div>
@@ -1008,12 +1022,7 @@ const ProgSeptember = () => {
           <Trans i18nKey="programSeptember.appointment1.location2.time_and_name" />
         </div>
       </div>
-      {/* <div className={styles.Foto}>
-        <img
-          src={CasaPirri}
-          alt={t("programSeptember.appointment1.location2.imageAlt")}
-        />
-      </div> */}
+
       <div className={styles.Luoghi}>
         <div>
           <Trans

@@ -41,9 +41,9 @@
 
       "location1": {
         "time_and_name": "8, 9, 10 Septembre à 21 heures <br/>Parco di Tor Fiscale",
-        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><br/> <br/>",
+        "address": "Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/> municipio VII <br/><map1/><toAcquedotto/><book_Acquedotto/><fotoEntrataParco /><br/> <br/>",
         "imageAlt": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Rome",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
+        "mapQuery": "Via dell'Acquedotto Felice, 120, Roma"
       },
 
       "location2": {
@@ -56,7 +56,7 @@
       "descriptionTitle": "Programme du festival<br/><br/>8 septembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/><br/>",
       "descriptionProgram": "<i>Currents - Perpendicolare avanti</i> de Federica Foglia<br/> Italie/Canada, 2021, 18’<br/><br/><i>The Last Shipwreck</i> de Giulio Latini<br/> Italie, 2021, couleur, 10’34”<br/><br/><fotoSpectralCanticle/><i>Spectral Canticle</i> de Carloni et Franceschetti<br/> 2022, couleur, 6’ (extrait)<br/><br/><i>Nice Party Nice People</i> de Luca Sivelli<br/> Italie, 2023, couleur, 6’20” <br/><br/><i> La più lontana patria</i> de Dehors/Audela<br/> Italie, 2016, couleur, 10’<br/><br/><i>Blu d’acqua</i> de Michele Sambin<br/> Italie, 1972, couleur, 45’ <br/><br/><br/>",
       "descriptionTitle2": "9 septembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/>",
-      "descriptionProgram2": "<fotoVoyagedHiver/><i>Voyage d’hiver</i> de Robert Cahen<br/> France, 1993, couleur, 18’05”<br/><br/><i>Da qui, sopra al mare</i> de Mauro Santini<br/> Italie, 2003, couleur, 10’<br/>",
+      "descriptionProgram2": "<i>Goccioline</i> de Fabio Massimo Iaquone<br/> Italia, 2025, colore, 2'30''<br/><br/><fotoVoyagedHiver/><i>Voyage d’hiver</i> de Robert Cahen<br/> France, 1993, couleur, 18’05”<br/><br/><i>Da qui, sopra al mare</i> de Mauro Santini<br/> Italie, 2003, couleur, 10’<br/>",
       "descriptionTitle3": "Selection des travaux des étudiants <br/> de l'École de Cinema, Photographie et Audiovisuel<br/> de l'Académie des Beaux Arts de Rome<br/>",
       "descriptionProgram3": "<i>Io abito al mare</i> de Cristian Iacono<br/> Italie, 2025, couleur, 1’55”<br/><br/><i>Untitled</i> de Gaetano Zazzera<br/> Italie, 2024, b/n, 2’<br/><br/><i>Mare Nostrum</i> d'Eleonora Silvestri<br/> Italie, 2025, couleur, 5’40”<br/><br/><i>Io (non) abito al mare</i> de Giorgia Perrone<br/> Italie, 2024, couleur, 2’37”<br/><br/><i> Simpoiesi</i> de Lucas Begendi et Camilla Dalmazio<br/> Italie, 2024, b/n, 5’43”<br/><br/><i>Acqua</i> de Marta Marchio<br/> Italie, 2024, b/n, 2’14”<br/><br/><i>Insostenibile leggerezza</i> de Matteo Farinelli<br/> Italie, 2024, b/n, 2’27”<br/><br/><i>Insperato</i> de Pietro Paolo Boccio<br/> Italie, 2023, b/n, 2’57”<br/><br/><i>Ologramma</i> de Pietro Paolo Boccio<br/> Italie, 2021, b/n, 5’06”<br/><br/><i>Be Water</i> de Silvia Emiliani<br/> Italie, 2024, couleur, 2’57”<br/><br/><i>Cinema alla deriva</i> de Vicentiu Copoeru<br/> Italie, 2023, b/n, 2’53”<br/><br/><fotoMurodiSabbia/><i>Muro di sabbia</i> de Maria Giovanna Sodero<br/> Italie, 2022, couleur, 7’<br/><br/><br/>",
       "descriptionTitle4": "10 septembre<br/>Parco di Tor Fiscale – Acquedotto Marcio Felice<br/>à 21 heures<br/><br/>",
