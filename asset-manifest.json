@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a70b1666.css",
-    "main.js": "/static/js/main.fa1a433c.js",
+    "main.css": "/static/css/main.4ae0ea6e.css",
+    "main.js": "/static/js/main.6a455a7f.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/FondoCS.png": "/static/media/FondoCS.a5eff7c6a7b04b962a6e.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
@@ -13,7 +13,7 @@
     "static/media/PamelaP6.png": "/static/media/PamelaP6.eba483ad6ea8a0c4f2b4.png",
     "static/media/APirriW01.png": "/static/media/APirriW01.ecbc028476482607cc1a.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
-    "static/media/ViadellAcquaFelice.png": "/static/media/ViadellAcquaFelice.4d4d6c2dc4241728ab00.png",
+    "static/media/ViaDellAcquaFelice.png": "/static/media/ViaDellAcquaFelice.4d4d6c2dc4241728ab00.png",
     "static/media/DonSardelliRit.png": "/static/media/DonSardelliRit.21842e4a96ffb56f9460.png",
     "static/media/APirriW04.png": "/static/media/APirriW04.21fdfdb35cf6361cc783.png",
     "static/media/App1_SpectralCanticle.png": "/static/media/App1_SpectralCanticle.2fe984d979c9c8692aed.png",
@@ -22,7 +22,7 @@
     "static/media/PaoloAssenzaW1.png": "/static/media/PaoloAssenzaW1.ce9bb8dc5eee2b0930fc.png",
     "static/media/App1_LaPiuLontanaPatria.png": "/static/media/App1_LaPiuLontanaPatria.b044ed1f104f129558e6.png",
     "static/media/EntrataParco.png": "/static/media/EntrataParco.0a879e84add273654c86.png",
-    "static/media/ViadellAcquedottoFelice.png": "/static/media/ViadellAcquedottoFelice.6463cb7966866bab40f3.png",
+    "static/media/ViaDellAcquedottoFelice.png": "/static/media/ViaDellAcquedottoFelice.6463cb7966866bab40f3.png",
     "static/media/Acquedotto2.png": "/static/media/Acquedotto2.bf12e9f9fa73a368533a.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
@@ -284,11 +284,11 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
-    "main.a70b1666.css.map": "/static/css/main.a70b1666.css.map",
-    "main.fa1a433c.js.map": "/static/js/main.fa1a433c.js.map"
+    "main.4ae0ea6e.css.map": "/static/css/main.4ae0ea6e.css.map",
+    "main.6a455a7f.js.map": "/static/js/main.6a455a7f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a70b1666.css",
-    "static/js/main.fa1a433c.js"
+    "static/css/main.4ae0ea6e.css",
+    "static/js/main.6a455a7f.js"
   ]
 }
