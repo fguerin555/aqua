@@ -1331,7 +1331,6 @@ const ProgSeptember = () => {
           />
         </div>
         {appointment2Locations.map((loc, index) => {
-          // Objet components de base (sans l'icône appareil photo)
           const componentsObj = {
             br: <br />,
             map: (
@@ -1363,24 +1362,25 @@ const ProgSeptember = () => {
 
           return (
             <div className={styles.Luoghi} key={index}>
-              {/* Bloc photo + texte */}
               <div className={styles.LuogoContent}>
+                {/* ✅ Bloc image corrigé */}
                 <div className={styles.FotoTop}>
-                  {loc.fotoSrc ? (
-                    <img
-                      src={loc.fotoSrc}
-                      alt={t("programSeptember.fotoAlt")}
-                      className={styles.ImageFull}
-                    />
-                  ) : (
-                    <Foto
-                      className={styles.ImageFull}
-                      imageMap={loc.fotoImageMap}
-                      altKey="programSeptember.fotoAlt"
-                    />
-                  )}
+                  <div className={styles.ImageFull}>
+                    {loc.fotoSrc ? (
+                      <img
+                        src={loc.fotoSrc}
+                        alt={t("programSeptember.fotoAlt")}
+                      />
+                    ) : (
+                      <Foto
+                        imageMap={loc.fotoImageMap}
+                        altKey="programSeptember.fotoAlt"
+                      />
+                    )}
+                  </div>
                 </div>
 
+                {/* Texte */}
                 <div className={styles.TextBlock}>
                   <Trans
                     i18nKey={loc.timeAndNameKey}

@@ -235,23 +235,34 @@
   box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
 }
 .ImageFull {
-  width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
+  position: relative;
+  z-index: 1;
+  width: 700px;
   height: 375px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 5px;
-  margin-bottom: 10px;
-  opacity: 1;
-  object-fit: cover;
+  margin: 5px auto 10px; /* centre horizontalement */
+  /* Pas d'object-fit ici: seulement sur l'image */
+}
 
+/* Cas 1: la classe est sur l'<img> directement */
+img.ImageFull {
   display: block;
-  /* width: 100%;
-  height: 100%; */
-  visibility: visible;
-  opacity: 1;
-  visibility: visible;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
   border-radius: 5px;
-  box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
+  box-shadow: 3px 3px 5px #272727;
+}
+
+/* Cas 2: la classe est sur un conteneur qui contient une image (ex: <Foto/>) */
+.ImageFull img,
+.ImageFull picture,
+.ImageFull canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #272727;
 }
 
 .LegendaFoto p {
@@ -432,7 +443,14 @@
   .Orari > div {
     font-size: 18px;
   }
-
+  .Luoghi {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .Luoghi > div {
     font-size: 18px;
   }
@@ -540,6 +558,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
   }
   .Luoghi > div {
     width: 100%;
@@ -661,6 +681,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
   }
   .Luoghi div {
     font-size: 15px;
@@ -684,8 +706,9 @@
     width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 180px;
   }
+
   .ImageFull {
-    width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
+    width: 300px; /* même que .Foto */
     height: 180px;
   }
   .FotoV {
