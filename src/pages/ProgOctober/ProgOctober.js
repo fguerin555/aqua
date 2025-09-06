@@ -235,7 +235,7 @@ import ToViaCasilinaVecchiaIT from "../../assets/images/ToViaCasilinaVecchiaIT.p
 import ToViaCasilinaVecchiaEN from "../../assets/images/ToViaCasilinaVecchiaEN.png";
 import ToViaCasilinaVecchiaFR from "../../assets/images/ToViaCasilinaVecchiaFR.png";
 
-import ViadellAcquedottoFelice from "../../assets/images/ViadellAcquedottoFelice.png";
+import ViaDellAcquedottoFelice from "../../assets/images/ViaDellAcquedottoFelice.png";
 import ViaDellAcquedottoFeliceIT from "../../assets/images/ViaDellAcquedottoFeliceIT.png";
 import ViaDellAcquedottoFeliceEN from "../../assets/images/ViaDellAcquedottoFeliceEN.png";
 import ViaDellAcquedottoFeliceFR from "../../assets/images/ViaDellAcquedottoFeliceFR.png";
@@ -259,7 +259,7 @@ import ToCentroAnzianiEN from "../../assets/images/ToCentroAnzianiEN.png";
 import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
 import CentroAnziani from "../../assets/images/CentroAnziani.png";
 
-import ViadellAcquaFelice from "../../assets/images/ViadellAcquaFelice.png";
+import ViaDellAcquaFelice from "../../assets/images/ViaDellAcquaFelice.png";
 import ViaDellAcquaFeliceIT from "../../assets/images/ViaDellAcquaFeliceIT.png";
 import ViaDellAcquaFeliceEN from "../../assets/images/ViaDellAcquaFeliceEN.png";
 import ViaDellAcquaFeliceFR from "../../assets/images/ViaDellAcquaFeliceFR.png";
@@ -605,15 +605,15 @@ const ProgOctober = () => {
   };
 
   const ViaDellAcquaFeliceFotoImageMap = {
-    it: ViadellAcquaFelice,
-    en: ViadellAcquaFelice,
-    fr: ViadellAcquaFelice,
+    it: ViaDellAcquaFelice,
+    en: ViaDellAcquaFelice,
+    fr: ViaDellAcquaFelice,
   };
 
   const ViaDellAcquedottoFeliceFotoImageMap = {
-    it: ViadellAcquedottoFelice,
-    en: ViadellAcquedottoFelice,
-    fr: ViadellAcquedottoFelice,
+    it: ViaDellAcquedottoFelice,
+    en: ViaDellAcquedottoFelice,
+    fr: ViaDellAcquedottoFelice,
   };
   const ViaDiTorreBrancaFotoImageMap = {
     it: ViadiTorreBranca,

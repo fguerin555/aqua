@@ -82,50 +82,50 @@
       "description1": "24 et 25 Septembre à partir de 18 heures<br/>Circulation dans les rues indiquées de la Municipalité VII d'un camion-citerne <br/>transmettant pensées, désirs, vécus et autres éléments recueillis auprès des habitants du quartier par Iginio De Luca. <br /><br />",
 
       "location1": {
-        "time_and_name": "Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Parco di Tor Fiscale<br />Via dell'Acquedotto Felice, 120<br/>municipio VII<br /><map /><to></to><book></book>",
         "address": "Parco di Tor Fiscale, municipio VII",
         "imageAlt": "Parco di Tor Fiscale, municipio VII",
-        "mapQuery": "Parco di Tor Fiscale, Roma"
+        "mapQuery": "Via dell'Acquedotto Felice, 120, Roma"
       },
       "location2": {
-        "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Casale di Tor Fiscale<br />Parco di Tor Fiscale<br />Via dell'Acquedotto Felice, 120<br/>municipio VII<br /><map /><to></to><book></book>",
         "imageAlt": "Casale di Tor Fiscale, municipio VII",
-        "mapQuery": "Casale di Tor Fiscale, Parco di Tor Fiscale, Roma."
+        "mapQuery": "Casale di Tor Fiscale, Parco di Tor Fiscale,Via dell'Acquedotto Felice, 120, Roma."
       },
       "location3": {
-        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via Casilina Vecchia<br />municipio V<br /><map /><to></to><book></book>",
         "address": "Via casilina Vecchia, municipio VII",
         "imageAlt": "Via casilina Vecchia, municipio VII",
         "mapQuery": "Via casilina Vecchia, Roma."
       },
       "location4": {
-        "time_and_name": "Via del Mandrione<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via del Mandrione<br />municipio VII<br /><map /><to></to><book></book>",
         "address": "Via del Mandrione, municipio VII",
         "imageAlt": "Via del Mandrione, municipio VII",
         "mapQuery": "Via del Mandrione, Roma."
       },
       "location5": {
-        "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via dell’Acqua Felice<br />municipio VII<br /><map /><to></to><book></book>",
         "address": "Via dell’Acqua Felice, municipio VII",
         "imageAlt": "Via dell’Acqua Felice, municipio VII",
         "mapQuery": "Via dell’Acqua Felice, Roma."
       },
       "location6": {
-        "time_and_name": "Via dell’Acquedotto Felice<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via dell’Acquedotto Felice<br />municipio VII<br /><map /><to></to><book></book>",
         "address": "Via dell’Acquedotto Felice, municipio VII",
         "imageAlt": "Via dell’Acquedotto Felice, municipio VII",
         "mapQuery": "Via dell’Acquedotto Felice, Roma."
       },
 
       "location7": {
-        "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Via di Torre Branca<br />municipio VII<br /><map /><to></to><book></book>",
         "address": "Via di Torre Branca, municipio VII",
         "imageAlt": "Via di Torre Branca, Roma.",
         "mapQuery": "Via di Torre Branca, Roma."
       },
 
       "location8": {
-        "time_and_name": "Fontana di Clemente XII<br/>Via Tuscolana, 545<br />municipio VII<br /><map /><to></to><book></book><foto />",
+        "time_and_name": "Fontana di Clemente XII<br/>Via Tuscolana, 545<br />municipio VII<br /><map /><to></to><book></book>",
         "address": "Via Tuscolana, 545 municipio VII",
         "imageAlt": "Via Tuscolana, 545 municipio VII",
         "mapQuery": "Via Tuscolana,545 Roma."
@@ -146,9 +146,9 @@
       "sectionTitle": "RENDEZ-VOUS 3",
       "name": "De la Peinture en Plein Air à l'Art Artificiel",
 
-      "event1": "15 et 16 Septembre à 16 heures<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè",
+      "event1": "15 et 16 Septembre à 16 heures<br/>Lago Ex.Snia<br/>municipio V<br/><map/><to></to><book></book><br/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè<br/><br/><br/>",
 
-      "event2": "23 et 24 Septembre à 16 heures<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè",
+      "event2": "23 et 24 Septembre à 16 heures<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè<br/><br/>",
 
       "description": "Ces initiatives interagiront avec des sessions d'intelligence artificielle <br/>créant des environnements immersifs qui permettent l'interaction du public.",
 
@@ -161,7 +161,7 @@
       "location2": {
         "name": "",
         "imageAlt": "",
-        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Roma"
+        "mapQuery": "Parco di Tor Fiscale, Acquedotto Marcio Felice, Via dell'Acquedotto Felice, 120<br/> Roma"
       }
     },
     "appointment4": {

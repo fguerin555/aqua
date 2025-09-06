@@ -110,7 +110,7 @@
   justify-content: center;
   align-items: center;
   gap: 10px; /* Espace entre le texte et l'icône */
-  margin-top: 5px;
+  margin-top: 20px;
   margin-bottom: 5px;
 }
 .Luoghi > div {
@@ -230,6 +230,25 @@
   visibility: visible;
   opacity: 1;
   object-fit: cover;
+  visibility: visible;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
+}
+.ImageFull {
+  width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
+  height: 375px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  opacity: 1;
+  object-fit: cover;
+
+  display: block;
+  /* width: 100%;
+  height: 100%; */
+  visibility: visible;
+  opacity: 1;
   visibility: visible;
   border-radius: 5px;
   box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
@@ -392,6 +411,10 @@
     width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 275px;
   }
+  .ImageFull {
+    width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 275px;
+  }
 
   .ProgrammaPageTitle p {
     font-size: 28px;
@@ -541,6 +564,10 @@
     width: 400px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 250px;
   }
+  .ImageFull {
+    width: 400px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 250px;
+  }
   .EventDescription > div {
     font-size: 16px; /* Taille intermédiaire pour tablette */
   }
@@ -654,6 +681,10 @@
     margin-left: 5px;
   }
   .Foto {
+    width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
+    height: 180px;
+  }
+  .ImageFull {
     width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 180px;
   }
