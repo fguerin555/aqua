@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d65c579.css",
-    "main.js": "/static/js/main.49a6816c.js",
+    "main.js": "/static/js/main.c457f4d6.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/FondoCS.png": "/static/media/FondoCS.a5eff7c6a7b04b962a6e.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
@@ -271,7 +271,6 @@
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
     "static/media/Book.png": "/static/media/Book.916f970eb32e68892106.png",
     "static/media/LogoComitato.png": "/static/media/LogoComitato.f7b32d425fadd18334de.png",
-    "static/media/LinkVide.png": "/static/media/LinkVide.db5981e63a36732bdc7c.png",
     "static/media/LogoAFraentzel.png": "/static/media/LogoAFraentzel.d9282a61d9b0345c91bb.png",
     "static/media/simbolmapp.png": "/static/media/simbolmapp.565894e9072113410030.png",
     "static/media/LogoABalabanoff.png": "/static/media/LogoABalabanoff.f9eb8050980c3cb8c88a.png",
@@ -281,14 +280,14 @@
     "static/media/LogoEcoMuseo.png": "/static/media/LogoEcoMuseo.4e2df6c1c50823e6d109.png",
     "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
     "static/media/LogoTorredelFiscale.png": "/static/media/LogoTorredelFiscale.2d2971888c619ce06ddb.png",
+    "static/media/Link.png": "/static/media/Link.42334c39f011b6a47dda.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
-    "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.4d65c579.css.map": "/static/css/main.4d65c579.css.map",
-    "main.49a6816c.js.map": "/static/js/main.49a6816c.js.map"
+    "main.c457f4d6.js.map": "/static/js/main.c457f4d6.js.map"
   },
   "entrypoints": [
     "static/css/main.4d65c579.css",
-    "static/js/main.49a6816c.js"
+    "static/js/main.c457f4d6.js"
   ]
 }
