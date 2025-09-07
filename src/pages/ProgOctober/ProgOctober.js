@@ -13,6 +13,7 @@ import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
+
 // import ContainerIMG from "../../assets/images/ContainerIMG.png";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
@@ -867,66 +868,10 @@ const ProgOctober = () => {
     fr: OV,
     en: OV,
   };
-
-  const appointment2Locations = [
-    {
-      timeAndNameKey: "programOctober.appointment2.location1.time_and_name",
-      mapQueryKey: "program.appointment2.location1.mapQuery",
-      fromStationImageMap: ToParcoTorFiscaleImageMap,
-      bookImageMap: ParcoTorFiscaleBookImageMap,
-      fotoImageMap: ParcodiTorFiscaleFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location2.time_and_name",
-      mapQueryKey: "program.appointment2.location2.mapQuery",
-      fromStationImageMap: ToParcoTorFiscaleImageMap,
-      bookImageMap: CasaleBookImageMap,
-      fotoImageMap: CasaleFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location3.time_and_name",
-      mapQueryKey: "program.appointment2.location3.mapQuery",
-      fromStationImageMap: ToViaCasilinaVecchiaImageMap,
-      bookImageMap: ViaCasilinaVecchiaBookImageMap,
-      fotoImageMap: ViaCasilinaVecchiaFotoImageMap,
-    },
-
-    {
-      timeAndNameKey: "programOctober.appointment2.location4.time_and_name",
-      mapQueryKey: "programOctober.appointment2.location4.mapQuery",
-      fromStationImageMap: ToViadelMandrioneImageMap,
-      bookImageMap: ViadelMandrioneBookImageMap,
-      fotoImageMap: ViadelMandrioneFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location5.time_and_name",
-      mapQueryKey: "programOctober.appointment2.location5.mapQuery",
-      fromStationImageMap: ToViaDellAcquaFeliceImageMap,
-      bookImageMap: ViaDellAcquaFeliceBookImageMap,
-      fotoImageMap: ViaDellAcquaFeliceFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location6.time_and_name",
-      mapQueryKey: "programOctober.appointment2.location6.mapQuery",
-      fromStationImageMap: ToViaDellAcquedottoFeliceImageMap,
-      bookImageMap: ViaDellAcquedottoFeliceBookImageMap,
-      fotoImageMap: ViaDellAcquedottoFeliceFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location7.time_and_name",
-      mapQueryKey: "programOctober.appointment2.location7.mapQuery",
-      fromStationImageMap: ToViaDiTorreBrancaImageMap,
-      bookImageMap: ViaDiTorreBrancaBookImageMap,
-      fotoImageMap: ViaDiTorreBrancaFotoImageMap,
-    },
-    {
-      timeAndNameKey: "programOctober.appointment2.location8.time_and_name",
-      mapQueryKey: "programOctober.appointment2.location8.mapQuery",
-      fromStationImageMap: ToFontanaImageMap,
-      bookImageMap: FontanaBookImageMap,
-      fotoImageMap: ViaTuscolanaFotoImageMap,
-    },
-  ];
+  const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
+  const LorenzaComic = <FotoPerformance imageKey="Lorenza2" />;
+  const DavideComic = <FotoPerformance imageKey="Davide3" />;
+  const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
 
   return (
     <div className={styles.ProgrammaPage}>
@@ -1038,6 +983,46 @@ const ProgOctober = () => {
               ),
             }}
           />
+          <div className={styles.Orari}>
+            <div>
+              <Trans
+                i18nKey="programOctober.appointment4.Comic1"
+                components={{
+                  br: <br />,
+                  map: (
+                    <span className={styles.SimbolMapp}>
+                      <MapButton
+                        mapQuery={t(
+                          "programOctober.appointment4.location2.mapQuery"
+                        )}
+                      >
+                        <img
+                          src={simbolmapp}
+                          alt={t("programOctober.mapSymbolAlt")}
+                        />
+                      </MapButton>
+                    </span>
+                  ),
+                  book: (
+                    <Book
+                      className={styles.IconStandard}
+                      imageMap={AnnaFraentzelCelliBookImageMap}
+                      altKey="programOctober.bookAlt"
+                    />
+                  ),
+                  foto: (
+                    <Foto
+                      className={styles.IconStandard}
+                      imageMap={AnnaFraentzelCelliFotoImageMap}
+                      altKey="programOctober.fotoAlt"
+                    />
+                  ),
+
+                  comicLorenza: LorenzaComic,
+                }}
+              />
+            </div>
+          </div>
         </div>
       </div>
       <div className={styles.Orari}>
@@ -1085,6 +1070,48 @@ const ProgOctober = () => {
           />
         </div>
       </div>
+      <div className={styles.Orari}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment4.Comic2"
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t(
+                      "programOctober.appointment4.location3.mapQuery"
+                    )}
+                  >
+                    <img
+                      src={simbolmapp}
+                      alt={t("programOctober.mapSymbolAlt")}
+                    />
+                  </MapButton>
+                </span>
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffBookImageMap}
+                  altKey="programOctober.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffFotoImageMap}
+                  altKey="programOctober.fotoAlt"
+                />
+              ),
+              comicGiancarlo: GiancarloComic,
+              comicDavide: DavideComic,
+              comicAlberto: AlbertoComic,
+            }}
+          />
+        </div>
+      </div>
+
       <div className={styles.Orari}>
         <div>
           <Trans
