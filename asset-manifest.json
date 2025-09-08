@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1ff8f7a.css",
-    "main.js": "/static/js/main.40bd2f16.js",
+    "main.css": "/static/css/main.02fe740b.css",
+    "main.js": "/static/js/main.9ee67695.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
-    "static/media/FondoCS.png": "/static/media/FondoCS.a5eff7c6a7b04b962a6e.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
@@ -277,18 +276,21 @@
     "static/media/LogoABalabanoff.png": "/static/media/LogoABalabanoff.f9eb8050980c3cb8c88a.png",
     "static/media/LogoCiC.png": "/static/media/LogoCiC.7dfa2d899cf70dbb7f5f.png",
     "static/media/oeil.png": "/static/media/oeil.5ddcdf1847358a022eca.png",
+    "static/media/ExibartLogo.png": "/static/media/ExibartLogo.034fe00d17c12c3d8c26.png",
     "static/media/RitVuoto.png": "/static/media/RitVuoto.f23c3d60254ded7ad91a.png",
     "static/media/LogoEcoMuseo.png": "/static/media/LogoEcoMuseo.4e2df6c1c50823e6d109.png",
     "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
+    "static/media/JulietLogo.png": "/static/media/JulietLogo.0613474bf737a3252985.png",
+    "static/media/LazioEventiLogo.png": "/static/media/LazioEventiLogo.1463a8f1135f12b098b8.png",
     "static/media/LogoTorredelFiscale.png": "/static/media/LogoTorredelFiscale.2d2971888c619ce06ddb.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
-    "main.e1ff8f7a.css.map": "/static/css/main.e1ff8f7a.css.map",
-    "main.40bd2f16.js.map": "/static/js/main.40bd2f16.js.map"
+    "main.02fe740b.css.map": "/static/css/main.02fe740b.css.map",
+    "main.9ee67695.js.map": "/static/js/main.9ee67695.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ff8f7a.css",
-    "static/js/main.40bd2f16.js"
+    "static/css/main.02fe740b.css",
+    "static/js/main.9ee67695.js"
   ]
 }
