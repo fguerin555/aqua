@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.02fe740b.css",
-    "main.js": "/static/js/main.66454b9f.js",
+    "main.js": "/static/js/main.4af0ef13.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -267,6 +267,7 @@
     "static/media/LogoConfalonieri.png": "/static/media/LogoConfalonieri.24058c2ca8705320422c.png",
     "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/AppareilFoto.png": "/static/media/AppareilFoto.7df6d9c660e45a3f8ddd.png",
+    "static/media/RomaCultureLogo.png": "/static/media/RomaCultureLogo.1669a01f58f64a30da99.png",
     "static/media/Instagram.png": "/static/media/Instagram.8ae0cfbf0c5e95aea3fa.png",
     "static/media/Book.png": "/static/media/Book.916f970eb32e68892106.png",
     "static/media/LogoComitato.png": "/static/media/LogoComitato.f7b32d425fadd18334de.png",
@@ -287,10 +288,10 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.02fe740b.css.map": "/static/css/main.02fe740b.css.map",
-    "main.66454b9f.js.map": "/static/js/main.66454b9f.js.map"
+    "main.4af0ef13.js.map": "/static/js/main.4af0ef13.js.map"
   },
   "entrypoints": [
     "static/css/main.02fe740b.css",
-    "static/js/main.66454b9f.js"
+    "static/js/main.4af0ef13.js"
   ]
 }
