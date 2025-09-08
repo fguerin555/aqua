@@ -151,7 +151,7 @@
     /* background: #236ffa; */
     background: #111111;
     display: flex;
-    height: 230px; /* Afficher les liens lorsque le menu est ouvert */
+    height: 300px; /* Afficher les liens lorsque le menu est ouvert */
   }
 
   .navbarLinks a {

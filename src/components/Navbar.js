@@ -79,6 +79,11 @@ const Navbar = () => {
             {t("navbar.contacts")}
           </Link>
         </li>
+        <li>
+          <Link to="/Stampa" onClick={handleLinkClick}>
+            {t("navbar.pressReview")}
+          </Link>
+        </li>
 
         {/* Sélecteur de langue avec drapeaux */}
         <li className={styles.languageSwitcher}>

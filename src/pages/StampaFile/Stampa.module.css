@@ -44,7 +44,19 @@
   text-shadow: 2px 2px 2px #000;
   font-size: 35px;
 }
-
+.Month {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  box-sizing: border-box;
+  color: #e9f2fd;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  text-shadow: 2px 2px 2px #000;
+  font-size: 33px;
+}
 .Logo {
   position: relative;
   z-index: 1;
@@ -76,15 +88,121 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 .copyright {
+  margin-top: 180px;
   font-size: 12px;
   color: #e9f2fd;
   text-shadow: 2px 2px 2px #000;
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
+.socialRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px; /* espace entre le texte et les icônes */
+  flex-wrap: wrap; /* optionnel si tu veux que ça passe à la ligne sur petits écrans */
+}
+
+.socialRow p {
+  margin: 0;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 2px #000;
+  color: white;
+}
+.iconsContainer > a,
+.iconsContainer > span {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  box-shadow: 5px 5px 10px #19280199;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+  margin-bottom: 0;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+}
+
+.IconStandard {
+  width: 35px;
+  height: 35px;
+  display: inline-flex;
+  vertical-align: middle;
+  margin-left: 5px;
+}
+.linksReview {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+  margin-bottom: 1rem;
+}
+
+.linksReview img {
+  width: 120px; /* ✅ taille fixe pour tous les logos */
+  height: auto; /* ✅ conserve le ratio */
+  object-fit: contain; /* ✅ évite les déformations */
+  vertical-align: middle;
+}
+/* Conteneur global des lignes d’icônes */
+.iconLines {
+  display: flex;
+  flex-direction: column;
+  gap: 30px; /* espace entre les lignes */
+  align-items: center;
+  margin-top: 20px;
+}
+
+/* Une ligne d’icônes */
+.iconLine {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap; /* permet d’ajouter plus d’articles sans casser la ligne */
+  justify-content: center;
+}
+
+/* Chaque box blanche autour d’une icône */
+.iconBox {
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px; /* largeur fixe */
+  height: 50px;
+}
+
+.iconBox img {
+  width: 100px; /* taille fixe pour uniformité */
+  height: auto;
+  object-fit: contain;
+}
+
+/* Texte "leggi l'articolo" sous chaque ligne */
+.iconLineLabel {
+  text-align: center;
+  color: white;
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  font-size: 18px;
+  margin-top: 8px;
+  text-shadow: 2px 2px 2px #000;
+}
 
 @media (max-width: 1224px) {
   .StampaTitle p {
     font-size: 30px;
+  }
+  .iconBox img {
+    width: 90px;
   }
   .Logo img {
     width: 10% !important;
@@ -110,7 +228,9 @@
   .StampaTitle p {
     font-size: 25px;
   }
-
+  .iconBox img {
+    width: 80px;
+  }
   .Logo img {
     width: 10% !important;
   }
@@ -138,6 +258,9 @@
   }
   .Logo img {
     width: 10% !important;
+  }
+  .iconBox img {
+    width: 80px;
   }
   .Foto {
     position: relative;

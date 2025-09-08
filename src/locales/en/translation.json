@@ -389,5 +389,13 @@
     "Instagram": "Instagram",
     "LinkVide": "LinkVide",
     "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
+  },
+
+  "Stampa": {
+    "pageTitle": "Press Review",
+    "Month1": "Settember",
+    "Month2": "October",
+    "Month3": "November",
+    "linksReview": ""
   }
 }

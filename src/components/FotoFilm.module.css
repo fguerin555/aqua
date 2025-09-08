@@ -15,18 +15,6 @@
   box-shadow: 3px 3px 5px #272727;
 }
 
-/* @media (max-width: 1024px) {
-  .Image {
-    max-width: 90%;
-  }
-}
-
-@media (max-width: 768px) {
-  .Image {
-    max-width: 85%;
-  }
-} */
-
 @media (max-width: 509px) {
   .Image {
     max-width: 80%;
