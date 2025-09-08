@@ -6,6 +6,7 @@ import Instagram from "../../assets/images/Instagram.png";
 import LazioEventiLogo from "../../assets/images/LazioEventiLogo.png";
 import ExibartLogo from "../../assets/images/ExibartLogo.png";
 import JulietLogo from "../../assets/images/JulietLogo.png";
+import RomaCultureLogo from "../../assets/images/RomaCultureLogo.png";
 
 import styles from "./Stampa.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -65,26 +66,32 @@ const StampaPage = () => {
           <div className={styles.iconLine}>
             <div className={styles.iconBox}>
               <a
+                href="https://culture.roma.it/manifestazione/il-racconto-dellacqua/"
+                rel="noopener noreferrer"
+              >
+                <img src={RomaCultureLogo} alt={t("ExibartLogo.logoAlt")} />
+              </a>
+            </div>
+          </div>
+          {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
+        </div>
+
+        {/* Ligne 2 */}
+        <div>
+          <div className={styles.iconLine}>
+            <div className={styles.iconBox}>
+              <a
                 href="https://www.exibart.com/evento-arte/il-racconto-dellacqua/"
                 rel="noopener noreferrer"
               >
                 <img src={ExibartLogo} alt={t("ExibartLogo.logoAlt")} />
               </a>
             </div>
-            {/* <div className={styles.iconBox}>
-              <a
-                href="https://www.exibart.com/progetti-e-iniziative/il-racconto-dellacqua-roma-celebra-la-sua-risorsa-piu-antica-tra-arte-e-comunita/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img src={ExibartLogo} alt={t("ExibartLogo.logoAlt")} />
-              </a>
-            </div> */}
           </div>
           {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
         </div>
 
-        {/* Ligne 2 */}
+        {/* Ligne 3 */}
         <div>
           <div className={styles.iconLine}>
             <div className={styles.iconBox}>
@@ -99,7 +106,7 @@ const StampaPage = () => {
           {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
         </div>
 
-        {/* Ligne 3 */}
+        {/* Ligne 4 */}
         <div>
           <div className={styles.iconLine}>
             <div className={styles.iconBox}>
