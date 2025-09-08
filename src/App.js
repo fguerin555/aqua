@@ -4,7 +4,7 @@ import HomePage from "./pages/HomePageFile/HomePage";
 import ProgSeptember from "./pages/ProgSeptember/ProgSeptember";
 import ProgOctober from "./pages/ProgOctober/ProgOctober";
 import ProgNovember from "./pages/ProgNovember/ProgNovember";
-
+import Test from "./pages/test";
 import LinksPage from "./pages/LinksPageFile/LinksPage";
 import Stampa from "./pages/StampaFile/Stampa";
 import Navbar from "./components/Navbar";
@@ -24,6 +24,7 @@ const App = () => {
 
           <Route path="/linkspage" element={<LinksPage />} />
           <Route path="/stampa" element={<Stampa />} />
+          <Route path="/test" element={<Test />} />
         </Routes>
         <Footer></Footer>
       </div>

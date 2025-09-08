@@ -1,14 +1,60 @@
-.Foto {
+.Foto,
+.FotoV {
+  display: block;
   width: 100%;
   max-width: 700px;
-  margin: 5px auto 10px auto;
-  overflow: hidden;
+  margin: 5px auto;
 }
 
 .Image {
-  width: 100%;
-  height: auto; /* 👈 conserve les proportions naturelles */
-  object-fit: contain; /* 👈 affiche toute l’image sans la rogner */
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
   border-radius: 5px;
   box-shadow: 3px 3px 5px #272727;
+}
+
+/* @media (max-width: 1024px) {
+  .Image {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .Image {
+    max-width: 85%;
+  }
+} */
+
+@media (max-width: 509px) {
+  .Image {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .ImageWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+  }
+
+  .Foto,
+  .FotoV {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 700px;
+  }
+
+  .Image {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
 }

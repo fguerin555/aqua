@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgOctober.module.css";
 import FotoPerformance from "../../components/FotoPerformance";
+import ComicBlock from "../../components/ComicBlock";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -869,7 +870,8 @@ const ProgOctober = () => {
     en: OV,
   };
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
-  const LorenzaComic = <FotoPerformance imageKey="Lorenza2" />;
+  const LorenzaComic = <ComicBlock imageKey="Lorenza2" />;
+
   const DavideComic = <FotoPerformance imageKey="Davide3" />;
   const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
 
@@ -984,6 +986,18 @@ const ProgOctober = () => {
             }}
           />
           <div className={styles.Orari}>
+            <div
+              style={{
+                width: "100%",
+                display: "flex",
+                justifyContent: "center",
+              }}
+            >
+              {/* <div style={{ border: "1px dashed red" }}>
+                <FotoPerformance imageKey="Lorenza2" />
+              </div> */}
+            </div>
+
             <div>
               <Trans
                 i18nKey="programOctober.appointment4.Comic1"
@@ -1105,8 +1119,6 @@ const ProgOctober = () => {
                 />
               ),
               comicGiancarlo: GiancarloComic,
-              comicDavide: DavideComic,
-              comicAlberto: AlbertoComic,
             }}
           />
         </div>
@@ -1169,13 +1181,7 @@ const ProgOctober = () => {
             i18nKey="programOctober.appointment4.artistList"
             components={{
               br: <br />,
-              OV: (
-                <OeilVide
-                  imageMap={OVImageMap}
-                  altKey="programOctober.artistPlaceholderAlt"
-                  className={styles.IconStandard}
-                />
-              ),
+
               carousel_lorenza: <ButtonCarousel images={lorenzaRicciImages} />,
               book_lorenza: (
                 <Book

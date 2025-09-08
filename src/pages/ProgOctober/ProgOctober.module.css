@@ -12,6 +12,13 @@
   /* padding-bottom: 5rem; */
   margin: 0;
 }
+/* ProgramOctober.module.css */
+.ImageWrapper {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+  text-align: center;
+}
 
 .Logo {
   position: relative;
@@ -382,6 +389,7 @@
   .NameAppuntamento,
   .Orari,
   .Luoghi,
+  .Foto,
   .LegendaFoto,
   .EventDescription,
   .ArtistList {
@@ -489,6 +497,7 @@
   .TitleAppuntamento,
   .NameAppuntamento,
   .Orari,
+  .Foto,
   .Luoghi,
   .LegendaFoto,
   .EventDescription,
@@ -607,6 +616,7 @@
   .NameAppuntamento,
   .Orari,
   .Luoghi,
+  .Foto,
   .LegendaFoto,
   .EventDescription,
   .ArtistList {
