@@ -6,6 +6,7 @@ import Logo from "../../assets/images/LogoOndaBlue2.png";
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import LogoCiC from "../../assets/images/LogoCiC.png";
+import ExpandableTransText from "../../components/ExpandableTransText";
 
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 import fotoRepresentative from "../../assets/images/fotoRepresentative.png";

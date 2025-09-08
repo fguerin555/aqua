@@ -8,9 +8,12 @@
   align-items: center;
   justify-content: flex-start;
   box-sizing: border-box;
-  background-color: rgba(5, 30, 60, 0.5);
-  /* padding-bottom: 5rem; */
-  margin: 0;
+
+  border-radius: 2px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  padding: 1em 1.5em;
+  background-color: white;
+  text-shadow: 1px 1px 3px rgba(65, 65, 70, 0.5);
 }
 
 .Logo {
@@ -29,7 +32,7 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
-  /* border-radius: 5px; */
+
   border-radius: 5px;
   box-shadow: 5px 5px 10px #19280199;
 }
@@ -54,8 +57,8 @@
 .ProgrammaPageTitle p {
   text-align: center;
   font-size: 35px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 17px;
   margin-bottom: 20px;
@@ -66,8 +69,8 @@
 .TitleAppuntamento p {
   text-align: center;
   font-size: 35px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 0;
   margin-top: 40px;
@@ -76,8 +79,8 @@
 .NameAppuntamento p {
   text-align: center;
   font-size: 25px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -85,8 +88,8 @@
 .Name2Appuntamento p {
   text-align: center;
   font-size: 25px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
   margin-top: 5px;
@@ -95,9 +98,9 @@
 .Orari > div {
   text-align: center;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   min-width: 90%;
-  text-shadow: 2px 2px 2px #000;
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
   margin-top: 20px;
@@ -116,8 +119,8 @@
 .Luoghi > div {
   text-align: center;
   font-size: 20px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin: 0; /* On enlève les marges verticales pour un bon alignement flex */
 }
@@ -128,7 +131,7 @@
   gap: 5px; /* Espace entre le nom du lieu et l'icône */
   margin-top: 2px;
   margin-bottom: 2px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif; /* Reprend la police */
   font-size: 20px; /* Reprend la taille de la police */
 }
@@ -268,8 +271,8 @@ img.ImageFull {
 .LegendaFoto p {
   text-align: center;
   font-size: 15px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-top: 2px;
   margin-bottom: 10px;
@@ -285,8 +288,8 @@ img.ImageFull {
   width: 80%;
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
-  text-shadow: 2px 2px 2px #000;
-  color: white;
+
+  color: rgb(23, 71, 127);
   text-justify: left;
   margin-left: auto;
   margin-right: auto;
@@ -296,9 +299,9 @@ img.ImageFull {
 .EventDescription3 {
   text-align: center;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   min-width: 90%;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
   margin-bottom: 5px;
   margin-top: 20px;
@@ -309,9 +312,9 @@ img.ImageFull {
   align-items: center;
   width: 95%;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -323,9 +326,9 @@ img.ImageFull {
   align-items: center;
   width: 80%;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -337,9 +340,9 @@ img.ImageFull {
   align-items: center;
   width: 80%;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -361,8 +364,8 @@ img.ImageFull {
 
 .ArtistList > div {
   font-size: 20px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Medium", Arial, sans-serif;
 }
 .socialRow {
@@ -377,8 +380,8 @@ img.ImageFull {
   margin: 0;
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
-  text-shadow: 2px 2px 2px #000;
-  color: white;
+
+  color: rgb(23, 71, 127);
 }
 .iconsContainer > a,
 .iconsContainer > span {
@@ -402,8 +405,7 @@ img.ImageFull {
 .copyright {
   margin-top: 20px;
   font-size: 12px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
 @media (max-width: 1224px) {
@@ -519,9 +521,6 @@ img.ImageFull {
   }
   .copyright {
     font-size: 12px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 
@@ -642,122 +641,116 @@ img.ImageFull {
   }
   .copyright {
     font-size: 10px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
-  }
-}
-
-@media (max-width: 509px) {
-  .ProgrammaPageTitle,
-  .TitleAppuntamento,
-  .NameAppuntamento,
-  .Orari,
-  .Luoghi,
-  .LegendaFoto,
-  .EventDescription,
-  .ArtistList {
-    width: 90%;
   }
 
-  .ProgrammaPageTitle p {
-    font-size: 20px;
-  }
-  .TitleAppuntamento p {
-    font-size: 20px;
-  }
-  .NameAppuntamento p {
-    font-size: 18px; /* Taille intermédiaire pour tablette */
-  }
-  .Name2Appuntamento p {
-    font-size: 18px; /* Taille intermédiaire pour tablette */
-  }
+  @media (max-width: 509px) {
+    .ProgrammaPageTitle,
+    .TitleAppuntamento,
+    .NameAppuntamento,
+    .Orari,
+    .Luoghi,
+    .LegendaFoto,
+    .EventDescription,
+    .ArtistList {
+      width: 90%;
+    }
 
-  .Orari div {
-    font-size: 15px;
-  }
-  .Luoghi {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .Luoghi div {
-    font-size: 15px;
-    width: 100%;
-  }
-  .SimbolMapp {
-    display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
-    vertical-align: middle; /* Alignement vertical avec le texte */
-    width: 22px; /* Taille de l'icône */
-    height: 22px; /* Taille de l'icône */
-    margin-left: 5px; /* Petit espace après le texte */
-  }
-  .IconStandard {
-    width: 25px;
-    height: 25px;
-    display: inline-flex;
-    vertical-align: middle;
-    margin-left: 5px;
-  }
-  .Foto {
-    width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
-    height: 180px;
-  }
+    .ProgrammaPageTitle p {
+      font-size: 20px;
+    }
+    .TitleAppuntamento p {
+      font-size: 20px;
+    }
+    .NameAppuntamento p {
+      font-size: 18px; /* Taille intermédiaire pour tablette */
+    }
+    .Name2Appuntamento p {
+      font-size: 18px; /* Taille intermédiaire pour tablette */
+    }
 
-  .ImageFull {
-    width: 300px; /* même que .Foto */
-    height: 180px;
-  }
-  .FotoV {
-    width: 280px; /* Exemple de largeur, ajustez selon vos besoins */
-    height: 400px;
-  }
-  .EventDescription > div {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-  }
-  .EventDescription3 > div {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-  }
-  .EventDescription4 > div {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-  }
-  .EventDescriptionShort > div {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-    margin-left: 2% !important;
-    margin-right: 2% !important;
-  }
-  .Vision {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-  }
-  .ArtistList > div {
-    font-size: 15px; /* Taille intermédiaire pour tablette */
-    margin-left: 0;
-  }
+    .Orari div {
+      font-size: 15px;
+    }
+    .Luoghi {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .Luoghi div {
+      font-size: 15px;
+      width: 100%;
+    }
+    .SimbolMapp {
+      display: inline-flex; /* Permet au bouton de s'aligner avec le texte */
+      vertical-align: middle; /* Alignement vertical avec le texte */
+      width: 22px; /* Taille de l'icône */
+      height: 22px; /* Taille de l'icône */
+      margin-left: 5px; /* Petit espace après le texte */
+    }
+    .IconStandard {
+      width: 25px;
+      height: 25px;
+      display: inline-flex;
+      vertical-align: middle;
+      margin-left: 5px;
+    }
+    .Foto {
+      width: 300px; /* Exemple de largeur, ajustez selon vos besoins */
+      height: 180px;
+    }
 
-  .Logo img {
-    width: 10%;
-  }
-  .Foto img {
-    margin-bottom: 1px;
-  }
-  .LegendaFoto p {
-    margin-top: 1px !important;
-    font-size: 11px;
-  }
-  .socialRow p {
-    font-size: 14px;
-  }
-  .icon {
-    width: 23px;
-    height: 23px;
-  }
-  .copyright {
-    font-size: 10px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
+    .ImageFull {
+      width: 300px; /* même que .Foto */
+      height: 180px;
+    }
+    .FotoV {
+      width: 280px; /* Exemple de largeur, ajustez selon vos besoins */
+      height: 400px;
+    }
+    .EventDescription > div {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+    }
+    .EventDescription3 > div {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+    }
+    .EventDescription4 > div {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+    }
+    .EventDescriptionShort > div {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+      margin-left: 2% !important;
+      margin-right: 2% !important;
+    }
+    .Vision {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+    }
+    .ArtistList > div {
+      font-size: 15px; /* Taille intermédiaire pour tablette */
+      margin-left: 0;
+    }
+
+    .Logo img {
+      width: 10%;
+    }
+    .Foto img {
+      margin-bottom: 1px;
+    }
+    .LegendaFoto p {
+      margin-top: 1px !important;
+      font-size: 11px;
+    }
+    .socialRow p {
+      font-size: 14px;
+    }
+    .icon {
+      width: 23px;
+      height: 23px;
+    }
+    .copyright {
+      font-size: 10px;
+    }
   }
 }

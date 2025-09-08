@@ -1,6 +1,7 @@
 /* HomePage.module.css */
 .HomePage {
   position: relative;
+
   overflow: hidden;
   min-height: 100vh;
   width: 100%;
@@ -10,15 +11,12 @@
   justify-content: flex-start;
   box-sizing: border-box;
 
-  /* background-color: rgba(39, 89, 152, 0.5); */
-  /* background-color: rgba(15, 45, 85, 0.5); */
-  background-color: rgba(5, 30, 60, 0.5);
   border-radius: 2px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   padding: 1em 1.5em;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  background-color: white;
+  text-shadow: 1px 1px 3px rgba(65, 65, 70, 0.5);
 }
-
 .BackgroundFoto img {
   object-fit: cover;
   position: fixed;
@@ -41,10 +39,10 @@
 
 .HomePageContentA p {
   font-size: 40px;
-  /* color: #e9f2fd; */
-  color: white;
+
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-top: 1px;
   position: relative;
   z-index: 1;
@@ -94,9 +92,9 @@
 
 .CiCpresenta p {
   font-size: 22px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-bottom: 0;
   position: relative;
   z-index: 1;
@@ -118,9 +116,9 @@
 }
 .Credits p {
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   position: relative;
   z-index: 1;
 }
@@ -159,9 +157,9 @@
   hyphens: auto;
   width: 90%;
   font-size: 20px;
-  color: white;
+  color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -179,8 +177,8 @@
   margin: 0;
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 20px;
-  text-shadow: 2px 2px 2px #000;
-  color: white;
+
+  color: rgb(23, 71, 127);
 }
 
 .iconsContainer {
@@ -211,8 +209,8 @@
 .copyright {
   margin-top: 20px;
   font-size: 12px;
-  color: white;
-  text-shadow: 2px 2px 2px #000;
+  color: rgb(23, 71, 127);
+
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
 /* --- Media Queries --- */
@@ -247,9 +245,6 @@
   }
   .copyright {
     font-size: 12px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 
@@ -283,9 +278,6 @@
   }
   .copyright {
     font-size: 10px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
 
@@ -319,8 +311,5 @@
   }
   .copyright {
     font-size: 10px;
-    color: white;
-    text-shadow: 2px 2px 2px #000;
-    font-family: "Poppins-Italic", Arial, sans-serif;
   }
 }
