@@ -252,9 +252,10 @@
     "appointment4": {
       "sectionTitle": "APPUNTAMENTO 4",
       "name": "L'Arte in una Stanza",
-
-      "time2": "05 e 26 Novembre <br />  dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
-      "time3": "06 e 27 Novembre <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br /> Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "time2": "05 e 26 Novembre <br />dalle ore 9 alle 13<br />Laboratori di fumetto <br />A cura di Irma Alonzo e Adriana Polveroni<br />Istituto Anna Fraentzel Celli<br/> Via dei Fiorentini 48<br/> municipio VII<br/><map/><book></book><foto/>",
+      "Comic1": "Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/><br/><comicDavide/><br/>",
+      "time3": "06 e 27 Novembre <br/> dalle 9 alle 13<br/>Laboratori di fumetto  <br />A cura di Irma Alonzo e Adriana Polveroni<br />Istituto Angelica Balabanoff<br/> Via Angelica Balabanoff 60<br/> municipio VII<br/><map/><book></book><foto/>",
+      "Comic2": "Artisti: Lorenza Ricci, Giancarlo Caracuzzo, Alberto Besi, Davide Di Tolla<br/><br/><comicAlberto/><br/>",
       "time4": "07 e 28 Novembre <br /> dalle 9 alle 13<br/>Laboratori di Ceramica <br />A cura di Irma Alonzo e Adriana Polveroni<br />Artista: Cristiana Pacchariotti<br/> Istituto Confalonieri De Chirico <br/>Via Beata Maria de Mattias,5<br/> municipio VII<br/><map/><book></book><foto/>",
       "description": "A conclusione dell’esperienza formativa si prevede una o più giornate di visite <br/>presso i suddetti luoghi aperti anche alla cittadinanza.",
       "artistList": "Artisti: <br /><carousel_irma/><book_irma/>IRMA ALONZO <br /><carousel_lorenza/><book_lorenza/>LORENZA RICCI <br /><carousel_giancarlo/><book_giancarlo/>GIANCARLO CARACUZZO <br /><carousel_alberto/><book_alberto/>ALBERTO BESI <br /><carousel_davide/><book_davide/>DAVIDE DI TOLLA <br /><br/>Curatrici: <br/><carousel_irma/><book_irma/>IRMA ALONZO<br/><carousel_adriana/><book_adriana/>ADRIANA POLVERONI<br /><br/>Accesso libero<br/><br/><br/>",

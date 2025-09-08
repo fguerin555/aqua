@@ -872,9 +872,6 @@ const ProgOctober = () => {
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
   const LorenzaComic = <ComicBlock imageKey="Lorenza2" />;
 
-  const DavideComic = <FotoPerformance imageKey="Davide3" />;
-  const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
-
   return (
     <div className={styles.ProgrammaPage}>
       <div className={styles.BackgroundFoto}>
@@ -992,11 +989,7 @@ const ProgOctober = () => {
                 display: "flex",
                 justifyContent: "center",
               }}
-            >
-              {/* <div style={{ border: "1px dashed red" }}>
-                <FotoPerformance imageKey="Lorenza2" />
-              </div> */}
-            </div>
+            ></div>
 
             <div>
               <Trans

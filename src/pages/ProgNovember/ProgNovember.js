@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgNovember.module.css";
 import FotoPerformance from "../../components/FotoPerformance";
+import ComicBlock from "../../components/ComicBlock";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -867,65 +868,8 @@ const ProgNovember = () => {
     en: OV,
   };
 
-  const appointment2Locations = [
-    {
-      timeAndNameKey: "program.appointment2.location1.time_and_name",
-      mapQueryKey: "program.appointment2.location1.mapQuery",
-      fromStationImageMap: ToParcoTorFiscaleImageMap,
-      bookImageMap: ParcoTorFiscaleBookImageMap,
-      fotoImageMap: ParcodiTorFiscaleFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location2.time_and_name",
-      mapQueryKey: "program.appointment2.location2.mapQuery",
-      fromStationImageMap: ToParcoTorFiscaleImageMap,
-      bookImageMap: CasaleBookImageMap,
-      fotoImageMap: CasaleFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location3.time_and_name",
-      mapQueryKey: "program.appointment2.location3.mapQuery",
-      fromStationImageMap: ToViaCasilinaVecchiaImageMap,
-      bookImageMap: ViaCasilinaVecchiaBookImageMap,
-      fotoImageMap: ViaCasilinaVecchiaFotoImageMap,
-    },
-
-    {
-      timeAndNameKey: "program.appointment2.location4.time_and_name",
-      mapQueryKey: "program.appointment2.location4.mapQuery",
-      fromStationImageMap: ToViadelMandrioneImageMap,
-      bookImageMap: ViadelMandrioneBookImageMap,
-      fotoImageMap: ViadelMandrioneFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location5.time_and_name",
-      mapQueryKey: "program.appointment2.location5.mapQuery",
-      fromStationImageMap: ToViaDellAcquaFeliceImageMap,
-      bookImageMap: ViaDellAcquaFeliceBookImageMap,
-      fotoImageMap: ViaDellAcquaFeliceFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location6.time_and_name",
-      mapQueryKey: "program.appointment2.location6.mapQuery",
-      fromStationImageMap: ToViaDellAcquedottoFeliceImageMap,
-      bookImageMap: ViaDellAcquedottoFeliceBookImageMap,
-      fotoImageMap: ViaDellAcquedottoFeliceFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location7.time_and_name",
-      mapQueryKey: "program.appointment2.location7.mapQuery",
-      fromStationImageMap: ToViaDiTorreBrancaImageMap,
-      bookImageMap: ViaDiTorreBrancaBookImageMap,
-      fotoImageMap: ViaDiTorreBrancaFotoImageMap,
-    },
-    {
-      timeAndNameKey: "program.appointment2.location8.time_and_name",
-      mapQueryKey: "program.appointment2.location8.mapQuery",
-      fromStationImageMap: ToFontanaImageMap,
-      bookImageMap: FontanaBookImageMap,
-      fotoImageMap: ViaTuscolanaFotoImageMap,
-    },
-  ];
+  const DavideComic = <FotoPerformance imageKey="Davide3" />;
+  const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
 
   return (
     <div className={styles.ProgrammaPage}>
@@ -943,12 +887,6 @@ const ProgNovember = () => {
       {/* --------------------------------------------------3------------- */}
 
       {/* ------------------------------------------------4------------------ */}
-      {/* <div className={styles.TitleAppuntamento}>
-        <p>{t("programNovember.appointment4.sectionTitle")}</p>
-      </div> */}
-      {/* <div className={styles.NameAppuntamento}>
-        <p>{t("programNovember.appointment4.name")}</p>
-      </div> */}
 
       <div className={styles.Orari}>
         <div>
@@ -993,6 +931,54 @@ const ProgNovember = () => {
               ),
             }}
           />
+          <div className={styles.Orari}>
+            <div
+              style={{
+                width: "100%",
+                display: "flex",
+                justifyContent: "center",
+              }}
+            ></div>
+
+            <div>
+              <Trans
+                i18nKey="programNovember.appointment4.Comic1"
+                components={{
+                  br: <br />,
+                  map: (
+                    <span className={styles.SimbolMapp}>
+                      <MapButton
+                        mapQuery={t(
+                          "programNovember.appointment4.location2.mapQuery"
+                        )}
+                      >
+                        <img
+                          src={simbolmapp}
+                          alt={t("programNovember.mapSymbolAlt")}
+                        />
+                      </MapButton>
+                    </span>
+                  ),
+                  book: (
+                    <Book
+                      className={styles.IconStandard}
+                      imageMap={AnnaFraentzelCelliBookImageMap}
+                      altKey="programNovember.bookAlt"
+                    />
+                  ),
+                  foto: (
+                    <Foto
+                      className={styles.IconStandard}
+                      imageMap={AnnaFraentzelCelliFotoImageMap}
+                      altKey="programNovember.fotoAlt"
+                    />
+                  ),
+
+                  comicDavide: DavideComic,
+                }}
+              />
+            </div>
+          </div>
         </div>
       </div>
       <div className={styles.Orari}>
@@ -1008,7 +994,10 @@ const ProgNovember = () => {
                       "programNovember.appointment4.location3.mapQuery"
                     )}
                   >
-                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                    <img
+                      src={simbolmapp}
+                      alt={t("programNovember.mapSymbolAlt")}
+                    />
                   </MapButton>
                 </span>
               ),
@@ -1033,6 +1022,45 @@ const ProgNovember = () => {
                   altKey="programNovember.fotoAlt"
                 />
               ),
+            }}
+          />
+        </div>
+      </div>
+      <div className={styles.Orari}>
+        <div>
+          <Trans
+            i18nKey="programNovember.appointment4.Comic2"
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t(
+                      "programNovember.appointment4.location3.mapQuery"
+                    )}
+                  >
+                    <img
+                      src={simbolmapp}
+                      alt={t("programNovember.mapSymbolAlt")}
+                    />
+                  </MapButton>
+                </span>
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffBookImageMap}
+                  altKey="programNovember.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={ABalabanoffFotoImageMap}
+                  altKey="programNovember.fotoAlt"
+                />
+              ),
+              comicAlberto: AlbertoComic,
             }}
           />
         </div>
