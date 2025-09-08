@@ -66,7 +66,6 @@ const StampaPage = () => {
             <div className={styles.iconBox}>
               <a
                 href="https://www.exibart.com/evento-arte/il-racconto-dellacqua/"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 <img src={ExibartLogo} alt={t("ExibartLogo.logoAlt")} />
@@ -91,7 +90,6 @@ const StampaPage = () => {
             <div className={styles.iconBox}>
               <a
                 href="https://www.juliet-artmagazine.com/events/aa-vv-il-racconto-dellacqua/"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 <img src={JulietLogo} alt={t("JulietLogo.logoAlt")} />
@@ -107,7 +105,6 @@ const StampaPage = () => {
             <div className={styles.iconBox}>
               <a
                 href="https://www.lazioeventi.com/eventi/il-racconto-dellacqua"
-                target="_blank"
                 rel="noopener noreferrer"
               >
                 <img src={LazioEventiLogo} alt={t("LazioEventiLogo.logoAlt")} />
