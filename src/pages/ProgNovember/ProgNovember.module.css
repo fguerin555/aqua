@@ -1,6 +1,5 @@
 .ProgrammaPage {
   position: relative;
-
   overflow: hidden;
   min-height: 100vh;
   width: 100%;
@@ -9,12 +8,10 @@
   align-items: center;
   justify-content: flex-start;
   box-sizing: border-box;
-
-  border-radius: 2px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  padding: 1em 1.5em;
   background-color: white;
-  text-shadow: 1px 1px 3px rgba(65, 65, 70, 0.5);
+
+  /* padding-bottom: 5rem; */
+  margin: 0;
 }
 .Logo {
   position: relative;
@@ -218,10 +215,12 @@
 .Foto {
   position: relative;
   z-index: 1;
-  width: 90%; /* Utilise un pourcentage pour s’adapter à l’écran */
-  max-width: 700px; /* Garde une limite pour les grands écrans */
+  width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
   height: 375px;
-  margin: 5px auto 10px auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
   opacity: 1;
 }
 
