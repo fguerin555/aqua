@@ -975,13 +975,16 @@ const ProgNovember = () => {
                     />
                   ),
 
-                  comicDavide: DavideComic,
+                  // comicDavide: DavideComic,
                 }}
               />
             </div>
           </div>
         </div>
       </div>
+
+      <ComicBlock imageKey="Davide3" />
+
       <div className={styles.Orari}>
         <div>
           <Trans
