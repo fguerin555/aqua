@@ -1452,15 +1452,15 @@ const ProgSeptember = () => {
       <div className={styles.NameAppuntamento}>
         <p>{t("programSeptember.appointment3.name")}</p>
       </div>
+      <div className={styles.Foto}>
+        <img
+          src={LagoExSNIAE}
+          alt={t("programSeptember.appointment3.location1.imageAlt")}
+        />
+      </div>
 
       {/* 🌊 Evento 1 — Lago Ex Snia */}
       <div className={styles.Orari}>
-        <div className={styles.Foto}>
-          <img
-            src={LagoExSNIAE}
-            alt={t("programSeptember.appointment3.location1.imageAlt")}
-          />
-        </div>
         <div>
           <Trans
             i18nKey="programSeptember.appointment3.event1"
