@@ -38,6 +38,7 @@
 }
 
 .BackgroundFoto img {
+  display: none;
   object-fit: cover;
   position: fixed;
   top: 0;
