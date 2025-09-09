@@ -3,6 +3,7 @@ import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgNovember.module.css";
 import FotoPerformance from "../../components/FotoPerformance";
 import ComicBlock from "../../components/ComicBlock";
+import ExpandableTransText from "../../components/ExpandableTransText";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -1259,13 +1260,21 @@ const ProgNovember = () => {
         </div>
       </div>
       <div className={styles.EventDescription}>
-        <div>
-          <Trans
-            i18nKey="programNovember.appointment5.description"
-            components={{ br: <br /> }}
-          />
-        </div>
+        <ExpandableTransText
+          i18nKeyIntro="programNovember.appointment5.description.TextIntro"
+          i18nKeyFull="programNovember.appointment5.description.TextFull"
+          i18nKeyMore="programNovember.appointment5.description.ReadMore"
+          i18nKeyLess="programNovember.appointment5.description.ReadLess"
+        />
       </div>
+
+      <div>
+        <Trans
+          i18nKey="programNovember.appointment5.description"
+          components={{ br: <br /> }}
+        />
+      </div>
+
       <div className={styles.ArtistList}>
         <div>
           <Trans

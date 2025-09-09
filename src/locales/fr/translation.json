@@ -224,7 +224,19 @@
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
       "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
-      "description": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> <br/>L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br />Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/><br/>",
+      "descriptionMK": {
+        "TextIntro": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice...",
+        "TextFull": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> <br/>",
+        "ReadMore": "Lire la suite",
+        "ReadLess": "Lire moins"
+      },
+      "descriptionPA": {
+        "TextIntro": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes...",
+        "TextFull": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br />Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/>",
+        "ReadMore": "Lire la suite",
+        "ReadLess": "Lire moins"
+      },
+
       "time1": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Adriana Polveroni<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
 
@@ -286,7 +298,12 @@
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "La Beauté de l'Eau",
       "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
-      "description": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/><br/>",
+      "description": {
+        "TextIntro": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux...",
+        "TextFull": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/><br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/><br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/>",
+        "ReadMore": "Lire la suite",
+        "ReadLess": "Lire moins"
+      },
 
       "time3": "<LaurentLDW1/>Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 

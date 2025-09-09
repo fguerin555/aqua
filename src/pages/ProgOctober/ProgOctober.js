@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgOctober.module.css";
 import FotoPerformance from "../../components/FotoPerformance";
+import ExpandableTransText from "../../components/ExpandableTransText";
 import ComicBlock from "../../components/ComicBlock";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
@@ -1260,7 +1261,23 @@ const ProgOctober = () => {
           />
         </div>
       </div>
+      <div className={styles.EventDescription}>
+        <ExpandableTransText
+          i18nKeyIntro="programOctober.appointment5.descriptionMK.TextIntro"
+          i18nKeyFull="programOctober.appointment5.descriptionMK.TextFull"
+          i18nKeyMore="programOctober.appointment5.descriptionMK.ReadMore"
+          i18nKeyLess="programOctober.appointment5.descriptionMK.ReadLess"
+        />
+      </div>
 
+      <div className={styles.EventDescription}>
+        <ExpandableTransText
+          i18nKeyIntro="programOctober.appointment5.descriptionPA.TextIntro"
+          i18nKeyFull="programOctober.appointment5.descriptionPA.TextFull"
+          i18nKeyMore="programOctober.appointment5.descriptionPA.ReadMore"
+          i18nKeyLess="programOctober.appointment5.descriptionPA.ReadLess"
+        />
+      </div>
       <div className={styles.Orari}>
         <div>
           <div className={styles.EventDescription}></div>
@@ -1355,14 +1372,6 @@ const ProgOctober = () => {
         </div>
       </div>
 
-      <div className={styles.EventDescription}>
-        <div>
-          <Trans
-            i18nKey="programOctober.appointment5.description"
-            components={{ br: <br /> }}
-          />
-        </div>
-      </div>
       <div className={styles.ArtistList}>
         <div>
           <Trans
