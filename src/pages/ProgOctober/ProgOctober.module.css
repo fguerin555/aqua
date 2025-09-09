@@ -226,8 +226,8 @@
   z-index: 1;
   width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
   height: 375px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
   margin-top: 5px;
   margin-bottom: 10px;
   opacity: 1;

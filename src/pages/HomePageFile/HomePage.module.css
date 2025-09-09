@@ -53,7 +53,7 @@
 }
 .Logo img {
   display: block;
-  /* width: 15%; */
+
   width: 100px;
   height: auto;
   visibility: visible;
@@ -62,7 +62,7 @@
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 20px;
-  /* border-radius: 5px; */
+
   border-radius: 5px;
   box-shadow: 5px 5px 10px #19280199;
 }
@@ -133,8 +133,8 @@
   width: 90%;
   max-width: 1200px; /* Garder une largeur maximale pour les grands écrans */
   height: auto; /* Laisser la hauteur s'ajuster pour garder le ratio de l'image */
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto !important;
+  margin-right: auto !important;
   margin-top: 5px;
   margin-bottom: 30px;
   opacity: 1;
