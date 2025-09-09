@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e051827e.css",
-    "main.js": "/static/js/main.8f319fb5.js",
+    "main.js": "/static/js/main.276d3cab.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -33,7 +33,6 @@
     "static/media/ParcodiTorFiscale2.png": "/static/media/ParcodiTorFiscale2.3eafebb594adcb7deb9e.png",
     "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Casale.png": "/static/media/Casale.da2dfc11c5a4d192d2cb.png",
-    "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.35dda3c970163457556b.png",
     "static/media/IginiodeLucaW6.png": "/static/media/IginiodeLucaW6.8d00d8a2bd7607534c1d.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/APirriRit.png": "/static/media/APirriRit.b881888c9a1def2d2b7f.png",
@@ -57,6 +56,7 @@
     "static/media/PaoloAssenzaW2.png": "/static/media/PaoloAssenzaW2.6461d5228624715dbfcf.png",
     "static/media/Davide2.png": "/static/media/Davide2.394af198679d4c398f0f.png",
     "static/media/IsabellaVitaleEN01.png": "/static/media/IsabellaVitaleEN01.55f876fb2a648658f369.png",
+    "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.3780171c24808e17a33c.png",
     "static/media/Apice1.png": "/static/media/Apice1.ffd1a74169165c4756fc.png",
     "static/media/CristianaP2.png": "/static/media/CristianaP2.39eb4c4ae695592e05bb.png",
     "static/media/AlbertoB2.png": "/static/media/AlbertoB2.7aaea182cc53860bf3a5.png",
@@ -288,10 +288,10 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.e051827e.css.map": "/static/css/main.e051827e.css.map",
-    "main.8f319fb5.js.map": "/static/js/main.8f319fb5.js.map"
+    "main.276d3cab.js.map": "/static/js/main.276d3cab.js.map"
   },
   "entrypoints": [
     "static/css/main.e051827e.css",
-    "static/js/main.8f319fb5.js"
+    "static/js/main.276d3cab.js"
   ]
 }
