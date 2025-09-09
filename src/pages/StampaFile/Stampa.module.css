@@ -86,12 +86,11 @@
 .Foto {
   position: relative;
   z-index: 1;
-  width: 397px;
-  height: 561.5px;
-  margin: 20px auto;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 90%; /* Utilise un pourcentage pour s’adapter à l’écran */
+  max-width: 700px; /* Garde une limite pour les grands écrans */
+  height: 375px;
+  margin: 5px auto 10px auto;
+  opacity: 1;
 }
 .copyright {
   margin-top: 180px;

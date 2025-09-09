@@ -225,12 +225,10 @@
 .Foto {
   position: relative;
   z-index: 1;
-  width: 700px; /* Exemple de largeur, ajustez selon vos besoins */
+  width: 90%; /* Utilise un pourcentage pour s’adapter à l’écran */
+  max-width: 700px; /* Garde une limite pour les grands écrans */
   height: 375px;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  margin-top: 5px;
-  margin-bottom: 10px;
+  margin: 5px auto 10px auto;
   opacity: 1;
 }
 
