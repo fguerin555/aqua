@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a80322fd.css",
-    "main.js": "/static/js/main.43a56ec5.js",
+    "main.css": "/static/css/main.e051827e.css",
+    "main.js": "/static/js/main.8f319fb5.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -22,9 +22,9 @@
     "static/media/App1_LaPiuLontanaPatria.png": "/static/media/App1_LaPiuLontanaPatria.b044ed1f104f129558e6.png",
     "static/media/EntrataParco.png": "/static/media/EntrataParco.0a879e84add273654c86.png",
     "static/media/ViaDellAcquedottoFelice.png": "/static/media/ViaDellAcquedottoFelice.6463cb7966866bab40f3.png",
-    "static/media/Acquedotto2.png": "/static/media/Acquedotto2.bf12e9f9fa73a368533a.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
+    "static/media/Acquedotto2.png": "/static/media/Acquedotto2.ae2bacdc322e9643cbdc.png",
     "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
     "static/media/APirriW02.png": "/static/media/APirriW02.2e30386268a5db0fd97b.png",
     "static/media/PamelaP3.png": "/static/media/PamelaP3.375885cc0a4c7ae6c1c8.png",
@@ -33,7 +33,6 @@
     "static/media/ParcodiTorFiscale2.png": "/static/media/ParcodiTorFiscale2.3eafebb594adcb7deb9e.png",
     "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Casale.png": "/static/media/Casale.da2dfc11c5a4d192d2cb.png",
-    "static/media/Acquedotto.png": "/static/media/Acquedotto.dc6055e038b28d76ed2e.png",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.35dda3c970163457556b.png",
     "static/media/IginiodeLucaW6.png": "/static/media/IginiodeLucaW6.8d00d8a2bd7607534c1d.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
@@ -77,6 +76,7 @@
     "static/media/IginiodeLucaW3.png": "/static/media/IginiodeLucaW3.a4d68408568d343d47c0.png",
     "static/media/IsabellaVitaleEN02.png": "/static/media/IsabellaVitaleEN02.d75a3ea83d0faa0abba6.png",
     "static/media/CristianaP1.png": "/static/media/CristianaP1.dd04fac45491b7f17b2d.png",
+    "static/media/Acquedotto.png": "/static/media/Acquedotto.7c7adea3b559575fe4b5.png",
     "static/media/MatteoBW03.png": "/static/media/MatteoBW03.27ec3ed004010e8799bb.png",
     "static/media/ViaDiTorreBrancaEN.png": "/static/media/ViaDiTorreBrancaEN.d6eb876ce1fb6e9cffb0.png",
     "static/media/CristianaP3.png": "/static/media/CristianaP3.5b723ebb33b89cb6a0d5.png",
@@ -287,11 +287,11 @@
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
-    "main.a80322fd.css.map": "/static/css/main.a80322fd.css.map",
-    "main.43a56ec5.js.map": "/static/js/main.43a56ec5.js.map"
+    "main.e051827e.css.map": "/static/css/main.e051827e.css.map",
+    "main.8f319fb5.js.map": "/static/js/main.8f319fb5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a80322fd.css",
-    "static/js/main.43a56ec5.js"
+    "static/css/main.e051827e.css",
+    "static/js/main.8f319fb5.js"
   ]
 }
