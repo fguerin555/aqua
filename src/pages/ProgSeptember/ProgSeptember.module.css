@@ -215,14 +215,26 @@
   border-radius: 5px;
   box-shadow: 3px 3px 5px #272727; /* Ajout de décalages et d'un flou pour rendre l'ombre visible */
 }
-.Foto {
+/* .Foto {
   position: relative;
   z-index: 1;
-  width: 90%; /* Utilise un pourcentage pour s’adapter à l’écran */
-  max-width: 700px; /* Garde une limite pour les grands écrans */
+  width: 90%;
+  max-width: 700px; 
   height: 375px;
   margin: 5px auto 10px auto;
   opacity: 1;
+} */
+
+.Foto {
+  position: relative;
+  z-index: 1;
+  width: 90vw; /* largeur relative à l’écran */
+  max-width: 700px;
+  height: 375px;
+  margin: 5px auto 10px auto;
+  box-sizing: border-box;
+  display: block;
+  background-color: red;
 }
 
 .Foto img {
