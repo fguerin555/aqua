@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e051827e.css",
-    "main.js": "/static/js/main.1e4cad4a.js",
+    "main.js": "/static/js/main.ea885291.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -33,6 +33,7 @@
     "static/media/ParcodiTorFiscale2.png": "/static/media/ParcodiTorFiscale2.3eafebb594adcb7deb9e.png",
     "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Casale.png": "/static/media/Casale.da2dfc11c5a4d192d2cb.png",
+    "static/media/Acquedotto.png": "/static/media/Acquedotto.dc6055e038b28d76ed2e.png",
     "static/media/IginiodeLucaW6.png": "/static/media/IginiodeLucaW6.8d00d8a2bd7607534c1d.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/APirriRit.png": "/static/media/APirriRit.b881888c9a1def2d2b7f.png",
@@ -76,7 +77,6 @@
     "static/media/IginiodeLucaW3.png": "/static/media/IginiodeLucaW3.a4d68408568d343d47c0.png",
     "static/media/IsabellaVitaleEN02.png": "/static/media/IsabellaVitaleEN02.d75a3ea83d0faa0abba6.png",
     "static/media/CristianaP1.png": "/static/media/CristianaP1.dd04fac45491b7f17b2d.png",
-    "static/media/Acquedotto.png": "/static/media/Acquedotto.7c7adea3b559575fe4b5.png",
     "static/media/MatteoBW03.png": "/static/media/MatteoBW03.27ec3ed004010e8799bb.png",
     "static/media/ViaDiTorreBrancaEN.png": "/static/media/ViaDiTorreBrancaEN.d6eb876ce1fb6e9cffb0.png",
     "static/media/CristianaP3.png": "/static/media/CristianaP3.5b723ebb33b89cb6a0d5.png",
@@ -288,10 +288,10 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.e051827e.css.map": "/static/css/main.e051827e.css.map",
-    "main.1e4cad4a.js.map": "/static/js/main.1e4cad4a.js.map"
+    "main.ea885291.js.map": "/static/js/main.ea885291.js.map"
   },
   "entrypoints": [
     "static/css/main.e051827e.css",
-    "static/js/main.1e4cad4a.js"
+    "static/js/main.ea885291.js"
   ]
 }
