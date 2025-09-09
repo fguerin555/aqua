@@ -1026,13 +1026,15 @@ const ProgOctober = () => {
                     />
                   ),
 
-                  comicLorenza: LorenzaComic,
+                  // comicLorenza: LorenzaComic,
                 }}
               />
             </div>
           </div>
         </div>
       </div>
+      <ComicBlock imageKey="Lorenza2" />
+
       <div className={styles.Orari}>
         <div>
           <Trans
