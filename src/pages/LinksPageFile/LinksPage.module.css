@@ -104,7 +104,6 @@
   font-size: 20px;
   color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-
   text-decoration: none;
 }
 
@@ -150,7 +149,7 @@
   color: rgb(23, 71, 127);
   text-decoration: none;
   font-family: "Poppins-Medium", Arial, sans-serif;
-  text-shadow: 2px 2px 2px #000;
+
   font-size: 20px;
 }
 
@@ -172,7 +171,6 @@
   color: rgb(23, 71, 127);
   text-decoration: none;
   font-family: "Poppins-Medium", Arial, sans-serif;
-
   font-size: 20px;
 }
 
@@ -208,7 +206,6 @@
   font-size: 30px;
   color: rgb(23, 71, 127);
   font-family: "Poppins-Medium", Arial, sans-serif;
-
   margin: 0;
 }
 .NameCom {

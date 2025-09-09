@@ -18,11 +18,12 @@
     "title": "The Tale of Water",
 
     "paragraph": {
-      "TextIntro": "Le récit de l'eau is an event that won the Concours Public Artes et Iubilaeum - 2025. A project of the Ciel'in città Cultural Association, conceived together with Adriana Polveroni and curated by Adriana Polveroni...",
-      "TextFul": " This event proposes to explore the symbolic, cultural and environmental value of water through artistic languages, participatory journeys and interventions in certain neighborhoods of Rome. The exhibition consists of a series of free-entry appointments, works and activities with the participation of artists, students, local communities and pilgrims, in view of the Jubilee 2025 which will take place from September to November 2025.<br/><br/>The theme of water constitutes the center of the entire event, approached in a dual register: as a founding element of the history of Rome and a source of inspiration for the artistic imagination; and as a precious natural resource, increasingly at the center of contemporary reflections related to union, sharing and sustainability.<br/><br/> Based on these assumptions, the project identifies as places of intervention an aqueduct and adjacent areas - green spaces, symbolic sites, public and private contexts - in the south-east area of the city as sites for intervention.",
+      "TextIntro": "The Tale of Water is an event that won the Concours Public Artes et Iubilaeum - 2025. A project of the Ciel'in città Cultural Association, conceived together with Adriana Polveroni and curated by Adriana Polveroni...",
+      "TextFull": " This event proposes to explore the symbolic, cultural and environmental value of water through artistic languages, participatory journeys and interventions in certain neighborhoods of Rome. The exhibition consists of a series of free-entry appointments, works and activities with the participation of artists, students, local communities and pilgrims, in view of the Jubilee 2025 which will take place from September to November 2025.<br/><br/>The theme of water constitutes the center of the entire event, approached in a dual register: as a founding element of the history of Rome and a source of inspiration for the artistic imagination; and as a precious natural resource, increasingly at the center of contemporary reflections related to union, sharing and sustainability.<br/><br/> Based on these assumptions, the project identifies as places of intervention an aqueduct and adjacent areas - green spaces, symbolic sites, public and private contexts - in the south-east area of the city as sites for intervention.",
       "ReadMore": "Read more",
       "ReadLess": "Read less"
     },
+    "socials": "Follow us on ",
     "copyright": "© 2025 website by Frédéric Guérin - fguerin555@gmail.com"
   },
   "programSeptember": {
@@ -299,7 +300,7 @@
       "name": "The Beauty of Water",
       "description2": "Creation of works themed on water and its sustainability. <br /><br />",
       "description": {
-        "description": "A fountain, a site-specific work conceived in the operational headquarters of the Pianobi Arte Contemporanea project will be created by Laurent Le Deunff (France 1977), a French visual artist based in Bordeaux...",
+        "TextIntro": "A fountain, a site-specific work conceived in the operational headquarters of the Pianobi Arte Contemporanea project will be created by Laurent Le Deunff (France 1977), a French visual artist based in Bordeaux...",
         "TextFull": "A fountain, a site-specific work conceived in the operational headquarters of the Pianobi Arte Contemporanea project will be created by Laurent Le Deunff (France 1977), a French visual artist based in Bordeaux.<br/><br/>Le Deunff has been sculpting for over twenty years, creating sculptures, stylized anthropomorphic and zoomorphic representations with magical power, as well as complex installations capable of transforming an enclosed space into a natural setting with strong evocative power, replenishing versatile, ecological and recycled materials such as earth, sand, wood, lime and paper.<br/><br/>Laurent le Deunff, during his residency at the Pianobi operational headquarters, will create a zoomorphic fountain. The work will be accessible to a diverse audience of professionals and non-professionals, including pilgrims who have come to Rome for the Jubilee. Visitors will be invited to express their personal wish through the ritual gesture of throwing one of the created coins into the fountain.<br/>",
         "ReadMore": "Read more",
         "ReadLess": "Read less"
@@ -319,11 +320,16 @@
       "sectionTitle": "APPOINTMENT 6",
       "name1": "For a public monument dedicated to Don Roberto Sardelli",
       "name2": "Of the night, of the Tears, of the Dawn",
-
       "time1": "29 November at 6 PM<br/>Home Pirri - Valentini<br/> via del Mandrione 451/455<br/> Municipio VII <br/><map/><to></to><book></book><foto/>",
       "time2": "Presentation of the preparatory sketches for the monument created by Alfredo Pirri in honor of the priest <br/><br/>",
-      "description": "Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione. <br/>This element was left there by the Superintendence, during the last restoration works of the aqueducts, a testimony of a past characterized by the arrival of vital supports (electricity, water...) for the citizens of the time who lived in the huts frequented by Don Sardelli who animated their struggles to obtain these essential benefits.<br/>My intervention would be limited to exalt the cross shape of this lattice by gilding in gold leaf or golden paint and positioning a light that makes it possible to see at night. <br/>Will be presented the photos of the intervention site and sketches of the work. The lattice in question is visible from via Tuscolana and for a good stretch of via del Mandrione.<br/>The light, suggested in the sketches by white lines, will be projected by a lighthouse placed on the pole of light (ACEA) already present on the road (via del Mandrione). <br/>Alfredo Pirri",
-      "artistList": "ALDO CORRICIATI, neighborhood committee Casilina Vecchia Mandrione<br />MASSIMLIANO FIORUCCI, rector of the Universita Roma Tre<br/>PASQUALE GRELA, writer<br />ANTONIO INSALACO, official of the Capital Superintendence<br />MARIA VITTORIA MARINI CLARELLI, history of art<br/>ALFREDO PIRRI, artist<br /> ADRIANA POLVERONI, press, art critic and curator<br />SIMONE QUILICI, director of the Archaeological Park of Appia Antica<br />JUAN REGO, extraordinary professor and director of the Institute of Liturgy of the University of the Holy Cross<br />VANESSA ROGHI, history and expert in education<br/>RICCARDO SBORDONI, assessor at the municipality of culture VII<br /><br /> By invitation<br/><br/><br/>",
+      "description": {
+        "TextIntro": "Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione...",
+        "TextFull": "Taken from the name of the flamenco school founded by Don Sardelli in 1982, the public monument, which I propose to realize, already exists in its material structure. <br/>It is an electric trellis installed on the arch of the aqueduct next to the fountain of Clement XII that characterizes the entrance of via del Mandrione. <br/>This element was left there by the Superintendence, during the last restoration works of the aqueducts, a testimony of a past characterized by the arrival of vital supports (electricity, water...) for the citizens of the time who lived in the huts frequented by Don Sardelli who animated their struggles to obtain these essential benefits.<br/>My intervention would be limited to exalt the cross shape of this lattice by gilding in gold leaf or golden paint and positioning a light that makes it possible to see at night. <br/>Will be presented the photos of the intervention site and sketches of the work. The lattice in question is visible from via Tuscolana and for a good stretch of via del Mandrione.<br/>The light, suggested in the sketches by white lines, will be projected by a lighthouse placed on the pole of light (ACEA) already present on the road (via del Mandrione). <br/>Alfredo Pirri<br/>",
+        "ReadMore": "Read more",
+        "ReadLess": "Read less"
+      },
+
+      "artistList": "Speakers : <br/><br/>ALDO CORRICIATI, neighborhood committee Casilina Vecchia Mandrione<br />MASSIMLIANO FIORUCCI, rector of the Universita Roma Tre<br/>PASQUALE GRELA, writer<br />ANTONIO INSALACO, official of the Capital Superintendence<br />MARIA VITTORIA MARINI CLARELLI, history of art<br/>ALFREDO PIRRI, artist<br /> ADRIANA POLVERONI, press, art critic and curator<br />SIMONE QUILICI, director of the Archaeological Park of Appia Antica<br />JUAN REGO, extraordinary professor and director of the Institute of Liturgy of the University of the Holy Cross<br />VANESSA ROGHI, history and expert in education<br/>RICCARDO SBORDONI, assessor at the municipality of culture VII<br /><br /> By invitation<br/><br/><br/>",
 
       "location1": {
         "name": "Via del Mandrione 443, municipio VII",
@@ -340,7 +346,7 @@
       "sectionTitle": "APPOINTMENT 7",
       "name": "An Art Work for Don Sardelli",
       "time": "",
-      "description": "On 29 Novembre at 6.00 PM<br/>Inauguration of the monument for Don Sardelli",
+      "description": "<br/><br/><br/>On 29 Novembre at 6.00 PM<br/>Inauguration of the monument for Don Sardelli",
       "DonSardelli": "<carousel_DonSardelliEN/><br/><br/>",
       "artistList": "Artist: <br/><carousel_alfredo/><book_alfredo></book_alfredo>ALFREDO PIRRI <br /><br/>Curator : <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br/>Free access",
 

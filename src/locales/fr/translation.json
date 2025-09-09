@@ -299,8 +299,8 @@
       "name": "La Beauté de l'Eau",
       "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
       "description": {
-        "TextIntro": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux...",
-        "TextFull": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/><br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/><br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/>",
+        "TextIntro": "UUne fontaine, œuvre site-spécifique conçue au siège opérationnel du projet Pianobi Art Contemporain sera réalisée par Laurent Le Deunff (France 1977), artiste visuel français basé à Bordeaux...",
+        "TextFull": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/><br/> Le Deunff sculpte depuis plus de vingt ans, réalisant des sculptures, des représentations stylisées anthropomorphes et zoomorphes au pouvoir magique, ainsi que des installations complexes capables de transformer un espace fermé en un environnement naturel au fort pouvoir évocateur, écologiques et de récupération tels que la terre, le sable, le bois, la chaux, le papier..<br/><br/> C’est en chaux et en papier mâché que l’artiste réalisera l’œuvre lors de sa résidence au siège opérationnel de pianobi, plus précisément une fontaine à la forme zoomorphique.<br/> L’œuvre sera accessible à un public hétérogène d’experts et non seulement, y compris les pèlerins venus à Rome à l’occasion du Jubilé. <br/>Les visiteurs seront invités à exprimer leur souhait personnel par le geste rituel de lancer dans la fontaine une des pièces réalisées et distribuées par l’artiste, invitant ainsi le public à participer activement au rituel.<br/>",
         "ReadMore": "Lire la suite",
         "ReadLess": "Lire moins"
       },
@@ -330,9 +330,14 @@
       "name2": "De la nuit, des Pleurs, de l'Aurore",
       "time1": "Le 29 Novembre à 18 heures<br/>Maison Pirri - Valentini<br/> via del Mandrione 451/455<br/>Municipio VII<br/><map/><to></to><book></book><foto/>",
       "time2": "Présentation des esquisses préparatoires pour le monument réalisé par Alfredo Pirri en l’honneur du sacerdote <br/><br/>",
-      "description": "Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri",
+      "description": {
+        "TextIntro": "Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione...",
+        "TextFull": "Tiré du nom de l’école de flamenco fondée par Don Sardelli en 1982, le monument public que je propose de réaliser existe déjà dans sa structure matérielle.<br/>Il s’agit d’un pylône électrique implanté sur l’arc de l’aqueduc à côté de la fontaine de Clément XII qui caractérise l’entrée de via del Mandrione. <br/>Cet élément a été laissé là par la Surintendance, lors des derniers travaux de restauration des aqueducs, Témoignage d’un passé caractérisé par l’arrivée de supports vitaux (électricité, eau...) pour les citoyens du temps qui habitaient les baraques fréquentées par Don Sardelli qui en a animé les luttes pour obtenir ces bénéfices essentiels. <br/>Mon intervention se limiterait à exalter la forme de croix de ce treillis par dorure en feuille d’or ou peinture dorée et le positionnement d’une lumière qui rend possible la vue pendant la nuit. <br/>Seront présentées les photos du site d’intervention et les esquisses de l’œuvre. Le treillis en question est visible depuis la via Tuscolana et pour un bon tronçon de la via del Mandrione.<br/>La lumière, suggérée dans les esquisses par des lignes blanches, sera projetée par un phare placé sur le poteau lumineux (ACEA) déjà présent sur la route (via del Mandrione). <br/>Alfredo Pirri<br/>",
+        "ReadMore": "Lire la suite",
+        "ReadLess": "Lire moins"
+      },
 
-      "artistList": "ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation<br/><br/><br/><br/>",
+      "artistList": "Intervenants : <br/><br/>ALDO CORRICIATI, comité de quartier Casilina Vecchia Mandrione <br />MASSIMLIANO FIORUCCI, recteur de l’Universita Roma Tre<br />PASQUALE GRELA, écrivain <br />ANTONIO INSALACO, fonctionnaire de la Surintendance Capitale <br />MARIA VITTORIA MARINI CLARELLI, historique de l’art<br/>ALFREDO PIRRI, artiste<br /> ADRIANA POLVERONI, journaliste, critique d’art et curatrice<br/>SIMONE QUILICI, directeur du Parc archéologique de l’Appia Antica<br />JUAN REGO, professeur extraordinaire et directeur de l’Institut de liturgie de l’Université de la Sainte-Croix<br />VANESSA ROGHI, historique et experte de l’éducation<br />RICCARDO SBORDONI,assesseur à la culture municipalité VII<br /><br /> Sur invitation<br/><br/><br/><br/>",
       "location1": {
         "name": "Via del Mandrione, 443, municipio VII",
         "imageAlt": "Via del Mandrione, municipio VII",
@@ -348,7 +353,7 @@
       "sectionTitle": "APPUNTAMENTO 7",
       "name": "Une oeuvre pour Don Sardelli",
       "time": "",
-      "description": "Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
+      "description": "<br/><br/><br/>Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
 
       "DonSardelli": "<carousel_DonSardelliIT/><br/><br/>",
       "artistList": "Artiste:<br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br /><br/>Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br /> Accès libre<br/><br/>",
@@ -371,7 +376,7 @@
       "NicolettaG": "Nicoletta Graziano"
     },
 
-    "TitleListPartners": "Partners",
+    "TitleListPartners": "Partenaires",
     "NamePartners": {
       "Openpolis": "Openpolis",
       "Comitato": "Comitato di Quartiere <br/>Casilina Vecchia - Mandrione",

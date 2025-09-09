@@ -1269,10 +1269,10 @@ const ProgNovember = () => {
       </div>
 
       <div>
-        <Trans
+        {/* <Trans
           i18nKey="programNovember.appointment5.description"
           components={{ br: <br /> }}
-        />
+        /> */}
       </div>
 
       <div className={styles.ArtistList}>
@@ -1414,12 +1414,12 @@ const ProgNovember = () => {
       </div>
 
       <div className={styles.EventDescription}>
-        <div>
-          <Trans
-            i18nKey="programNovember.appointment6.description"
-            components={{ br: <br /> }}
-          />
-        </div>
+        <ExpandableTransText
+          i18nKeyIntro="programNovember.appointment6.description.TextIntro"
+          i18nKeyFull="programNovember.appointment6.description.TextFull"
+          i18nKeyMore="programNovember.appointment6.description.ReadMore"
+          i18nKeyLess="programNovember.appointment6.description.ReadLess"
+        />
       </div>
 
       <div className={styles.ArtistList}>
