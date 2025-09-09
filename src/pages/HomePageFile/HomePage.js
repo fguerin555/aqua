@@ -42,10 +42,17 @@ const Home = () => {
           />
         </div>
         <div className={styles.HomePageContentB}>
-          <p>{t("home.paragraph1")}</p>
+          {/* <p>{t("home.paragraph")}</p>
           <p>{t("home.paragraph2")}</p>
-          <p>{t("home.paragraph3")}</p>
+          <p>{t("home.paragraph3")}</p> */}
+          <ExpandableTransText
+            i18nKeyIntro="home.paragraph.TextIntro"
+            i18nKeyFull="home.paragraph.TextFull"
+            i18nKeyMore="home.paragraph.ReadMore"
+            i18nKeyLess="home.paragraph.ReadLess"
+          />
         </div>
+
         <div className={styles.socials}>
           <div className={styles.socialRow}>
             <p>{t("home.socials")}</p>
