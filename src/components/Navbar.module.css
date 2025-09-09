@@ -54,7 +54,7 @@
 .navbarLinks a {
   text-decoration: none;
   color: rgb(23, 71, 127); /* Couleur initiale des liens */
-  text-shadow: 1px 1px 1px #9ad1ef;
+  /* text-shadow: 1px 1px 1px #9ad1ef; */
   font-size: 1.5rem;
   transition: color 0.3s ease;
   padding: 0.5em; /* Ajoute un peu de zone cliquable */
