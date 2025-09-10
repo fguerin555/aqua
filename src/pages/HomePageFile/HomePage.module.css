@@ -207,11 +207,14 @@
 .icon:hover {
   transform: scale(1.1);
 }
+
 .copyright {
   margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
   font-size: 12px;
   color: rgb(23, 71, 127);
-
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
 /* --- Media Queries --- */

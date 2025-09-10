@@ -1396,22 +1396,7 @@ const ProgOctober = () => {
                   altKey="programOctober.bookAlt"
                 />
               ),
-              carousel_laurent: <ButtonCarousel images={LaurentLDImages} />,
-              book_laurent: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={LaurentLDBookImages}
-                  altKey="programOctober.bookAlt"
-                />
-              ),
 
-              OV: (
-                <OeilVide
-                  imageMap={OVImageMap}
-                  altKey="programOctober.artistPlaceholderAlt"
-                  className={styles.IconStandard}
-                />
-              ),
               carousel_adriana: (
                 <ButtonCarousel
                   images={AdrianaRitImages}
@@ -1445,6 +1430,7 @@ const ProgOctober = () => {
           />
         </div>
       </div>
+
       {/* ------------------------------------------------6------------------ */}
 
       {/* ------------------------------------------------7------------------ */}

@@ -378,7 +378,7 @@ img.ImageFull {
   margin-top: 10px;
   margin-bottom: 10px;
 }
-.Vision {
+/* .Vision {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -391,7 +391,7 @@ img.ImageFull {
   margin-right: auto;
   margin-top: 10px;
   margin-bottom: 10px;
-}
+} */
 
 .ArtistList {
   display: flex;
@@ -448,6 +448,9 @@ img.ImageFull {
 }
 .copyright {
   margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
   font-size: 12px;
   color: rgb(23, 71, 127);
   font-family: "Poppins-Italic", Arial, sans-serif;

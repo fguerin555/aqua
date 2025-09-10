@@ -107,13 +107,7 @@
   margin: 5px auto 10px auto;
   opacity: 1;
 }
-.copyright {
-  margin-top: 180px;
-  font-size: 12px;
-  color: rgb(23, 71, 127);
 
-  font-family: "Poppins-Italic", Arial, sans-serif;
-}
 .socialRow {
   display: flex;
   align-items: center;
@@ -214,6 +208,15 @@
   font-family: "Poppins-Medium", Arial, sans-serif;
   font-size: 18px;
   margin-top: 8px;
+}
+.copyright {
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  font-size: 12px;
+  color: rgb(23, 71, 127);
+  font-family: "Poppins-Italic", Arial, sans-serif;
 }
 
 @media (max-width: 1224px) {
