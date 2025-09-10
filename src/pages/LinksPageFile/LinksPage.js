@@ -53,7 +53,7 @@ const LinksPage = () => {
           <a href="mailto:irma.alonzo@pec.it">irma.alonzo@pec.it</a>
         </p>
         <p>
-          <a href="tel:3896391150">tel: 389 639 1150</a>
+          <a href="tel:(039)3896391150">tel: (039) 389 639 1150</a>
         </p>
         <p>
           <a href="https://cielincitta.org" rel="noopener noreferrer">
