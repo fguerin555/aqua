@@ -53,16 +53,16 @@ const LinksPage = () => {
         <p>
           <a href="mailto:irma.alonzo@pec.it">irma.alonzo@pec.it</a>
         </p>
-        {/* <p>
+        <p>
           <a href="tel:0393896391150">tel: (039) 389 639 1150</a>
-        </p> */}
+        </p>
 
         <p>
           <a href="https://cielincitta.org" rel="noopener noreferrer">
             cielincitta.org
           </a>
         </p>
-        <p>
+        {/* <p>
           <a href="tel:+393896391150" className={styles.iconLink}>
             <img
               src={IconeTelephone}
@@ -72,7 +72,7 @@ const LinksPage = () => {
               style={{ display: "inline-block", verticalAlign: "middle" }}
             />
           </a>
-        </p>
+        </p> */}
       </div>
       <div className={styles.TitleListCom}>
         <p>
