@@ -17,6 +17,7 @@ import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 import LogoTorredelFiscale from "../../assets/images/LogoTorredelFiscale.png";
 import LogoEcoMuseo from "../../assets/images/LogoEcoMuseo.png";
+import IconeTelephone from "../../assets/images/IconeTelephone.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
@@ -52,12 +53,24 @@ const LinksPage = () => {
         <p>
           <a href="mailto:irma.alonzo@pec.it">irma.alonzo@pec.it</a>
         </p>
-        <p>
-          <a href="tel:(039)3896391150">tel: (039) 389 639 1150</a>
-        </p>
+        {/* <p>
+          <a href="tel:0393896391150">tel: (039) 389 639 1150</a>
+        </p> */}
+
         <p>
           <a href="https://cielincitta.org" rel="noopener noreferrer">
             cielincitta.org
+          </a>
+        </p>
+        <p>
+          <a href="tel:+393896391150" className={styles.iconLink}>
+            <img
+              src={IconeTelephone}
+              alt="Appeler"
+              width={35}
+              height={35}
+              style={{ display: "inline-block", verticalAlign: "middle" }}
+            />
           </a>
         </p>
       </div>
