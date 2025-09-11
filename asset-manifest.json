@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.00f4400e.css",
-    "main.js": "/static/js/main.749ef345.js",
+    "main.js": "/static/js/main.0c73da7e.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -188,10 +188,10 @@
     "static/media/CristianaPCVI.png": "/static/media/CristianaPCVI.37fdd4b226ae9cefc0ce.png",
     "static/media/AlbertoBCVF.png": "/static/media/AlbertoBCVF.9a187ec823c60227ce70.png",
     "static/media/PamelaPCVI.png": "/static/media/PamelaPCVI.a69e16f3925a9058af9d.png",
+    "static/media/LagoExSNIAEEN.png": "/static/media/LagoExSNIAEEN.6db72da1a0b721c46ea6.png",
     "static/media/DavideCVI.png": "/static/media/DavideCVI.1c5b00e64461da762d58.png",
     "static/media/ToViaDellAcquaFeliceEN.png": "/static/media/ToViaDellAcquaFeliceEN.b97f236886348fb9cb40.png",
     "static/media/ToLaghettoFR.png": "/static/media/ToLaghettoFR.a1797163efc6581f8346.png",
-    "static/media/LagoExSNIAEEN.png": "/static/media/LagoExSNIAEEN.4933b3e5cb34e182c0a5.png",
     "static/media/AlbertoBCVE.png": "/static/media/AlbertoBCVE.919e592390ce68385827.png",
     "static/media/CentroAnzianiEN.png": "/static/media/CentroAnzianiEN.520f0752116441b9fdc2.png",
     "static/media/ToViaDiTorreBrancaEN.png": "/static/media/ToViaDiTorreBrancaEN.28192d024b759bb76d86.png",
@@ -203,14 +203,14 @@
     "static/media/ToCasaPirriFR.png": "/static/media/ToCasaPirriFR.ca9047c0f2eda126bfab.png",
     "static/media/LucaGCVF.png": "/static/media/LucaGCVF.a450b444cbb8e168c071.png",
     "static/media/ViaCasilinaVecchiaFR.png": "/static/media/ViaCasilinaVecchiaFR.f3ee83d2de249f8a570c.png",
-    "static/media/LagoExSNIAEFR.png": "/static/media/LagoExSNIAEFR.75fc15ce4507cffcae9c.png",
+    "static/media/LagoExSNIAEFR.png": "/static/media/LagoExSNIAEFR.01fb28d5af08cbfbf7a6.png",
+    "static/media/LagoExSNIAEIT.png": "/static/media/LagoExSNIAEIT.cd1d61dc450806a3274a.png",
     "static/media/ToLaghettoEN.png": "/static/media/ToLaghettoEN.44b5f297390d02cdb89c.png",
     "static/media/ToCentroAnzianiFR.png": "/static/media/ToCentroAnzianiFR.f96b9624c8122cfb00b9.png",
     "static/media/ViaDellAcquedottoFeliceEN.png": "/static/media/ViaDellAcquedottoFeliceEN.40aadf68eb9ddfe7aa28.png",
     "static/media/ViaDellAcquedottoFeliceFR.png": "/static/media/ViaDellAcquedottoFeliceFR.4bafa2ba439e8bc1c647.png",
     "static/media/CasaPirriEN.png": "/static/media/CasaPirriEN.287557fa7b7617da3e4c.png",
     "static/media/AdrianaEN.png": "/static/media/AdrianaEN.ac86c7927755bb89b1d5.png",
-    "static/media/LagoExSNIAEIT.png": "/static/media/LagoExSNIAEIT.0679d4b86b1a55dadd10.png",
     "static/media/LorenzaCVF.png": "/static/media/LorenzaCVF.4a6aaff302452ba6a9f8.png",
     "static/media/CasaPirriFR.png": "/static/media/CasaPirriFR.26c9e75e32db4ee2ab0d.png",
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.4b97349796a196e95e55.png",
@@ -289,10 +289,10 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "index.html": "/index.html",
     "main.00f4400e.css.map": "/static/css/main.00f4400e.css.map",
-    "main.749ef345.js.map": "/static/js/main.749ef345.js.map"
+    "main.0c73da7e.js.map": "/static/js/main.0c73da7e.js.map"
   },
   "entrypoints": [
     "static/css/main.00f4400e.css",
-    "static/js/main.749ef345.js"
+    "static/js/main.0c73da7e.js"
   ]
 }
