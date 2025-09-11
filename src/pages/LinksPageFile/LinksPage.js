@@ -17,7 +17,6 @@ import LogoConfalonieri from "../../assets/images/LogoConfalonieri.png";
 import LogoSpazioY from "../../assets/images/LogoSpazioY.png";
 import LogoTorredelFiscale from "../../assets/images/LogoTorredelFiscale.png";
 import LogoEcoMuseo from "../../assets/images/LogoEcoMuseo.png";
-import IconeTelephone from "../../assets/images/IconeTelephone.png";
 
 const LinksPage = () => {
   const { t } = useTranslation();
