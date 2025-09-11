@@ -10,13 +10,11 @@ import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
-import OeilVide from "../../components/OeilVide";
+
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
-
-// import ContainerIMG from "../../assets/images/ContainerIMG.png";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -163,10 +161,6 @@ import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
 import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
 import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
-import Pirri1 from "../../assets/images/Pirri1.png";
-import Pirri2 from "../../assets/images/Pirri2.png";
-import Pirri0 from "../../assets/images/Pirri0.png";
-
 import IginiodeLucaW1 from "../../assets/images/IginiodeLucaW1.png";
 import IginiodeLucaW3 from "../../assets/images/IginiodeLucaW3.png";
 import IginiodeLucaW4 from "../../assets/images/IginiodeLucaW4.png";
@@ -178,7 +172,6 @@ import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
 
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
-import Acquedotto from "../../assets/images/Acquedotto.png";
 import Acquedotto2 from "../../assets/images/Acquedotto2.png";
 
 import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";
@@ -196,7 +189,6 @@ import CasaPirriFR from "../../assets/images/CasaPirriFR.png";
 import SpazioYIT from "../../assets/images/SpazioYIT.png";
 import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
-import SpazioY from "../../assets/images/SpazioY.png";
 
 import PianoBi from "../../assets/images/PianoBi.png";
 import PianoBiIT from "../../assets/images/PianoBiIT.png";
@@ -321,61 +313,15 @@ import ToLaghettoFR from "../../assets/images/ToLaghettoFR.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
-// import ParcoTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
-
 import simbolmapp from "../../assets/images/simbolmapp.png";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
 
 const ProgOctober = () => {
   const { t } = useTranslation();
-  const giuliaApiceImages = [
-    { src: Apice1, alt: "" },
-    { src: Apice2, alt: "" },
-    { src: Apice3, alt: "" },
-  ];
-  const APirriImages = [
-    { src: APirriRit, alt: "" },
-    { src: APirriW01, alt: "" },
-    { src: APirriW02, alt: "" },
-    { src: APirriW03, alt: "" },
-    { src: APirriW04, alt: "" },
-    { src: APirriW05, alt: "" },
-  ];
-  const MatteoBImages = [
-    { src: MatteoBRit, alt: "" },
-    { src: MatteoBW01, alt: "" },
-    { src: MatteoBW02, alt: "" },
-    { src: MatteoBW03, alt: "" },
-    { src: MatteoBW04, alt: "" },
-    { src: MatteoBW05, alt: "" },
-  ];
 
   const MercedesKWImages = [{ src: MercedesKW1, alt: "" }];
 
-  const LaurentLDImages = [{ src: LaurentLDW1, alt: "" }];
-
   const AdrianaRitImages = [{ src: AdrianaRit, alt: "" }];
-
-  const DonSardelliITImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01IT, alt: "" },
-    { src: DonSardelli02IT, alt: "" },
-    { src: DonSardelli03IT, alt: "" },
-  ];
-
-  const DonSardelliENImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01EN, alt: "" },
-    { src: DonSardelli02EN, alt: "" },
-    { src: DonSardelli03EN, alt: "" },
-  ];
-
-  const DonSardelliFRImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01FR, alt: "" },
-    { src: DonSardelli02FR, alt: "" },
-    { src: DonSardelli03FR, alt: "" },
-  ];
 
   const PaoloAssenzaImages = [
     { src: PaoloAssenzaW1, alt: "" },
@@ -383,28 +329,6 @@ const ProgOctober = () => {
     { src: PaoloAssenzaW3, alt: "" },
   ];
 
-  const GiuliaApiceBookImages = {
-    it: GiuliaACVI,
-    en: GiuliaACVE,
-    fr: GiuliaACVF,
-  };
-
-  const APirriBookImages = {
-    it: APirriIT,
-    en: APirriEN,
-    fr: APirriFR,
-  };
-
-  const MatteoB1BookImages = {
-    it: MatteoBBio01IT,
-    en: MatteoBBio01EN,
-    fr: MatteoBBio01FR,
-  };
-  const MatteoB2BookImages = {
-    it: MatteoBBio02IT,
-    en: MatteoBBio02EN,
-    fr: MatteoBBio02FR,
-  };
   const IsabellaVitale1BookImages = {
     it: IsabellaVitaleIT01,
     en: IsabellaVitaleEN01,
@@ -422,30 +346,7 @@ const ProgOctober = () => {
     en: PaoloAssenzaEN,
     fr: PaoloAssenzaFR,
   };
-  const PamelaPImages = [
-    { src: PamelaP1, alt: "" },
-    { src: PamelaP2, alt: "" },
-    { src: PamelaP3, alt: "" },
-    { src: PamelaP4, alt: "" },
-    { src: PamelaP5, alt: "" },
-    { src: PamelaP6, alt: "" },
-  ];
-  const PamelaPBookImages = {
-    it: PamelaPCVI,
-    en: PamelaPCVE,
-    fr: PamelaPCVF,
-  };
 
-  const maddalenaScuderoniImages = [
-    { src: Madscud1, alt: "" },
-    { src: Madscud2, alt: "" },
-    { src: Madscud3, alt: "" },
-  ];
-  const maddalenaScuderoniBookImages = {
-    it: MaddalenaCVI,
-    en: MaddalenaCVE,
-    fr: MaddalenaCVF,
-  };
   const lorenzaRicciImages = [
     { src: Lorenza1, alt: "" },
     { src: Lorenza2, alt: "" },
@@ -507,14 +408,6 @@ const ProgOctober = () => {
     fr: AdrianaFR,
   };
 
-  const lucaGrechiImages = [{ src: LucaG1, alt: "" }];
-
-  const lucaGrechiBookImages = {
-    it: LucaGCVI,
-    en: LucaGCVE,
-    fr: LucaGCVF,
-  };
-
   const irmaAlonzoImages = [
     { src: IrmaAlonzoRit, alt: "" },
     { src: IrmaAlonzo1, alt: "" },
@@ -532,16 +425,6 @@ const ProgOctober = () => {
     { src: IginiodeLucaW6, alt: "" },
     { src: IginiodeLucaW7, alt: "" },
   ];
-  const VisionImages = [
-    { src: App1_IlNuotatore, alt: "" },
-    { src: App1_IlSatiroDanzante, alt: "" },
-    { src: App1_Karma, alt: "" },
-    { src: App1_MurodiSabbia, alt: "" },
-    { src: App1_Pryntil, alt: "" },
-    { src: App1_SpectralCanticle, alt: "" },
-    { src: App1_VoyagedHiver, alt: "" },
-    { src: App1_LaPiuLontanaPatria, alt: "" },
-  ];
 
   const IrmaAlonzoBookImages = {
     it: IrmaAlonzoIT,
@@ -552,111 +435,6 @@ const ProgOctober = () => {
     it: MercedesKIT,
     en: MercdesKEN,
     fr: MercedesKFR,
-  };
-  const LaurentLDBookImages = {
-    it: LaurentLDIT,
-    en: LaurentLDEN,
-    fr: LaurentLDFR,
-  };
-
-  const IginiodeLucaBookImages = {
-    it: IginiodeLucaIT,
-    en: IginiodeLucaEN,
-    fr: IginiodeLucaFR,
-  };
-
-  const ToCasaPirriImageMap = {
-    it: ToCasaPirriIT,
-    en: ToCasaPirriEN,
-    fr: ToCasaPirriFR,
-  };
-
-  const ToAcquedottoImageMap = {
-    it: ToAcquedottoIT,
-    en: ToAcquedottoEN,
-    fr: ToAcquedottoFR,
-  };
-
-  const CasaPirriBookImageMap = {
-    it: CasaPirriIT,
-    en: CasaPirriEN,
-    fr: CasaPirriFR,
-  };
-
-  const CasaPirriFotoImageMap = {
-    it: CasaPirri,
-    en: CasaPirri,
-    fr: CasaPirri,
-  };
-
-  const SpazioYBookImageMap = {
-    it: SpazioYIT,
-    en: SpazioYEN,
-    fr: SpazioYFR,
-  };
-
-  const ToSpazioYImageMap = {
-    it: ToSpazioYIT,
-    en: ToSpazioYEN,
-    fr: ToSpazioYFR,
-  };
-
-  const AcquedottoBookImageMap = {
-    it: ParcoTorFiscaleIT,
-    en: AcquedottoEN,
-    fr: AcquedottoFR,
-  };
-
-  const ViaDellAcquaFeliceFotoImageMap = {
-    it: ViaDellAcquaFelice,
-    en: ViaDellAcquaFelice,
-    fr: ViaDellAcquaFelice,
-  };
-
-  const ViaDellAcquedottoFeliceFotoImageMap = {
-    it: ViaDellAcquedottoFelice,
-    en: ViaDellAcquedottoFelice,
-    fr: ViaDellAcquedottoFelice,
-  };
-  const ViaDiTorreBrancaFotoImageMap = {
-    it: ViadiTorreBranca,
-    en: ViadiTorreBranca,
-    fr: ViadiTorreBranca,
-  };
-
-  const ToViaCasilinaVecchiaImageMap = {
-    it: ToViaCasilinaVecchiaIT,
-    en: ToViaCasilinaVecchiaEN,
-    fr: ToViaCasilinaVecchiaFR,
-  };
-
-  const ViaCasilinaVecchiaBookImageMap = {
-    it: ViaCasilinaVecchiaIT,
-    en: ViaCasilinaVecchiaEN,
-    fr: ViaCasilinaVecchiaFR,
-  };
-  const ViaCasilinaVecchiaFotoImageMap = {
-    it: ViaCasilinaVecchia,
-    en: ViaCasilinaVecchia,
-    fr: ViaCasilinaVecchia,
-  };
-
-  const ToViadelMandrioneImageMap = {
-    it: ToViadelMandrioneIT,
-    en: ToViadelMandrioneEN,
-    fr: ToViadelMandrioneFR,
-  };
-
-  const ViadelMandrioneBookImageMap = {
-    it: ViadelMandrioneIT,
-    en: ViadelMandrioneEN,
-    fr: ViadelMandrioneFR,
-  };
-
-  const ViadelMandrioneFotoImageMap = {
-    it: ViadelMandrione,
-    en: ViadelMandrione,
-    fr: ViadelMandrione,
   };
 
   const ToCentroAnzianiImageMap = {
@@ -724,64 +502,6 @@ const ProgOctober = () => {
     fr: Confalonieri,
   };
 
-  const ToViaDellAcquedottoFeliceImageMap = {
-    it: ToViaDellAcquedottoFeliceIT,
-    en: ToViaDellAcquedottoFeliceEN,
-    fr: ToViaDellAcquedottoFeliceFR,
-  };
-  const ViaDellAcquedottoFeliceBookImageMap = {
-    it: ViaDellAcquedottoFeliceIT,
-    en: ViaDellAcquedottoFeliceEN,
-    fr: ViaDellAcquedottoFeliceFR,
-  };
-
-  const ViaTuscolanaFotoImageMap = {
-    it: ViaTuscolana,
-    en: ViaTuscolana,
-    fr: ViaTuscolana,
-  };
-
-  const ToViaDiTorreBrancaImageMap = {
-    it: ToViaDiTorreBrancaIT,
-    en: ToViaDiTorreBrancaEN,
-    fr: ToViaDiTorreBrancaFR,
-  };
-
-  const ToParcoTorFiscaleImageMap = {
-    it: ToParcoTorFiscaleIT,
-    en: ToParcoTorFiscaleEN,
-    fr: ToParcoTorFiscaleFR,
-  };
-
-  const CasaleBookImageMap = {
-    it: CasaleIT,
-    en: CasaleEN,
-    fr: CasaleFR,
-  };
-
-  const CasaleFotoImageMap = {
-    it: Casale,
-    en: Casale,
-    fr: Casale,
-  };
-
-  const ParcoTorFiscaleBookImageMap = {
-    it: ParcoTorFiscaleIT,
-    en: ParcoTorFiscaleEN,
-    fr: ParcoTorFiscaleFR,
-  };
-
-  const ParcodiTorFiscaleFotoImageMap = {
-    it: ParcodiTorFiscale2,
-    en: ParcodiTorFiscale2,
-    fr: ParcodiTorFiscale2,
-  };
-
-  const Acquedotto2FotoImageMap = {
-    it: Acquedotto2,
-    en: Acquedotto2,
-    fr: Acquedotto2,
-  };
   const ToLaghettoImageMap = {
     it: ToLaghettoIT,
     en: ToLaghettoEN,
@@ -796,40 +516,6 @@ const ProgOctober = () => {
     it: Laghetto,
     en: Laghetto,
     fr: Laghetto,
-  };
-
-  const ViaDiTorreBrancaBookImageMap = {
-    it: ViaDiTorreBrancaIT,
-    en: ViaDiTorreBrancaEN,
-    fr: ViaDiTorreBrancaFR,
-  };
-
-  const ToViaDellAcquaFeliceImageMap = {
-    it: ToViaDellAcquaFeliceIT,
-    en: ToViaDellAcquaFeliceEN,
-    fr: ToViaDellAcquaFeliceFR,
-  };
-  const ViaDellAcquaFeliceBookImageMap = {
-    it: ViaDellAcquaFeliceIT,
-    en: ViaDellAcquaFeliceEN,
-    fr: ViaDellAcquaFeliceFR,
-  };
-
-  const LagoExSNIAEBookImageMap = {
-    it: LagoExSNIAEIT,
-    en: LagoExSNIAEEN,
-    fr: LagoExSNIAEFR,
-  };
-
-  const LagoExSNIAEFotoImageMap = {
-    it: LagoExSNIAE,
-    en: LagoExSNIAE,
-    fr: LagoExSNIAE,
-  };
-  const ToLagoExSNIAEImageMap = {
-    it: ToLagoExSNIAEIT,
-    en: ToLagoExSNIAEEN,
-    fr: ToLagoExSNIAEFR,
   };
 
   const PianoBiBookImageMap = {
@@ -848,30 +534,7 @@ const ProgOctober = () => {
     fr: ToPianoBiFR,
   };
 
-  const ToFontanaImageMap = {
-    it: ToFontanaIT,
-    en: ToFontanaEN,
-    fr: ToFontanaFR,
-  };
-
-  const FontanaImageMap = {
-    it: FontanaIT,
-    en: FontanaEN,
-    fr: FontanaFR,
-  };
-  const FontanaBookImageMap = {
-    it: FontanaIT,
-    en: FontanaEN,
-    fr: FontanaFR,
-  };
-
-  const OVImageMap = {
-    it: OV,
-    fr: OV,
-    en: OV,
-  };
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
-  const LorenzaComic = <ComicBlock imageKey="Lorenza2" />;
 
   return (
     <div className={styles.ProgrammaPage}>
