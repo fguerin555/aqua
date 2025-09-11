@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.00f4400e.css",
-    "main.js": "/static/js/main.03ad60dd.js",
+    "main.js": "/static/js/main.21a3e4e6.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
@@ -61,7 +61,6 @@
     "static/media/AlbertoB2.png": "/static/media/AlbertoB2.7aaea182cc53860bf3a5.png",
     "static/media/Giancarlo2.png": "/static/media/Giancarlo2.b036066f53f5b35f925f.png",
     "static/media/CentroAnziani.png": "/static/media/CentroAnziani.e48e596b13fbbd072f8f.png",
-    "static/media/SpazioY.png": "/static/media/SpazioY.902302616b7496c9e790.png",
     "static/media/ABalabanoff.png": "/static/media/ABalabanoff.900ddb7a3736e2de4f8e.png",
     "static/media/IginiodeLucaW7.png": "/static/media/IginiodeLucaW7.bd9d83a31caa2492b352.png",
     "static/media/LaurentLDW1.png": "/static/media/LaurentLDW1.46fc4d90bc2f2938ca5f.png",
@@ -290,10 +289,10 @@
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
     "main.00f4400e.css.map": "/static/css/main.00f4400e.css.map",
-    "main.03ad60dd.js.map": "/static/js/main.03ad60dd.js.map"
+    "main.21a3e4e6.js.map": "/static/js/main.21a3e4e6.js.map"
   },
   "entrypoints": [
     "static/css/main.00f4400e.css",
-    "static/js/main.03ad60dd.js"
+    "static/js/main.21a3e4e6.js"
   ]
 }
