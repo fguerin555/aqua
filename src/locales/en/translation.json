@@ -143,7 +143,7 @@
       "sectionTitle": "APPOINTMENT 3",
       "name": "From Plein Air Painting to Artificial Art",
 
-      "event1": "15 and 16 September 2025 from 4 PM <br/> Lago Ex.Snia <br/>municipio V<br/><map/><to></to><book></book><br/> Curated by Adriana Polveroni<br />Artists Painting: Paolo Assenza and Luca Grechi <br /> Artist IA: Matteo Basilè<br /><br />",
+      "event1": "15 and 16 September 2025 from 4 PM <br/>Lago Bullicante (Lago Ex.Snia Viscosa) <br/>via du Portonaccio, 230<br/>municipio V<br/><map/><to></to><book></book><br/> Curated by Adriana Polveroni<br />Artists Painting: Paolo Assenza and Luca Grechi <br /> Artist IA: Matteo Basilè<br /><br />",
 
       "event2": "23 and 24 Settembre 2025 from 4 PM <br/>Parco di Tor Fiscale <br/> Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/> municipio VII<br/><map/><to></to><book></book><foto/><br/>Curated by Adriana Polveroni<br />Artists Painting: Giulia Apice and Maddalena Scuderoni <br /> Artist IA: Matteo Basilè",
 
@@ -154,7 +154,7 @@
       "location1": {
         "name": "",
         "imageAlt": "",
-        "mapQuery": "Lago Ex.Snia, Roma."
+        "mapQuery": "Lago Ex.Snia, Via du Portonaccio, 230,Roma."
       },
       "location2": {
         "name": "",
