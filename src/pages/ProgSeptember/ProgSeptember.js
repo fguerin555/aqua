@@ -163,10 +163,6 @@ import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
 import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
 import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
-import Pirri1 from "../../assets/images/Pirri1.png";
-import Pirri2 from "../../assets/images/Pirri2.png";
-import Pirri0 from "../../assets/images/Pirri0.png";
-
 import IginiodeLucaW1 from "../../assets/images/IginiodeLucaW1.png";
 import IginiodeLucaW3 from "../../assets/images/IginiodeLucaW3.png";
 import IginiodeLucaW4 from "../../assets/images/IginiodeLucaW4.png";
@@ -196,7 +192,6 @@ import CasaPirriFR from "../../assets/images/CasaPirriFR.png";
 import SpazioYIT from "../../assets/images/SpazioYIT.png";
 import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
-import SpazioY from "../../assets/images/SpazioY.png";
 
 import PianoBi from "../../assets/images/PianoBi.png";
 import PianoBiIT from "../../assets/images/PianoBiIT.png";
@@ -253,7 +248,6 @@ import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
 import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
 import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
 import ParcodiTorFiscale2 from "../../assets/images/ParcodiTorFiscale2.png";
-// import ParcoDiTorFiscale from "../../assets/images/ParcoDiTorFiscale.png";
 
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
 import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
@@ -349,32 +343,7 @@ const ProgSeptember = () => {
     { src: MatteoBW05, alt: "" },
   ];
 
-  const MercedesKWImages = [{ src: MercedesKW1, alt: "" }];
-
-  const LaurentLDImages = [{ src: LaurentLDW1, alt: "" }];
-
   const AdrianaRitImages = [{ src: AdrianaRit, alt: "" }];
-
-  const DonSardelliITImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01IT, alt: "" },
-    { src: DonSardelli02IT, alt: "" },
-    { src: DonSardelli03IT, alt: "" },
-  ];
-
-  const DonSardelliENImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01EN, alt: "" },
-    { src: DonSardelli02EN, alt: "" },
-    { src: DonSardelli03EN, alt: "" },
-  ];
-
-  const DonSardelliFRImages = [
-    { src: DonSardelliRitr, alt: "" },
-    { src: DonSardelli01FR, alt: "" },
-    { src: DonSardelli02FR, alt: "" },
-    { src: DonSardelli03FR, alt: "" },
-  ];
 
   const PaoloAssenzaImages = [
     { src: PaoloAssenzaW1, alt: "" },
@@ -388,12 +357,6 @@ const ProgSeptember = () => {
     fr: GiuliaACVF,
   };
 
-  const APirriBookImages = {
-    it: APirriIT,
-    en: APirriEN,
-    fr: APirriFR,
-  };
-
   const MatteoB1BookImages = {
     it: MatteoBBio01IT,
     en: MatteoBBio01EN,
@@ -404,17 +367,6 @@ const ProgSeptember = () => {
     en: MatteoBBio02EN,
     fr: MatteoBBio02FR,
   };
-  const IsabellaVitale1BookImages = {
-    it: IsabellaVitaleIT01,
-    en: IsabellaVitaleEN01,
-    fr: IsabellaVitaleFR01,
-  };
-  const IsabellaVitale2BookImages = {
-    it: IsabellaVitaleIT02,
-    en: IsabellaVitaleEN02,
-    fr: IsabellaVitaleFR02,
-  };
-  const IsabellaVitaleImages = [{ src: RitVuoto, alt: "" }];
 
   const PaoloAssenzaBookImages = {
     it: PaoloAssenzaIT,
@@ -445,60 +397,51 @@ const ProgSeptember = () => {
     en: MaddalenaCVE,
     fr: MaddalenaCVF,
   };
-  const lorenzaRicciImages = [
-    { src: Lorenza1, alt: "" },
-    { src: Lorenza2, alt: "" },
-  ];
-  const lorenzaRicciBookImages = {
-    it: LorenzaCVI,
-    en: LorenzaCVE,
-    fr: LorenzaCVF,
-  };
 
-  const cristianaPacchiarottiImages = [
-    { src: CristianaP1, alt: "" },
-    { src: CristianaP2, alt: "" },
-    { src: CristianaP3, alt: "" },
-  ];
-  const cristianaPacchiarottiBookImages = {
-    it: CristianaPCVI,
-    en: CristianaPCVE,
-    fr: CristianaPCVF,
-  };
-  const giancarloCaracuzzoImages = [
-    { src: Giancarlo1, alt: "" },
-    { src: Giancarlo2, alt: "" },
-    { src: Giancarlo3, alt: "" },
-    { src: Giancarlo4, alt: "" },
-  ];
-  const giancarloCaracuzzoBookImages = {
-    it: GiancarloCVI,
-    en: GiancarloCVE,
-    fr: GiancarloCVF,
-  };
+  // const cristianaPacchiarottiImages = [
+  //   { src: CristianaP1, alt: "" },
+  //   { src: CristianaP2, alt: "" },
+  //   { src: CristianaP3, alt: "" },
+  // ];
+  // const cristianaPacchiarottiBookImages = {
+  //   it: CristianaPCVI,
+  //   en: CristianaPCVE,
+  //   fr: CristianaPCVF,
+  // };
+  // const giancarloCaracuzzoImages = [
+  //   { src: Giancarlo1, alt: "" },
+  //   { src: Giancarlo2, alt: "" },
+  //   { src: Giancarlo3, alt: "" },
+  //   { src: Giancarlo4, alt: "" },
+  // ];
+  // const giancarloCaracuzzoBookImages = {
+  //   it: GiancarloCVI,
+  //   en: GiancarloCVE,
+  //   fr: GiancarloCVF,
+  // };
 
-  const albertoBesiImages = [
-    { src: AlbertoB1, alt: "" },
-    { src: AlbertoB2, alt: "" },
-  ];
-  const albertoBesiBookImages = {
-    it: AlbertoBCVI,
-    en: AlbertoBCVE,
-    fr: AlbertoBCVF,
-  };
+  // const albertoBesiImages = [
+  //   { src: AlbertoB1, alt: "" },
+  //   { src: AlbertoB2, alt: "" },
+  // ];
+  // const albertoBesiBookImages = {
+  //   it: AlbertoBCVI,
+  //   en: AlbertoBCVE,
+  //   fr: AlbertoBCVF,
+  // };
 
-  const davideDiTollaImages = [
-    { src: Davide1, alt: "" },
-    { src: Davide2, alt: "" },
-    { src: Davide3, alt: "" },
-    { src: Davide4, alt: "" },
-  ];
+  // const davideDiTollaImages = [
+  //   { src: Davide1, alt: "" },
+  //   { src: Davide2, alt: "" },
+  //   { src: Davide3, alt: "" },
+  //   { src: Davide4, alt: "" },
+  // ];
 
-  const davideDiTollaBookImages = {
-    it: DavideCVI,
-    en: DavideCVE,
-    fr: DavideCVF,
-  };
+  // const davideDiTollaBookImages = {
+  //   it: DavideCVI,
+  //   en: DavideCVE,
+  //   fr: DavideCVF,
+  // };
 
   const AdrianaBookImages = {
     it: AdrianaIT,
@@ -547,16 +490,6 @@ const ProgSeptember = () => {
     en: IrmaAlonzoEN,
     fr: IrmaAlonzoFR,
   };
-  const MercedesKBookImages = {
-    it: MercedesKIT,
-    en: MercdesKEN,
-    fr: MercedesKFR,
-  };
-  const LaurentLDBookImages = {
-    it: LaurentLDIT,
-    en: LaurentLDEN,
-    fr: LaurentLDFR,
-  };
 
   const IginiodeLucaBookImages = {
     it: IginiodeLucaIT,
@@ -586,18 +519,6 @@ const ProgSeptember = () => {
     it: CasaPirri,
     en: CasaPirri,
     fr: CasaPirri,
-  };
-
-  const SpazioYBookImageMap = {
-    it: SpazioYIT,
-    en: SpazioYEN,
-    fr: SpazioYFR,
-  };
-
-  const ToSpazioYImageMap = {
-    it: ToSpazioYIT,
-    en: ToSpazioYEN,
-    fr: ToSpazioYFR,
   };
 
   const AcquedottoBookImageMap = {
@@ -674,54 +595,6 @@ const ProgSeptember = () => {
     en: CentroAnziani,
     fr: CentroAnziani,
   };
-  const AnnaFraentzelCelliFotoImageMap = {
-    it: AnnaFraentzelCelli,
-    en: AnnaFraentzelCelli,
-    fr: AnnaFraentzelCelli,
-  };
-  const AnnaFraentzelCelliBookImageMap = {
-    it: AnnaFraentzelCelliIT,
-    en: AnnaFraentzelCelliEN,
-    fr: AnnaFraentzelCelliFR,
-  };
-
-  const AnnaFraentzelCelliImageMap = {
-    it: ABalabanoffIT,
-    en: ABalabanoffEN,
-    fr: ABalabanoffFR,
-  };
-
-  const ToABalabanoffImageMap = {
-    it: ToABalabanoffIT,
-    en: ToABalabanoffEN,
-    fr: ToABalabanoffFR,
-  };
-  const ABalabanoffBookImageMap = {
-    it: ABalabanoffIT,
-    en: ABalabanoffEN,
-    fr: ABalabanoffFR,
-  };
-  const ABalabanoffFotoImageMap = {
-    it: ABalabanoff,
-    en: ABalabanoff,
-    fr: ABalabanoff,
-  };
-
-  const ToConfalonieriImageMap = {
-    it: ToConfalonieriIT,
-    en: ToConfalonieriEN,
-    fr: ToConfalonieriFR,
-  };
-  const ConfalonieriBookImageMap = {
-    it: ConfalonieriIT,
-    en: ConfalonieriEN,
-    fr: ConfalonieriFR,
-  };
-  const ConfalonieriFotoImageMap = {
-    it: Confalonieri,
-    en: Confalonieri,
-    fr: Confalonieri,
-  };
 
   const ToViaDellAcquedottoFeliceImageMap = {
     it: ToViaDellAcquedottoFeliceIT,
@@ -781,21 +654,6 @@ const ProgSeptember = () => {
     en: Acquedotto2,
     fr: Acquedotto2,
   };
-  const ToLaghettoImageMap = {
-    it: ToLaghettoIT,
-    en: ToLaghettoEN,
-    fr: ToLaghettoFR,
-  };
-  const LaghettoBookImageMap = {
-    it: LaghettoStoryIT,
-    en: LaghettoStoryEN,
-    fr: LaghettoStoryFR,
-  };
-  const LaghettoFotoImageMap = {
-    it: Laghetto,
-    en: Laghetto,
-    fr: Laghetto,
-  };
 
   const ViaDiTorreBrancaBookImageMap = {
     it: ViaDiTorreBrancaIT,
@@ -820,31 +678,10 @@ const ProgSeptember = () => {
     fr: LagoExSNIAEFR,
   };
 
-  const LagoExSNIAEFotoImageMap = {
-    it: LagoExSNIAE,
-    en: LagoExSNIAE,
-    fr: LagoExSNIAE,
-  };
   const ToLagoExSNIAEImageMap = {
     it: ToLagoExSNIAEIT,
     en: ToLagoExSNIAEEN,
     fr: ToLagoExSNIAEFR,
-  };
-
-  const PianoBiBookImageMap = {
-    it: PianoBiIT,
-    en: PianoBiEN,
-    fr: PianoBiFR,
-  };
-  const PianoBiFotoImageMap = {
-    it: PianoBi,
-    en: PianoBi,
-    fr: PianoBi,
-  };
-  const ToPianoBiImageMap = {
-    it: ToPianoBiIT,
-    en: ToPianoBiEN,
-    fr: ToPianoBiFR,
   };
 
   const ToFontanaImageMap = {
@@ -853,11 +690,6 @@ const ProgSeptember = () => {
     fr: ToFontanaFR,
   };
 
-  const FontanaImageMap = {
-    it: FontanaIT,
-    en: FontanaEN,
-    fr: FontanaFR,
-  };
   const FontanaBookImageMap = {
     it: FontanaIT,
     en: FontanaEN,
