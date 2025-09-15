@@ -17,6 +17,7 @@ import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 // import ContainerIMG from "../../assets/images/ContainerIMG.png";
+import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1294,11 +1295,11 @@ const ProgSeptember = () => {
       {/* 🌊 Evento 1 — Lago Ex Snia */}
       <div className={styles.Orari}>
         <div>
+          {/* event1 */}
           <Trans
             i18nKey="programSeptember.appointment3.event1"
             components={{
               br: <br />,
-
               map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
@@ -1324,14 +1325,21 @@ const ProgSeptember = () => {
                   altKey="programSeptember.bookAlt"
                 />
               ),
-              // foto: (
-              //   <Foto
-              //     className={styles.IconStandard}
-              //     imageMap={LagoExSNIAEFotoImageMap}
-              //     altKey="programSeptember.fotoAlt"
-              //   />
-              // ),
             }}
+          />
+
+          {/* 🎥 Vidéo insérée entre event1 et event1B */}
+          <div className={styles.VideoWrapper}>
+            <video width="640" height="360" controls>
+              <source src={RaccontodellAcqua} type="video/mp4" />
+              Votre navigateur ne supporte pas la balise vidéo.
+            </video>
+          </div>
+
+          {/* event1B */}
+          <Trans
+            i18nKey="programSeptember.appointment3.event1B"
+            components={{ br: <br /> }}
           />
         </div>
       </div>
