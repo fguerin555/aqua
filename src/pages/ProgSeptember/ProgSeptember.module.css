@@ -483,6 +483,30 @@ img.ImageFull {
   box-shadow: 3px 3px 5px #272727;
   object-fit: cover; /* ou contain selon ton besoin */
 }
+.VideoWrapperVertical {
+  position: relative;
+  width: 90%;
+  max-width: 400px;
+  margin: 20px auto;
+  aspect-ratio: 9 / 16;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px #272727;
+}
+
+.VideoWrapperVertical video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Adapter pour les écrans larges */
+@media screen and (min-width: 1600px) {
+  .VideoWrapperVertical {
+    max-width: 700px; /* ou plus selon ton design */
+    width: auto; /* pour ne pas être limité par le 90% */
+  }
+}
 
 @media (max-width: 1224px) {
   .ProgrammaPageTitle,
@@ -604,6 +628,10 @@ img.ImageFull {
   .VideoWrapper {
     width: 95%;
     max-width: 700px;
+  }
+  .VideoWrapperVertical {
+    width: 95%;
+    max-width: 350px;
   }
 }
 
@@ -736,7 +764,16 @@ img.ImageFull {
   .VideoWrapper video {
     border-radius: 6px;
   }
-
+  .VideoWrapperVertical {
+    width: 100%;
+    max-width: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: calc(100% - 20px);
+  }
+  .VideoWrapperVertical video {
+    border-radius: 6px;
+  }
   @media (max-width: 509px) {
     .ProgrammaPageTitle,
     .TitleAppuntamento,
@@ -856,6 +893,19 @@ img.ImageFull {
     }
     .VideoWrapper video {
       border-radius: 4px;
+    }
+    @media (max-width: 509px) {
+      .VideoWrapperVertical {
+        width: 100%;
+        max-width: 100%;
+        margin-left: 8px;
+        margin-right: 8px;
+        width: calc(100% - 16px);
+      }
+
+      .VideoWrapperVertical video {
+        border-radius: 4px;
+      }
     }
   }
 }

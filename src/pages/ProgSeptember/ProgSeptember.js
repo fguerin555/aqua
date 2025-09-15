@@ -18,6 +18,7 @@ import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 // import ContainerIMG from "../../assets/images/ContainerIMG.png";
 import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
+import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -869,6 +870,11 @@ const ProgSeptember = () => {
           />
         </div>
       </div>
+      <div className={styles.VideoWrapperVertical}>
+        <video width="640" controls>
+          <source src={Liquefazioni} type="video/mp4" />
+        </video>
+      </div>
       <div className={styles.Orari}>
         <div>
           <Trans i18nKey="programSeptember.appointment1.location2.time_and_name" />
@@ -1196,7 +1202,6 @@ const ProgSeptember = () => {
           <div className={styles.VideoWrapper}>
             <video width="640" height="360" controls>
               <source src={RaccontodellAcqua} type="video/mp4" />
-              Votre navigateur ne supporte pas la balise vidéo.
             </video>
           </div>
 
