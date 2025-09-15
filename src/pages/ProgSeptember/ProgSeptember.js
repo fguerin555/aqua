@@ -492,6 +492,17 @@ const ProgSeptember = () => {
     fr: IrmaAlonzoFR,
   };
 
+  const ToSpazioYImageMap = {
+    it: ToSpazioYIT,
+    en: ToSpazioYEN,
+    fr: ToSpazioYFR,
+  };
+  const SpazioYBookImageMap = {
+    it: SpazioYIT,
+    en: SpazioYEN,
+    fr: SpazioYFR,
+  };
+
   const IginiodeLucaBookImages = {
     it: IginiodeLucaIT,
     en: IginiodeLucaEN,
@@ -1134,6 +1145,7 @@ const ProgSeptember = () => {
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programSeptember.appointment2.sectionTitle")}</p>
       </div> */}
+
       <div className={styles.NameAppuntamento}>
         <p>{t("programSeptember.appointment2.name")}</p>
       </div>
@@ -1224,6 +1236,54 @@ const ProgSeptember = () => {
             </div>
           );
         })}
+      </div>
+      <div className={styles.Luoghi}>
+        <div className={styles.NameAppuntamento}>
+          {/* Si tu veux afficher un titre ici, ajoute une clé i18n */}
+        </div>
+
+        <div className={styles.Orari}>
+          <div>{t("programSeptember.appointment2.time")}</div>
+        </div>
+
+        <div className={styles.Orari}>
+          <div>
+            <Trans
+              i18nKey="programSeptember.appointment2.location9.time_and_name"
+              components={{
+                br: <br />,
+                map: (
+                  <span className={styles.SimbolMapp}>
+                    <MapButton
+                      mapQuery={t(
+                        "programSeptember.appointment2.location9.mapQuery"
+                      )}
+                    >
+                      <img
+                        src={simbolmapp}
+                        alt={t("programSeptember.mapSymbolAlt")}
+                      />
+                    </MapButton>
+                  </span>
+                ),
+                to: (
+                  <FromStation
+                    className={styles.IconStandard}
+                    imageMap={ToSpazioYImageMap}
+                    altKey="programSeptember.fromStationAlt"
+                  />
+                ),
+                book: (
+                  <Book
+                    className={styles.IconStandard}
+                    imageMap={SpazioYBookImageMap}
+                    altKey="programSeptember.bookAlt"
+                  />
+                ),
+              }}
+            />
+          </div>
+        </div>
       </div>
 
       <div className={styles.ArtistList}>

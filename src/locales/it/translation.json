@@ -135,7 +135,8 @@
 
       "description2": "Mostra/restituzione di performance di disegno acquatico di Pamela Pintus.",
       "location9": {
-        "time_and_name": "25 Settembre alle 18<br /> <br/>Spazio Y, via dei Juvenci, 11 - municipio VII<br /><map /><to></to><book></book>",
+        "time_and_name": "25 Settembre alle 18<br />Spazio Y, via dei Juvenci, 11 - municipio VII<br /><map /><to></to><book></book><br />Mostra/restituzione di performance di disegno acquatico di Pamela Pintus.",
+
         "address": "via dei Juvenci, 11, municipio VII",
         "imageAlt": "via dei Juvenci, 11, municipio VII",
         "mapQuery": "via dei Juvenci, 11, Roma."
