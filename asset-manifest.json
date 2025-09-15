@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.00f4400e.css",
-    "main.js": "/static/js/main.b226a05b.js",
+    "main.css": "/static/css/main.8478ae8a.css",
+    "main.js": "/static/js/main.af7c39f3.js",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
@@ -288,11 +288,11 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.00f4400e.css.map": "/static/css/main.00f4400e.css.map",
-    "main.b226a05b.js.map": "/static/js/main.b226a05b.js.map"
+    "main.8478ae8a.css.map": "/static/css/main.8478ae8a.css.map",
+    "main.af7c39f3.js.map": "/static/js/main.af7c39f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.00f4400e.css",
-    "static/js/main.b226a05b.js"
+    "static/css/main.8478ae8a.css",
+    "static/js/main.af7c39f3.js"
   ]
 }
