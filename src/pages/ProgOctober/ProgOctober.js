@@ -16,40 +16,6 @@ import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 
-import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
-import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
-import MatteoBBio01FR from "../../assets/images/MatteoBBio01FR.png";
-import MatteoBBio02IT from "../../assets/images/MatteoBBio02IT.png";
-import MatteoBBio02EN from "../../assets/images/MatteoBBio02EN.png";
-import MatteoBBio02FR from "../../assets/images/MatteoBBio02FR.png";
-import MatteoBW01 from "../../assets/images/MatteoBW01.png";
-import MatteoBW02 from "../../assets/images/MatteoBW02.png";
-import MatteoBW03 from "../../assets/images/MatteoBW03.png";
-import MatteoBW04 from "../../assets/images/MatteoBW04.png";
-import MatteoBW05 from "../../assets/images/MatteoBW05.png";
-import MatteoBRit from "../../assets/images/MatteoBRit.png";
-
-import APirriIT from "../../assets/images/APirriIT.png";
-import APirriEN from "../../assets/images/APirriEN.png";
-import APirriFR from "../../assets/images/APirriFR.png";
-import APirriRit from "../../assets/images/APirriRit.png";
-import APirriW01 from "../../assets/images/APirriW01.png";
-import APirriW02 from "../../assets/images/APirriW02.png";
-import APirriW03 from "../../assets/images/APirriW03.png";
-import APirriW04 from "../../assets/images/APirriW04.png";
-import APirriW05 from "../../assets/images/APirriW05.png";
-
-import DonSardelli01IT from "../../assets/images/DonSardelli01IT.png";
-import DonSardelli02IT from "../../assets/images/DonSardelli02IT.png";
-import DonSardelli03IT from "../../assets/images/DonSardelli03IT.png";
-import DonSardelli01EN from "../../assets/images/DonSardelli01EN.png";
-import DonSardelli02EN from "../../assets/images/DonSardelli02EN.png";
-import DonSardelli03EN from "../../assets/images/DonSardelli03EN.png";
-import DonSardelli01FR from "../../assets/images/DonSardelli01FR.png";
-import DonSardelli02FR from "../../assets/images/DonSardelli02FR.png";
-import DonSardelli03FR from "../../assets/images/DonSardelli03FR.png";
-import DonSardelliRitr from "../../assets/images/DonSardelliRit.png";
-
 import AdrianaRit from "../../assets/images/AdrianaRit.png";
 import AdrianaIT from "../../assets/images/AdrianaIT.png";
 import AdrianaEN from "../../assets/images/AdrianaEN.png";
@@ -67,43 +33,12 @@ import MercedesKIT from "../../assets/images/MercedesKIT.png";
 import MercdesKEN from "../../assets/images/MercedesKEN.png";
 import MercedesKFR from "../../assets/images/MercedesKFR.png";
 
-import LaurentLDW1 from "../../assets/images/LaurentLDW1.png";
-import LaurentLDIT from "../../assets/images/LaurentLDIT.png";
-import LaurentLDEN from "../../assets/images/LaurentLDEN.png";
-import LaurentLDFR from "../../assets/images/LaurentLDFR.png";
-
 import PaoloAssenzaIT from "../../assets/images/PaoloAssenzaIT.png";
 import PaoloAssenzaEN from "../../assets/images/PaoloAssenzaEN.png";
 import PaoloAssenzaFR from "../../assets/images/PaoloAssenzaFR.png";
 import PaoloAssenzaW1 from "../../assets/images/PaoloAssenzaW1.png";
 import PaoloAssenzaW2 from "../../assets/images/PaoloAssenzaW2.png";
 import PaoloAssenzaW3 from "../../assets/images/PaoloAssenzaW3.png";
-
-import App1_IlNuotatore from "../../assets/images/App1_IlNuotatore.png";
-import App1_VoyagedHiver from "../../assets/images/App1_VoyagedHiver.png";
-import App1_Pryntil from "../../assets/images/App1_Pryntil.png";
-import App1_MurodiSabbia from "../../assets/images/App1_MurodiSabbia.png";
-import App1_IlSatiroDanzante from "../../assets/images/App1_IlSatiroDanzante.png";
-import App1_SpectralCanticle from "../../assets/images/App1_SpectralCanticle.png";
-import App1_Karma from "../../assets/images/App1_Karma.png";
-import App1_LaPiuLontanaPatria from "../../assets/images/App1_LaPiuLontanaPatria.png";
-
-import Apice1 from "../../assets/images/Apice1.png";
-import Apice2 from "../../assets/images/Apice2.png";
-import Apice3 from "../../assets/images/Apice3.png";
-import GiuliaACVI from "../../assets/images/GiuliaACVI.png";
-import GiuliaACVE from "../../assets/images/GiuliaACVE.png";
-import GiuliaACVF from "../../assets/images/GiuliaACVF.png";
-
-import PamelaP1 from "../../assets/images/PamelaP1.png";
-import PamelaP2 from "../../assets/images/PamelaP2.png";
-import PamelaP3 from "../../assets/images/PamelaP3.png";
-import PamelaP4 from "../../assets/images/PamelaP4.png";
-import PamelaP5 from "../../assets/images/PamelaP5.png";
-import PamelaP6 from "../../assets/images/PamelaP6.png";
-import PamelaPCVI from "../../assets/images/PamelaPCVI.png";
-import PamelaPCVE from "../../assets/images/PamelaPCVE.png";
-import PamelaPCVF from "../../assets/images/PamelaPCVF.png";
 
 import Lorenza1 from "../../assets/images/Lorenza1.png";
 import Lorenza2 from "../../assets/images/Lorenza2.png";
@@ -140,18 +75,6 @@ import DavideCVI from "../../assets/images/DavideCVI.png";
 import DavideCVE from "../../assets/images/DavideCVE.png";
 import DavideCVF from "../../assets/images/DavideCVF.png";
 
-import Madscud1 from "../../assets/images/Madscud1.png";
-import Madscud2 from "../../assets/images/Madscud2.png";
-import Madscud3 from "../../assets/images/Madscud3.png";
-import MaddalenaCVI from "../../assets/images/MaddalenaCVI.png";
-import MaddalenaCVE from "../../assets/images/MaddalenaCVE.png";
-import MaddalenaCVF from "../../assets/images/MaddalenaCVF.png";
-
-import LucaG1 from "../../assets/images/LucaG1.png";
-import LucaGCVI from "../../assets/images/LucaGCVI.png";
-import LucaGCVE from "../../assets/images/LucaGCVE.png";
-import LucaGCVF from "../../assets/images/LucaGCVF.png";
-
 import IrmaAlonzo1 from "../../assets/images/IrmaAlonzo1.png";
 import IrmaAlonzo2 from "../../assets/images/IrmaAlonzo2.png";
 import IrmaAlonzo3 from "../../assets/images/IrmaAlonzo3.png";
@@ -169,26 +92,6 @@ import IginiodeLucaW7 from "../../assets/images/IginiodeLucaW7.png";
 import IginiodeLucaIT from "../../assets/images/IginiodeLucaIT.png";
 import IginiodeLucaEN from "../../assets/images/IginiodeLucaEN.png";
 import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
-
-import CasaPirri from "../../assets/images/CasaPirri.png";
-
-import Acquedotto2 from "../../assets/images/Acquedotto2.png";
-
-import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";
-import ToCasaPirriEN from "../../assets/images/ToCasaPirriEN.png";
-import ToCasaPirriFR from "../../assets/images/ToCasaPirriFR.png";
-
-import ToSpazioYIT from "../../assets/images/ToSpazioYIT.png";
-import ToSpazioYEN from "../../assets/images/ToSpazioYEN.png";
-import ToSpazioYFR from "../../assets/images/ToSpazioYFR.png";
-
-import CasaPirriIT from "../../assets/images/CasaPirriIT.png";
-import CasaPirriEN from "../../assets/images/CasaPirriEN.png";
-import CasaPirriFR from "../../assets/images/CasaPirriFR.png";
-
-import SpazioYIT from "../../assets/images/SpazioYIT.png";
-import SpazioYEN from "../../assets/images/SpazioYEN.png";
-import SpazioYFR from "../../assets/images/SpazioYFR.png";
 
 import PianoBi from "../../assets/images/PianoBi.png";
 import PianoBiIT from "../../assets/images/PianoBiIT.png";
@@ -211,41 +114,6 @@ import AnnaFraentzelCelliIT from "../../assets/images/AnnaFraentzelCelliIT.png";
 import AnnaFraentzelCelliEN from "../../assets/images/AnnaFraentzelCelliEN.png";
 import AnnaFraentzelCelliFR from "../../assets/images/AnnaFraentzelCelliFR.png";
 
-import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
-import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
-import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
-import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
-import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
-
-import Casale from "../../assets/images/Casale.png";
-import CasaleIT from "../../assets/images/CasaleIT.png";
-import CasaleEN from "../../assets/images/CasaleEN.png";
-import CasaleFR from "../../assets/images/CasaleFR.png";
-
-import ViaCasilinaVecchia from "../../assets/images/ViaCasilinaVecchia.png";
-import ViaCasilinaVecchiaIT from "../../assets/images/ViaCasilinaVecchiaIT.png";
-import ViaCasilinaVecchiaEN from "../../assets/images/ViaCasilinaVecchiaEN.png";
-import ViaCasilinaVecchiaFR from "../../assets/images/ViaCasilinaVecchiaFR.png";
-import ToViaCasilinaVecchiaIT from "../../assets/images/ToViaCasilinaVecchiaIT.png";
-import ToViaCasilinaVecchiaEN from "../../assets/images/ToViaCasilinaVecchiaEN.png";
-import ToViaCasilinaVecchiaFR from "../../assets/images/ToViaCasilinaVecchiaFR.png";
-
-import ViaDellAcquedottoFelice from "../../assets/images/ViaDellAcquedottoFelice.png";
-import ViaDellAcquedottoFeliceIT from "../../assets/images/ViaDellAcquedottoFeliceIT.png";
-import ViaDellAcquedottoFeliceEN from "../../assets/images/ViaDellAcquedottoFeliceEN.png";
-import ViaDellAcquedottoFeliceFR from "../../assets/images/ViaDellAcquedottoFeliceFR.png";
-import ToViaDellAcquedottoFeliceIT from "../../assets/images/ToViaDellAcquedottoFeliceIT.png";
-import ToViaDellAcquedottoFeliceEN from "../../assets/images/ToViaDellAcquedottoFeliceEN.png";
-import ToViaDellAcquedottoFeliceFR from "../../assets/images/ToViaDellAcquedottoFeliceFR.png";
-
-import ParcoTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
-import ParcoTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
-import ParcoTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
-import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
-import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
-import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
-import ParcodiTorFiscale2 from "../../assets/images/ParcodiTorFiscale2.png";
-
 import CentroAnzianiIT from "../../assets/images/CentroAnzianiIT.png";
 import CentroAnzianiEN from "../../assets/images/CentroAnzianiEN.png";
 import CentroAnzianiFR from "../../assets/images/CentroAnzianiFR.png";
@@ -253,32 +121,6 @@ import ToCentroAnzianiIT from "../../assets/images/ToCentroAnzianiIT.png";
 import ToCentroAnzianiEN from "../../assets/images/ToCentroAnzianiEN.png";
 import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
 import CentroAnziani from "../../assets/images/CentroAnziani.png";
-
-import ViaDellAcquaFelice from "../../assets/images/ViaDellAcquaFelice.png";
-import ViaDellAcquaFeliceIT from "../../assets/images/ViaDellAcquaFeliceIT.png";
-import ViaDellAcquaFeliceEN from "../../assets/images/ViaDellAcquaFeliceEN.png";
-import ViaDellAcquaFeliceFR from "../../assets/images/ViaDellAcquaFeliceFR.png";
-import ToViaDellAcquaFeliceIT from "../../assets/images/ToViaDellAcquaFeliceIT.png";
-import ToViaDellAcquaFeliceEN from "../../assets/images/ToViaDellAcquaFeliceEN.png";
-import ToViaDellAcquaFeliceFR from "../../assets/images/ToViaDellAcquaFeliceFR.png";
-
-import ViadelMandrione from "../../assets/images/ViadelMandrione.png";
-import ViadelMandrioneIT from "../../assets/images/ViadelMandrioneIT.png";
-import ViadelMandrioneEN from "../../assets/images/ViadelMandrioneEN.png";
-import ViadelMandrioneFR from "../../assets/images/ViadelMandrioneFR.png";
-import ToViadelMandrioneIT from "../../assets/images/ToViadelMandrioneIT.png";
-import ToViadelMandrioneEN from "../../assets/images/ToViadelMandrioneEN.png";
-import ToViadelMandrioneFR from "../../assets/images/ToViadelMandrioneFR.png";
-
-import ViadiTorreBranca from "../../assets/images/ViadiTorreBranca.png";
-import ViaDiTorreBrancaIT from "../../assets/images/ViaDiTorreBrancaIT.png";
-import ViaDiTorreBrancaEN from "../../assets/images/ViaDiTorreBrancaEN.png";
-import ViaDiTorreBrancaFR from "../../assets/images/ViaDiTorreBrancaFR.png";
-import ToViaDiTorreBrancaIT from "../../assets/images/ToViaDiTorreBrancaIT.png";
-import ToViaDiTorreBrancaEN from "../../assets/images/ToViaDiTorreBrancaEN.png";
-import ToViaDiTorreBrancaFR from "../../assets/images/ToViaDiTorreBrancaFR.png";
-
-import ViaTuscolana from "../../assets/images/ViaTuscolana.png";
 
 import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
 import LagoExSNIAEIT from "../../assets/images/LagoExSNIAEIT.png";
@@ -295,13 +137,6 @@ import ConfalonieriFR from "../../assets/images/ConfalonieriFR.png";
 import ToConfalonieriIT from "../../assets/images/ToConfalonieriIT.png";
 import ToConfalonieriEN from "../../assets/images/ToConfalonieriEN.png";
 import ToConfalonieriFR from "../../assets/images/ToConfalonieriFR.png";
-
-import FontanaFR from "../../assets/images/FontanaFR.png";
-import FontanaIT from "../../assets/images/FontanaIT.png";
-import FontanaEN from "../../assets/images/FontanaEN.png";
-import ToFontanaFR from "../../assets/images/ToFontanaFR.png";
-import ToFontanaIT from "../../assets/images/ToFontanaIT.png";
-import ToFontanaEN from "../../assets/images/ToFontanaEN.png";
 
 import Laghetto from "../../assets/images/Laghetto.png";
 import LaghettoStoryIT from "../../assets/images/LaghettoStoryIT.png";
@@ -416,15 +251,15 @@ const ProgOctober = () => {
     { src: IrmaAlonzo4, alt: "" },
   ];
 
-  const IginiodeLucaImages = [
-    { src: IginiodeLucaW1, alt: "" },
+  // const IginiodeLucaImages = [
+  //   { src: IginiodeLucaW1, alt: "" },
 
-    { src: IginiodeLucaW3, alt: "" },
-    { src: IginiodeLucaW4, alt: "" },
+  //   { src: IginiodeLucaW3, alt: "" },
+  //   { src: IginiodeLucaW4, alt: "" },
 
-    { src: IginiodeLucaW6, alt: "" },
-    { src: IginiodeLucaW7, alt: "" },
-  ];
+  //   { src: IginiodeLucaW6, alt: "" },
+  //   { src: IginiodeLucaW7, alt: "" },
+  // ];
 
   const IrmaAlonzoBookImages = {
     it: IrmaAlonzoIT,

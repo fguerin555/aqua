@@ -420,7 +420,7 @@ const ProgNovember = () => {
     en: OV,
   };
 
-  const DavideComic = <FotoPerformance imageKey="Davide3" />;
+  // const DavideComic = <FotoPerformance imageKey="Davide3" />;
   const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
 
   return (
