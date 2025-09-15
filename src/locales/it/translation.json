@@ -147,15 +147,15 @@
       "sectionTitle": "APPUNTAMENTO 3",
       "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
 
-      "event1": "15 e 16 Settembre dalle ore 16<br/>Lago Bullicante (Lago Ex.Snia Viscosa) <br/>via du Portonaccio, 230<br/>municipio V<br/><map/><to></to><book></book><br/><br/>",
+      "event1": "15 e 16 Settembre dalle ore 16<br/>Lago Bullicante (Lago Ex.Snia Viscosa)<br/>via du Portonaccio, 230<br/>municipio V<br/><map/><to/><book/><br/><br/>",
 
       "event1B": "A cura di Adriana Polveroni<br/>Artisti Pittura: Paolo Assenza e Luca Grechi<br/>Artista IA: Matteo Basilè<br/><br/><br/>",
 
-      "event2": "23 e 24 Settembre dalle ore 16<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Giulia Apice e Maddalena Scuderoni<br/>Artista IA: Matteo Basilè",
+      "event2": "23 e 24 Settembre dalle ore 16<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to/><book/><foto/><br/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Giulia Apice e Maddalena Scuderoni<br/>Artista IA: Matteo Basilè",
 
-      "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale <br/> creando ambienti immersivi che consentono l’interazione del pubblico.",
+      "description": "Queste iniziative si interfacceranno con sessioni di Intelligenza Artificiale<br/>creando ambienti immersivi che consentono l’interazione del pubblico.",
 
-      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero<br/><br/><br/>",
+      "artistList": "Artisti:<br/><carousel_giulia/><book_giulia/><br/>GIULIA APICE<br/><carousel_paolo/><book_paolo/><br/>PAOLO ASSENZA<br/><carousel_matteo/><bookcarousel_matteo/><br/>MATTEO BASILÉ<br/><carousel_luca/><book_luca/><br/>LUCA GRECHI<br/><carousel_maddalena/><book_maddalena/><br/>MADDALENA SCUDERONI<br/><br/>Curatrice:<br/><carousel_adriana/><book_adriana/><br/>ADRIANA POLVERONI<br/><br/>Accesso libero<br/><br/><br/>",
 
       "location1": {
         "mapQuery": "Lago Ex.Snia, Via du Portonaccio, 230,Roma."

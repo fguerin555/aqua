@@ -1292,7 +1292,6 @@ const ProgSeptember = () => {
         />
       </div>
 
-      {/* 🌊 Evento 1 — Lago Ex Snia */}
       <div className={styles.Orari}>
         <div>
           {/* event1 */}
@@ -1328,7 +1327,6 @@ const ProgSeptember = () => {
             }}
           />
 
-          {/* 🎥 Vidéo insérée entre event1 et event1B */}
           <div className={styles.VideoWrapper}>
             <video width="640" height="360" controls>
               <source src={RaccontodellAcqua} type="video/mp4" />
@@ -1339,7 +1337,9 @@ const ProgSeptember = () => {
           {/* event1B */}
           <Trans
             i18nKey="programSeptember.appointment3.event1B"
-            components={{ br: <br /> }}
+            components={{
+              br: <br />,
+            }}
           />
         </div>
       </div>
