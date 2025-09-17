@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5c79262d.css",
-    "main.js": "/static/js/main.786f2f32.js",
+    "main.js": "/static/js/main.a6747939.js",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
@@ -283,6 +283,7 @@
     "static/media/LogoEcoMuseo.png": "/static/media/LogoEcoMuseo.4e2df6c1c50823e6d109.png",
     "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
     "static/media/JulietLogo.png": "/static/media/JulietLogo.0613474bf737a3252985.png",
+    "static/media/LogoItineraireArte.png": "/static/media/LogoItineraireArte.7944e0d6902062b693cd.png",
     "static/media/LazioEventiLogo.png": "/static/media/LazioEventiLogo.1463a8f1135f12b098b8.png",
     "static/media/LogoTorredelFiscale.png": "/static/media/LogoTorredelFiscale.2d2971888c619ce06ddb.png",
     "static/media/FlagEngland.png": "/static/media/FlagEngland.29d4f3fc6ebc4540e385.png",
@@ -290,10 +291,10 @@
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
     "main.5c79262d.css.map": "/static/css/main.5c79262d.css.map",
-    "main.786f2f32.js.map": "/static/js/main.786f2f32.js.map"
+    "main.a6747939.js.map": "/static/js/main.a6747939.js.map"
   },
   "entrypoints": [
     "static/css/main.5c79262d.css",
-    "static/js/main.786f2f32.js"
+    "static/js/main.a6747939.js"
   ]
 }
