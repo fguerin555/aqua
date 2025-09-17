@@ -8,6 +8,8 @@ import ExibartLogo from "../../assets/images/ExibartLogo.png";
 import JulietLogo from "../../assets/images/JulietLogo.png";
 import RomaCultureLogo from "../../assets/images/RomaCultureLogo.png";
 import LogoArtLife from "../../assets/images/LogoArtLife.png";
+import LogoItineraireArte from "../../assets/images/LogoItineraireArte.png";
+import LogoZeroRoma from "../../assets/images/LogoZeroRoma.png";
 
 import styles from "./Stampa.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -131,6 +133,37 @@ const StampaPage = () => {
                 rel="noopener noreferrer"
               >
                 <img src={LazioEventiLogo} alt={t("LazioEventiLogo.logoAlt")} />
+              </a>
+            </div>
+          </div>
+          {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
+        </div>
+        {/* Ligne 6 */}
+        <div>
+          <div className={styles.iconLine}>
+            <div className={styles.iconBox}>
+              <a
+                href="https://www.itinerarinellarte.it/it/eventi/il-racconto-dell-acqua-13948"
+                rel="noopener noreferrer"
+              >
+                <img
+                  src={LogoItineraireArte}
+                  alt={t("LogoItineraireArte.logoAlt")}
+                />
+              </a>
+            </div>
+          </div>
+          {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
+        </div>
+        {/* Ligne 7 */}
+        <div>
+          <div className={styles.iconLine}>
+            <div className={styles.iconBox}>
+              <a
+                href="https://zero.eu/it/eventi/347262-il-racconto-dellacqua,roma/"
+                rel="noopener noreferrer"
+              >
+                <img src={LogoZeroRoma} alt={t("LogoZeroRoma.logoAlt")} />
               </a>
             </div>
           </div>

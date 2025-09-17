@@ -84,15 +84,6 @@ import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
 import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
 import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
-import IginiodeLucaW1 from "../../assets/images/IginiodeLucaW1.png";
-import IginiodeLucaW3 from "../../assets/images/IginiodeLucaW3.png";
-import IginiodeLucaW4 from "../../assets/images/IginiodeLucaW4.png";
-import IginiodeLucaW6 from "../../assets/images/IginiodeLucaW6.png";
-import IginiodeLucaW7 from "../../assets/images/IginiodeLucaW7.png";
-import IginiodeLucaIT from "../../assets/images/IginiodeLucaIT.png";
-import IginiodeLucaEN from "../../assets/images/IginiodeLucaEN.png";
-import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
-
 import PianoBi from "../../assets/images/PianoBi.png";
 import PianoBiIT from "../../assets/images/PianoBiIT.png";
 import PianoBiEN from "../../assets/images/PianoBiEN.png";
@@ -121,14 +112,6 @@ import ToCentroAnzianiIT from "../../assets/images/ToCentroAnzianiIT.png";
 import ToCentroAnzianiEN from "../../assets/images/ToCentroAnzianiEN.png";
 import ToCentroAnzianiFR from "../../assets/images/ToCentroAnzianiFR.png";
 import CentroAnziani from "../../assets/images/CentroAnziani.png";
-
-import LagoExSNIAE from "../../assets/images/LagoExSNIAE.png";
-import LagoExSNIAEIT from "../../assets/images/LagoExSNIAEIT.png";
-import LagoExSNIAEEN from "../../assets/images/LagoExSNIAEEN.png";
-import LagoExSNIAEFR from "../../assets/images/LagoExSNIAEFR.png";
-import ToLagoExSNIAEIT from "../../assets/images/ToLagoExSNIAEIT.png";
-import ToLagoExSNIAEEN from "../../assets/images/ToLagoExSNIAEEN.png";
-import ToLagoExSNIAEFR from "../../assets/images/ToLagoExSNIAEFR.png";
 
 import Confalonieri from "../../assets/images/Confalonieri.png";
 import ConfalonieriIT from "../../assets/images/ConfalonieriIT.png";
