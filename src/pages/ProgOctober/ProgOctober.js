@@ -13,7 +13,6 @@ import Foto from "../../components/Foto";
 
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
-import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 
 import AdrianaRit from "../../assets/images/AdrianaRit.png";
@@ -233,16 +232,6 @@ const ProgOctober = () => {
     { src: IrmaAlonzo3, alt: "" },
     { src: IrmaAlonzo4, alt: "" },
   ];
-
-  // const IginiodeLucaImages = [
-  //   { src: IginiodeLucaW1, alt: "" },
-
-  //   { src: IginiodeLucaW3, alt: "" },
-  //   { src: IginiodeLucaW4, alt: "" },
-
-  //   { src: IginiodeLucaW6, alt: "" },
-  //   { src: IginiodeLucaW7, alt: "" },
-  // ];
 
   const IrmaAlonzoBookImages = {
     it: IrmaAlonzoIT,
