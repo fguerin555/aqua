@@ -18,6 +18,7 @@ import OV from "../../assets/images/OeilVide.png";
 
 import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
+import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1057,67 +1058,72 @@ const ProgSeptember = () => {
             </video>
           </div>
 
-          {/* event1B */}
-          <Trans
-            i18nKey="programSeptember.appointment3.event1B"
-            components={{
-              br: <br />,
-            }}
-          />
-        </div>
-      </div>
-
-      {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
-      <div className={styles.Orari}>
-        <div>
-          <Trans
-            i18nKey="programSeptember.appointment3.event2"
-            components={{
-              br: <br />,
-              map: (
-                <span className={styles.SimbolMapp}>
-                  <MapButton
-                    mapQuery={t(
-                      "programSeptember.appointment3.location2.mapQuery"
-                    )}
-                  >
-                    <img
-                      src={simbolmapp}
-                      alt={t("programSeptember.mapSymbolAlt")}
+          {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
+          <div className={styles.Orari}>
+            <div>
+              <Trans
+                i18nKey="programSeptember.appointment3.event2"
+                components={{
+                  br: <br />,
+                  map: (
+                    <span className={styles.SimbolMapp}>
+                      <MapButton
+                        mapQuery={t(
+                          "programSeptember.appointment3.location2.mapQuery"
+                        )}
+                      >
+                        <img
+                          src={simbolmapp}
+                          alt={t("programSeptember.mapSymbolAlt")}
+                        />
+                      </MapButton>
+                    </span>
+                  ),
+                  to: (
+                    <FromStation
+                      className={styles.IconStandard}
+                      imageMap={ToParcoTorFiscaleImageMap}
+                      altKey="programSeptember.fromStationAlt"
                     />
-                  </MapButton>
-                </span>
-              ),
-              to: (
-                <FromStation
-                  className={styles.IconStandard}
-                  imageMap={ToParcoTorFiscaleImageMap}
-                  altKey="programSeptember.fromStationAlt"
-                />
-              ),
-              book: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={ParcoTorFiscaleBookImageMap}
-                  altKey="programSeptember.bookAlt"
-                />
-              ),
-              foto: (
-                <Foto
-                  className={styles.IconStandard}
-                  imageMap={Acquedotto2FotoImageMap}
-                  altKey="programSeptember.fotoAlt"
-                />
-              ),
-            }}
-          />
+                  ),
+                  book: (
+                    <Book
+                      className={styles.IconStandard}
+                      imageMap={ParcoTorFiscaleBookImageMap}
+                      altKey="programSeptember.bookAlt"
+                    />
+                  ),
+                  foto: (
+                    <Foto
+                      className={styles.IconStandard}
+                      imageMap={Acquedotto2FotoImageMap}
+                      altKey="programSeptember.fotoAlt"
+                    />
+                  ),
+                }}
+              />
+            </div>
+            {/* event1B */}
+            <Trans
+              i18nKey="programSeptember.appointment3.event1B"
+              components={{
+                br: <br />,
+              }}
+            />
+          </div>
+          <div>
+            <Trans
+              i18nKey="programSeptember.appointment3.description"
+              components={{ br: <br /> }}
+            />
+          </div>
         </div>
-        <div>
-          <Trans
-            i18nKey="programSeptember.appointment3.description"
-            components={{ br: <br /> }}
-          />
+        <div className={styles.VideoWrapperVertical}>
+          <video width="360" height="640" controls>
+            <source src={Basile01_480} type="video/mp4" />
+          </video>
         </div>
+        {/* width="360" height="640"  */}
       </div>
 
       {/* 🎨 ArtistList parfaitement aligné */}

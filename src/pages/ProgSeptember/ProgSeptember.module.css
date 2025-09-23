@@ -454,6 +454,11 @@ img.ImageFull {
   height: 100%;
   object-fit: cover;
 }
+video:fullscreen {
+  max-height: 90vh;
+  max-width: 90vw;
+  object-fit: contain;
+}
 
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
