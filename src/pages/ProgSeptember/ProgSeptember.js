@@ -21,7 +21,7 @@ import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 // import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
 // import Basile01_1080 from "../../assets/videos/Basile01_1080.mp4";
 // import Basile01Reca_1080 from "../../assets/videos/Basile01Reca_1080.mp4";
-import Basile01Recad from "../../assets/videos/Basile01Recad.mp4";
+import Basile01_720Recad from "../../assets/videos/Basile01_720Recad.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1122,8 +1122,8 @@ const ProgSeptember = () => {
           </div>
         </div>
         <div className={styles.VideoWrapperVertical}>
-          <video width="640" controls>
-            <source src={Basile01Recad} type="video/mp4" />
+          <video width="360" height="640" controls>
+            <source src={Basile01_720Recad} type="video/mp4" />
           </video>
         </div>
       </div>
