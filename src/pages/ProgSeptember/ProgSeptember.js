@@ -18,7 +18,10 @@ import OV from "../../assets/images/OeilVide.png";
 
 import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
-import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
+// import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
+// import Basile01_1080 from "../../assets/videos/Basile01_1080.mp4";
+// import Basile01Reca_1080 from "../../assets/videos/Basile01Reca_1080.mp4";
+import Basile01Recad from "../../assets/videos/Basile01Recad.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1119,11 +1122,10 @@ const ProgSeptember = () => {
           </div>
         </div>
         <div className={styles.VideoWrapperVertical}>
-          <video width="360" height="640" controls>
-            <source src={Basile01_480} type="video/mp4" />
+          <video width="640" controls>
+            <source src={Basile01Recad} type="video/mp4" />
           </video>
         </div>
-        {/* width="360" height="640"  */}
       </div>
 
       {/* 🎨 ArtistList parfaitement aligné */}
