@@ -23,6 +23,7 @@
     "react-dnd-touch-backend": "^16.0.1",
     "react-dom": "^18.3.1",
     "react-i18next": "^15.5.2",
+    "react-icons": "^5.5.0",
     "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
     "react-toastify": "^11.0.5",
@@ -46,9 +47,10 @@
   },
   "browserslist": {
     "production": [
-       "Chrome 114",
+      "Chrome 114",
       "Firefox 115",
-      "Safari 13.1"    ],
+      "Safari 13.1"
+    ],
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",

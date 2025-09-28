@@ -1122,7 +1122,7 @@ const ProgSeptember = () => {
           </div>
         </div>
         <div className={styles.VideoWrapperVertical}>
-          <video width="360" height="640" controls>
+          <video width="640" controls>
             <source src={Basile01_720Recad} type="video/mp4" />
           </video>
         </div>

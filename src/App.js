@@ -1,4 +1,5 @@
 import React from "react";
+
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePageFile/HomePage";
 import ProgSeptember from "./pages/ProgSeptember/ProgSeptember";
@@ -9,7 +10,9 @@ import LinksPage from "./pages/LinksPageFile/LinksPage";
 import Stampa from "./pages/StampaFile/Stampa";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import "./index.css";
+import ScrollToTop from "./components/ScrollToTop";
+import BackButton from "./components/BackButton";
+
 const App = () => {
   return (
     <Router basename={process.env.PUBLIC_URL}>
@@ -25,7 +28,9 @@ const App = () => {
           <Route path="/stampa" element={<Stampa />} />
           <Route path="/test" element={<Test />} />
         </Routes>
-        <Footer></Footer>
+        <ScrollToTop /> {/* ← Ajout ici */}
+        <BackButton /> {/* ← Ajout ici */}
+        <Footer />
       </div>
     </Router>
   );
