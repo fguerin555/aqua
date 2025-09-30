@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ddcf37ee.css",
-    "main.js": "/static/js/main.7559abde.js",
+    "main.css": "/static/css/main.69636ba2.css",
+    "main.js": "/static/js/main.2300a1e4.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
+    "static/media/ImagepourQRcode.png": "/static/media/ImagepourQRcode.06b3fbb53b91028a25de.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/PaoloAssenzaW3.png": "/static/media/PaoloAssenzaW3.5435cca90db594dfafa0.png",
@@ -265,9 +266,9 @@
     "static/media/ToABalabanoffEN.png": "/static/media/ToABalabanoffEN.fe224032fe36a96fb4a3.png",
     "static/media/ToConfalonieriEN.png": "/static/media/ToConfalonieriEN.fe224032fe36a96fb4a3.png",
     "static/media/LogoOndaBlue2.png": "/static/media/LogoOndaBlue2.2504621818116d18ea5e.png",
-    "static/media/QRcode3D.png": "/static/media/QRcode3D.b14fffcb04564aae3563.png",
     "static/media/BandaLoghiPNRR.png": "/static/media/BandaLoghiPNRR.36743d56b87d17ec3f55.png",
     "static/media/LogoConfalonieri.png": "/static/media/LogoConfalonieri.24058c2ca8705320422c.png",
+    "static/media/QRcode3D.png": "/static/media/QRcode3D.dc775f0619dfde8c32b3.png",
     "static/media/Parcours.png": "/static/media/Parcours.1df626797ea0bbb1e210.png",
     "static/media/AppareilFoto.png": "/static/media/AppareilFoto.7df6d9c660e45a3f8ddd.png",
     "static/media/RomaCultureLogo.png": "/static/media/RomaCultureLogo.1669a01f58f64a30da99.png",
@@ -292,11 +293,11 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.ddcf37ee.css.map": "/static/css/main.ddcf37ee.css.map",
-    "main.7559abde.js.map": "/static/js/main.7559abde.js.map"
+    "main.69636ba2.css.map": "/static/css/main.69636ba2.css.map",
+    "main.2300a1e4.js.map": "/static/js/main.2300a1e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddcf37ee.css",
-    "static/js/main.7559abde.js"
+    "static/css/main.69636ba2.css",
+    "static/js/main.2300a1e4.js"
   ]
 }
