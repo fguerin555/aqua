@@ -4,7 +4,7 @@ import styles from "./ProgSeptember.module.css";
 import ExpandableTransText from "../../components/ExpandableTransText";
 import FotoFilm from "../../components/FotoFilm";
 import QRcode3D from "../../assets/images/QRcode3D.png";
-import ImagepourQRcode from "../../assets/images/ImagepourQRcode.png";
+import FotoPerQRcode from "../../assets/images/FotoPerQRcode.jpg";
 import MapButton from "../../components/MapButton";
 import ScrollToTop from "../../components/ScrollToTop";
 
@@ -1121,20 +1121,24 @@ const ProgSeptember = () => {
           </video>
         </div>
       </div>
-      {/* <div className={styles.Watchin3DQrcode}>
+      <div className={styles.Watchin3DQrcode}>
         <Trans
           i18nKey="programSeptember.appointment3.watchin3D"
           components={{ br: <br /> }}
         />
-      </div> */}
-      {/* <div className={styles.qrRow}>
+      </div>
+      <div className={styles.qrRow}>
         <img
-          src={ImagepourQRcode}
-          alt="Image pour QRcode"
+          src={QRcode3D}
+          alt="QR code pour lancer l’AR"
           className={styles.Qrcode3D}
         />
-        <img src={QRcode3D} alt="QR Code 3D" className={styles.Qrcode3D} />
-      </div> */}
+        <img
+          src={FotoPerQRcode}
+          alt="Visuel déclencheur de l’AR"
+          className={styles.FotoPerQRcode}
+        />
+      </div>
 
       {/* 🎨 ArtistList parfaitement aligné */}
       <div className={styles.ArtistList}>

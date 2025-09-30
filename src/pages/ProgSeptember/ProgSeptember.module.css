@@ -454,6 +454,12 @@ video:fullscreen {
   margin-top: 10px;
   margin-bottom: 5px;
 }
+.qrRow {
+  display: flex;
+  justify-content: center; /* ou space-between / flex-start */
+  align-items: center;
+  gap: 20px; /* espace horizontal entre les images */
+}
 .Qrcode3D {
   display: block;
   width: 100%;
@@ -464,11 +470,9 @@ video:fullscreen {
   margin-left: auto;
   margin-bottom: 20px;
 }
-.qrRow {
-  display: flex;
-  justify-content: center; /* ou space-between / flex-start */
-  align-items: center;
-  gap: 20px; /* espace horizontal entre les images */
+.FotoPerQRcode {
+  height: 200px;
+  width: 289px;
 }
 
 /* Adapter pour les écrans larges */
@@ -494,8 +498,13 @@ video:fullscreen {
     font-size: 15px;
   }
   .Qrcode3D {
-    height: 180px;
-    width: 180px;
+    width: 160px;
+    height: 160px;
+  }
+
+  .FotoPerQRcode {
+    width: 231px; /* 289 × (160 ÷ 200) */
+    height: 160px;
   }
   .Foto {
     width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
@@ -627,8 +636,13 @@ video:fullscreen {
     font-size: 13px;
   }
   .Qrcode3D {
-    height: 150px;
-    width: 150px;
+    width: 120px;
+    height: 120px;
+  }
+
+  .FotoPerQRcode {
+    width: 173px;
+    height: 120px;
   }
   .ProgrammaPageTitle p {
     font-size: 23px;
@@ -772,8 +786,13 @@ video:fullscreen {
       font-size: 13px;
     }
     .Qrcode3D {
-      height: 140px;
-      width: 140px;
+      width: 100px;
+      height: 100px;
+    }
+
+    .FotoPerQRcode {
+      width: 144px;
+      height: 100px;
     }
     .ProgrammaPageTitle p {
       font-size: 20px;
