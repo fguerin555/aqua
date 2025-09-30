@@ -3,10 +3,11 @@ import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgSeptember.module.css";
 import ExpandableTransText from "../../components/ExpandableTransText";
 import FotoFilm from "../../components/FotoFilm";
+import QRcode3D from "../../assets/images/QRcode3D.png";
 
 import MapButton from "../../components/MapButton";
 import ScrollToTop from "../../components/ScrollToTop";
-import BackButton from "../../components/BackButton";
+
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
@@ -20,10 +21,7 @@ import OV from "../../assets/images/OeilVide.png";
 
 import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
-// import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
-// import Basile01_1080 from "../../assets/videos/Basile01_1080.mp4";
-// import Basile01Reca_1080 from "../../assets/videos/Basile01Reca_1080.mp4";
-// import Basile01_720Recad from "../../assets/videos/Basile01_720Recad.mp4";
+
 import ARAcqua from "../../assets/videos/ARAcqua.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
@@ -1135,6 +1133,13 @@ const ProgSeptember = () => {
           </video>
         </div> */}
       </div>
+      <div className={styles.Watchin3DQrcode}>
+        <Trans
+          i18nKey="programSeptember.appointment3.watchin3D"
+          components={{ br: <br /> }}
+        />
+      </div>
+      <img src={QRcode3D} alt="QR Code 3D" className={styles.Qrcode3D} />
 
       {/* 🎨 ArtistList parfaitement aligné */}
       <div className={styles.ArtistList}>

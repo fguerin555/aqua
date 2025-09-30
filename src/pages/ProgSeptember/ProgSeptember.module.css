@@ -1,16 +1,3 @@
-/* .ProgrammaPage {
-  position: relative;
-  overflow: hidden;
-  min-height: 100vh;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  box-sizing: border-box;
-  border-radius: 2px;
-  text-shadow: 1px 1px 3px rgba(65, 65, 70, 0.5);
-  } */
 .ProgrammaPage {
   position: relative;
   overflow: hidden;
@@ -459,6 +446,24 @@ video:fullscreen {
   max-width: 90vw;
   object-fit: contain;
 }
+.Watchin3DQrcode {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(23, 71, 127);
+  font-family: "Poppins-MediumItalic", Arial, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.Qrcode3D {
+  display: block;
+  width: 100%;
+  height: 200px;
+  width: 200px;
+  margin-top: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
 
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
@@ -479,7 +484,13 @@ video:fullscreen {
   .ArtistList {
     width: 90%;
   }
-
+  .Watchin3DQrcode {
+    font-size: 15px;
+  }
+  .Qrcode3D {
+    height: 180px;
+    width: 180px;
+  }
   .Foto {
     width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 275px;
@@ -606,7 +617,13 @@ video:fullscreen {
   .ArtistList {
     width: 90%;
   }
-
+  .Watchin3DQrcode {
+    font-size: 13px;
+  }
+  .Qrcode3D {
+    height: 150px;
+    width: 150px;
+  }
   .ProgrammaPageTitle p {
     font-size: 23px;
   }
@@ -745,7 +762,13 @@ video:fullscreen {
     .ArtistList {
       width: 90%;
     }
-
+    .Watchin3DQrcode {
+      font-size: 13px;
+    }
+    .Qrcode3D {
+      height: 140px;
+      width: 140px;
+    }
     .ProgrammaPageTitle p {
       font-size: 20px;
     }
