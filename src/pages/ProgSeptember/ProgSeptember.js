@@ -5,6 +5,8 @@ import ExpandableTransText from "../../components/ExpandableTransText";
 import FotoFilm from "../../components/FotoFilm";
 
 import MapButton from "../../components/MapButton";
+import ScrollToTop from "../../components/ScrollToTop";
+import BackButton from "../../components/BackButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
@@ -21,7 +23,8 @@ import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 // import Basile01_480 from "../../assets/videos/Basile01_480.mp4";
 // import Basile01_1080 from "../../assets/videos/Basile01_1080.mp4";
 // import Basile01Reca_1080 from "../../assets/videos/Basile01Reca_1080.mp4";
-import Basile01_720Recad from "../../assets/videos/Basile01_720Recad.mp4";
+// import Basile01_720Recad from "../../assets/videos/Basile01_720Recad.mp4";
+import ARAcqua from "../../assets/videos/ARAcqua.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1121,11 +1124,16 @@ const ProgSeptember = () => {
             />
           </div>
         </div>
-        <div className={styles.VideoWrapperVertical}>
+        <div className={styles.VideoWrapper}>
+          <video width="640" height="360" controls>
+            <source src={ARAcqua} type="video/mp4" />
+          </video>
+        </div>
+        {/* <div className={styles.VideoWrapperVertical}>
           <video width="640" controls>
             <source src={Basile01_720Recad} type="video/mp4" />
           </video>
-        </div>
+        </div> */}
       </div>
 
       {/* 🎨 ArtistList parfaitement aligné */}
@@ -1542,6 +1550,8 @@ const ProgSeptember = () => {
       <div className={styles.copyright}>
         <p>{t("home.copyright")}</p>
       </div>
+      <ScrollToTop />
+      {/* <BackButton /> */}
     </div>
   );
 };

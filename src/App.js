@@ -11,7 +11,6 @@ import Stampa from "./pages/StampaFile/Stampa";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
-import BackButton from "./components/BackButton";
 
 const App = () => {
   return (
@@ -29,7 +28,6 @@ const App = () => {
           <Route path="/test" element={<Test />} />
         </Routes>
         <ScrollToTop /> {/* ← Ajout ici */}
-        <BackButton /> {/* ← Ajout ici */}
         <Footer />
       </div>
     </Router>

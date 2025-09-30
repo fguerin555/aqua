@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from "react";
-import { FaArrowUp } from "react-icons/fa";
-import styles from "./ScrollToTop.module.css";
+import { useNavigate } from "react-router-dom";
+import { FaTimes } from "react-icons/fa";
+import styles from "./BackButton.module.css";
 
-const ScrollToTop = () => {
+const BackButton = () => {
   const [isVisible, setIsVisible] = useState(false);
+  const navigate = useNavigate();
 
   useEffect(() => {
     const toogleVisibility = () => {
-      if (window.scrollY > 100) {
+      if (window.scrollY > 300) {
         setIsVisible(true);
       } else {
         setIsVisible(false);
@@ -18,21 +20,18 @@ const ScrollToTop = () => {
     return () => window.removeEventListener("scroll", toogleVisibility);
   }, []);
 
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth",
-    });
+  const closeWindow = () => {
+    navigate(-1);
   };
 
   return (
     <button
-      className={`${styles["scroll-to-top"]} ${isVisible ? styles.show : ""}`}
-      onClick={scrollToTop}
+      className={`${styles["close-button"]} ${isVisible ? styles.show : ""}`}
+      onClick={closeWindow}
     >
-      <FaArrowUp />
+      <FaTimes />
     </button>
   );
 };
 
-export default ScrollToTop;
+export default BackButton;

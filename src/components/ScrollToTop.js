@@ -28,11 +28,12 @@ const ScrollToTop = () => {
   return (
     <button
       className={`${styles["scroll-to-top"]} ${isVisible ? styles.show : ""}`}
+      // className="scroll-to-top-show"
       onClick={scrollToTop}
     >
       <FaArrowUp />
     </button>
   );
 };
-
+console.log(styles);
 export default ScrollToTop;
