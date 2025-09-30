@@ -4,7 +4,7 @@ import styles from "./ProgSeptember.module.css";
 import ExpandableTransText from "../../components/ExpandableTransText";
 import FotoFilm from "../../components/FotoFilm";
 import QRcode3D from "../../assets/images/QRcode3D.png";
-
+import ImagepourQRcode from "../../assets/images/ImagepourQRcode.png";
 import MapButton from "../../components/MapButton";
 import ScrollToTop from "../../components/ScrollToTop";
 
@@ -36,13 +36,6 @@ import MatteoBW03 from "../../assets/images/MatteoBW03.png";
 import MatteoBW04 from "../../assets/images/MatteoBW04.png";
 import MatteoBW05 from "../../assets/images/MatteoBW05.png";
 import MatteoBRit from "../../assets/images/MatteoBRit.png";
-
-// import APirriRit from "../../assets/images/APirriRit.png";
-// import APirriW01 from "../../assets/images/APirriW01.png";
-// import APirriW02 from "../../assets/images/APirriW02.png";
-// import APirriW03 from "../../assets/images/APirriW03.png";
-// import APirriW04 from "../../assets/images/APirriW04.png";
-// import APirriW05 from "../../assets/images/APirriW05.png";
 
 import AdrianaRit from "../../assets/images/AdrianaRit.png";
 import AdrianaIT from "../../assets/images/AdrianaIT.png";
@@ -1127,19 +1120,21 @@ const ProgSeptember = () => {
             <source src={ARAcqua} type="video/mp4" />
           </video>
         </div>
-        {/* <div className={styles.VideoWrapperVertical}>
-          <video width="640" controls>
-            <source src={Basile01_720Recad} type="video/mp4" />
-          </video>
-        </div> */}
       </div>
-      <div className={styles.Watchin3DQrcode}>
+      {/* <div className={styles.Watchin3DQrcode}>
         <Trans
           i18nKey="programSeptember.appointment3.watchin3D"
           components={{ br: <br /> }}
         />
-      </div>
-      <img src={QRcode3D} alt="QR Code 3D" className={styles.Qrcode3D} />
+      </div> */}
+      {/* <div className={styles.qrRow}>
+        <img
+          src={ImagepourQRcode}
+          alt="Image pour QRcode"
+          className={styles.Qrcode3D}
+        />
+        <img src={QRcode3D} alt="QR Code 3D" className={styles.Qrcode3D} />
+      </div> */}
 
       {/* 🎨 ArtistList parfaitement aligné */}
       <div className={styles.ArtistList}>

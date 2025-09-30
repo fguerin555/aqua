@@ -464,6 +464,12 @@ video:fullscreen {
   margin-left: auto;
   margin-bottom: 20px;
 }
+.qrRow {
+  display: flex;
+  justify-content: center; /* ou space-between / flex-start */
+  align-items: center;
+  gap: 20px; /* espace horizontal entre les images */
+}
 
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
