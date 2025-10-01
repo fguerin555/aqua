@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c0bc63f.css",
-    "main.js": "/static/js/main.23f96f1f.js",
+    "main.css": "/static/css/main.684e3a98.css",
+    "main.js": "/static/js/main.33656d06.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
+    "static/media/PerfLuca04.png": "/static/media/PerfLuca04.faf809ddf7c944a15e17.png",
     "static/media/Madscud3.png": "/static/media/Madscud3.c8623cc8f1793a73c974.png",
     "static/media/PaoloAssenzaW3.png": "/static/media/PaoloAssenzaW3.5435cca90db594dfafa0.png",
+    "static/media/PerfLuca05.png": "/static/media/PerfLuca05.9752d771c0a6bc75d86c.png",
+    "static/media/PerfLuca02.png": "/static/media/PerfLuca02.3c0bab9d0e70e3403aa8.png",
     "static/media/Laghetto.png": "/static/media/Laghetto.0ecaaa04a6b0f0be900e.png",
     "static/media/APirriW05.png": "/static/media/APirriW05.98eb40f9066f7116f999.png",
     "static/media/PamelaP6.png": "/static/media/PamelaP6.eba483ad6ea8a0c4f2b4.png",
     "static/media/APirriW01.png": "/static/media/APirriW01.ecbc028476482607cc1a.png",
     "static/media/fotoRepresentative.png": "/static/media/fotoRepresentative.62ba6d1dd78cda6487cf.png",
     "static/media/ViaDellAcquaFelice.png": "/static/media/ViaDellAcquaFelice.4d4d6c2dc4241728ab00.png",
+    "static/media/PerfLuca06.png": "/static/media/PerfLuca06.ece53bf4839bbf60a54e.png",
     "static/media/DonSardelliRit.png": "/static/media/DonSardelliRit.21842e4a96ffb56f9460.png",
+    "static/media/PerfLuca01.png": "/static/media/PerfLuca01.0707c238e9fecc3f5fcd.png",
     "static/media/APirriW04.png": "/static/media/APirriW04.21fdfdb35cf6361cc783.png",
+    "static/media/PerfLuca03.png": "/static/media/PerfLuca03.568282c0b960f9c040f7.png",
     "static/media/App1_SpectralCanticle.png": "/static/media/App1_SpectralCanticle.2fe984d979c9c8692aed.png",
     "static/media/App1_MurodiSabbia.png": "/static/media/App1_MurodiSabbia.28905021287c396b1267.png",
     "static/media/PamelaP5.png": "/static/media/PamelaP5.310be36a4e6de177c9c0.png",
@@ -293,11 +299,11 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.8c0bc63f.css.map": "/static/css/main.8c0bc63f.css.map",
-    "main.23f96f1f.js.map": "/static/js/main.23f96f1f.js.map"
+    "main.684e3a98.css.map": "/static/css/main.684e3a98.css.map",
+    "main.33656d06.js.map": "/static/js/main.33656d06.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c0bc63f.css",
-    "static/js/main.23f96f1f.js"
+    "static/css/main.684e3a98.css",
+    "static/js/main.33656d06.js"
   ]
 }
