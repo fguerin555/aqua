@@ -9,13 +9,6 @@ import MapButton from "../../components/MapButton";
 import ScrollToTop from "../../components/ScrollToTop";
 import Slider from "../../components/Slider";
 
-// import PerfLuca01 from "../../assets/images/PerfLuca01.png";
-// import PerfLuca02 from "../../assets/images/PerfLuca02.png";
-// import PerfLuca03 from "../../assets/images/PerfLuca03.png";
-// import PerfLuca04 from "../../assets/images/PerfLuca05.png";
-// import PerfLuca05 from "../../assets/images/PerfLuca05.png";
-// import PerfLuca06 from "../../assets/images/PerfLuca06.png";
-
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
@@ -1082,16 +1075,9 @@ const ProgSeptember = () => {
           <div className={styles.FotoPerf}>
             <Slider />
           </div>
-          {/* <div className={styles.FotoPerf}>
-            <img
-              src={PerfLuca01}
-              alt={t(
-                "programSeptember.appointment3.Performance Luca Grecchi.imageAlt"
-              )}
-            />
-          </div> */}
+
           {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
-          <div className={styles.Orari}>
+          {/* <div className={styles.Orari}>
             <div>
               <Trans
                 i18nKey="programSeptember.appointment3.event2"
@@ -1135,7 +1121,7 @@ const ProgSeptember = () => {
                 }}
               />
             </div>
-          </div>
+          </div>  */}
           <div>
             <Trans
               i18nKey="programSeptember.appointment3.description"

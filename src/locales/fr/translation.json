@@ -154,7 +154,6 @@
 
       "event1B": "Supervisé par Adriana Polveroni<br/>Artistes Peinture: Paolo Assenza et Luca Grechi<br/>Artiste IA: Matteo Basilè<br/><br/><br/>",
       "textFotoLuca": "<br/><br/>Performance de Luca Grecchi",
-      "event2": "Les événements du 23 et 24 Septembre sont annulés en raison du mauvais temps<br/>Bientôt seront communiquées les nouvelles dates<br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to></to><book></book><foto/><br/><br/>Commissaire: Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilè<br/><br/>",
 
       "description": "DEAR WATER - Travail d'élaboration IA de Matteo Basilé <br/>sur les peintures réalisées par Paolo Assenza et Luca Grechi",
       "watchin3D": "Scanner le QRcode puis dans un deuxième temps l'image pour regarder en réalité augmentée:<br/> DEAR WATER - Travail d'élaboration IA de Matteo Basilé <br/>sur les peintures réalisées par Paolo Assenza et Luca Grechi<br/>",
@@ -225,27 +224,30 @@
         "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
       }
     },
+    "appointmentNew": {
+      "sectionTitle": "RENDEZ-VOUS 3",
+      "name": "De la Peinture en Plein Air à l'Art Artificiel",
+
+      "event2": "Ce n’est pas une exposition. Mais c’est un rendez-vous pour assister à une séance de peinture en plein air<br/> créé par Giulia Apice et Maddalena Scuderoni<br/>Retravaillé en direct par Matteo Basilé grâce à l’intelligence artificielle. <br/>Une occasion unique!<br/><br/>Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to/><book/><foto/><br/><br/>Supervisé par Adriana Polveroni<br/>Artistes Peinture: Giulia Apice et Maddalena Scuderoni<br/>Artiste IA: Matteo Basilé",
+      "artistList": "Artistes: <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><br/>Commissaire: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><br/>Free access<br/><br/><br/>"
+    },
+
     "appointment5": {
       "sectionTitle": "RENDEZ-VOUS 5",
       "name": "La Beauté de l'Eau",
       "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
       "descriptionMK": {
-        "TextIntro": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice...",
-        "TextFull": "Mercedes Klausner, accueillie en résidence par le projet Pianobi, réalisera une œuvre en utilisant de la poussière issue des débris de vieilles maisons détruites, récupérés au pied de l'aqueduc Felice. Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi, via dei ciceri 99. <br /> <br/>",
+        "TextIntro": "Mercedes Klausner (Argentine 1991), travaille depuis des années sur la mémoire à travers des interventions site-spécifiques qui voient l’utilisation de la lumière pour la projection d’images dessinées sur des vitres...",
+        "TextFull": "Mercedes Klausner (Argentine 1991), travaille depuis des années sur la mémoire à travers des interventions site-spécifiques qui voient l’utilisation de la lumière pour la projection d’images dessinées sur des vitres avec des fragments de poussière récupérés à partir de débris de lieux disparus. <br />Pour l’occasion, l’artiste sera hébergée dans la résidence par Pianobi et accompagnée par Isabella Vitale en tant que commissaire, pour la réalisation d’une œuvre qui voit l’utilisation de la poussière obtenue à partir des débris récupérés au pied de l’aqueduc Felice. <br /> Cette intervention donnera lieu à des œuvres capables de produire des images qui seront projetées sur les murs du projet Pianobi. <br /> <br/>",
+
         "ReadMore": "Lire la suite",
         "ReadLess": "Lire moins"
       },
-      "descriptionPA": {
-        "TextIntro": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes...",
-        "TextFull": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. <br />Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/>",
-        "ReadMore": "Lire la suite",
-        "ReadLess": "Lire moins"
-      },
+      "TitleUrbis": "Imago Acquae-Urbis",
+      "AuthorUrbis": "de Mercedes Klausner",
+      "time1": "Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "time1": "Imago Acquae-Urbis <br/>de Mercedes Klausner <br/>Supervision Isabella Vitale<br/>Inauguration 4 Octobre <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>La Fontaine des Brumes <br/>de Paolo Assenza<br/>Supervision Adriana Polveroni<br/>Inauguration 10 Octobre<br/> à 19 heures<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-
-      "artistList": "Artistes : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><br/>Commissaires: <br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
+      "artistList": "Artiste : <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><br/>Commissaire: <br/ ><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Rome",
@@ -299,20 +301,34 @@
         "mapQuery": "Istituto Confalonieri De Chirico, Via Beata Maria de Mattias,5 Roma."
       }
     },
-    "appointment5": {
-      "sectionTitle": "APPUNTAMENTO 5",
+
+    "descriptionPA": {
+      "sectionTitle": "",
       "name": "La Beauté de l'Eau",
-      "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité. <br /><br />",
+      "description2": "Réalisation d'œuvres ayant pour thème l'eau et sa durabilité.",
+      "TitleBrumes": "La Fontaine des Brumes",
+      "AuthorBrumes": "de Paolo Assenza",
+      "time2": "Supervision Adriana Polveroni<br/>Inauguration 14 Novembre<br/> à 18 heures<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "TextIntro": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes...",
+      "TextFull": "L'œuvre de Paolo Assenza consiste en une fontaine qui s'active pendant les heures nocturnes grâce à la captation des particules d'eau présentes dans l'humidité de l'air et qui gouttent à travers le trou sur l'élément en pierre placé à sa base, tombant constamment sur le socle, en modifiant avec le temps l'aspect de la surface. Cette technique totalement durable et non invasive, a été largement testée et utilisée par l’artiste qui se rendra disponible aux rencontres avec le public pour un échange de connaissances. <br/>",
+      "ReadMore": "Lire la suite",
+      "ReadLess": "Lire moins",
+      "artistList": "Artiste:<br/><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><br/>Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accès libre<br/><br/><br/>"
+    },
+
+    "appointment5": {
       "description": {
-        "TextIntro": "UUne fontaine, œuvre site-spécifique conçue au siège opérationnel du projet Pianobi Art Contemporain sera réalisée par Laurent Le Deunff (France 1977), artiste visuel français basé à Bordeaux...",
-        "TextFull": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/><br/> Le Deunff sculpte depuis plus de vingt ans, réalisant des sculptures, des représentations stylisées anthropomorphes et zoomorphes au pouvoir magique, ainsi que des installations complexes capables de transformer un espace fermé en un environnement naturel au fort pouvoir évocateur, écologiques et de récupération tels que la terre, le sable, le bois, la chaux, le papier..<br/><br/> C’est en chaux et en papier mâché que l’artiste réalisera l’œuvre lors de sa résidence au siège opérationnel de pianobi, plus précisément une fontaine à la forme zoomorphique.<br/> L’œuvre sera accessible à un public hétérogène d’experts et non seulement, y compris les pèlerins venus à Rome à l’occasion du Jubilé. <br/>Les visiteurs seront invités à exprimer leur souhait personnel par le geste rituel de lancer dans la fontaine une des pièces réalisées et distribuées par l’artiste, invitant ainsi le public à participer activement au rituel.<br/>",
+        "TitleRiSorgente": "Ri-Sorgente",
+        "AuthorRiSorgente": "de Laurent Le Deunff",
+        "TextIntro": "Une fontaine, œuvre site-spécifique conçue au siège opérationnel du projet Pianobi Art Contemporain sera réalisée par Laurent Le Deunff (France 1977), artiste visuel français basé à Bordeaux...",
+        "TextFull": "Une fontaine, œuvre site-spécifique conçue au siège opérationnel du projet Pianobi Art Contemporain sera réalisée par Laurent Le Deunff (France 1977), artiste visuel français basé à Bordeaux.<br/><br/> Le Deunff sculpte depuis plus de vingt ans, réalisant des sculptures, des représentations stylisées anthropomorphes et zoomorphes au pouvoir magique, ainsi que des installations complexes capables de transformer un espace fermé en un environnement naturel au fort pouvoir évocateur, écologiques et de récupération tels que la terre, le sable, le bois, la chaux, le papier..<br/><br/> C’est en chaux et en papier mâché que l’artiste réalisera l’œuvre lors de sa résidence au siège opérationnel de pianobi, plus précisément une fontaine à la forme zoomorphique.<br/> L’œuvre sera accessible à un public hétérogène d’experts et non seulement, y compris les pèlerins venus à Rome à l’occasion du Jubilé. <br/>Les visiteurs seront invités à exprimer leur souhait personnel par le geste rituel de lancer dans la fontaine une des pièces réalisées et distribuées par l’artiste, invitant ainsi le public à participer activement au rituel.<br/>",
         "ReadMore": "Lire la suite",
         "ReadLess": "Lire moins"
       },
 
-      "time3": "<LaurentLDW1/>Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>à 19 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
+      "time3": "<LaurentLDW1/>Ri-Sorgente <br/>de Laurent le Deunff <br />Supervision Isabella Vitale<br/>Inauguration 29 Novembre 2025 <br/>de 16 heures à 21 heures<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "artistList": "Artistes : <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaire: <br/ ><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
+      "artistList": "Artiste : <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Commissaire: <br/ ><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accès libre<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
@@ -358,7 +374,7 @@
       "sectionTitle": "APPUNTAMENTO 7",
       "name": "Une oeuvre pour Don Sardelli",
       "time": "",
-      "description": "<br/><br/><br/>Le 29 Novembre à 18 heures<br/>Inauguration du monument pour Don Sardelli",
+      "description": "<br/><br/><br/>Le 29 Novembre de 18 heures à 21 heures<br/>Inauguration du monument pour Don Sardelli",
 
       "DonSardelli": "Don Sardelli <carousel_DonSardelliIT/><br/><br/>",
       "artistList": "Artiste:<br/><carousel_alfredo/><book_alfredo></book_alfredo> ALFREDO PIRRI<br /><br/>Commissaire:<br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br /><br /> Accès libre<br/><br/>",

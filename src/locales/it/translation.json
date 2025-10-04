@@ -154,7 +154,6 @@
 
       "event1B": "A cura di Adriana Polveroni<br/>Artisti Pittura: Paolo Assenza e Luca Grechi<br/>Artista IA: Matteo Basilè<br/><br/><br/>",
       "textFotoLuca": "<br/><br/>Performance di Luca Grecchi",
-      "event2": "Gli eventi del 23 e del 24 Settembre sono annullati causa maltempo<br/>Presto saranno communicate le nuove date<br/> Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to/><book/><foto/><br/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Giulia Apice e Maddalena Scuderoni<br/>Artista IA: Matteo Basilè",
 
       "description": "DEAR WATER - di Matteo Basilé - Lavoro di elaborazione IA<br/>sui dipinti realizzati da Paolo Assenza e Luca Grechi",
       "watchin3D": "Scansiona il QRcode e poi in un secondo momento l'immagine per guardare in realtà aumentata:<br/> DEAR WATER - di Matteo Basilé - Lavoro di elaborazione IA<br/>sui dipinti realizzati da Paolo Assenza e Luca Grechi<br/>",
@@ -223,27 +222,27 @@
         "mapQuery": "Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma "
       }
     },
+    "appointmentNew": {
+      "name": "Dalla Pittura en Plein Air all' Arte Artificiale",
+      "event2": "Giovedi 9 e Venerdi 10 Ottobre<br/>Non è una mostra. Ma è un appuntamento per partecipare a una sessione di pittura all'aperto<br/> realizzata da Giulia Apice e Maddalena Scuderoni<br/>Rielaborata in diretta da Matteo Basilé attraverso l'Intelligenza Artificiale. <br/>Un'occasione unica!<br/><br/> Parco di Tor Fiscale<br/>Acquedotto Marcio Felice<br/>Via dell'Acquedotto Felice, 120<br/>municipio VII<br/><map/><to/><book/><foto/><br/><br/>A cura di Adriana Polveroni<br/>Artisti Pittura: Giulia Apice e Maddalena Scuderoni<br/>Artista IA: Matteo Basilé",
+      "artistList": "Artiste: <br/><carousel_giulia/><book_giulia></book_giulia>GIULIA APICE<br/><carousel_maddalena/><book_maddalena/>MADDALENA SCUDERONI<br/><carousel_matteo/><bookcarousel_matteo/>MATTEO BASILÉ<br/><br/>Curatrice: <br/><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><br/>Free access<br/><br/><br/>"
+    },
+
     "appointment5": {
       "sectionTitle": "APPUNTAMENTO 5",
       "name": "La Bellezza dell'Acqua",
       "description2": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità.<br /><br />",
       "descriptionMK": {
-        "TextIntro": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri con frammenti di polveri recuperate da detriti di luoghi scomparsi, come ad esempio le baracche addossate sull’antico Acquedotto Felice...",
-        "TextFull": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri con frammenti di polveri recuperate da detriti di luoghi scomparsi, come ad esempio le baracche addossate sull’antico Acquedotto Felice. <br/> Per l’occasione, l’artista sarà ospitata in residenza da Pianobi e accompagnata da Isabella Vitale in quanto curatrice, per la realizzazione di un’opera realizzate con la tecnica di cui sopra, che vede l’utilizzo della polvere ricavata dai detriti dei vecchi mattoni delle case distrutte, recuperati ai piedi dell’acquedotto Felice. Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate presso lo spazio espositivo in via dei Ciceri 99. <br/>",
+        "TextIntro": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri...",
+        "TextFull": "Mercedes Klausner (Argentina 1991), da anni porta avanti un lavoro incentrato sulla memoria attraverso interventi site-specific che vedono l’utilizzo della luce per la proiezione di immagini disegnate su vetri con frammenti di polveri recuperate da detriti di luoghi scomparsi<br/> Per l’occasione, l’artista sarà ospitata in residenza da Pianobi e accompagnata da Isabella Vitale in quanto curatrice, per la realizzazione di un’opera che vede l’utilizzo della polvere ricavata dai detriti recuperati ai piedi dell’acquedotto Felice. <br/>Tale intervento darà luogo a delle opere capaci di produrre delle immagini che saranno proiettate presso lo spazio espositivo Progetto Pianobi <br/>",
         "ReadMore": "Leggi di più ",
         "ReadLess": "Leggi di meno "
       },
+      "TitleUrbis": "Imago Acquae-Urbis",
+      "AuthorUrbis": "di Mercedes Klausner",
+      "time1": "A cura di Isabella Vitale<br/> Inaugurazione 4 Ottobre 2025 <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
 
-      "descriptionPA": {
-        "TextIntro": "L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne...",
-        "TextFull": "L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne, attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. <br/> Questa tecnica totalmente ecosostenibile e non invasiva, è stata ampiamente testata e utilizzata dall’artista il quale si renderà disponibile a degli incontri con il pubblico per uno scambio reciproco conoscitivo.<br />",
-        "ReadMore": "Leggi di più ",
-        "ReadLess": "Leggi di meno "
-      },
-      "time1": "<br/>Imago Acquae-Urbis <br/>di Mercedes Klausner <br/>A cura di Isabella Vitale<br/> Inaugurazione 4 Ottobre 2025 <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto/>",
-      "time2": "<br/>La Fontana delle Brume <br/>di Paolo Assenza<br/>A cura di Adriana Polveroni<br/>Inaugurazione 10 Ottobre <br/>alle 19.00<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
-
-      "artistList": "Artisti: <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA <br /><<br/>Curatrici:<br/ ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI <br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
+      "artistList": "Artista: <br /><carousel_mercedes/><book_mercedes></book_mercedes>MERCEDES KLAUSNER <br />Curatrice:<br/ ><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
@@ -296,19 +295,33 @@
         "mapQuery": "Istituto Confalonieri De Chirico ,Via Beata Maria de Mattias,5 Roma "
       }
     },
-    "appointment5": {
-      "sectionTitle": "APPUNTAMENTO 5",
+
+    "descriptionPA": {
+      "sectionTitle": "",
       "name": "La Bellezza dell'Acqua",
-      "description2": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità.<br /><br />",
+      "description2": "Realizzazione di opere che hanno per tema l’acqua e la sua sostenibilità.",
+      "TitleBrumes": "La Fontana delle Brume",
+      "AuthorBrumes": "di Paolo Assenza",
+      "time2": "A cura di Adriana Polveroni<br/>Inaugurazione 14 Novembre <br/>alle 18.00<br/>Laghetto di Roma Vecchia<br/>parco degli Acquedotti<br/>municipio VII<br/><map/><to></to><book></book><foto/>",
+      "TextIntro": "L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne...",
+      "TextFull": "L'opera di Paolo Assenza consiste in una fontana che si attiva durante le ore notturne, attraverso la captazione delle particelle d’acqua presenti nell’umidità dell’aria e che gocciano attraverso il foro sull’elemento in pietra posto alla sua base, cadendo costantemente sul basamento ne modica nel tempo e l’aspetto della superficie. Questa tecnica totalmente ecosostenibile e non invasiva, è stata ampiamente testata e utilizzata dall’artista il quale si renderà disponibile a degli incontri con il pubblico per uno scambio reciproco conoscitivo.<br />",
+      "ReadMore": "Leggi di più ",
+      "ReadLess": "Leggi di meno ",
+      "artistList": "Artista:<br /><carousel_paolo/><book_paolo></book_paolo>PAOLO ASSENZA<br/><br/>Curatrice:<br ><carousel_adriana/><book_adriana></book_adriana>ADRIANA POLVERONI<br/><br/>Accesso libero<br/><br/><br/>"
+    },
+
+    "appointment5": {
       "description": {
+        "TitleRiSorgente": "Ri-Sorgente",
+        "AuthorRiSorgente": "di Laurent Le Deunff",
         "TextIntro": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux...",
         "TextFull": "Una fontana, opera site-specific concepita nella sede operativa del progetto Pianobi Arte Contemporanea sarà realizzata da Laurent Le Deunff (Francia 1977), artista visivo francese con base Bordeaux.<br/> Le Deunff scolpisce da oltre venti anni, realizzando sculture, rappresentazioni stilizzate antropomorfe e zoomorfe dal potere magico, così come complesse installazioni capaci di trasformare uno spazio chiuso in un’ambientazione naturale dal forte potere evocativo, rimpiegando materiali versatili, ecologici e di recupero tali quali la terra, la sabbia, il legno, la calce, la carta.<br/> È in calce e in cartapesta che l’artista realizzerà l’opera durante la sua residenza presso la sede operativa di pianobi, nello specifico una fontana dalla forma zoomorfa.<br/> L'opera sarà fruibile ad un pubblico disparato di addetti ai lavori e non solo, tra cui i pellegrini giunti a Roma in occasione del Giubileo. <br/>I visitatori saranno invitati ad esprimere un loro auguro personale attraverso il rituale gesto di lancio nella fontana una delle monete realizzate e distribuite dall'artista, invitando così il pubblico a partecipare attivamente al rituale<br/>",
         "ReadMore": "Leggi di più ",
         "ReadLess": "Leggi di meno "
       },
-      "time3": "<LaurentLDW1/>Ri-Sorgente <br/>di Laurent le Deunff <br />A cura di Isabella Vitale<br/>Inaugurazione 29 Novembre <br/>alle 19<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto />",
+      "time3": "<LaurentLDW1/>Ri-Sorgente <br/>di Laurent le Deunff <br />A cura di Isabella Vitale<br/>Inaugurazione 29 Novembre <br/>dalle 16 alle 21<br/>PROGETTO PIANOBI <br/> Via dei Ciceri, 97-99<br/> municipio VII<br/><map/><to></to><book></book><foto />",
 
-      "artistList": "Artisti: <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Curatrice:<br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
+      "artistList": "Artista: <br /><carousel_laurent/><book_laurent></book_laurent>LAURENT LE DEUNFF <br /><br/>Curatrice:<br /><carousel_isabella/><bookcarousel_isabella></bookcarousel_isabella>ISABELLA VITALE <br /><br/>Accesso libero<br/><br/><br/>",
       "location1": {
         "name": "",
         "imageAlt": "PROGETTO PIANOBI, Via dei Ciceri, 97-99, Roma",
@@ -354,7 +367,7 @@
       "sectionTitle": "APPUNTAMENTO 7",
       "name": "Un opera per Don Sardelli",
       "time": "",
-      "description": "<br/><br/><br/>Il 29 Novembre alle 18.00 <br/>Inaugurazione del monumento a Don Sardelli",
+      "description": "<br/><br/><br/>Il 29 Novembre dalle 18 alle 21 <br/>Inaugurazione del monumento a Don Sardelli",
       "DonSardelli": "Don Sardelli <carousel_DonSardelliIT/><br/><br/>",
       "artistList": "Artista: <br/><carousel_alfredo/><book_alfredo></book_alfredo>ALFREDO PIRRI<br/><br />Curatrice:<br/><carousel_adriana/><book_adriana></book_adriana> ADRIANA POLVERONI<br /><br /> Accesso libero",
 

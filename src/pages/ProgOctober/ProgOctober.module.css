@@ -400,6 +400,14 @@
   color: rgb(23, 71, 127);
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
+.TitleUrbis {
+  text-align: center;
+  font-size: 24px;
+  color: rgb(23, 71, 127);
+  font-family: "Poppins-Medium", Arial, sans-serif;
+  margin-bottom: 0;
+  margin-top: 25px;
+}
 
 @media (max-width: 1224px) {
   .ProgrammaPageTitle,
@@ -413,7 +421,14 @@
   .ArtistList {
     width: 90%;
   }
-
+  .TitleUrbis {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(23, 71, 127);
+    font-family: "Poppins-Medium", Arial, sans-serif;
+    margin-bottom: 0;
+    margin-top: 25px;
+  }
   .Foto {
     width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 275px;
@@ -519,7 +534,14 @@
   .ArtistList {
     width: 90%;
   }
-
+  .TitleUrbis {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(23, 71, 127);
+    font-family: "Poppins-Medium", Arial, sans-serif;
+    margin-bottom: 0;
+    margin-top: 25px;
+  }
   .ProgrammaPageTitle p {
     font-size: 23px;
   }
@@ -634,7 +656,14 @@
   .ArtistList {
     width: 90%;
   }
-
+  .TitleUrbis {
+    text-align: center;
+    font-size: 18px;
+    color: rgb(23, 71, 127);
+    font-family: "Poppins-Medium", Arial, sans-serif;
+    margin-bottom: 0;
+    margin-top: 25px;
+  }
   .ProgrammaPageTitle p {
     font-size: 20px;
   }

@@ -132,6 +132,14 @@ import ToPianoBiIT from "../../assets/images/ToPianoBiIT.png";
 import ToPianoBiEN from "../../assets/images/ToPianoBiEN.png";
 import ToPianoBiFR from "../../assets/images/ToPianoBiFR.png";
 
+import Laghetto from "../../assets/images/Laghetto.png";
+import LaghettoStoryIT from "../../assets/images/LaghettoStoryIT.png";
+import LaghettoStoryEN from "../../assets/images/LaghettoStoryEN.png";
+import LaghettoStoryFR from "../../assets/images/LaghettoStoryFR.png";
+import ToLaghettoIT from "../../assets/images/ToLaghettoIT.png";
+import ToLaghettoEN from "../../assets/images/ToLaghettoEN.png";
+import ToLaghettoFR from "../../assets/images/ToLaghettoFR.png";
+
 import ABalabanoff from "../../assets/images/ABalabanoff.png";
 import ABalabanoffIT from "../../assets/images/ABalabanoffIT.png";
 import ABalabanoffFR from "../../assets/images/ABalabanoffFR.png";
@@ -385,7 +393,21 @@ const ProgNovember = () => {
     en: Confalonieri,
     fr: Confalonieri,
   };
-
+  const ToLaghettoImageMap = {
+    it: ToLaghettoIT,
+    en: ToLaghettoEN,
+    fr: ToLaghettoFR,
+  };
+  const LaghettoBookImageMap = {
+    it: LaghettoStoryIT,
+    en: LaghettoStoryEN,
+    fr: LaghettoStoryFR,
+  };
+  const LaghettoFotoImageMap = {
+    it: Laghetto,
+    en: Laghetto,
+    fr: Laghetto,
+  };
   const PianoBiBookImageMap = {
     it: PianoBiIT,
     en: PianoBiEN,
@@ -753,30 +775,133 @@ const ProgNovember = () => {
           />
         </div>
       </div>
-      {/* ------------------------------------------------5------------------ */}
-      {/* <div className={styles.TitleAppuntamento}>
-        <p>{t("programNovember.appointment5.sectionTitle")}</p>
-      </div> */}
+      {/* ------------------------------------------------ajout fontaine Assenza----------------- */}
       <div className={styles.NameAppuntamento}>
-        <p>{t("programNovember.appointment5.name")}</p>
+        <p>{t("programNovember.descriptionPA.name")}</p>
       </div>
 
-      <div className={styles.EventDescription3}>
+      <div className={styles.EventDescription}>
         <div>
           <Trans
-            i18nKey="programNovember.appointment5.description2"
+            i18nKey="programNovember.descriptionPA.description2"
             components={{ br: <br /> }}
           />
         </div>
       </div>
+      <div className={styles.TitleBrumes}>
+        <p>{t("programNovember.descriptionPA.TitleBrumes")}</p>
+        <p>{t("programNovember.descriptionPA.AuthorBrumes")}</p>
+      </div>
+      <div className={styles.EventDescription}>
+        <ExpandableTransText
+          i18nKeyIntro="programNovember.descriptionPA.TextIntro"
+          i18nKeyFull="programNovember.descriptionPA.TextFull"
+          i18nKeyMore="programNovember.descriptionPA.ReadMore"
+          i18nKeyLess="programNovember.descriptionPA.ReadLess"
+        />
+      </div>
+      <div className={styles.Orari}>
+        <div>
+          <Trans
+            i18nKey="programNovember.descriptionPA.time2"
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton mapQuery={t("programNovember.location2.mapQuery")}>
+                    <img
+                      src={simbolmapp}
+                      alt={t("programNovember.mapSymbolAlt")}
+                    />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToLaghettoImageMap}
+                  altKey="programNovember.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={LaghettoBookImageMap}
+                  altKey="programNovember.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={LaghettoFotoImageMap}
+                  altKey="programNovember.fotoAlt"
+                />
+              ),
+            }}
+          />
 
+          <div className={styles.ArtistList}>
+            <div>
+              <Trans
+                i18nKey="programNovember.descriptionPA.artistList"
+                components={{
+                  br: <br />,
+
+                  carousel_paolo: (
+                    <ButtonCarousel images={PaoloAssenzaImages} />
+                  ),
+                  book_paolo: (
+                    <Book
+                      className={styles.IconStandard}
+                      imageMap={PaoloAssenzaBookImages}
+                      altKey="programOctober.bookAlt"
+                    />
+                  ),
+
+                  carousel_adriana: (
+                    <ButtonCarousel
+                      images={AdrianaRitImages}
+                      className={styles.IconStandard}
+                    />
+                  ),
+                  book_adriana: (
+                    <Book
+                      className={styles.IconStandard}
+                      imageMap={AdrianaBookImages}
+                      altKey="programOctober.bookAlt"
+                    />
+                  ),
+                }}
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* ------------------------------------------------5------------------ */}
+      {/* <div className={styles.TitleAppuntamento}>
+        <p>{t("programNovember.appointment5.sectionTitle")}</p>
+      </div> */}
+      <div className={styles.TitleRiSorgente}>
+        <p>{t("programNovember.appointment5.description.TitleRiSorgente")}</p>
+        <p>{t("programNovember.appointment5.description.AuthorRiSorgente")}</p>
+      </div>
+
+      <div className={styles.EventDescription}>
+        <ExpandableTransText
+          i18nKeyIntro="programNovember.appointment5.description.TextIntro"
+          i18nKeyFull="programNovember.appointment5.description.TextFull"
+          i18nKeyMore="programNovember.appointment5.description.ReadMore"
+          i18nKeyLess="programNovember.appointment5.description.ReadLess"
+        />
+      </div>
       <div className={styles.Orari}>
         <div>
           <Trans
             i18nKey="programNovember.appointment5.time3"
             components={{
               br: <br />,
-              LaurentLDW1: <FotoPerformance imageKey="LaurentLDW1" />,
+
               map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
@@ -809,17 +934,10 @@ const ProgNovember = () => {
                   altKey="programNovember.fotoAlt"
                 />
               ),
+              LaurentLDW1: <FotoPerformance imageKey="LaurentLDW1" />,
             }}
           />
         </div>
-      </div>
-      <div className={styles.EventDescription}>
-        <ExpandableTransText
-          i18nKeyIntro="programNovember.appointment5.description.TextIntro"
-          i18nKeyFull="programNovember.appointment5.description.TextFull"
-          i18nKeyMore="programNovember.appointment5.description.ReadMore"
-          i18nKeyLess="programNovember.appointment5.description.ReadLess"
-        />
       </div>
 
       <div>

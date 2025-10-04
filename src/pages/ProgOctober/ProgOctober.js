@@ -15,6 +15,41 @@ import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 
+import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
+import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
+import MatteoBBio01FR from "../../assets/images/MatteoBBio01FR.png";
+import MatteoBBio02IT from "../../assets/images/MatteoBBio02IT.png";
+import MatteoBBio02EN from "../../assets/images/MatteoBBio02EN.png";
+import MatteoBBio02FR from "../../assets/images/MatteoBBio02FR.png";
+import MatteoBW01 from "../../assets/images/MatteoBW01.png";
+import MatteoBW02 from "../../assets/images/MatteoBW02.png";
+import MatteoBW03 from "../../assets/images/MatteoBW03.png";
+import MatteoBW04 from "../../assets/images/MatteoBW04.png";
+import MatteoBW05 from "../../assets/images/MatteoBW05.png";
+import MatteoBRit from "../../assets/images/MatteoBRit.png";
+
+import Apice1 from "../../assets/images/Apice1.png";
+import Apice2 from "../../assets/images/Apice2.png";
+import Apice3 from "../../assets/images/Apice3.png";
+import GiuliaACVI from "../../assets/images/GiuliaACVI.png";
+import GiuliaACVE from "../../assets/images/GiuliaACVE.png";
+import GiuliaACVF from "../../assets/images/GiuliaACVF.png";
+
+import Madscud1 from "../../assets/images/Madscud1.png";
+import Madscud2 from "../../assets/images/Madscud2.png";
+import Madscud3 from "../../assets/images/Madscud3.png";
+import MaddalenaCVI from "../../assets/images/MaddalenaCVI.png";
+import MaddalenaCVE from "../../assets/images/MaddalenaCVE.png";
+import MaddalenaCVF from "../../assets/images/MaddalenaCVF.png";
+
+import Acquedotto2 from "../../assets/images/Acquedotto2.png";
+
+import ParcoTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
+import ParcoTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
+import ParcoTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
+import ToParcoTorFiscaleFR from "../../assets/images/ToParcoDiTorFiscaleFR.png";
+import ToParcoTorFiscaleIT from "../../assets/images/ToParcoDiTorFiscaleIT.png";
+import ToParcoTorFiscaleEN from "../../assets/images/ToParcoDiTorFiscaleEN.png";
 import AdrianaRit from "../../assets/images/AdrianaRit.png";
 import AdrianaIT from "../../assets/images/AdrianaIT.png";
 import AdrianaEN from "../../assets/images/AdrianaEN.png";
@@ -119,14 +154,6 @@ import ConfalonieriFR from "../../assets/images/ConfalonieriFR.png";
 import ToConfalonieriIT from "../../assets/images/ToConfalonieriIT.png";
 import ToConfalonieriEN from "../../assets/images/ToConfalonieriEN.png";
 import ToConfalonieriFR from "../../assets/images/ToConfalonieriFR.png";
-
-import Laghetto from "../../assets/images/Laghetto.png";
-import LaghettoStoryIT from "../../assets/images/LaghettoStoryIT.png";
-import LaghettoStoryEN from "../../assets/images/LaghettoStoryEN.png";
-import LaghettoStoryFR from "../../assets/images/LaghettoStoryFR.png";
-import ToLaghettoIT from "../../assets/images/ToLaghettoIT.png";
-import ToLaghettoEN from "../../assets/images/ToLaghettoEN.png";
-import ToLaghettoFR from "../../assets/images/ToLaghettoFR.png";
 
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
@@ -238,6 +265,16 @@ const ProgOctober = () => {
     en: IrmaAlonzoEN,
     fr: IrmaAlonzoFR,
   };
+  const maddalenaScuderoniImages = [
+    { src: Madscud1, alt: "" },
+    { src: Madscud2, alt: "" },
+    { src: Madscud3, alt: "" },
+  ];
+  const maddalenaScuderoniBookImages = {
+    it: MaddalenaCVI,
+    en: MaddalenaCVE,
+    fr: MaddalenaCVF,
+  };
   const MercedesKBookImages = {
     it: MercedesKIT,
     en: MercdesKEN,
@@ -309,22 +346,6 @@ const ProgOctober = () => {
     fr: Confalonieri,
   };
 
-  const ToLaghettoImageMap = {
-    it: ToLaghettoIT,
-    en: ToLaghettoEN,
-    fr: ToLaghettoFR,
-  };
-  const LaghettoBookImageMap = {
-    it: LaghettoStoryIT,
-    en: LaghettoStoryEN,
-    fr: LaghettoStoryFR,
-  };
-  const LaghettoFotoImageMap = {
-    it: Laghetto,
-    en: Laghetto,
-    fr: Laghetto,
-  };
-
   const PianoBiBookImageMap = {
     it: PianoBiIT,
     en: PianoBiEN,
@@ -340,7 +361,50 @@ const ProgOctober = () => {
     en: ToPianoBiEN,
     fr: ToPianoBiFR,
   };
+  const ParcoTorFiscaleBookImageMap = {
+    it: ParcoTorFiscaleIT,
+    en: ParcoTorFiscaleEN,
+    fr: ParcoTorFiscaleFR,
+  };
+  const ToParcoTorFiscaleImageMap = {
+    it: ToParcoTorFiscaleIT,
+    en: ToParcoTorFiscaleEN,
+    fr: ToParcoTorFiscaleFR,
+  };
+  const Acquedotto2FotoImageMap = {
+    it: Acquedotto2,
+    en: Acquedotto2,
+    fr: Acquedotto2,
+  };
+  const GiuliaApiceBookImages = {
+    it: GiuliaACVI,
+    en: GiuliaACVE,
+    fr: GiuliaACVF,
+  };
+  const giuliaApiceImages = [
+    { src: Apice1, alt: "" },
+    { src: Apice2, alt: "" },
+    { src: Apice3, alt: "" },
+  ];
 
+  const MatteoB1BookImages = {
+    it: MatteoBBio01IT,
+    en: MatteoBBio01EN,
+    fr: MatteoBBio01FR,
+  };
+  const MatteoB2BookImages = {
+    it: MatteoBBio02IT,
+    en: MatteoBBio02EN,
+    fr: MatteoBBio02FR,
+  };
+  const MatteoBImages = [
+    { src: MatteoBRit, alt: "" },
+    { src: MatteoBW01, alt: "" },
+    { src: MatteoBW02, alt: "" },
+    { src: MatteoBW03, alt: "" },
+    { src: MatteoBW04, alt: "" },
+    { src: MatteoBW05, alt: "" },
+  ];
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
 
   return (
@@ -733,6 +797,7 @@ const ProgOctober = () => {
           />
         </div>
       </div>
+
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programOctober.appointment5.descriptionMK.TextIntro"
@@ -741,24 +806,18 @@ const ProgOctober = () => {
           i18nKeyLess="programOctober.appointment5.descriptionMK.ReadLess"
         />
       </div>
-
-      <div className={styles.EventDescription}>
-        <ExpandableTransText
-          i18nKeyIntro="programOctober.appointment5.descriptionPA.TextIntro"
-          i18nKeyFull="programOctober.appointment5.descriptionPA.TextFull"
-          i18nKeyMore="programOctober.appointment5.descriptionPA.ReadMore"
-          i18nKeyLess="programOctober.appointment5.descriptionPA.ReadLess"
-        />
+      <div className={styles.TitleUrbis}>
+        <p>{t("programOctober.appointment5.TitleUrbis")}</p>
+        <p>{t("programOctober.appointment5.AuthorUrbis")}</p>
       </div>
+
       <div className={styles.Orari}>
         <div>
           <div className={styles.EventDescription}></div>
-
           <Trans
             i18nKey="programOctober.appointment5.time1"
             components={{
               br: <br />,
-              // MercedesKW1: <FotoPerformance imageKey="MercedesKW1" />,
               map: (
                 <span className={styles.SimbolMapp}>
                   <MapButton
@@ -798,51 +857,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-      <div className={styles.Orari}>
-        <div>
-          <Trans
-            i18nKey="programOctober.appointment5.time2"
-            components={{
-              br: <br />,
-              map: (
-                <span className={styles.SimbolMapp}>
-                  <MapButton
-                    mapQuery={t(
-                      "programOctober.appointment5.location2.mapQuery"
-                    )}
-                  >
-                    <img
-                      src={simbolmapp}
-                      alt={t("programOctober.mapSymbolAlt")}
-                    />
-                  </MapButton>
-                </span>
-              ),
-              to: (
-                <FromStation
-                  className={styles.IconStandard}
-                  imageMap={ToLaghettoImageMap}
-                  altKey="programOctober.fromStationAlt"
-                />
-              ),
-              book: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={LaghettoBookImageMap}
-                  altKey="programOctober.bookAlt"
-                />
-              ),
-              foto: (
-                <Foto
-                  className={styles.IconStandard}
-                  imageMap={LaghettoFotoImageMap}
-                  altKey="programOctober.fotoAlt"
-                />
-              ),
-            }}
-          />
-        </div>
-      </div>
 
       <div className={styles.ArtistList}>
         <div>
@@ -866,7 +880,6 @@ const ProgOctober = () => {
                   altKey="programOctober.bookAlt"
                 />
               ),
-
               carousel_adriana: (
                 <ButtonCarousel
                   images={AdrianaRitImages}
@@ -894,6 +907,127 @@ const ProgOctober = () => {
                   ]}
                   altKey="programOctober.bookAlt"
                   className={styles.IconStandard}
+                />
+              ),
+            }}
+          />
+        </div>
+      </div>
+      <div className={styles.NameAppuntamento}>
+        <p>{t("programOctober.appointmentNew.name")}</p>
+      </div>
+      <div className={styles.Orari}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointmentNew.event2"
+            components={{
+              br: <br />,
+              map: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t(
+                      "programOctober.appointmentNew.location2.mapQuery"
+                    )}
+                  >
+                    <img
+                      src={simbolmapp}
+                      alt={t("programOctober.mapSymbolAlt")}
+                    />
+                  </MapButton>
+                </span>
+              ),
+              to: (
+                <FromStation
+                  className={styles.IconStandard}
+                  imageMap={ToParcoTorFiscaleImageMap}
+                  altKey="programOctober.fromStationAlt"
+                />
+              ),
+              book: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={ParcoTorFiscaleBookImageMap}
+                  altKey="programOctober.bookAlt"
+                />
+              ),
+              foto: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={Acquedotto2FotoImageMap}
+                  altKey="programOctober.fotoAlt"
+                />
+              ),
+            }}
+          />
+        </div>
+      </div>
+
+      {/* <div>
+        <Trans
+          i18nKey="programOctober.appointmentNew.description"
+          components={{ br: <br /> }}
+        />
+      </div> */}
+
+      <div className={styles.ArtistList}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointmentNew.artistList"
+            components={{
+              br: <br />,
+              carousel_giulia: (
+                <ButtonCarousel
+                  images={giuliaApiceImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_giulia: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={GiuliaApiceBookImages}
+                  altKey="programOctober.bookAlt"
+                />
+              ),
+
+              carousel_matteo: (
+                <ButtonCarousel
+                  images={MatteoBImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              bookcarousel_matteo: (
+                <BookCarousel
+                  imageMaps={[MatteoB1BookImages, MatteoB2BookImages]}
+                  altKey="programOctober.bookAlt"
+                  className={styles.IconStandard}
+                />
+              ),
+
+              carousel_maddalena: (
+                <ButtonCarousel
+                  images={maddalenaScuderoniImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_maddalena: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={maddalenaScuderoniBookImages}
+                  altKey="programOctober.bookAlt"
+                />
+              ),
+
+              carousel_adriana: (
+                <ButtonCarousel
+                  images={AdrianaRitImages}
+                  className={styles.IconStandard}
+                />
+              ),
+              book_adriana: (
+                <Book
+                  className={styles.IconStandard}
+                  imageMap={AdrianaBookImages}
+                  altKey="programOctober.bookAlt"
                 />
               ),
             }}
