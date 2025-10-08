@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a54b384b.css",
-    "main.js": "/static/js/main.5ca846fb.js",
+    "main.css": "/static/css/main.c6b7b098.css",
+    "main.js": "/static/js/main.7ffe0858.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
@@ -299,11 +299,11 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.a54b384b.css.map": "/static/css/main.a54b384b.css.map",
-    "main.5ca846fb.js.map": "/static/js/main.5ca846fb.js.map"
+    "main.c6b7b098.css.map": "/static/css/main.c6b7b098.css.map",
+    "main.7ffe0858.js.map": "/static/js/main.7ffe0858.js.map"
   },
   "entrypoints": [
-    "static/css/main.a54b384b.css",
-    "static/js/main.5ca846fb.js"
+    "static/css/main.c6b7b098.css",
+    "static/js/main.7ffe0858.js"
   ]
 }
