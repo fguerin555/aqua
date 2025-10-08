@@ -918,14 +918,7 @@ video:fullscreen {
     .copyright {
       font-size: 10px;
     }
-    .VideoWrapper {
-      width: 100%;
-      max-width: 100%;
-      padding-top: 15px;
-    }
-    .VideoWrapper video {
-      border-radius: 4px;
-    }
+
     @media (max-width: 509px) {
       .VideoWrapperVertical {
         width: 100%;
@@ -936,6 +929,14 @@ video:fullscreen {
       }
 
       .VideoWrapperVertical video {
+        border-radius: 4px;
+      }
+      .VideoWrapper {
+        width: 100%;
+        max-width: 100%;
+        padding-top: 15px;
+      }
+      .VideoWrapper video {
         border-radius: 4px;
       }
     }

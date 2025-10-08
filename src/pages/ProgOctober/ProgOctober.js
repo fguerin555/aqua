@@ -13,6 +13,7 @@ import Foto from "../../components/Foto";
 import FotoFilm from "../../components/FotoFilm";
 
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
+import racconto2 from "../../assets/videos/racconto2.mp4";
 
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
@@ -945,6 +946,12 @@ const ProgOctober = () => {
       </div>
       <div className={styles.NameAppuntamento}>
         <p>{t("programOctober.appointmentNew.name")}</p>
+      </div>
+      {/* video */}
+      <div className={styles.VideoWrapper}>
+        <video width="608" height="480" controls>
+          <source src={racconto2} type="video/mp4" />
+        </video>
       </div>
       <div className={styles.Orari}>
         <div>
