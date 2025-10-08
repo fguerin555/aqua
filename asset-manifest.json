@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6b7b098.css",
-    "main.js": "/static/js/main.7ffe0858.js",
+    "main.css": "/static/css/main.4c85729f.css",
+    "main.js": "/static/js/main.0645c95e.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
+    "static/media/racconto2.mp4": "/static/media/racconto2.9d026cc0c7c5c5f93822.mp4",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/PerfLuca04.png": "/static/media/PerfLuca04.faf809ddf7c944a15e17.png",
@@ -299,11 +300,11 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.c6b7b098.css.map": "/static/css/main.c6b7b098.css.map",
-    "main.7ffe0858.js.map": "/static/js/main.7ffe0858.js.map"
+    "main.4c85729f.css.map": "/static/css/main.4c85729f.css.map",
+    "main.0645c95e.js.map": "/static/js/main.0645c95e.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6b7b098.css",
-    "static/js/main.7ffe0858.js"
+    "static/css/main.4c85729f.css",
+    "static/js/main.0645c95e.js"
   ]
 }
