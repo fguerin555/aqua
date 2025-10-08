@@ -14,7 +14,7 @@ import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
-import EntrataParco from "../../assets/images/EntrataParco.png";
+
 import OeilVide from "../../components/OeilVide";
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
@@ -22,6 +22,8 @@ import OV from "../../assets/images/OeilVide.png";
 
 import RaccontodellAcqua from "../../assets/videos/RaccontodellAcqua.mp4";
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
+
+import EntrataParco from "../../assets/images/EntrataParco.png";
 
 import ARAcqua from "../../assets/videos/ARAcqua.mp4";
 
@@ -387,8 +389,8 @@ const ProgSeptember = () => {
 
   const AcquedottoBookImageMap = {
     it: ParcoTorFiscaleIT,
-    en: AcquedottoEN,
-    fr: AcquedottoFR,
+    en: ParcoTorFiscaleEN,
+    fr: ParcoTorFiscaleFR,
   };
 
   const ViaDellAcquaFeliceFotoImageMap = {
@@ -658,6 +660,7 @@ const ProgSeptember = () => {
       <div className={styles.Name2Appuntamento}>
         <p>{t("programSeptember.appointment1.name2")}</p>
       </div>
+      {/* ---------- */}
       <div className={styles.EventDescription3}>
         <div>
           <Trans

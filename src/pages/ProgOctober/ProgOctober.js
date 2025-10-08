@@ -10,10 +10,21 @@ import FromStation from "../../components/FromStation";
 import Book from "../../components/Book";
 import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
+import FotoFilm from "../../components/FotoFilm";
+
+import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
+
+// import ParcoDiTorFiscaleEN from "../../assets/images/ParcoDiTorFiscaleEN.png";
+// import ParcoDiTorFiscaleFR from "../../assets/images/ParcoDiTorFiscaleFR.png";
+// import ParcoDiTorFiscaleIT from "../../assets/images/ParcoDiTorFiscaleIT.png";
+import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
+import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
+import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
+import EntrataParco from "../../assets/images/EntrataParco.png";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -155,6 +166,8 @@ import ToConfalonieriIT from "../../assets/images/ToConfalonieriIT.png";
 import ToConfalonieriEN from "../../assets/images/ToConfalonieriEN.png";
 import ToConfalonieriFR from "../../assets/images/ToConfalonieriFR.png";
 
+import Acquedotto from "../../assets/images/Acquedotto.png";
+
 import Logo from "../../assets/images/LogoOndaBlue2.png";
 
 import simbolmapp from "../../assets/images/simbolmapp.png";
@@ -189,6 +202,23 @@ const ProgOctober = () => {
     it: PaoloAssenzaIT,
     en: PaoloAssenzaEN,
     fr: PaoloAssenzaFR,
+  };
+
+  const AcquedottoBookImageMap = {
+    it: ParcoTorFiscaleIT,
+    en: ParcoTorFiscaleEN,
+    fr: ParcoTorFiscaleFR,
+  };
+  const ToAcquedottoImageMap = {
+    it: ToAcquedottoIT,
+    en: ToAcquedottoEN,
+    fr: ToAcquedottoFR,
+  };
+
+  const EntrataParcoFotoImageMap = {
+    it: EntrataParco,
+    en: EntrataParco,
+    fr: EntrataParco,
   };
 
   const lorenzaRicciImages = [
@@ -1035,9 +1065,142 @@ const ProgOctober = () => {
         </div>
       </div>
 
-      {/* ------------------------------------------------6------------------ */}
+      {/* ------------------------------------------Ajout Bruno di MArino----------------- */}
+      <div className={styles.NameAppuntamento}>
+        <p>{t("programOctober.appointment6.name")}</p>
+      </div>
+      <div className={styles.Name2Appuntamento}>
+        <p>{t("programOctober.appointment6.name2")}</p>
+      </div>
+      <div className={styles.Foto}>
+        <img
+          src={Acquedotto}
+          alt={t("programOctober.appointment6.location1.imageAlt")}
+        />
+      </div>
+      <div className={styles.Luoghi}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.location1.address"
+            components={{
+              book_Acquedotto: (
+                <Book
+                  imageMap={AcquedottoBookImageMap}
+                  altKey="programOctober.bookAlt"
+                />
+              ),
+              map1: (
+                <span className={styles.SimbolMapp}>
+                  <MapButton
+                    mapQuery={t(
+                      "programOctober.appointment6.location1.mapQuery"
+                    )}
+                  >
+                    <img
+                      src={simbolmapp}
+                      alt={t("programOctober.mapSymbolAlt")}
+                    />
+                  </MapButton>
+                </span>
+              ),
+              toAcquedotto: (
+                <FromStation
+                  imageMap={ToAcquedottoImageMap}
+                  altKey="programOctober.fromStationAlt"
+                />
+              ),
+              fotoEntrataParco: (
+                <Foto
+                  className={styles.IconStandard}
+                  imageMap={EntrataParcoFotoImageMap}
+                  altKey="programOctober.fotoAlt"
+                />
+              ),
+            }}
+          />
+        </div>
+      </div>
 
-      {/* ------------------------------------------------7------------------ */}
+      <div className={styles.VideoWrapperVertical}>
+        <video width="640" controls>
+          <source src={Liquefazioni} type="video/mp4" />
+        </video>
+      </div>
+
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.description"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.descriptionTitle6"
+            components={{
+              br: <br />,
+            }}
+          />
+        </div>
+      </div>
+
+      <div className={styles.EventDescription4}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.descriptionProgram6"
+            components={{
+              br: <br />,
+              i: <i />,
+              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
+              fotoKarma: <FotoFilm imageKey="Karma" />,
+              fotoLaPiuLontanaPatria: (
+                <FotoFilm imageKey="LaPiuLontanaPatria" />
+              ),
+              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
+            }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.CriticTextTitle"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+      <div className={styles.EventDescription}>
+        <ExpandableTransText
+          i18nKeyIntro="programOctober.appointment6.CriticTextIntro"
+          i18nKeyFull="programOctober.appointment6.CriticTextFull"
+          i18nKeyMore="programOctober.appointment6.ReadMore"
+          i18nKeyLess="programOctober.appointment6.ReadLess"
+        />
+      </div>
+
+      <div className={styles.EventDescription3}>
+        <div>
+          <Trans
+            i18nKey="programOctober.appointment6.description"
+            components={{ br: <br /> }}
+          />
+        </div>
+      </div>
+
+      {/* <div className={styles.EventDescriptionShort}></div>
+      <div className={styles.Orari}>
+        <div>
+          <Trans i18nKey="programOctober.appointment6.location1.time_and_name" />
+        </div>
+      </div> */}
+
       <div className={styles.socials}>
         <div className={styles.socialRow}>
           <p>{t("home.socials")}</p>
