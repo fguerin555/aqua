@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4c85729f.css",
-    "main.js": "/static/js/main.0645c95e.js",
+    "main.js": "/static/js/main.9d11423b.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
@@ -226,11 +226,9 @@
     "static/media/LorenzaCVE.png": "/static/media/LorenzaCVE.4b97349796a196e95e55.png",
     "static/media/ToLagoExSNIAEFR.png": "/static/media/ToLagoExSNIAEFR.cbc793533d3066eceff3.png",
     "static/media/LucaGCVE.png": "/static/media/LucaGCVE.9968626169d1b54de4a4.png",
-    "static/media/AcquedottoEN.png": "/static/media/AcquedottoEN.7d165c112131214bccc9.png",
     "static/media/ParcoDiTorFiscaleEN.png": "/static/media/ParcoDiTorFiscaleEN.7d165c112131214bccc9.png",
     "static/media/ToCasaPirriEN.png": "/static/media/ToCasaPirriEN.c0b41de2cf0671c102db.png",
     "static/media/ToPianoBiIT.png": "/static/media/ToPianoBiIT.aec466ff90b76ea90e0b.png",
-    "static/media/AcquedottoFR.png": "/static/media/AcquedottoFR.5974249d9afdc1c38436.png",
     "static/media/ParcoDiTorFiscaleFR.png": "/static/media/ParcoDiTorFiscaleFR.5974249d9afdc1c38436.png",
     "static/media/LucaGCVI.png": "/static/media/LucaGCVI.d14fab8aa5482b69c816.png",
     "static/media/ToLaghettoIT.png": "/static/media/ToLaghettoIT.70d2c95a1d7b4d4ba1dc.png",
@@ -301,10 +299,10 @@
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
     "main.4c85729f.css.map": "/static/css/main.4c85729f.css.map",
-    "main.0645c95e.js.map": "/static/js/main.0645c95e.js.map"
+    "main.9d11423b.js.map": "/static/js/main.9d11423b.js.map"
   },
   "entrypoints": [
     "static/css/main.4c85729f.css",
-    "static/js/main.0645c95e.js"
+    "static/js/main.9d11423b.js"
   ]
 }
