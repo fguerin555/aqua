@@ -808,10 +808,12 @@ const ProgNovember = () => {
               br: <br />,
               map: (
                 <span className={styles.SimbolMapp}>
-                  <MapButton mapQuery={t("programNovember.location2.mapQuery")}>
+                  <MapButton
+                    mapQuery={t("programNovember.descriptionPA.mapQuery")}
+                  >
                     <img
                       src={simbolmapp}
-                      alt={t("programNovember.mapSymbolAlt")}
+                      alt={t("programNovember.descriptionPA.mapSymbolAlt")}
                     />
                   </MapButton>
                 </span>
@@ -820,21 +822,21 @@ const ProgNovember = () => {
                 <FromStation
                   className={styles.IconStandard}
                   imageMap={ToLaghettoImageMap}
-                  altKey="programNovember.fromStationAlt"
+                  altKey="programNovember.descriptionPA.fromStationAlt"
                 />
               ),
               book: (
                 <Book
                   className={styles.IconStandard}
                   imageMap={LaghettoBookImageMap}
-                  altKey="programNovember.bookAlt"
+                  altKey="programNovember.descriptionPA.bookAlt"
                 />
               ),
               foto: (
                 <Foto
                   className={styles.IconStandard}
                   imageMap={LaghettoFotoImageMap}
-                  altKey="programNovember.fotoAlt"
+                  altKey="programNovember.descriptionPA.fotoAlt"
                 />
               ),
             }}

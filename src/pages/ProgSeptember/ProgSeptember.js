@@ -111,7 +111,6 @@ import IginiodeLucaFR from "../../assets/images/IginiodeLucaFR.png";
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
 import Acquedotto from "../../assets/images/Acquedotto.png";
-import Acquedotto2 from "../../assets/images/Acquedotto2.png";
 
 import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";
 import ToCasaPirriEN from "../../assets/images/ToCasaPirriEN.png";
@@ -129,8 +128,6 @@ import SpazioYIT from "../../assets/images/SpazioYIT.png";
 import SpazioYEN from "../../assets/images/SpazioYEN.png";
 import SpazioYFR from "../../assets/images/SpazioYFR.png";
 
-import AcquedottoEN from "../../assets/images/AcquedottoEN.png";
-import AcquedottoFR from "../../assets/images/AcquedottoFR.png";
 import ToAcquedottoEN from "../../assets/images/ToAcquedottoEN.png";
 import ToAcquedottoIT from "../../assets/images/ToAcquedottoIT.png";
 import ToAcquedottoFR from "../../assets/images/ToAcquedottoFR.png";
@@ -225,14 +222,6 @@ const ProgSeptember = () => {
     { src: Apice2, alt: "" },
     { src: Apice3, alt: "" },
   ];
-  // const APirriImages = [
-  //   { src: APirriRit, alt: "" },
-  //   { src: APirriW01, alt: "" },
-  //   { src: APirriW02, alt: "" },
-  //   { src: APirriW03, alt: "" },
-  //   { src: APirriW04, alt: "" },
-  //   { src: APirriW05, alt: "" },
-  // ];
 
   const MatteoBImages = [
     { src: MatteoBRit, alt: "" },
@@ -515,11 +504,11 @@ const ProgSeptember = () => {
     fr: ParcodiTorFiscale2,
   };
 
-  const Acquedotto2FotoImageMap = {
-    it: Acquedotto2,
-    en: Acquedotto2,
-    fr: Acquedotto2,
-  };
+  // const Acquedotto2FotoImageMap = {
+  //   it: Acquedotto2,
+  //   en: Acquedotto2,
+  //   fr: Acquedotto2,
+  // };
 
   const ViaDiTorreBrancaBookImageMap = {
     it: ViaDiTorreBrancaIT,
