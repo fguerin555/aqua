@@ -1161,16 +1161,16 @@ const ProgOctober = () => {
             components={{
               br: <br />,
               i: <i />,
-              fotoIlNuotatore: <FotoFilm imageKey="IlNuotatore" />,
+              fotoPryntil: <FotoFilm imageKey="IlNuotatore" />,
               fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
               fotoKarma: <FotoFilm imageKey="Karma" />,
-              fotoLaPiuLontanaPatria: (
-                <FotoFilm imageKey="LaPiuLontanaPatria" />
-              ),
-              fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
-              fotoPryntil: <FotoFilm imageKey="Pryntil" />,
-              fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
-              fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
+              // fotoLaPiuLontanaPatria: (
+              //   <FotoFilm imageKey="LaPiuLontanaPatria" />
+              // ),
+              // fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
+              // fotoPryntil: <FotoFilm imageKey="Pryntil" />,
+              // fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
+              // fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1192,21 +1192,21 @@ const ProgOctober = () => {
         />
       </div>
 
-      <div className={styles.EventDescription3}>
+      {/* <div className={styles.EventDescription3}>
         <div>
           <Trans
             i18nKey="programOctober.appointment6.description"
             components={{ br: <br /> }}
           />
         </div>
-      </div>
+      </div> */}
 
-      {/* <div className={styles.EventDescriptionShort}></div>
+      <div className={styles.EventDescriptionShort}></div>
       <div className={styles.Orari}>
         <div>
           <Trans i18nKey="programOctober.appointment6.location1.time_and_name" />
         </div>
-      </div> */}
+      </div>
 
       <div className={styles.socials}>
         <div className={styles.socialRow}>
