@@ -14,6 +14,7 @@ import FotoFilm from "../../components/FotoFilm";
 
 import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 import racconto2 from "../../assets/videos/racconto2.mp4";
+import ottobre7 from "../../assets/videos/ottobre7.mp4";
 
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
@@ -683,6 +684,12 @@ const ProgOctober = () => {
             }}
           />
         </div>
+      </div>
+      {/* video  */}
+      <div className={styles.VideoWrapper}>
+        <video width="1920" height="1080" controls>
+          <source src={ottobre7} type="video/mp4" />
+        </video>
       </div>
 
       <div className={styles.Orari}>
