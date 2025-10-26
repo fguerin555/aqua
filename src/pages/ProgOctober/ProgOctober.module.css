@@ -425,16 +425,44 @@
   box-shadow: 3px 3px 5px #272727;
 }
 
-.VideoWrapperVertical video {
+/* .VideoWrapperVertical video {
   width: 100%;
   height: 100%;
   object-fit: cover;
-}
+} */
 video:fullscreen {
   max-height: 90vh;
   max-width: 90vw;
   object-fit: contain;
 }
+
+/* styles.VideoWrapper */
+.VideoWrapper7ottobre {
+  position: relative;
+  width: 100%;
+  max-width: 1280px;
+  aspect-ratio: 16 / 9;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px #272727;
+}
+
+/* Style de la vidéo */
+.VideoWrapper7ottobre video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+/* Plein écran */
+video:fullscreen,
+.VideoWrapper7ottobre:fullscreen {
+  width: 100vw;
+  height: 100vh;
+  object-fit: contain;
+}
+
 @media screen and (min-width: 1600px) {
   .VideoWrapperVertical {
     max-width: 700px; /* ou plus selon ton design */

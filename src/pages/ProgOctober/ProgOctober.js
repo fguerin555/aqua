@@ -686,8 +686,8 @@ const ProgOctober = () => {
         </div>
       </div>
       {/* video  */}
-      <div className={styles.VideoWrapper}>
-        <video width="1920" height="1080" controls>
+      <div className={styles.VideoWrapper7ottobre}>
+        <video controls>
           <source src={ottobre7} type="video/mp4" />
         </video>
       </div>
