@@ -16,6 +16,7 @@ import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 import racconto2 from "../../assets/videos/racconto2.mp4";
 import ottobre7 from "../../assets/videos/ottobre7.mp4";
 import ottobre23 from "../../assets/videos/ottobre23.mp4";
+import BrunodiMarino from "../../assets/videos/BrunodiMarino.mp4";
 
 import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
@@ -452,9 +453,7 @@ const ProgOctober = () => {
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
       {/* ----------------------------------------------------1-------------- */}
-
       {/* --------------------------------------------------3------------- */}
-
       {/* ------------------------------------------------4------------------ */}
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programOctober.appointment4.sectionTitle")}</p>
@@ -601,7 +600,11 @@ const ProgOctober = () => {
         </div>
       </div>
       <ComicBlock imageKey="Lorenza2" />
-
+      <div className={styles.VideoWrapper7ottobre}>
+        <video controls>
+          <source src={ottobre23} type="video/mp4" />
+        </video>
+      </div>
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -692,7 +695,6 @@ const ProgOctober = () => {
           <source src={ottobre7} type="video/mp4" />
         </video>
       </div>
-
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -743,11 +745,6 @@ const ProgOctober = () => {
             components={{ br: <br /> }}
           />
         </div>
-      </div>
-      <div className={styles.VideoWrapper7ottobre}>
-        <video controls>
-          <source src={ottobre23} type="video/mp4" />
-        </video>
       </div>
       <div className={styles.ArtistList}>
         <div>
@@ -832,7 +829,6 @@ const ProgOctober = () => {
       <div className={styles.NameAppuntamento}>
         <p>{t("programOctober.appointment5.name")}</p>
       </div>
-
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -841,7 +837,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programOctober.appointment5.descriptionMK.TextIntro"
@@ -854,7 +849,6 @@ const ProgOctober = () => {
         <p>{t("programOctober.appointment5.TitleUrbis")}</p>
         <p>{t("programOctober.appointment5.AuthorUrbis")}</p>
       </div>
-
       <div className={styles.Orari}>
         <div>
           <div className={styles.EventDescription}></div>
@@ -901,7 +895,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1011,14 +1004,12 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       {/* <div>
         <Trans
           i18nKey="programOctober.appointmentNew.description"
           components={{ br: <br /> }}
         />
       </div> */}
-
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1084,7 +1075,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       {/* ------------------------------------------Ajout Bruno di MArino----------------- */}
       <div className={styles.NameAppuntamento}>
         <p>{t("programOctober.appointment6.name")}</p>
@@ -1140,13 +1130,11 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.VideoWrapperVertical}>
         <video width="640" controls>
           <source src={Liquefazioni} type="video/mp4" />
         </video>
       </div>
-
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -1155,7 +1143,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -1166,7 +1153,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription4}>
         <div>
           <Trans
@@ -1188,6 +1174,12 @@ const ProgOctober = () => {
           />
         </div>
       </div>
+      <div className={styles.VideoWrapper7ottobre}>
+        <video controls>
+          <source src={BrunodiMarino} type="video/mp4" />
+        </video>
+      </div>
+
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -1204,7 +1196,6 @@ const ProgOctober = () => {
           i18nKeyLess="programOctober.appointment6.ReadLess"
         />
       </div>
-
       {/* <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -1213,14 +1204,12 @@ const ProgOctober = () => {
           />
         </div>
       </div> */}
-
       <div className={styles.EventDescriptionShort}></div>
       <div className={styles.Orari}>
         <div>
           <Trans i18nKey="programOctober.appointment6.location1.time_and_name" />
         </div>
       </div>
-
       <div className={styles.socials}>
         <div className={styles.socialRow}>
           <p>{t("home.socials")}</p>
