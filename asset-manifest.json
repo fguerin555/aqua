@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a6d0508.css",
-    "main.js": "/static/js/main.df0dc480.js",
+    "main.css": "/static/css/main.36f60dc5.css",
+    "main.js": "/static/js/main.43e553b3.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -11,6 +11,11 @@
     "static/media/ottobre7.mp4": "/static/media/ottobre7.8165a2c6c48b48705504.mp4",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
     "static/media/racconto2.mp4": "/static/media/racconto2.9d026cc0c7c5c5f93822.mp4",
+    "static/media/GiuliaPerf08.png": "/static/media/GiuliaPerf08.d78d71a5f901be0a3f37.png",
+    "static/media/GiuliaPerf06.png": "/static/media/GiuliaPerf06.3e2542090be9a4f38ce1.png",
+    "static/media/GiuliaPerf05.png": "/static/media/GiuliaPerf05.69f8e1ce6941bae2c6ce.png",
+    "static/media/GiuliaPerf07.png": "/static/media/GiuliaPerf07.46ff35da2b6a38c0ac01.png",
+    "static/media/GiuliaPerf04.png": "/static/media/GiuliaPerf04.779f0e22c5f6ff83d810.png",
     "static/media/BackgroundFoto5.png": "/static/media/BackgroundFoto5.999f6a881b77918f4f25.png",
     "static/media/PamelaP4.png": "/static/media/PamelaP4.9cf469965a43b7e020bc.png",
     "static/media/PerfLuca04.png": "/static/media/PerfLuca04.faf809ddf7c944a15e17.png",
@@ -26,6 +31,7 @@
     "static/media/ViaDellAcquaFelice.png": "/static/media/ViaDellAcquaFelice.4d4d6c2dc4241728ab00.png",
     "static/media/PerfLuca06.png": "/static/media/PerfLuca06.ece53bf4839bbf60a54e.png",
     "static/media/DonSardelliRit.png": "/static/media/DonSardelliRit.21842e4a96ffb56f9460.png",
+    "static/media/GiuliaPerf10.png": "/static/media/GiuliaPerf10.88135c24261fbbd1ec93.png",
     "static/media/PerfLuca01.png": "/static/media/PerfLuca01.0707c238e9fecc3f5fcd.png",
     "static/media/APirriW04.png": "/static/media/APirriW04.21fdfdb35cf6361cc783.png",
     "static/media/PerfLuca03.png": "/static/media/PerfLuca03.568282c0b960f9c040f7.png",
@@ -47,6 +53,7 @@
     "static/media/ParcodiTorFiscale2.png": "/static/media/ParcodiTorFiscale2.3eafebb594adcb7deb9e.png",
     "static/media/PamelaP2.png": "/static/media/PamelaP2.c217ac9c829884c6e04d.png",
     "static/media/Casale.png": "/static/media/Casale.da2dfc11c5a4d192d2cb.png",
+    "static/media/GiuliaPerf09.png": "/static/media/GiuliaPerf09.46338110b8b0b406d102.png",
     "static/media/IginiodeLucaW6.png": "/static/media/IginiodeLucaW6.8d00d8a2bd7607534c1d.png",
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/APirriRit.png": "/static/media/APirriRit.b881888c9a1def2d2b7f.png",
@@ -54,6 +61,7 @@
     "static/media/Pirri1.png": "/static/media/Pirri1.e9b1d308cbfc692cda30.png",
     "static/media/APirriW03.png": "/static/media/APirriW03.56437a5cb57883d0efc3.png",
     "static/media/App1_Pryntil.png": "/static/media/App1_Pryntil.fc1104f66e563619954d.png",
+    "static/media/GiuliaPerf01.png": "/static/media/GiuliaPerf01.678a6ed369d3a56c7f0a.png",
     "static/media/ViadiTorreBranca.png": "/static/media/ViadiTorreBranca.f334f7c574f27dc95458.png",
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
     "static/media/ViaTuscolana.png": "/static/media/ViaTuscolana.a5f428e1d05bbbc64367.png",
@@ -68,6 +76,7 @@
     "static/media/Giancarlo1.png": "/static/media/Giancarlo1.0dbe1eb50472d3b96dbd.png",
     "static/media/IginiodeLucaW1.png": "/static/media/IginiodeLucaW1.c191c740a73df66a52de.png",
     "static/media/PaoloAssenzaW2.png": "/static/media/PaoloAssenzaW2.6461d5228624715dbfcf.png",
+    "static/media/GiuliaPerf03.png": "/static/media/GiuliaPerf03.24e477fff62bd396f479.png",
     "static/media/Davide2.png": "/static/media/Davide2.394af198679d4c398f0f.png",
     "static/media/IsabellaVitaleEN01.png": "/static/media/IsabellaVitaleEN01.55f876fb2a648658f369.png",
     "static/media/Apice1.png": "/static/media/Apice1.ffd1a74169165c4756fc.png",
@@ -102,6 +111,7 @@
     "static/media/Madscud2.png": "/static/media/Madscud2.ea4689374dfcb735e984.png",
     "static/media/LaghettoStoryEN.png": "/static/media/LaghettoStoryEN.7a10e36c42e70d209663.png",
     "static/media/ViaDellAcquaFeliceEN.png": "/static/media/ViaDellAcquaFeliceEN.53a20545b664b9260839.png",
+    "static/media/GiuliaPerf02.png": "/static/media/GiuliaPerf02.489267a8e94d389c96dd.png",
     "static/media/ViaDiTorreBrancaFR.png": "/static/media/ViaDiTorreBrancaFR.0ddc867d6b3790d7f1f6.png",
     "static/media/CasaleIT.png": "/static/media/CasaleIT.2bb577480481f03d8bf3.png",
     "static/media/ABalabanoffIT.png": "/static/media/ABalabanoffIT.1c5a14463475ab8ddf1d.png",
@@ -302,11 +312,15 @@
     "static/media/Link.png": "/static/media/Link.a6b01f4ac77f68b2e2df.png",
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
-    "main.6a6d0508.css.map": "/static/css/main.6a6d0508.css.map",
-    "main.df0dc480.js.map": "/static/js/main.df0dc480.js.map"
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.36f60dc5.css.map": "/static/css/main.36f60dc5.css.map",
+    "main.43e553b3.js.map": "/static/js/main.43e553b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a6d0508.css",
-    "static/js/main.df0dc480.js"
+    "static/css/main.36f60dc5.css",
+    "static/js/main.43e553b3.js"
   ]
 }
