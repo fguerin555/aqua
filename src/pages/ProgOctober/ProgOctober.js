@@ -1,6 +1,10 @@
 import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgOctober.module.css";
+
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import SliderSlick from "../../components/SliderSlick";
 import FotoPerformance from "../../components/FotoPerformance";
 import ExpandableTransText from "../../components/ExpandableTransText";
 import ComicBlock from "../../components/ComicBlock";
@@ -442,6 +446,19 @@ const ProgOctober = () => {
   ];
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
 
+  const images = [
+    require("../../assets/images/GiuliaPerf01.png"),
+    require("../../assets/images/GiuliaPerf02.png"),
+    require("../../assets/images/GiuliaPerf03.png"),
+    require("../../assets/images/GiuliaPerf04.png"),
+    require("../../assets/images/GiuliaPerf05.png"),
+    require("../../assets/images/GiuliaPerf06.png"),
+    require("../../assets/images/GiuliaPerf07.png"),
+    require("../../assets/images/GiuliaPerf08.png"),
+    require("../../assets/images/GiuliaPerf09.png"),
+    require("../../assets/images/GiuliaPerf10.png"),
+  ];
+
   return (
     <div className={styles.ProgrammaPage}>
       <div className={styles.BackgroundFoto}>
@@ -507,13 +524,11 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-
       <div className={styles.VideoWrapper7ottobre}>
         <video controls>
           <source src={Argila} type="video/mp4" />
         </video>
       </div>
-
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -1012,12 +1027,15 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-      {/* <div>
+      <div className={styles.EventDescription3}>
         <Trans
           i18nKey="programOctober.appointmentNew.description"
-          components={{ br: <br /> }}
+          components={{
+            br: <br />,
+          }}
         />
-      </div> */}
+      </div>
+      <SliderSlick images={images} className={styles.IconStandard} />
       <div className={styles.ArtistList}>
         <div>
           <Trans

@@ -1,0 +1,145 @@
+.sliderContainer {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: auto;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+
+.slide {
+  margin-bottom: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+
+.image {
+  width: 100%;
+  height: 1500px;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 2px;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 10;
+  width: 48px;
+  height: 48px;
+  background-color: rgba(255, 255, 255, 0.7); /* plus opaque */
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+
+  font-size: 24px; /* adapte selon ton icône ou caractère */
+  color: #333; /* couleur de la flèche */
+  padding: 0;
+  border: none;
+}
+
+.arrow:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.left {
+  left: 32px; /* éloigné du bord */
+}
+
+.right {
+  right: 32px;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1224px) {
+  .arrow {
+    width: 50px;
+    height: 50px;
+  }
+  .arrowIcon {
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 768px) {
+  .arrow {
+    width: 40px;
+    height: 40px;
+  }
+  .arrowIcon {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 509px) {
+  .arrow {
+    width: 32px;
+    height: 32px;
+  }
+  .arrowIcon {
+    font-size: 20px;
+  }
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1224px) {
+  .arrow {
+    width: 35px;
+    height: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .arrow {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+@media (max-width: 509px) {
+  .arrow {
+    width: 25px;
+    height: 25px;
+  }
+}
+
+.image {
+  width: 100%;
+  object-fit: cover;
+}
+
+/* Grand écran */
+@media (min-width: 1225px) {
+  .image {
+    height: 100%;
+    max-height: 80vh; /* ou 70vh, selon ton goût */
+    object-fit: contain;
+  }
+}
+
+/* Écran moyen */
+@media (max-width: 1224px) {
+  .image {
+    height: 800px;
+  }
+}
+
+/* Tablette */
+@media (max-width: 768px) {
+  .image {
+    height: 500px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 509px) {
+  .image {
+    height: 300px;
+  }
+}

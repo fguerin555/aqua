@@ -26,9 +26,11 @@
     "react-icons": "^5.5.0",
     "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.31.0",
     "react-toastify": "^11.0.5",
     "react-zxing": "^2.1.0",
     "save": "^2.9.0",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
