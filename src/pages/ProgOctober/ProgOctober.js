@@ -12,7 +12,7 @@ import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
 import FotoFilm from "../../components/FotoFilm";
 
-import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
+// import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 import racconto2 from "../../assets/videos/racconto2.mp4";
 import ottobre7 from "../../assets/videos/ottobre7.mp4";
 import ottobre23 from "../../assets/videos/ottobre23.mp4";
@@ -1130,11 +1130,11 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-      <div className={styles.VideoWrapperVertical}>
+      {/* <div className={styles.VideoWrapperVertical}>
         <video width="640" controls>
           <source src={Liquefazioni} type="video/mp4" />
         </video>
-      </div>
+      </div> */}
       <div className={styles.EventDescription3}>
         <div>
           <Trans
