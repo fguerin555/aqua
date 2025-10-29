@@ -30,7 +30,8 @@
   z-index: 10;
   width: 48px;
   height: 48px;
-  background-color: rgba(255, 255, 255, 0.7); /* plus opaque */
+  background-color: rgba(240, 235, 235, 0.2);
+
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -42,25 +43,28 @@
   color: #333; /* couleur de la flèche */
   padding: 0;
   border: none;
+  line-height: 1;
+  text-align: center;
+  vertical-align: middle;
 }
 
 .arrow:hover {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(240, 235, 235, 0.4);
 }
 
 .left {
-  left: 32px; /* éloigné du bord */
+  left: 8px;
 }
 
 .right {
-  right: 32px;
+  right: 8px;
 }
 
 /* Responsive breakpoints */
 @media (max-width: 1224px) {
   .arrow {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
   }
   .arrowIcon {
     font-size: 28px;
@@ -69,8 +73,8 @@
 
 @media (max-width: 768px) {
   .arrow {
-    width: 40px;
-    height: 40px;
+    width: 20px;
+    height: 20px;
   }
   .arrowIcon {
     font-size: 24px;
@@ -79,8 +83,8 @@
 
 @media (max-width: 509px) {
   .arrow {
-    width: 32px;
-    height: 32px;
+    width: 15px;
+    height: 15px;
   }
   .arrowIcon {
     font-size: 20px;
