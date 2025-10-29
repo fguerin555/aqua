@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6a6d0508.css",
-    "main.js": "/static/js/main.c8a18935.js",
+    "main.js": "/static/js/main.cb819373.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/ottobre23.mp4": "/static/media/ottobre23.424b48e358dd7eee7185.mp4",
@@ -302,10 +302,10 @@
     "static/media/LogoArtLife.png": "/static/media/LogoArtLife.1cc594269d9b8ac48cc3.png",
     "index.html": "/index.html",
     "main.6a6d0508.css.map": "/static/css/main.6a6d0508.css.map",
-    "main.c8a18935.js.map": "/static/js/main.c8a18935.js.map"
+    "main.cb819373.js.map": "/static/js/main.cb819373.js.map"
   },
   "entrypoints": [
     "static/css/main.6a6d0508.css",
-    "static/js/main.c8a18935.js"
+    "static/js/main.cb819373.js"
   ]
 }
