@@ -10,7 +10,7 @@ import ScrollToTop from "../../components/ScrollToTop";
 // import Slider from "../../components/Slider";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import SliderSlick from "../../components/SliderSlick";
+import SliderNew from "../../components/SliderNew";
 
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -1072,58 +1072,11 @@ const ProgSeptember = () => {
                 br: <br />,
               }}
             />
-            <SliderSlick images={images} className={styles.IconStandard} />
           </div>
-          SLIDER
-          {/* <div className={styles.FotoPerf}>
-            <Slider />
-          </div> */}
-          {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
-          {/* <div className={styles.Orari}>
-            <div>
-              <Trans
-                i18nKey="programSeptember.appointment3.event2"
-                components={{
-                  br: <br />,
-                  map: (
-                    <span className={styles.SimbolMapp}>
-                      <MapButton
-                        mapQuery={t(
-                          "programSeptember.appointment3.location2.mapQuery"
-                        )}
-                      >
-                        <img
-                          src={simbolmapp}
-                          alt={t("programSeptember.mapSymbolAlt")}
-                        />
-                      </MapButton>
-                    </span>
-                  ),
-                  to: (
-                    <FromStation
-                      className={styles.IconStandard}
-                      imageMap={ToParcoTorFiscaleImageMap}
-                      altKey="programSeptember.fromStationAlt"
-                    />
-                  ),
-                  book: (
-                    <Book
-                      className={styles.IconStandard}
-                      imageMap={ParcoTorFiscaleBookImageMap}
-                      altKey="programSeptember.bookAlt"
-                    />
-                  ),
-                  foto: (
-                    <Foto
-                      className={styles.IconStandard}
-                      imageMap={Acquedotto2FotoImageMap}
-                      altKey="programSeptember.fotoAlt"
-                    />
-                  ),
-                }}
-              />
-            </div>
-          </div>  */}
+          <div>
+            <SliderNew images={images} className={styles.IconStandard} />
+            {/* SLIDER */}
+          </div>
           <div>
             <Trans
               i18nKey="programSeptember.appointment3.description"

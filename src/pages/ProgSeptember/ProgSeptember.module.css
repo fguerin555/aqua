@@ -499,6 +499,20 @@ video:fullscreen {
   border-radius: 2px;
   box-shadow: 3px 3px 5px #272727;
 }
+@media (min-width: 1225px) {
+  video:fullscreen,
+  video:-webkit-full-screen {
+    width: 100vw;
+    height: 100vh;
+    object-fit: contain;
+    z-index: 9999;
+  }
+
+  .VideoWrapper {
+    overflow: visible;
+  }
+}
+
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
   .VideoWrapperVertical {
