@@ -7,7 +7,10 @@ import QRcode3D from "../../assets/images/QRcode3D.png";
 import FotoPerQRcode from "../../assets/images/FotoPerQRcode.jpg";
 import MapButton from "../../components/MapButton";
 import ScrollToTop from "../../components/ScrollToTop";
-import Slider from "../../components/Slider";
+// import Slider from "../../components/Slider";
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import SliderSlick from "../../components/SliderSlick";
 
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -630,7 +633,14 @@ const ProgSeptember = () => {
       fotoSrc: ViaTuscolana,
     },
   ];
-
+  const images = [
+    require("../../assets/images/PerfLuca01.png"),
+    require("../../assets/images/PerfLuca02.png"),
+    require("../../assets/images/PerfLuca03.png"),
+    require("../../assets/images/PerfLuca04.png"),
+    require("../../assets/images/PerfLuca05.png"),
+    require("../../assets/images/PerfLuca06.png"),
+  ];
   return (
     <div className={styles.ProgrammaPage}>
       <div className={styles.BackgroundFoto}>
@@ -1050,7 +1060,6 @@ const ProgSeptember = () => {
               }}
             />
           </div>
-
           <div className={styles.VideoWrapper}>
             <video width="640" height="360" controls>
               <source src={RaccontodellAcqua} type="video/mp4" />
@@ -1063,11 +1072,12 @@ const ProgSeptember = () => {
                 br: <br />,
               }}
             />
+            <SliderSlick images={images} className={styles.IconStandard} />
           </div>
-          <div className={styles.FotoPerf}>
+          SLIDER
+          {/* <div className={styles.FotoPerf}>
             <Slider />
-          </div>
-
+          </div> */}
           {/* 🏛️ Evento 2 — Parco di Tor Fiscale */}
           {/* <div className={styles.Orari}>
             <div>
