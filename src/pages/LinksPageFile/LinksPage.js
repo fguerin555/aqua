@@ -36,7 +36,8 @@ const LinksPage = () => {
         <div className={styles.LogoCiC}>
           <img src={LogoCiC} alt={t("links.logoCiC")} />
           <a href="https://cielincitta.org" rel="noopener noreferrer">
-            <p>{t("links.cielincitta")}</p>
+            {/* <p>{t("links.cielincitta")}</p> */}
+            Associazione Ciel'in Città
           </a>
         </div>
       </div>
