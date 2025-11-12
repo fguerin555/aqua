@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1cc09083.css",
-    "main.js": "/static/js/main.4e3bf484.js",
+    "main.js": "/static/js/main.a7b4261d.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -42,6 +42,7 @@
     "static/media/App1_LaPiuLontanaPatria.png": "/static/media/App1_LaPiuLontanaPatria.b044ed1f104f129558e6.png",
     "static/media/EntrataParco.png": "/static/media/EntrataParco.0a879e84add273654c86.png",
     "static/media/ViaDellAcquedottoFelice.png": "/static/media/ViaDellAcquedottoFelice.6463cb7966866bab40f3.png",
+    "static/media/FontanaBrume.png": "/static/media/FontanaBrume.3f221c9fae69f5592038.png",
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
     "static/media/Acquedotto2.png": "/static/media/Acquedotto2.ae2bacdc322e9643cbdc.png",
@@ -317,10 +318,10 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.1cc09083.css.map": "/static/css/main.1cc09083.css.map",
-    "main.4e3bf484.js.map": "/static/js/main.4e3bf484.js.map"
+    "main.a7b4261d.js.map": "/static/js/main.a7b4261d.js.map"
   },
   "entrypoints": [
     "static/css/main.1cc09083.css",
-    "static/js/main.4e3bf484.js"
+    "static/js/main.a7b4261d.js"
   ]
 }
