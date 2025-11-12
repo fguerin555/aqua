@@ -15,6 +15,7 @@ import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
+import FontanaBrume from "../../assets/images/FontanaBrume.png";
 
 import APirriIT from "../../assets/images/APirriIT.png";
 import APirriEN from "../../assets/images/APirriEN.png";
@@ -787,6 +788,12 @@ const ProgNovember = () => {
             components={{ br: <br /> }}
           />
         </div>
+      </div>
+      <div className={styles.Foto}>
+        <img
+          src={FontanaBrume}
+          alt={t("programNovember.descriptionPA.fontanaAlt")}
+        />
       </div>
       <div className={styles.TitleBrumes}>
         <p>{t("programNovember.descriptionPA.TitleBrumes")}</p>
