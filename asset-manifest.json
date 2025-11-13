@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cc09083.css",
-    "main.js": "/static/js/main.a7b4261d.js",
+    "main.css": "/static/css/main.c8c66fc1.css",
+    "main.js": "/static/js/main.304e4416.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -62,6 +62,7 @@
     "static/media/Pirri1.png": "/static/media/Pirri1.e9b1d308cbfc692cda30.png",
     "static/media/APirriW03.png": "/static/media/APirriW03.56437a5cb57883d0efc3.png",
     "static/media/App1_Pryntil.png": "/static/media/App1_Pryntil.fc1104f66e563619954d.png",
+    "static/media/AfficheFontana.png": "/static/media/AfficheFontana.8805a78294a30a26113b.png",
     "static/media/GiuliaPerf01.png": "/static/media/GiuliaPerf01.678a6ed369d3a56c7f0a.png",
     "static/media/ViadiTorreBranca.png": "/static/media/ViadiTorreBranca.f334f7c574f27dc95458.png",
     "static/media/Giancarlo3.png": "/static/media/Giancarlo3.3ecdcce28fbed313349b.png",
@@ -317,11 +318,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.1cc09083.css.map": "/static/css/main.1cc09083.css.map",
-    "main.a7b4261d.js.map": "/static/js/main.a7b4261d.js.map"
+    "main.c8c66fc1.css.map": "/static/css/main.c8c66fc1.css.map",
+    "main.304e4416.js.map": "/static/js/main.304e4416.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cc09083.css",
-    "static/js/main.a7b4261d.js"
+    "static/css/main.c8c66fc1.css",
+    "static/js/main.304e4416.js"
   ]
 }
