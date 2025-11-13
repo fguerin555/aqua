@@ -796,7 +796,7 @@ const ProgNovember = () => {
           alt={t("programNovember.descriptionPA.fontanaAlt")}
         />
       </div>
-      <div className={styles.FotoV}>
+      <div className={styles.FotoAffiche}>
         <img
           src={AfficheFontana}
           alt={t("programNovember.descriptionPA.fontanaAlt")}
