@@ -17,6 +17,7 @@ import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 import FontanaBrume from "../../assets/images/FontanaBrume.png";
 import AfficheFontana from "../../assets/images/AfficheFontana.png";
+import Ceramica from "../../assets/videos/Ceramica.mp4";
 
 import APirriIT from "../../assets/images/APirriIT.png";
 import APirriEN from "../../assets/images/APirriEN.png";
@@ -688,6 +689,12 @@ const ProgNovember = () => {
             }}
           />
         </div>
+        <div className={styles.VideoWrapper7ottobre}>
+          <video controls>
+            <source src={Ceramica} type="video/mp4" />
+          </video>
+        </div>
+        {/* video ceramica */}
         <div>
           <Trans
             i18nKey="programNovember.appointment4.description"
