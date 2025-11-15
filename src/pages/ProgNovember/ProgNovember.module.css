@@ -413,6 +413,24 @@
   color: rgb(23, 71, 127);
   font-family: "Poppins-Italic", Arial, sans-serif;
 }
+.videoCeramica {
+  max-width: 100%;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+}
+.videoCeramica iframe {
+  border-radius: 10px;
+  border: 5px solid #6a91d3;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+}
 
 @media (max-width: 1224px) {
   .ProgrammaPageTitle,
@@ -546,6 +564,11 @@
     object-fit: contain;
     display: block;
   }
+
+  Ceramicavideo iframe {
+    min-width: 95%;
+    height: 40vh;
+  }
 }
 
 @media (max-width: 768px) {
@@ -673,6 +696,14 @@
   .copyright {
     font-size: 10px;
   }
+  .iframe {
+    width: 800px;
+    height: 600px;
+  }
+  .large-iframe {
+    width: 800px;
+    height: 600px;
+  }
 }
 
 @media (max-width: 509px) {
@@ -789,5 +820,13 @@
   }
   .copyright {
     font-size: 10px;
+  }
+  .iframe {
+    width: 800px;
+    height: 600px;
+  }
+  .large-iframe {
+    width: 800px;
+    height: 600px;
   }
 }
