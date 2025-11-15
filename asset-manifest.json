@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.0033206c.css",
-    "main.js": "/static/js/main.dc3c586f.js",
+    "main.css": "/static/css/main.b3a841f7.css",
+    "main.js": "/static/js/main.4f7cd1a0.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
-    "static/media/Ceramica.mp4": "/static/media/Ceramica.e9d4c7ada89c858649c8.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/ottobre23.mp4": "/static/media/ottobre23.424b48e358dd7eee7185.mp4",
@@ -319,11 +318,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.0033206c.css.map": "/static/css/main.0033206c.css.map",
-    "main.dc3c586f.js.map": "/static/js/main.dc3c586f.js.map"
+    "main.b3a841f7.css.map": "/static/css/main.b3a841f7.css.map",
+    "main.4f7cd1a0.js.map": "/static/js/main.4f7cd1a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.0033206c.css",
-    "static/js/main.dc3c586f.js"
+    "static/css/main.b3a841f7.css",
+    "static/js/main.4f7cd1a0.js"
   ]
 }
