@@ -690,7 +690,7 @@ const ProgNovember = () => {
         </div>
         <div className={styles.videoCeramica}>
           <iframe
-            src="https://www.youtube.com/embed/Vv94m_YSccc"
+            src="https://www.youtube.com/embed/-Vaic0UODUo"
             title="Ceramica"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerPolicy="strict-origin-when-cross-origin"
