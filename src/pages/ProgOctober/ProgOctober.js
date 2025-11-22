@@ -446,7 +446,7 @@ const ProgOctober = () => {
   ];
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
 
-  const images = [
+  const imagesGiulia = [
     require("../../assets/images/GiuliaPerf01.png"),
     require("../../assets/images/GiuliaPerf02.png"),
     require("../../assets/images/GiuliaPerf03.png"),
@@ -457,6 +457,10 @@ const ProgOctober = () => {
     require("../../assets/images/GiuliaPerf08.png"),
     require("../../assets/images/GiuliaPerf09.png"),
     require("../../assets/images/GiuliaPerf10.png"),
+  ];
+  const imagesKlausner = [
+    require("../../assets/images/Klausner1.png"),
+    require("../../assets/images/Klausner2.png"),
   ];
 
   return (
@@ -470,12 +474,6 @@ const ProgOctober = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-      {/* ----------------------------------------------------1-------------- */}
-      {/* --------------------------------------------------3------------- */}
-      {/* ------------------------------------------------4------------------ */}
-      {/* <div className={styles.TitleAppuntamento}>
-        <p>{t("programOctober.appointment4.sectionTitle")}</p>
-      </div> */}
       <div className={styles.NameAppuntamento}>
         <p>{t("programOctober.appointment4.name")}</p>
       </div>
@@ -846,9 +844,6 @@ const ProgOctober = () => {
         </div>
       </div>
       {/* ------------------------------------------------5------------------ */}
-      {/* <div className={styles.TitleAppuntamento}>
-        <p>{t("programOctober.appointment5.sectionTitle")}</p>
-      </div> */}
       <div className={styles.NameAppuntamento}>
         <p>{t("programOctober.appointment5.name")}</p>
       </div>
@@ -872,6 +867,10 @@ const ProgOctober = () => {
         <p>{t("programOctober.appointment5.TitleUrbis")}</p>
         <p>{t("programOctober.appointment5.AuthorUrbis")}</p>
       </div>
+
+      <SliderSlick images={imagesKlausner} className={styles.IconStandard} />
+      {/* SliderSlick */}
+
       <div className={styles.Orari}>
         <div>
           <div className={styles.EventDescription}></div>
@@ -1035,7 +1034,7 @@ const ProgOctober = () => {
           }}
         />
       </div>
-      <SliderSlick images={images} className={styles.IconStandard} />
+      <SliderSlick images={imagesGiulia} className={styles.IconStandard} />
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1156,11 +1155,6 @@ const ProgOctober = () => {
           />
         </div>
       </div>
-      {/* <div className={styles.VideoWrapperVertical}>
-        <video width="640" controls>
-          <source src={Liquefazioni} type="video/mp4" />
-        </video>
-      </div> */}
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -1189,13 +1183,6 @@ const ProgOctober = () => {
               fotoPryntil: <FotoFilm imageKey="IlNuotatore" />,
               fotoIlSatiroDanzante: <FotoFilm imageKey="IlSatiroDanzante" />,
               fotoKarma: <FotoFilm imageKey="Karma" />,
-              // fotoLaPiuLontanaPatria: (
-              //   <FotoFilm imageKey="LaPiuLontanaPatria" />
-              // ),
-              // fotoMurodiSabbia: <FotoFilm imageKey="MurodiSabbia" />,
-              // fotoPryntil: <FotoFilm imageKey="Pryntil" />,
-              // fotoSpectralCanticle: <FotoFilm imageKey="SpectralCanticle" />,
-              // fotoVoyagedHiver: <FotoFilm imageKey="VoyagedHiver" />,
             }}
           />
         </div>
@@ -1221,14 +1208,6 @@ const ProgOctober = () => {
           i18nKeyLess="programOctober.appointment6.ReadLess"
         />
       </div>
-      {/* <div className={styles.EventDescription3}>
-        <div>
-          <Trans
-            i18nKey="programOctober.appointment6.description"
-            components={{ br: <br /> }}
-          />
-        </div>
-      </div> */}
       <div className={styles.EventDescriptionShort}></div>
       <div className={styles.Orari}>
         <div>

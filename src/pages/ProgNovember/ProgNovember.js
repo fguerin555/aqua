@@ -1,8 +1,14 @@
 import React from "react";
 import { useTranslation, Trans } from "react-i18next";
 import styles from "./ProgNovember.module.css";
+
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+import SliderSlick from "../../components/SliderSlick";
+
 import FotoPerformance from "../../components/FotoPerformance";
 import ComicBlock from "../../components/ComicBlock";
+
 import ExpandableTransText from "../../components/ExpandableTransText";
 import MapButton from "../../components/MapButton";
 import ButtonCarousel from "../../components/ButtonCarrousel";
@@ -15,7 +21,7 @@ import Facebook from "../../assets/images/Facebook.png";
 import Instagram from "../../assets/images/Instagram.png";
 import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
-import FontanaBrume from "../../assets/images/FontanaBrume.png";
+// import FontanaBrume from "../../assets/images/FontanaBrume.png";
 import AfficheFontana from "../../assets/images/AfficheFontana.png";
 
 import APirriIT from "../../assets/images/APirriIT.png";
@@ -443,6 +449,14 @@ const ProgNovember = () => {
     fr: OV,
     en: OV,
   };
+  const imagesLeDeunff = [
+    require("../../assets/images/LeDeunff1.png"),
+    require("../../assets/images/LeDeunff2.png"),
+  ];
+  const imagesAssenza = [
+    require("../../assets/images/FontanaBrume1.png"),
+    require("../../assets/images/FontanaBrume2.png"),
+  ];
 
   // const DavideComic = <FotoPerformance imageKey="Davide3" />;
   const AlbertoComic = <FotoPerformance imageKey="AlbertoB2" />;
@@ -459,11 +473,8 @@ const ProgNovember = () => {
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
       {/* ----------------------------------------------------1-------------- */}
-
       {/* --------------------------------------------------3------------- */}
-
       {/* ------------------------------------------------4------------------ */}
-
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -557,9 +568,7 @@ const ProgNovember = () => {
           </div>
         </div>
       </div>
-
       <ComicBlock imageKey="Davide3" />
-
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -792,7 +801,6 @@ const ProgNovember = () => {
       <div className={styles.NameAppuntamento}>
         <p>{t("programNovember.descriptionPA.name")}</p>
       </div>
-
       <div className={styles.EventDescription}>
         <div>
           <Trans
@@ -801,12 +809,12 @@ const ProgNovember = () => {
           />
         </div>
       </div>
-      <div className={styles.Foto}>
+      {/* <div className={styles.Foto}>
         <img
           src={FontanaBrume}
           alt={t("programNovember.descriptionPA.fontanaAlt")}
         />
-      </div>
+      </div> */}
       <div className={styles.FotoAffiche}>
         <img
           src={AfficheFontana}
@@ -817,6 +825,8 @@ const ProgNovember = () => {
         <p>{t("programNovember.descriptionPA.TitleBrumes")}</p>
         <p>{t("programNovember.descriptionPA.AuthorBrumes")}</p>
       </div>
+
+      <SliderSlick images={imagesAssenza} className={styles.IconStandard} />
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programNovember.descriptionPA.TextIntro"
@@ -904,7 +914,6 @@ const ProgNovember = () => {
           </div>
         </div>
       </div>
-
       {/* ------------------------------------------------5------------------ */}
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programNovember.appointment5.sectionTitle")}</p>
@@ -913,7 +922,7 @@ const ProgNovember = () => {
         <p>{t("programNovember.appointment5.description.TitleRiSorgente")}</p>
         <p>{t("programNovember.appointment5.description.AuthorRiSorgente")}</p>
       </div>
-
+      <SliderSlick images={imagesLeDeunff} className={styles.IconStandard} />
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programNovember.appointment5.description.TextIntro"
@@ -961,19 +970,17 @@ const ProgNovember = () => {
                   altKey="programNovember.fotoAlt"
                 />
               ),
-              LaurentLDW1: <FotoPerformance imageKey="LaurentLDW1" />,
+              // LaurentLDW1: <FotoPerformance imageKey="LaurentLDW1" />,
             }}
           />
         </div>
       </div>
-
       <div>
         {/* <Trans
           i18nKey="programNovember.appointment5.description"
           components={{ br: <br /> }}
         /> */}
       </div>
-
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1049,15 +1056,12 @@ const ProgNovember = () => {
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programNovember.appointment6.sectionTitle")}</p>
       </div> */}
-
       <div className={styles.NameAppuntamento}>
         <p>{t("programNovember.appointment6.name1")}</p>
       </div>
-
       <div className={styles.NameAppuntamento}>
         <p>{t("programNovember.appointment6.name2")}</p>
       </div>
-
       <div className={styles.Orari}>
         <div>
           <Trans
@@ -1111,7 +1115,6 @@ const ProgNovember = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programNovember.appointment6.description.TextIntro"
@@ -1120,7 +1123,6 @@ const ProgNovember = () => {
           i18nKeyLess="programNovember.appointment6.description.ReadLess"
         />
       </div>
-
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1129,7 +1131,6 @@ const ProgNovember = () => {
           />
         </div>
       </div>
-
       <div className={styles.Luoghi}>
         <div>{t("programNovember.appointment6.location2.name")}</div>
         <div className={styles.SimbolMapp}>
@@ -1162,7 +1163,6 @@ const ProgNovember = () => {
           alt={t("programNovember.appointment6.location2.imageAlt")}
         />
       </div>
-
       {/* ------------------------------------------------7------------------ */}
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programNovember.appointment7.sectionTitle")}</p>
@@ -1172,7 +1172,6 @@ const ProgNovember = () => {
           <Trans> {t("programNovember.appointment7.time")}</Trans>
         </p>
       </div>
-
       <div className={styles.Orari}>
         <div className={styles.EventDescription}></div>
         <div>

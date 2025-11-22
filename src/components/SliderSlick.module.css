@@ -1,29 +1,60 @@
+/* ——— Ton conteneur ——— */
 .sliderContainer {
   position: relative;
   width: 100%;
   max-width: 100%;
   margin: auto;
-  /* overflow: hidden; */
-  overflow: visible;
-  margin-bottom: 2px;
+  overflow: visible; /* ok si tu veux que les flèches puissent dépasser légèrement */
+  margin-bottom: 2px; /* on garde l'espace sous le slider ici (pas sous l'image) */
 }
 
-.slide {
-  margin-bottom: 2px;
-  display: flex 1 !important;
+/* ——— Structure interne du slider slick ——— */
+:global(.slick-slider) {
+  position: relative; /* référentiel stable */
+}
+
+:global(.slick-list) {
+  position: relative; /* les flèches se basent sur ce parent */
+  overflow: hidden; /* enferme le contenu pour éviter les débordements visuels */
+}
+
+/* Aligne la piste au centre et stabilise la hauteur */
+:global(.slick-track) {
+  display: flex;
+  align-items: center; /* centre verticalement le slide dans la liste */
+}
+
+/* Chaque slide doit être positionné pour d’éventuels overlays */
+:global(.slick-slide) {
+  position: relative;
+  display: flex !important;
   justify-content: center;
   align-items: center;
-  height: auto !important;
+}
+
+/* ——— Ton slide + image ——— */
+.slide {
+  position: relative;
+  display: flex; /* correction de la syntaxe */
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  /* NOTE: pas de height forcée */
 }
 
 .image {
+  display: block; /* évite les décalages inline */
   width: 100%;
-  height: auto;
+  height: auto; /* toujours auto pour garder les proportions */
   object-fit: contain;
   border-radius: 8px;
-  margin-bottom: 2px;
+  /* IMPORTANT: pas de margin-bottom ici */
 }
 
+/* ——— Flèches ———
+   Elles sont rendues en dehors des slides.
+   On les centre par rapport à .slick-list, pas au conteneur global.
+*/
 .arrow {
   position: absolute;
   top: 50%;
@@ -31,37 +62,30 @@
   z-index: 10;
   width: 48px;
   height: 48px;
-  background-color: rgba(240, 235, 235, 0.2);
-
+  background-color: rgba(240, 235, 235, 0.794);
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   cursor: pointer;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  font-size: 24px;
+  color: #6bc0ea;
+  pointer-events: auto;
+}
 
-  font-size: 24px; /* adapte selon ton icône ou caractère */
-  color: #333; /* couleur de la flèche */
-  padding: 0;
-  border: none;
-  line-height: 1;
-  text-align: center;
-  vertical-align: middle;
+.left {
+  left: 8px;
+}
+.right {
+  right: 8px;
 }
 
 .arrow:hover {
   background-color: rgba(240, 235, 235, 0.4);
 }
 
-.left {
-  left: 8px;
-}
-
-.right {
-  right: 8px;
-}
-
-/* Responsive breakpoints */
+/* ——— Breakpoints ——— */
 @media (max-width: 1224px) {
   .arrow {
     width: 30px;
@@ -69,11 +93,6 @@
   }
   .arrowIcon {
     font-size: 28px;
-  }
-  .image {
-    /* height: 800px; */
-    height: 100%;
-    width: 100%;
   }
 }
 
@@ -85,11 +104,6 @@
   .arrowIcon {
     font-size: 24px;
   }
-  .image {
-    height: 100%;
-    /* height: 500px; */
-    width: 100%;
-  }
 }
 
 @media (max-width: 509px) {
@@ -100,18 +114,12 @@
   .arrowIcon {
     font-size: 20px;
   }
-  .image {
-    /* height: 300px; */
-    height: 100%;
-    width: 100%;
-  }
 }
 
-/* Grand écran */
+/* Grand écran: limite douce de la hauteur sans la forcer */
 @media (min-width: 1225px) {
   .image {
-    height: 100%;
-    max-height: 80vh; /* ou 70vh, selon ton goût */
+    max-height: 80vh;
     object-fit: contain;
   }
 }
