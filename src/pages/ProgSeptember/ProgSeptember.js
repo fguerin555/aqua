@@ -10,7 +10,11 @@ import ScrollToTop from "../../components/ScrollToTop";
 // import Slider from "../../components/Slider";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import SliderNew from "../../components/SliderNew";
+import SliderSlick from "../../components/SliderSlick";
+
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
+// import SliderNew from "../../components/SliderNew";
 
 import ButtonCarousel from "../../components/ButtonCarrousel";
 import FromStation from "../../components/FromStation";
@@ -633,7 +637,7 @@ const ProgSeptember = () => {
       fotoSrc: ViaTuscolana,
     },
   ];
-  const images = [
+  const imagesLuca = [
     require("../../assets/images/PerfLuca01.png"),
     require("../../assets/images/PerfLuca02.png"),
     require("../../assets/images/PerfLuca03.png"),
@@ -641,6 +645,7 @@ const ProgSeptember = () => {
     require("../../assets/images/PerfLuca05.png"),
     require("../../assets/images/PerfLuca06.png"),
   ];
+
   return (
     <div className={styles.ProgrammaPage}>
       <div className={styles.BackgroundFoto}>
@@ -1074,9 +1079,11 @@ const ProgSeptember = () => {
             />
           </div>
           <div>
-            <SliderNew images={images} className={styles.IconStandard} />
+            {/* <SliderNew images={images} className={styles.IconStandard} /> */}
             {/* SLIDER */}
+            <SliderSlick images={imagesLuca} className={styles.IconStandard} />
           </div>
+
           <div>
             <Trans
               i18nKey="programSeptember.appointment3.description"
