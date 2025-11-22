@@ -118,9 +118,9 @@ import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
 import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
 import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
-import Pirri1 from "../../assets/images/Pirri1.png";
+// import Pirri1 from "../../assets/images/Pirri1.png";
 import Pirri2 from "../../assets/images/Pirri2.png";
-import Pirri0 from "../../assets/images/Pirri0.png";
+// import Pirri0 from "../../assets/images/Pirri0.png";
 
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
@@ -456,6 +456,11 @@ const ProgNovember = () => {
   const imagesAssenza = [
     require("../../assets/images/FontanaBrume1.png"),
     require("../../assets/images/FontanaBrume2.png"),
+  ];
+  const imagesPirri = [
+    require("../../assets/images/InstallPirri1.png"),
+    require("../../assets/images/InstallPirri2.png"),
+    require("../../assets/images/InstallPirri3.png"),
   ];
 
   // const DavideComic = <FotoPerformance imageKey="Davide3" />;
@@ -825,7 +830,6 @@ const ProgNovember = () => {
         <p>{t("programNovember.descriptionPA.TitleBrumes")}</p>
         <p>{t("programNovember.descriptionPA.AuthorBrumes")}</p>
       </div>
-
       <SliderSlick images={imagesAssenza} className={styles.IconStandard} />
       <div className={styles.EventDescription}>
         <ExpandableTransText
@@ -1141,32 +1145,10 @@ const ProgNovember = () => {
           </MapButton>
         </div>
       </div>
-      <div className={styles.Foto}>
-        <img
-          src={Pirri1}
-          alt={t("programNovember.appointment6.location2.imageAlt")}
-        />
-      </div>
-      <div className={styles.Luoghi}>
-        <div>{t("programNovember.appointment6.location2.name")}</div>
-        <div className={styles.SimbolMapp}>
-          <MapButton
-            mapQuery={t("programNovember.appointment6.location2.mapQuery")}
-          >
-            <img src={simbolmapp} alt={t("programNovember.mapSymbolAlt")} />
-          </MapButton>
-        </div>
-      </div>
-      <div className={styles.FotoV}>
-        <img
-          src={Pirri0}
-          alt={t("programNovember.appointment6.location2.imageAlt")}
-        />
-      </div>
-      {/* ------------------------------------------------7------------------ */}
-      {/* <div className={styles.TitleAppuntamento}>
-        <p>{t("programNovember.appointment7.sectionTitle")}</p>
-      </div> */}
+
+      <SliderSlick images={imagesPirri} className={styles.IconStandard} />
+      <div className={styles.EventDescription}></div>
+
       <div className={styles.NameAppuntamento}>
         <p>
           <Trans> {t("programNovember.appointment7.time")}</Trans>
