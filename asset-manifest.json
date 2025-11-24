@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.45d17433.css",
-    "main.js": "/static/js/main.05eb686c.js",
+    "main.js": "/static/js/main.225d06e2.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -94,11 +94,11 @@
     "static/media/LaurentLDW1.png": "/static/media/LaurentLDW1.46fc4d90bc2f2938ca5f.png",
     "static/media/Apice2.png": "/static/media/Apice2.c248bdd9b181f947bb57.png",
     "static/media/App1_VoyagedHiver.png": "/static/media/App1_VoyagedHiver.5c587abeb3957d29870c.png",
-    "static/media/FontanaBrume2.png": "/static/media/FontanaBrume2.4af05762ae160a15823d.png",
+    "static/media/FontanaBrume2.png": "/static/media/FontanaBrume2.511ea6f6e73250f9be90.png",
     "static/media/CasaPirri.png": "/static/media/CasaPirri.428b5af05d0a0b854518.png",
     "static/media/MercedesKW1.png": "/static/media/MercedesKW1.b0855372027e0cbe5fda.png",
     "static/media/LagoExSNIAE.png": "/static/media/LagoExSNIAE.39c5ddc6048b09f3e41b.png",
-    "static/media/FontanaBrume1.png": "/static/media/FontanaBrume1.84ac248918fbc3bc841d.png",
+    "static/media/FontanaBrume1.png": "/static/media/FontanaBrume1.a6b00aab199ae8a9cbfa.png",
     "static/media/IsabellaVitaleFR02.png": "/static/media/IsabellaVitaleFR02.ace2cdc4f6ccfdbd3c03.png",
     "static/media/Davide3.png": "/static/media/Davide3.862b934045f2a60d232a.png",
     "static/media/LeDeunff2.png": "/static/media/LeDeunff2.b251b1521ac27f1f1aa0.png",
@@ -327,10 +327,10 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.45d17433.css.map": "/static/css/main.45d17433.css.map",
-    "main.05eb686c.js.map": "/static/js/main.05eb686c.js.map"
+    "main.225d06e2.js.map": "/static/js/main.225d06e2.js.map"
   },
   "entrypoints": [
     "static/css/main.45d17433.css",
-    "static/js/main.05eb686c.js"
+    "static/js/main.225d06e2.js"
   ]
 }
