@@ -456,6 +456,8 @@ const ProgNovember = () => {
   const imagesAssenza = [
     require("../../assets/images/FontanaBrume1.png"),
     require("../../assets/images/FontanaBrume2.png"),
+    require("../../assets/images/FontanaBrume3.png"),
+    require("../../assets/images/FontanaBrume4.png"),
   ];
   const imagesPirri = [
     require("../../assets/images/InstallPirri1.png"),
