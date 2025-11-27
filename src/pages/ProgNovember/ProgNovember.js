@@ -463,6 +463,12 @@ const ProgNovember = () => {
     require("../../assets/images/InstallPirri1.png"),
     require("../../assets/images/InstallPirri2.png"),
     require("../../assets/images/InstallPirri3.png"),
+    require("../../assets/images/installPirri4.png"),
+    require("../../assets/images/installPirri5.png"),
+    require("../../assets/images/installPirri6.png"),
+    require("../../assets/images/installPirri7.png"),
+    require("../../assets/images/installPirri8.png"),
+    require("../../assets/images/installPirri9.png"),
   ];
 
   // const DavideComic = <FotoPerformance imageKey="Davide3" />;
