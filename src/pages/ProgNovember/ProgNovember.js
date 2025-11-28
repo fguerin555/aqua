@@ -119,10 +119,6 @@ import IrmaAlonzoIT from "../../assets/images/IrmaAlonzoIT.png";
 import IrmaAlonzoEN from "../../assets/images/IrmaAlonzoEN.png";
 import IrmaAlonzoFR from "../../assets/images/IrmaAlonzoFR.png";
 
-// import Pirri1 from "../../assets/images/Pirri1.png";
-import Pirri2 from "../../assets/images/Pirri2.png";
-// import Pirri0 from "../../assets/images/Pirri0.png";
-
 import CasaPirri from "../../assets/images/CasaPirri.png";
 
 import ToCasaPirriIT from "../../assets/images/ToCasaPirriIT.png";

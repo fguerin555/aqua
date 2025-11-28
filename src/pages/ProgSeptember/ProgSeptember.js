@@ -1023,86 +1023,88 @@ const ProgSeptember = () => {
       </div>
 
       <div className={styles.Orari}>
-        <div>
-          {/* event1 */}
-          <Trans
-            i18nKey="programSeptember.appointment3.event1"
-            components={{
-              br: <br />,
-              map: (
-                <span className={styles.SimbolMapp}>
-                  <MapButton
-                    mapQuery={t(
-                      "programSeptember.appointment3.location1.mapQuery"
-                    )}
-                  >
-                    <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
-                  </MapButton>
-                </span>
-              ),
-              to: (
-                <FromStation
-                  className={styles.IconStandard}
-                  imageMap={ToLagoExSNIAEImageMap}
-                  altKey="programSeptember.fromStationAlt"
-                />
-              ),
-              book: (
-                <Book
-                  className={styles.IconStandard}
-                  imageMap={LagoExSNIAEBookImageMap}
-                  altKey="programSeptember.bookAlt"
-                />
-              ),
-            }}
-          />
-          <div>
-            {/* event1B */}
-            <Trans
-              i18nKey="programSeptember.appointment3.event1B"
-              components={{
-                br: <br />,
-              }}
-            />
-          </div>
-          <div className={styles.VideoWrapper}>
-            <video width="640" height="360" controls>
-              <source src={RaccontodellAcqua} type="video/mp4" />
-            </video>
-          </div>
-          <div classname={styles.FotosPerfLuca}>
-            <Trans
-              i18nKey="programSeptember.appointment3.textFotoLuca"
-              components={{
-                br: <br />,
-              }}
-            />
-          </div>
-          <div>
-            {/* <SliderNew images={images} className={styles.IconStandard} /> */}
-            {/* SLIDER */}
-            <SliderSlick images={imagesLuca} className={styles.IconStandard} />
-          </div>
+        {/* event1 */}
+        <Trans
+          i18nKey="programSeptember.appointment3.event1"
+          components={{
+            br: <br />,
+            map: (
+              <span className={styles.SimbolMapp}>
+                <MapButton
+                  mapQuery={t(
+                    "programSeptember.appointment3.location1.mapQuery"
+                  )}
+                >
+                  <img src={simbolmapp} alt={t("program.mapSymbolAlt")} />
+                </MapButton>
+              </span>
+            ),
+            to: (
+              <FromStation
+                className={styles.IconStandard}
+                imageMap={ToLagoExSNIAEImageMap}
+                altKey="programSeptember.fromStationAlt"
+              />
+            ),
+            book: (
+              <Book
+                className={styles.IconStandard}
+                imageMap={LagoExSNIAEBookImageMap}
+                altKey="programSeptember.bookAlt"
+              />
+            ),
+          }}
+        />
 
-          <div>
-            <Trans
-              i18nKey="programSeptember.appointment3.description"
-              components={{ br: <br /> }}
-            />
-          </div>
+        {/* event1B */}
+        <div>
+          <Trans
+            i18nKey="programSeptember.appointment3.event1B"
+            components={{ br: <br /> }}
+          />
         </div>
-        <div className={styles.VideoWrapper}>
-          <video width="640" height="360" controls>
-            <source src={ARAcqua} type="video/mp4" />
-          </video>
+
+        {/* <div className={styles.VideoWrapper}>
+    <video width="640" height="360" controls>
+      <source src={RaccontodellAcqua} type="video/mp4" />
+    </video>
+  </div> */}
+
+        {/* Texte avant slider */}
+        <div className={styles.FotosPerfLuca}>
+          <Trans
+            i18nKey="programSeptember.appointment3.textFotoLuca"
+            components={{ br: <br /> }}
+          />
+        </div>
+
+        {/* Slider */}
+        <div className={styles.SliderWrapper}>
+          <SliderSlick images={imagesLuca} />
+        </div>
+
+        {/* Description */}
+        <div>
+          <Trans
+            i18nKey="programSeptember.appointment3.description"
+            components={{ br: <br /> }}
+          />
         </div>
       </div>
+
+      {/* <div className={styles.VideoWrapper}>
+  <video width="640" height="360" controls>
+    <source src={ARAcqua} type="video/mp4" />
+  </video>
+</div> */}
+
       <div className={styles.Watchin3DQrcode}>
         <Trans
           i18nKey="programSeptember.appointment3.watchin3D"
           components={{ br: <br /> }}
         />
       </div>
+
       <div className={styles.qrRow}>
         <img
           src={QRcode3D}

@@ -512,6 +512,12 @@ video:fullscreen {
     overflow: visible;
   }
 }
+.SliderWrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  min-height: 200px; /* garantit que le slider reste visible */
+}
 
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
