@@ -33,6 +33,7 @@ import APirriW02 from "../../assets/images/APirriW02.png";
 import APirriW03 from "../../assets/images/APirriW03.png";
 import APirriW04 from "../../assets/images/APirriW04.png";
 import APirriW05 from "../../assets/images/APirriW05.png";
+import Pirri1 from "../../assets/images/Pirri1.png";
 
 import DonSardelli01IT from "../../assets/images/DonSardelli01IT.png";
 import DonSardelli02IT from "../../assets/images/DonSardelli02IT.png";
@@ -1123,6 +1124,7 @@ const ProgNovember = () => {
           />
         </div>
       </div>
+
       <div className={styles.EventDescription}>
         <ExpandableTransText
           i18nKeyIntro="programNovember.appointment6.description.TextIntro"
@@ -1149,9 +1151,14 @@ const ProgNovember = () => {
           </MapButton>
         </div>
       </div>
-
-      <SliderSlick images={imagesPirri} className={styles.IconStandard} />
-      <div className={styles.EventDescription}></div>
+      <div className={styles.Foto}>
+        <img
+          src={Pirri1}
+          alt={t("programNovember.appointment7.location1.imageAlt")}
+        />
+      </div>
+      {/* <SliderSlick images={imagesPirri} className={styles.IconStandard} />
+      <div className={styles.EventDescription}></div> */}
 
       <div className={styles.NameAppuntamento}>
         <p>
@@ -1220,12 +1227,14 @@ const ProgNovember = () => {
           />
         </div>
       </div>
-      <div className={styles.Foto}>
+      <SliderSlick images={imagesPirri} className={styles.IconStandard} />
+      <div className={styles.EventDescription}></div>
+      {/* <div className={styles.Foto}>
         <img
           src={Pirri2}
           alt={t("programNovember.appointment7.location1.imageAlt")}
         />
-      </div>
+      </div> */}
       <div className={styles.ArtistList}>
         <div>
           <Trans
