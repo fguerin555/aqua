@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.45d17433.css",
-    "main.js": "/static/js/main.d87a8f9c.js",
+    "main.js": "/static/js/main.62681ca3.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -61,6 +61,7 @@
     "static/media/Lorenza2.png": "/static/media/Lorenza2.2ecdc59a5b18d87b8fe6.png",
     "static/media/APirriRit.png": "/static/media/APirriRit.b881888c9a1def2d2b7f.png",
     "static/media/ViaCasilinaVecchia.png": "/static/media/ViaCasilinaVecchia.54655953290b3b99b96c.png",
+    "static/media/Pirri1.png": "/static/media/Pirri1.e9b1d308cbfc692cda30.png",
     "static/media/APirriW03.png": "/static/media/APirriW03.56437a5cb57883d0efc3.png",
     "static/media/App1_Pryntil.png": "/static/media/App1_Pryntil.fc1104f66e563619954d.png",
     "static/media/InstallPirri7.png": "/static/media/InstallPirri7.45bfcf30b50e789df670.png",
@@ -329,10 +330,10 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.45d17433.css.map": "/static/css/main.45d17433.css.map",
-    "main.d87a8f9c.js.map": "/static/js/main.d87a8f9c.js.map"
+    "main.62681ca3.js.map": "/static/js/main.62681ca3.js.map"
   },
   "entrypoints": [
     "static/css/main.45d17433.css",
-    "static/js/main.d87a8f9c.js"
+    "static/js/main.62681ca3.js"
   ]
 }
