@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3bb50ac3.css",
-    "main.js": "/static/js/main.0989cdad.js",
-    "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
+    "main.css": "/static/css/main.38f49eae.css",
+    "main.js": "/static/js/main.e2be0bee.js",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/ottobre23.mp4": "/static/media/ottobre23.424b48e358dd7eee7185.mp4",
@@ -10,6 +9,7 @@
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/ottobre7.mp4": "/static/media/ottobre7.8165a2c6c48b48705504.mp4",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
+    "static/media/GiuliaApiceIcone.png": "/static/media/GiuliaApiceIcone.28b57fc5fb18ec2a7156.png",
     "static/media/racconto2.mp4": "/static/media/racconto2.9d026cc0c7c5c5f93822.mp4",
     "static/media/GiuliaPerf08.png": "/static/media/GiuliaPerf08.d78d71a5f901be0a3f37.png",
     "static/media/GiuliaPerf06.png": "/static/media/GiuliaPerf06.3e2542090be9a4f38ce1.png",
@@ -313,6 +313,7 @@
     "static/media/LogoCiC.png": "/static/media/LogoCiC.7dfa2d899cf70dbb7f5f.png",
     "static/media/oeil.png": "/static/media/oeil.5ddcdf1847358a022eca.png",
     "static/media/ExibartLogo.png": "/static/media/ExibartLogo.034fe00d17c12c3d8c26.png",
+    "static/media/ANNEGA_QrCode.jpeg": "/static/media/ANNEGA_QrCode.3d48a3c59d1cb254fd73.jpeg",
     "static/media/RitVuoto.png": "/static/media/RitVuoto.f23c3d60254ded7ad91a.png",
     "static/media/LogoEcoMuseo.png": "/static/media/LogoEcoMuseo.4e2df6c1c50823e6d109.png",
     "static/media/LogoSpazioY.png": "/static/media/LogoSpazioY.2a334c7e651c2102c5bf.png",
@@ -328,11 +329,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.3bb50ac3.css.map": "/static/css/main.3bb50ac3.css.map",
-    "main.0989cdad.js.map": "/static/js/main.0989cdad.js.map"
+    "main.38f49eae.css.map": "/static/css/main.38f49eae.css.map",
+    "main.e2be0bee.js.map": "/static/js/main.e2be0bee.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bb50ac3.css",
-    "static/js/main.0989cdad.js"
+    "static/css/main.38f49eae.css",
+    "static/js/main.e2be0bee.js"
   ]
 }
