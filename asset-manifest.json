@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.45d17433.css",
-    "main.js": "/static/js/main.62681ca3.js",
+    "main.css": "/static/css/main.3bb50ac3.css",
+    "main.js": "/static/js/main.0989cdad.js",
     "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6cd15b0b7fdb14645f05.mp4",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
@@ -46,7 +46,6 @@
     "static/media/Apice3.png": "/static/media/Apice3.467fe065e8c1bcdea5c3.png",
     "static/media/ViadelMandrione.png": "/static/media/ViadelMandrione.a667da873f6b9b73a793.png",
     "static/media/Acquedotto2.png": "/static/media/Acquedotto2.ae2bacdc322e9643cbdc.png",
-    "static/media/Pirri2.png": "/static/media/Pirri2.53cbd9f04760ab289d23.png",
     "static/media/APirriW02.png": "/static/media/APirriW02.2e30386268a5db0fd97b.png",
     "static/media/PamelaP3.png": "/static/media/PamelaP3.375885cc0a4c7ae6c1c8.png",
     "static/media/Davide1.png": "/static/media/Davide1.f685a2a5a20907de5f6d.png",
@@ -329,11 +328,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.45d17433.css.map": "/static/css/main.45d17433.css.map",
-    "main.62681ca3.js.map": "/static/js/main.62681ca3.js.map"
+    "main.3bb50ac3.css.map": "/static/css/main.3bb50ac3.css.map",
+    "main.0989cdad.js.map": "/static/js/main.0989cdad.js.map"
   },
   "entrypoints": [
-    "static/css/main.45d17433.css",
-    "static/js/main.62681ca3.js"
+    "static/css/main.3bb50ac3.css",
+    "static/js/main.0989cdad.js"
   ]
 }
