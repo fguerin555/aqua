@@ -32,7 +32,7 @@ import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 
 import EntrataParco from "../../assets/images/EntrataParco.png";
 
-import ARAcqua from "../../assets/videos/ARAcqua.mp4";
+// import ARAcqua from "../../assets/videos/ARAcqua.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -1063,7 +1063,11 @@ const ProgSeptember = () => {
             components={{ br: <br /> }}
           />
         </div>
-
+        <div className={styles.VideoWrapper}>
+          <video width="678" height="848" controls>
+            <source src={RaccontodellAcqua} type="video/mp4" />
+          </video>
+        </div>
         {/* <div className={styles.VideoWrapper}>
     <video width="640" height="360" controls>
       <source src={RaccontodellAcqua} type="video/mp4" />

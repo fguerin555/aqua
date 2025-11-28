@@ -463,7 +463,34 @@ video:fullscreen,
   height: 100vh;
   object-fit: contain;
 }
-
+.Watchin3DQrcode {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(23, 71, 127);
+  font-family: "Poppins-MediumItalic", Arial, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.qrRow {
+  display: flex;
+  justify-content: center; /* ou space-between / flex-start */
+  align-items: center;
+  gap: 20px; /* espace horizontal entre les images */
+}
+.Qrcode3D {
+  display: block;
+  width: 100%;
+  height: 200px;
+  width: 200px;
+  margin-top: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+}
+.FotoPerQRcode {
+  height: 266px;
+  width: 200px;
+}
 @media screen and (min-width: 1600px) {
   .VideoWrapperVertical {
     max-width: 700px; /* ou plus selon ton design */
@@ -494,7 +521,18 @@ video:fullscreen,
     width: 600px; /* Exemple de largeur, ajustez selon vos besoins */
     height: 275px;
   }
+  .Watchin3DQrcode {
+    font-size: 15px;
+  }
+  .Qrcode3D {
+    width: 160px;
+    height: 160px;
+  }
 
+  .FotoPerQRcode {
+    height: 200px;
+    width: 150px; /* 200 × 0.752 */
+  }
   .ProgrammaPageTitle p {
     font-size: 28px;
   }
@@ -637,6 +675,18 @@ video:fullscreen,
     width: 100%;
 
     font-size: 16px;
+  }
+  .Watchin3DQrcode {
+    font-size: 13px;
+  }
+  .Qrcode3D {
+    width: 120px;
+    height: 120px;
+  }
+
+  .FotoPerQRcode {
+    height: 150px;
+    width: 113px; /* 150 × 0.752 */
   }
   .IconStandard {
     width: 25px;
@@ -790,6 +840,18 @@ video:fullscreen,
     display: inline-flex;
     vertical-align: middle;
     margin-left: 5px;
+  }
+  .Watchin3DQrcode {
+    font-size: 13px;
+  }
+  .Qrcode3D {
+    width: 100px;
+    height: 100px;
+  }
+
+  .FotoPerQRcode {
+    height: 100px;
+    width: 75px; /* 100 × 0.752 */
   }
   .Foto {
     width: 300px; /* Exemple de largeur, ajustez selon vos besoins */

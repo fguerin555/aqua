@@ -406,7 +406,7 @@ img.ImageFull {
 }
 .VideoWrapper {
   position: relative;
-  padding-bottom: 56.25%; /* ratio 16:9 */
+  padding-bottom: 79.9%; /* ratio 16:9 */
   padding-top: 25px;
   height: 0;
   margin: 20px auto;
@@ -797,14 +797,23 @@ video:fullscreen {
   .copyright {
     font-size: 10px;
   }
-  .VideoWrapper {
+  /* .VideoWrapper {
     width: 100%;
     max-width: 600px;
     padding-top: 20px;
   }
   .VideoWrapper video {
     border-radius: 6px;
+  } */
+  .VideoWrapper {
+    width: 100%;
+    max-width: 100%;
+    padding-top: 15px;
   }
+  .VideoWrapper video {
+    border-radius: 4px;
+  }
+
   .VideoWrapperVertical {
     width: 100%;
     max-width: 300px;

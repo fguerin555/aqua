@@ -15,7 +15,8 @@ import Book from "../../components/Book";
 import BookCarousel from "../../components/BookCarousel";
 import Foto from "../../components/Foto";
 import FotoFilm from "../../components/FotoFilm";
-
+import GiuliaApiceIcone from "../../assets/images/GiuliaApiceIcone.png";
+import ANNEGA_QrCode from "../../assets/images/ANNEGA_QrCode.jpeg";
 // import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 import racconto2 from "../../assets/videos/racconto2.mp4";
 import ottobre7 from "../../assets/videos/ottobre7.mp4";
@@ -1035,6 +1036,25 @@ const ProgOctober = () => {
         />
       </div>
       <SliderSlick images={imagesGiulia} className={styles.IconStandard} />
+      <div className={styles.Watchin3DQrcode}>
+        <Trans
+          i18nKey="programOctober.appointmentNew.watchin3D"
+          components={{ br: <br /> }}
+        />
+      </div>
+
+      <div className={styles.qrRow}>
+        <img
+          src={ANNEGA_QrCode}
+          alt="QR code pour lancer l’AR"
+          className={styles.Qrcode3D}
+        />
+        <img
+          src={GiuliaApiceIcone}
+          alt="Visuel déclencheur de l’AR"
+          className={styles.FotoPerQRcode}
+        />
+      </div>
       <div className={styles.ArtistList}>
         <div>
           <Trans
