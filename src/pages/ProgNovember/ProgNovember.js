@@ -23,6 +23,7 @@ import OV from "../../assets/images/OeilVide.png";
 import RitVuoto from "../../assets/images/RitVuoto.png";
 // import FontanaBrume from "../../assets/images/FontanaBrume.png";
 import AfficheFontana from "../../assets/images/AfficheFontana.png";
+// import CandelaPirri from "../../assets/images/CandelaPirri.png";
 
 import APirriIT from "../../assets/images/APirriIT.png";
 import APirriEN from "../../assets/images/APirriEN.png";
@@ -462,6 +463,7 @@ const ProgNovember = () => {
     require("../../assets/images/InstallPirri6.png"),
     require("../../assets/images/InstallPirri7.png"),
     require("../../assets/images/InstallPirri8.png"),
+    require("../../assets/images/CandelaPirri.png"),
   ];
 
   // const DavideComic = <FotoPerformance imageKey="Davide3" />;
