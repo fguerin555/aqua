@@ -78,10 +78,22 @@ const StampaPage = () => {
           </div>
         </div>
       </div>
-
+      <div className={styles.iconLines}>
+        <div>
+          <div className={styles.iconLine}>
+            <div className={styles.iconBox}>
+              <a
+                href="https://www.exibart.com/arte-contemporanea/gli-acquedotti-di-roma-diventano-spazi-darte-contemporanea-e-partecipazione/"
+                rel="noopener noreferrer"
+              >
+                <img src={ExibartLogo} alt={t("ExibartLogo.logoAlt")} />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
       {/* Lignes d'icônes */}
       <div className={styles.iconLines}>
-        {/* Ligne 1 */}
         <div>
           <div className={styles.iconLine}>
             <div className={styles.iconBox}>
@@ -90,21 +102,6 @@ const StampaPage = () => {
                 rel="noopener noreferrer"
               >
                 <img src={RomaCultureLogo} alt={t("RomaCultura.logoAlt")} />
-              </a>
-            </div>
-          </div>
-          {/* <p className={styles.iconLineLabel}>leggi l'articolo</p> */}
-        </div>
-
-        {/* Ligne 2 */}
-        <div>
-          <div className={styles.iconLine}>
-            <div className={styles.iconBox}>
-              <a
-                href="https://www.exibart.com/evento-arte/il-racconto-dellacqua/"
-                rel="noopener noreferrer"
-              >
-                <img src={ExibartLogo} alt={t("ExibartLogo.logoAlt")} />
               </a>
             </div>
           </div>
