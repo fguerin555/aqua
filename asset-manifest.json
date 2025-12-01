@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.270b27bf.css",
-    "main.js": "/static/js/main.21e2e525.js",
+    "main.css": "/static/css/main.ef5d7c99.css",
+    "main.js": "/static/js/main.23b2f9c4.js",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/ottobre23.mp4": "/static/media/ottobre23.424b48e358dd7eee7185.mp4",
     "static/media/BrunodiMarino.mp4": "/static/media/BrunodiMarino.f476be81c992843716d1.mp4",
+    "static/media/Basile2.mp4": "/static/media/Basile2.0588c400f5620a9e2174.mp4",
+    "static/media/ARAcqua.mp4": "/static/media/ARAcqua.6b96b924c19fbe99ada9.mp4",
     "static/media/PamelaP1.png": "/static/media/PamelaP1.f3da4110a2b7f95befd7.png",
     "static/media/ottobre7.mp4": "/static/media/ottobre7.8165a2c6c48b48705504.mp4",
     "static/media/RaccontodellAcqua.mp4": "/static/media/RaccontodellAcqua.a5ef4001838b3c4db5e4.mp4",
@@ -336,11 +338,11 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.270b27bf.css.map": "/static/css/main.270b27bf.css.map",
-    "main.21e2e525.js.map": "/static/js/main.21e2e525.js.map"
+    "main.ef5d7c99.css.map": "/static/css/main.ef5d7c99.css.map",
+    "main.23b2f9c4.js.map": "/static/js/main.23b2f9c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.270b27bf.css",
-    "static/js/main.21e2e525.js"
+    "static/css/main.ef5d7c99.css",
+    "static/js/main.23b2f9c4.js"
   ]
 }
