@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ef5d7c99.css",
-    "main.js": "/static/js/main.13897015.js",
+    "main.js": "/static/js/main.970dcbdc.js",
     "static/media/Argila.mp4": "/static/media/Argila.2d5dc1bb3e0749d08ac2.mp4",
     "static/media/Liquefazioni.mp4": "/static/media/Liquefazioni.786aca38996fabe46ad4.mp4",
     "static/media/ottobre23.mp4": "/static/media/ottobre23.424b48e358dd7eee7185.mp4",
@@ -163,6 +163,7 @@
     "static/media/PianoBiEN.png": "/static/media/PianoBiEN.0eb6442dd31fb5b29771.png",
     "static/media/MercedesKFR.png": "/static/media/MercedesKFR.0acbf057b2bab54380b1.png",
     "static/media/APirriFR.png": "/static/media/APirriFR.85dfacf345ccbbbb1768.png",
+    "static/media/CandelaPirri.png": "/static/media/CandelaPirri.c62e0b36b77a8099d40f.png",
     "static/media/FontanaEN.png": "/static/media/FontanaEN.d610779eb90b1e4342c8.png",
     "static/media/ConfalonieriIT.png": "/static/media/ConfalonieriIT.d8e3bdf0b36993021972.png",
     "static/media/ViadelMandrioneIT.png": "/static/media/ViadelMandrioneIT.639b58b0f7bb098ae957.png",
@@ -339,10 +340,10 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.ef5d7c99.css.map": "/static/css/main.ef5d7c99.css.map",
-    "main.13897015.js.map": "/static/js/main.13897015.js.map"
+    "main.970dcbdc.js.map": "/static/js/main.970dcbdc.js.map"
   },
   "entrypoints": [
     "static/css/main.ef5d7c99.css",
-    "static/js/main.13897015.js"
+    "static/js/main.970dcbdc.js"
   ]
 }
