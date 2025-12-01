@@ -32,7 +32,7 @@ import Liquefazioni from "../../assets/videos/Liquefazioni.mp4";
 
 import EntrataParco from "../../assets/images/EntrataParco.png";
 
-// import ARAcqua from "../../assets/videos/ARAcqua.mp4";
+import ARAcqua from "../../assets/videos/ARAcqua.mp4";
 
 import MatteoBBio01IT from "../../assets/images/MatteoBBio01IT.png";
 import MatteoBBio01EN from "../../assets/images/MatteoBBio01EN.png";
@@ -657,7 +657,6 @@ const ProgSeptember = () => {
       <div className={styles.Logo}>
         <img src={Logo} alt={t("navbar.logoAlt")} />
       </div>
-
       <div className={styles.NameAppuntamento}>
         <p>{t("programSeptember.appointment1.name")}</p>
       </div>
@@ -673,7 +672,6 @@ const ProgSeptember = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescriptionShort}></div>
       <div className={styles.Orari}>
         <div>
@@ -738,7 +736,6 @@ const ProgSeptember = () => {
           <Trans i18nKey="programSeptember.appointment1.location2.time_and_name" />
         </div>
       </div>
-
       <div className={styles.Luoghi}>
         <div>
           <Trans
@@ -781,7 +778,6 @@ const ProgSeptember = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -846,7 +842,6 @@ const ProgSeptember = () => {
           />
         </div>
       </div>
-
       <div className={styles.EventDescription3}>
         <div>
           <Trans
@@ -987,7 +982,6 @@ const ProgSeptember = () => {
           i18nKeyLess="programSeptember.appointment1.ReadLess"
         />
       </div>
-
       <div className={styles.Vision}>
         <div>
           <Trans
@@ -1005,7 +999,6 @@ const ProgSeptember = () => {
         </div>
       </div>
       {/* -------------PLEIN AIR -------------------------------------3---devient2---------- */}
-
       <div className={styles.NameAppuntamento}>
         <p>{t("programSeptember.appointment3.name")}</p>
       </div>
@@ -1021,7 +1014,6 @@ const ProgSeptember = () => {
           alt={t("programSeptember.appointment3.location1.imageAlt")}
         />
       </div>
-
       <div className={styles.Orari}>
         {/* event1 */}
         <Trans
@@ -1096,11 +1088,11 @@ const ProgSeptember = () => {
         </div>
       </div>
 
-      {/* <div className={styles.VideoWrapper}>
-  <video width="640" height="360" controls>
-    <source src={ARAcqua} type="video/mp4" />
-  </video>
-</div> */}
+      <div className={styles.VideoWrapper3}>
+        <video controls>
+          <source src={ARAcqua} type="video/mp4" />
+        </video>
+      </div>
 
       <div className={styles.Watchin3DQrcode}>
         <Trans
@@ -1108,7 +1100,6 @@ const ProgSeptember = () => {
           components={{ br: <br /> }}
         />
       </div>
-
       <div className={styles.qrRow}>
         <img
           src={QRcode3D}
@@ -1121,7 +1112,6 @@ const ProgSeptember = () => {
           className={styles.FotoPerQRcode}
         />
       </div>
-
       {/* 🎨 ArtistList parfaitement aligné */}
       <div className={styles.ArtistList}>
         <div>
@@ -1220,7 +1210,6 @@ const ProgSeptember = () => {
         </div>
       </div>
       {/* --------------- I PORTATORI D'ACQUA-----------------------------------2--devient3----------- */}
-
       <div className={styles.NameAppuntamento}>
         <p>{t("programSeptember.appointment2.name")}</p>
       </div>
@@ -1369,7 +1358,6 @@ const ProgSeptember = () => {
           </div>
         </div>
       </div>
-
       <div className={styles.ArtistList}>
         <div>
           <Trans
@@ -1419,7 +1407,6 @@ const ProgSeptember = () => {
           />
         </div>
       </div>
-
       {/* ------------------------------------------------4------------------ */}
       {/* <div className={styles.TitleAppuntamento}>
         <p>{t("programSeptember.appointment4.sectionTitle")}</p>
@@ -1509,11 +1496,8 @@ const ProgSeptember = () => {
           </div>
         </div>
       </div>
-
       {/* ------------------------------------------------5------------------ */}
-
       {/* ------------------------------------------------6------------------ */}
-
       {/* ------------------------------------------------7------------------ */}
       <div className={styles.socials}>
         <div className={styles.socialRow}>

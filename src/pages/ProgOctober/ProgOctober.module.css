@@ -641,7 +641,7 @@ video:fullscreen,
     width: 95%;
     max-width: 350px;
   }
-  .VideoWrapper {
+  .VideoWrapper2 {
     max-width: 900px;
   }
 }
@@ -796,7 +796,7 @@ video:fullscreen,
   .VideoWrapperVertical video {
     border-radius: 6px;
   }
-  .VideoWrapper {
+  .VideoWrapper2 {
     max-width: 600px;
   }
 }
@@ -943,7 +943,7 @@ video:fullscreen,
   .VideoWrapper video {
     border-radius: 4px;
   }
-  .VideoWrapper {
+  .VideoWrapper2 {
     max-width: 400px;
   }
 }
