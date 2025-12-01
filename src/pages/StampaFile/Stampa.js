@@ -10,6 +10,7 @@ import RomaCultureLogo from "../../assets/images/RomaCultureLogo.png";
 import LogoArtLife from "../../assets/images/LogoArtLife.png";
 import LogoItineraireArte from "../../assets/images/LogoItineraireArte.png";
 import LogoZeroRoma from "../../assets/images/LogoZeroRoma.png";
+import ArtTribune from "../../assets/images/ArtTribune.png";
 
 import styles from "./Stampa.module.css";
 import BackgroundFoto from "../../assets/images/BackgroundFoto5.png";
@@ -61,6 +62,22 @@ const StampaPage = () => {
       <div className={styles.Month}>
         <p>{t("Stampa.Month1")}</p>
       </div>
+      {/* Lignes d'icônes */}
+      <div className={styles.iconLines}>
+        {/* Ligne 1 */}
+        <div>
+          <div className={styles.iconLine}>
+            <div className={styles.iconBox}>
+              <a
+                href="https://www.artribune.com/arti-visive/arte-contemporanea/2025/11/autunno-2025-il-progetto-il-racconto-dellacqua-porta-larte-nelle-periferie-di-roma/"
+                rel="noopener noreferrer"
+              >
+                <img src={ArtTribune} alt={t("ArtTribune.logoAlt")} />
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
 
       {/* Lignes d'icônes */}
       <div className={styles.iconLines}>
@@ -72,7 +89,7 @@ const StampaPage = () => {
                 href="https://culture.roma.it/manifestazione/il-racconto-dellacqua/"
                 rel="noopener noreferrer"
               >
-                <img src={RomaCultureLogo} alt={t("ExibartLogo.logoAlt")} />
+                <img src={RomaCultureLogo} alt={t("RomaCultura.logoAlt")} />
               </a>
             </div>
           </div>
