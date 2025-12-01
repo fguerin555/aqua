@@ -565,9 +565,11 @@
     display: block;
   }
 
-  Ceramicavideo iframe {
-    min-width: 95%;
-    height: 40vh;
+  .ceramica iframe {
+    min-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px #272727;
   }
 }
 

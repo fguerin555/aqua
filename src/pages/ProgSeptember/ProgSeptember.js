@@ -1227,6 +1227,15 @@ const ProgSeptember = () => {
       <div className={styles.Orari}>
         <div>{t("programSeptember.appointment2.time")}</div>
       </div>
+      <div className={styles.ceramica}>
+        <iframe
+          src="https://www.youtube.com/embed/qTVdQKuKGZk"
+          title="Histoires d'eau"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+        ></iframe>
+      </div>
       <div className={styles.EventDescription3}>
         <div>
           <Trans

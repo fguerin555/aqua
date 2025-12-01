@@ -21,6 +21,7 @@ import ANNEGA_QrCode from "../../assets/images/ANNEGA_QrCode.jpeg";
 import racconto2 from "../../assets/videos/racconto2.mp4";
 import ottobre7 from "../../assets/videos/ottobre7.mp4";
 import ottobre23 from "../../assets/videos/ottobre23.mp4";
+import Basile2 from "../../assets/videos/Basile2.mp4";
 import BrunodiMarino from "../../assets/videos/BrunodiMarino.mp4";
 import Argila from "../../assets/videos/Argila.mp4";
 
@@ -1044,6 +1045,17 @@ const ProgOctober = () => {
         />
       </div>
       <SliderSlick images={imagesGiulia} className={styles.IconStandard} />
+      <div className={styles.EventDescription3}>
+        <Trans
+          i18nKey="programOctober.appointmentNew.description2"
+          components={{ br: <br /> }}
+        />
+      </div>
+      <div className={styles.VideoWrapper2}>
+        <video controls>
+          <source src={Basile2} type="video/mp4" />
+        </video>
+      </div>
       <div className={styles.Watchin3DQrcode}>
         <Trans
           i18nKey="programOctober.appointmentNew.watchin3D"

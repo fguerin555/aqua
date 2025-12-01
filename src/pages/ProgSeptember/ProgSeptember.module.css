@@ -518,7 +518,12 @@ video:fullscreen {
   margin: 20px auto;
   min-height: 200px; /* garantit que le slider reste visible */
 }
-
+.ceramica iframe {
+  min-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px #272727;
+}
 /* Adapter pour les écrans larges */
 @media screen and (min-width: 1600px) {
   .VideoWrapperVertical {

@@ -491,6 +491,20 @@ video:fullscreen,
   height: 266px;
   width: 200px;
 }
+.VideoWrapper2 {
+  width: 100%;
+  max-width: 1080px; /* largeur max */
+  margin: 0 auto;
+  aspect-ratio: 1080 / 1440; /* conserve le ratio */
+}
+
+.VideoWrapper2 video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* pas de rognage */
+  border-radius: 8px;
+}
+
 @media screen and (min-width: 1600px) {
   .VideoWrapperVertical {
     max-width: 700px; /* ou plus selon ton design */
@@ -626,6 +640,9 @@ video:fullscreen,
   .VideoWrapperVertical {
     width: 95%;
     max-width: 350px;
+  }
+  .VideoWrapper {
+    max-width: 900px;
   }
 }
 
@@ -779,6 +796,9 @@ video:fullscreen,
   .VideoWrapperVertical video {
     border-radius: 6px;
   }
+  .VideoWrapper {
+    max-width: 600px;
+  }
 }
 
 @media (max-width: 509px) {
@@ -922,5 +942,8 @@ video:fullscreen,
   }
   .VideoWrapper video {
     border-radius: 4px;
+  }
+  .VideoWrapper {
+    max-width: 400px;
   }
 }
