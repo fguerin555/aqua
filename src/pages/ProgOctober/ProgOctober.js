@@ -448,6 +448,14 @@ const ProgOctober = () => {
   const GiancarloComic = <FotoPerformance imageKey="Giancarlo1" />;
 
   const imagesGiulia = [
+    require("../../assets/images/GiuliaPerf1.png"),
+    require("../../assets/images/GiuliaPerf2.png"),
+    require("../../assets/images/GiuliaPerf3.png"),
+    require("../../assets/images/GiuliaPerf4.png"),
+    require("../../assets/images/GiuliaPerf5.png"),
+    require("../../assets/images/GiuliaPerf5b.png"),
+    require("../../assets/images/GiuliaPerf6.png"),
+    require("../../assets/images/GiuliaPerf7.png"),
     require("../../assets/images/GiuliaPerf01.png"),
     require("../../assets/images/GiuliaPerf02.png"),
     require("../../assets/images/GiuliaPerf03.png"),
@@ -456,7 +464,7 @@ const ProgOctober = () => {
     require("../../assets/images/GiuliaPerf06.png"),
     require("../../assets/images/GiuliaPerf07.png"),
     require("../../assets/images/GiuliaPerf08.png"),
-    require("../../assets/images/GiuliaPerf09.png"),
+
     require("../../assets/images/GiuliaPerf10.png"),
   ];
   const imagesKlausner = [
