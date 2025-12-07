@@ -463,9 +463,9 @@
 
   "Stampa": {
     "pageTitle": "Rassegna Stampa",
-    "Month1": "Settembre",
-    "Month2": "Ottobre",
-    "Month3": "programNovember",
+    "Month1": "",
+    "Month2": "",
+    "Month3": "",
     "linksReview": ""
   }
 }

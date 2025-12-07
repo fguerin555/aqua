@@ -461,9 +461,9 @@
 
   "Stampa": {
     "pageTitle": "Press Review",
-    "Month1": "Settember",
-    "Month2": "October",
-    "Month3": "November",
+    "Month1": "",
+    "Month2": "",
+    "Month3": "",
     "linksReview": ""
   }
 }
